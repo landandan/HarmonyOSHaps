@@ -1,9 +1,171 @@
 [
   {
+    "full_name": "winehua/WineHua",
+    "html_url": "https://github.com/winehua/WineHua",
+    "description": "Run Windows exe on HarmonyOS based on box64 and Wine",
+    "stars": 118,
+    "latest_hap_release": {
+      "tag_name": "rc-1.0.22",
+      "published_at": "2026-09-10T19:04:14Z",
+      "html_url": "https://github.com/winehua/WineHua/releases/tag/rc-1.0.22",
+      "assets": [
+        {
+          "name": "WineHua-rc-1.0.22-arm64-v8a-unsigned.hap",
+          "browser_download_url": "https://github.com/winehua/WineHua/releases/download/rc-1.0.22/WineHua-rc-1.0.22-arm64-v8a-unsigned.hap",
+          "size": 391065727
+        }
+      ]
+    }
+  },
+  {
+    "full_name": "suibianqwe/Ehviewer_OHOS",
+    "html_url": "https://github.com/suibianqwe/Ehviewer_OHOS",
+    "description": "Ehviewer on Harmony OS，原生构建，纵享丝滑。还原安卓版多数功能，同时添加了一些实用功能。现已支持图片ocr翻译。",
+    "stars": 29,
+    "latest_hap_release": {
+      "tag_name": "v0.7.0",
+      "published_at": "2026-09-10T19:04:01Z",
+      "html_url": "https://github.com/suibianqwe/Ehviewer_OHOS/releases/tag/v0.7.0",
+      "assets": [
+        {
+          "name": "EhViewer_OHOS_0.7.0.hap",
+          "browser_download_url": "https://github.com/suibianqwe/Ehviewer_OHOS/releases/download/v0.7.0/EhViewer_OHOS_0.7.0.hap",
+          "size": 10150867
+        }
+      ]
+    }
+  },
+  {
+    "full_name": "jonas-pi/FMphoto",
+    "html_url": "https://github.com/jonas-pi/FMphoto",
+    "description": "飞马相册-第三方飞牛相册鸿蒙端实现",
+    "stars": 20,
+    "latest_hap_release": {
+      "tag_name": "v1.4.2-beta.1",
+      "published_at": "2026-09-10T14:44:39Z",
+      "html_url": "https://github.com/jonas-pi/FMphoto/releases/tag/v1.4.2-beta.1",
+      "assets": [
+        {
+          "name": "entry-default-unsigned.hap",
+          "browser_download_url": "https://github.com/jonas-pi/FMphoto/releases/download/v1.4.2-beta.1/entry-default-unsigned.hap",
+          "size": 12160873
+        }
+      ]
+    }
+  },
+  {
+    "full_name": "fe-spark/EcoHub-for-OHOS",
+    "html_url": "https://github.com/fe-spark/EcoHub-for-OHOS",
+    "description": "EcoHub原生客户端，提供极致流畅的多源聚合观影体验，支持灵活配置与切换私有软件源",
+    "stars": 17,
+    "latest_hap_release": {
+      "tag_name": "v1.3.2",
+      "published_at": "2026-09-10T14:30:46Z",
+      "html_url": "https://github.com/fe-spark/EcoHub-for-OHOS/releases/tag/v1.3.2",
+      "assets": [
+        {
+          "name": "EcoHub-1.3.2-76d0c5c-unsigned.hap",
+          "browser_download_url": "https://github.com/fe-spark/EcoHub-for-OHOS/releases/download/v1.3.2/EcoHub-1.3.2-76d0c5c-unsigned.hap",
+          "size": 2087202
+        }
+      ]
+    }
+  },
+  {
+    "full_name": "GetZ110/dbx-ohos",
+    "html_url": "https://github.com/GetZ110/dbx-ohos",
+    "description": "DBX 数据库客户端在 HarmonyOS 上的移植工程：ArkUI Web + Rust NAPI 内嵌 dbx-web，支持 tablet / 2in1。",
+    "stars": 3,
+    "latest_hap_release": {
+      "tag_name": "v1.3.1-dbx0.6.9",
+      "published_at": "2026-09-10T14:06:24Z",
+      "html_url": "https://github.com/GetZ110/dbx-ohos/releases/tag/v1.3.1-dbx0.6.9",
+      "assets": [
+        {
+          "name": "DBX_HarmonyOS_v1.3.1_dbx0.6.9_unsigned.hap",
+          "browser_download_url": "https://github.com/GetZ110/dbx-ohos/releases/download/v1.3.1-dbx0.6.9/DBX_HarmonyOS_v1.3.1_dbx0.6.9_unsigned.hap",
+          "size": 68562104
+        }
+      ]
+    }
+  },
+  {
+    "full_name": "end-web/HarmonyOS-book",
+    "html_url": "https://github.com/end-web/HarmonyOS-book",
+    "description": "简·欢（ListenBook）：面向 HarmonyOS 7 的本地优先听书与小说阅读应用，支持导入书源、分组与批量校验、在线阅读与播放、离线下载、系统投播和章节续播。",
+    "stars": 13,
+    "latest_hap_release": {
+      "tag_name": "v0.1.9",
+      "published_at": "2026-09-10T11:57:47Z",
+      "html_url": "https://github.com/end-web/HarmonyOS-book/releases/tag/v0.1.9",
+      "assets": [
+        {
+          "name": "ListenBook-v0.1.9.hap",
+          "browser_download_url": "https://github.com/end-web/HarmonyOS-book/releases/download/v0.1.9/ListenBook-v0.1.9.hap",
+          "size": 8524421
+        }
+      ]
+    }
+  },
+  {
+    "full_name": "mason173/aira-browser",
+    "html_url": "https://github.com/mason173/aira-browser",
+    "description": "Aira Browser · 鸿蒙原生浏览器",
+    "stars": 6,
+    "latest_hap_release": {
+      "tag_name": "v3.0.1",
+      "published_at": "2026-09-10T07:30:00Z",
+      "html_url": "https://github.com/mason173/aira-browser/releases/tag/v3.0.1",
+      "assets": [
+        {
+          "name": "Aira-community-v3.0.1-1000408-default-unsigned.hap",
+          "browser_download_url": "https://github.com/mason173/aira-browser/releases/download/v3.0.1/Aira-community-v3.0.1-1000408-default-unsigned.hap",
+          "size": 71004646
+        }
+      ]
+    }
+  },
+  {
+    "full_name": "CDUESTC-OpenAtom-Open-Source-Club/openharmony-campus-safety",
+    "html_url": "https://github.com/CDUESTC-OpenAtom-Open-Source-Club/openharmony-campus-safety",
+    "description": "基于 OpenHarmony 的校园安全协同应用，面向校园安全事件与隐患管理，构建“发现—确认—派单—处理—反馈—完成”的端侧闭环，支持安全事件模拟、隐患上报、处置任务、角色协同与数据统计。",
+    "stars": 2,
+    "latest_hap_release": {
+      "tag_name": "v0.2.0",
+      "published_at": "2026-09-10T06:25:19Z",
+      "html_url": "https://github.com/CDUESTC-OpenAtom-Open-Source-Club/openharmony-campus-safety/releases/tag/v0.2.0",
+      "assets": [
+        {
+          "name": "HongMengZhiAn-v0.2.0-HarmonyOS-signed.hap",
+          "browser_download_url": "https://github.com/CDUESTC-OpenAtom-Open-Source-Club/openharmony-campus-safety/releases/download/v0.2.0/HongMengZhiAn-v0.2.0-HarmonyOS-signed.hap",
+          "size": 866278
+        }
+      ]
+    }
+  },
+  {
+    "full_name": "xiaoli8571/SSRVPN_Harmony",
+    "html_url": "https://github.com/xiaoli8571/SSRVPN_Harmony",
+    "description": "SSRVPN (Clash/Mihomo) ported to HarmonyOS NEXT - ArkTS UI + in-process c-shared Mihomo core over VpnExtensionAbility TUN (gVisor). DoH anti-DNS-poisoning, IPv6 auto-bypass, global/rule modes, per-app bypass, diagnostics.",
+    "stars": 15,
+    "latest_hap_release": {
+      "tag_name": "v5.1",
+      "published_at": "2026-09-10T02:38:38Z",
+      "html_url": "https://github.com/xiaoli8571/SSRVPN_Harmony/releases/tag/v5.1",
+      "assets": [
+        {
+          "name": "SSRVPN-5.1-unsigned.hap",
+          "browser_download_url": "https://github.com/xiaoli8571/SSRVPN_Harmony/releases/download/v5.1/SSRVPN-5.1-unsigned.hap",
+          "size": 17873544
+        }
+      ]
+    }
+  },
+  {
     "full_name": "mgz0227/legado-Harmony",
     "html_url": "https://github.com/mgz0227/legado-Harmony",
     "description": "开源阅读鸿蒙版仓库",
-    "stars": 2153,
+    "stars": 2154,
     "latest_hap_release": {
       "tag_name": "V1.0.6.158",
       "published_at": "2026-09-09T12:19:16Z",
@@ -41,24 +203,6 @@
     }
   },
   {
-    "full_name": "xiaoli8571/SSRVPN_Harmony",
-    "html_url": "https://github.com/xiaoli8571/SSRVPN_Harmony",
-    "description": "SSRVPN (Clash/Mihomo) ported to HarmonyOS NEXT - ArkTS UI + in-process c-shared Mihomo core over VpnExtensionAbility TUN (gVisor). DoH anti-DNS-poisoning, IPv6 auto-bypass, global/rule modes, per-app bypass, diagnostics.",
-    "stars": 10,
-    "latest_hap_release": {
-      "tag_name": "v4.0.37",
-      "published_at": "2026-09-09T05:49:58Z",
-      "html_url": "https://github.com/xiaoli8571/SSRVPN_Harmony/releases/tag/v4.0.37",
-      "assets": [
-        {
-          "name": "SSRVPN_HarmonyOS-v4.0.37-unsigned.hap",
-          "browser_download_url": "https://github.com/xiaoli8571/SSRVPN_Harmony/releases/download/v4.0.37/SSRVPN_HarmonyOS-v4.0.37-unsigned.hap",
-          "size": 18314642
-        }
-      ]
-    }
-  },
-  {
     "full_name": "Octopustank/HarmoNiLink",
     "html_url": "https://github.com/Octopustank/HarmoNiLink",
     "description": "原生HarmonyOS平台尼康相机蓝牙GPS信息传输工具",
@@ -90,42 +234,6 @@
           "name": "entry-default-signed.hap",
           "browser_download_url": "https://github.com/Henry-Fox/OhosXray/releases/download/v1.2.0/entry-default-signed.hap",
           "size": 64657866
-        }
-      ]
-    }
-  },
-  {
-    "full_name": "jonas-pi/FMphoto",
-    "html_url": "https://github.com/jonas-pi/FMphoto",
-    "description": "第三方飞牛相册鸿蒙端实现",
-    "stars": 20,
-    "latest_hap_release": {
-      "tag_name": "v1.4.1",
-      "published_at": "2026-09-09T02:20:19Z",
-      "html_url": "https://github.com/jonas-pi/FMphoto/releases/tag/v1.4.1",
-      "assets": [
-        {
-          "name": "entry-default-unsigned.hap",
-          "browser_download_url": "https://github.com/jonas-pi/FMphoto/releases/download/v1.4.1/entry-default-unsigned.hap",
-          "size": 11349826
-        }
-      ]
-    }
-  },
-  {
-    "full_name": "winehua/WineHua",
-    "html_url": "https://github.com/winehua/WineHua",
-    "description": "Run Windows exe on HarmonyOS based on box64 and Wine",
-    "stars": 118,
-    "latest_hap_release": {
-      "tag_name": "rc-1.0.21",
-      "published_at": "2026-09-08T18:18:09Z",
-      "html_url": "https://github.com/winehua/WineHua/releases/tag/rc-1.0.21",
-      "assets": [
-        {
-          "name": "WineHua-rc-1.0.21-arm64-v8a-unsigned.hap",
-          "browser_download_url": "https://github.com/winehua/WineHua/releases/download/rc-1.0.21/WineHua-rc-1.0.21-arm64-v8a-unsigned.hap",
-          "size": 391050758
         }
       ]
     }
@@ -185,24 +293,6 @@
     }
   },
   {
-    "full_name": "fe-spark/EcoHub-for-OHOS",
-    "html_url": "https://github.com/fe-spark/EcoHub-for-OHOS",
-    "description": "EcoHub原生客户端，提供极致流畅的多源聚合观影体验，支持灵活配置与切换私有软件源",
-    "stars": 13,
-    "latest_hap_release": {
-      "tag_name": "v1.3.1",
-      "published_at": "2026-09-08T12:08:12Z",
-      "html_url": "https://github.com/fe-spark/EcoHub-for-OHOS/releases/tag/v1.3.1",
-      "assets": [
-        {
-          "name": "EcoHub-1.3.1-8be1621-signed.hap",
-          "browser_download_url": "https://github.com/fe-spark/EcoHub-for-OHOS/releases/download/v1.3.1/EcoHub-1.3.1-8be1621-signed.hap",
-          "size": 2014990
-        }
-      ]
-    }
-  },
-  {
     "full_name": "xiaoli8571/NekoBox4Harmony",
     "html_url": "https://github.com/xiaoli8571/NekoBox4Harmony",
     "description": "NekoBox-style VPN client for HarmonyOS NEXT; in-process sing-box 1.11.9 c-shared core (Hysteria2/TUIC), clone-and-build unsigned HAP",
@@ -216,24 +306,6 @@
           "name": "NekoBox4Harmony-1.9.0-unsigned.hap",
           "browser_download_url": "https://github.com/xiaoli8571/NekoBox4Harmony/releases/download/v1.9.0/NekoBox4Harmony-1.9.0-unsigned.hap",
           "size": 44652487
-        }
-      ]
-    }
-  },
-  {
-    "full_name": "suibianqwe/Ehviewer_OHOS",
-    "html_url": "https://github.com/suibianqwe/Ehviewer_OHOS",
-    "description": "Ehviewer on Harmony OS，原生构建，纵享丝滑。还原安卓版多数功能，同时添加了一些实用功能。现已支持图片ocr翻译。",
-    "stars": 28,
-    "latest_hap_release": {
-      "tag_name": "v0.6.9",
-      "published_at": "2026-09-07T17:08:34Z",
-      "html_url": "https://github.com/suibianqwe/Ehviewer_OHOS/releases/tag/v0.6.9",
-      "assets": [
-        {
-          "name": "EhViewer_OHOS_0.6.9.hap",
-          "browser_download_url": "https://github.com/suibianqwe/Ehviewer_OHOS/releases/download/v0.6.9/EhViewer_OHOS_0.6.9.hap",
-          "size": 14429096
         }
       ]
     }
@@ -314,7 +386,7 @@
     "full_name": "Ember5843/YourPipe",
     "html_url": "https://github.com/Ember5843/YourPipe",
     "description": "一个基于New pipe extractor的鸿蒙youtube客户端实现",
-    "stars": 37,
+    "stars": 38,
     "latest_hap_release": {
       "tag_name": "v0.6.0-1000029",
       "published_at": "2026-09-07T06:46:41Z",
@@ -365,24 +437,6 @@
     }
   },
   {
-    "full_name": "CDUESTC-OpenAtom-Open-Source-Club/openharmony-campus-safety",
-    "html_url": "https://github.com/CDUESTC-OpenAtom-Open-Source-Club/openharmony-campus-safety",
-    "description": "基于 OpenHarmony 的校园安全协同应用，面向校园安全事件与隐患管理，构建“发现—确认—派单—处理—反馈—完成”的端侧闭环，支持安全事件模拟、隐患上报、处置任务、角色协同与数据统计。",
-    "stars": 2,
-    "latest_hap_release": {
-      "tag_name": "v0.1.0-beta.2",
-      "published_at": "2026-09-06T12:27:59Z",
-      "html_url": "https://github.com/CDUESTC-OpenAtom-Open-Source-Club/openharmony-campus-safety/releases/tag/v0.1.0-beta.2",
-      "assets": [
-        {
-          "name": "HongMengZhiAn-v0.1.0-beta.2-HarmonyOS-signed.hap",
-          "browser_download_url": "https://github.com/CDUESTC-OpenAtom-Open-Source-Club/openharmony-campus-safety/releases/download/v0.1.0-beta.2/HongMengZhiAn-v0.1.0-beta.2-HarmonyOS-signed.hap",
-          "size": 646323
-        }
-      ]
-    }
-  },
-  {
     "full_name": "wly5556/S1-Orange",
     "html_url": "https://github.com/wly5556/S1-Orange",
     "description": "开源Stage1st论坛客户端，适用鸿蒙平台",
@@ -422,7 +476,7 @@
     "full_name": "tljk/FlClash-ohos",
     "html_url": "https://github.com/tljk/FlClash-ohos",
     "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
-    "stars": 144,
+    "stars": 148,
     "latest_hap_release": {
       "tag_name": "v0.8.94+2026090601",
       "published_at": "2026-09-06T06:49:35Z",
@@ -586,24 +640,6 @@
     }
   },
   {
-    "full_name": "GetZ110/dbx-ohos",
-    "html_url": "https://github.com/GetZ110/dbx-ohos",
-    "description": "DBX 数据库客户端在 HarmonyOS 上的移植工程：ArkUI Web + Rust NAPI 内嵌 dbx-web，支持 tablet / 2in1。",
-    "stars": 2,
-    "latest_hap_release": {
-      "tag_name": "v1.3.0-dbx0.6.2",
-      "published_at": "2026-09-03T16:21:49Z",
-      "html_url": "https://github.com/GetZ110/dbx-ohos/releases/tag/v1.3.0-dbx0.6.2",
-      "assets": [
-        {
-          "name": "DBX_HarmonyOS_v1.3.0_dbx0.6.2_unsigned.hap",
-          "browser_download_url": "https://github.com/GetZ110/dbx-ohos/releases/download/v1.3.0-dbx0.6.2/DBX_HarmonyOS_v1.3.0_dbx0.6.2_unsigned.hap",
-          "size": 65329746
-        }
-      ]
-    }
-  },
-  {
     "full_name": "Suixin04/Anomicon",
     "html_url": "https://github.com/Suixin04/Anomicon",
     "description": "面向 HarmonyOS 的非官方 SCP 中文阅读与探索应用，支持档案与故事浏览、本地收藏、阅读历史及交互式 3D 档案。",
@@ -648,7 +684,7 @@
     "full_name": "LZZLHY/amcl",
     "html_url": "https://github.com/LZZLHY/amcl",
     "description": "AMCL — 首款鸿蒙版全量Java版我的世界启动器",
-    "stars": 87,
+    "stars": 88,
     "latest_hap_release": {
       "tag_name": "v1.0.3",
       "published_at": "2026-09-02T15:07:45Z",
@@ -797,7 +833,7 @@
     "full_name": "SKL-666666/MiHome-Client",
     "html_url": "https://github.com/SKL-666666/MiHome-Client",
     "description": "鸿蒙版米家移植 —— HarmonyOS NEXT 上的第三方米家客户端米居",
-    "stars": 9,
+    "stars": 10,
     "latest_hap_release": {
       "tag_name": "v1.2.0",
       "published_at": "2026-08-29T13:39:21Z",
@@ -1018,7 +1054,7 @@
     "full_name": "yabi-zzh/livify-ohos",
     "html_url": "https://github.com/yabi-zzh/livify-ohos",
     "description": "HarmonyOS NEXT 纯原生直播聚合（聚映）。mpv 内核，支持 HDR、硬件解码与系统投屏。推荐使用 HoKit 侧载。",
-    "stars": 13,
+    "stars": 14,
     "latest_hap_release": {
       "tag_name": "v1.1.0",
       "published_at": "2026-08-22T15:41:31Z",
@@ -1054,7 +1090,7 @@
     "full_name": "kamalovecz/hap_release_kit",
     "html_url": "https://github.com/kamalovecz/hap_release_kit",
     "description": "鸿蒙 HAP 签名安装套件：绕过小白调试助手 50424 自动签名死链，本机 signer.exe 签名（自动代码签名）+ hdc 直装，兼容 HarmonyOS NEXT 5.0+（API 12/17/18/20），自动校验手机 API 兼容性，附 ClashBox LTS 安装包 Releases。",
-    "stars": 1,
+    "stars": 2,
     "latest_hap_release": {
       "tag_name": "v1.7.4",
       "published_at": "2026-08-22T03:02:04Z",
@@ -1714,7 +1750,7 @@
     "full_name": "flypigJ/Tailscale-OHOS",
     "html_url": "https://github.com/flypigJ/Tailscale-OHOS",
     "description": "Native HarmonyOS NEXT port of Tailscale",
-    "stars": 44,
+    "stars": 45,
     "latest_hap_release": {
       "tag_name": "v0.3.19-release",
       "published_at": "2026-07-16T03:33:46Z",
@@ -1750,7 +1786,7 @@
     "full_name": "YuanChu-Tec/JMComic-HarmonyOS",
     "html_url": "https://github.com/YuanChu-Tec/JMComic-HarmonyOS",
     "description": "JMComic对HarmonyOS的适配版本",
-    "stars": 105,
+    "stars": 107,
     "latest_hap_release": {
       "tag_name": "JMComic1.0.8",
       "published_at": "2026-07-09T13:04:12Z",
@@ -1935,7 +1971,7 @@
     "full_name": "HanversionOvO/OHgram",
     "html_url": "https://github.com/HanversionOvO/OHgram",
     "description": "telegram 3rd party client for HarmonyOS 2in1/tablet devices",
-    "stars": 37,
+    "stars": 36,
     "latest_hap_release": {
       "tag_name": "v1.0.0",
       "published_at": "2026-06-17T15:57:48Z",
@@ -2079,7 +2115,7 @@
     "full_name": "HanversionOvO/OHcode",
     "html_url": "https://github.com/HanversionOvO/OHcode",
     "description": "Run vscode on your HarmonyOS PC",
-    "stars": 127,
+    "stars": 128,
     "latest_hap_release": {
       "tag_name": "v1.0.0",
       "published_at": "2026-06-10T17:48:39Z",
@@ -2408,7 +2444,7 @@
     "full_name": "xiaobaigroup/ClashBox",
     "html_url": "https://github.com/xiaobaigroup/ClashBox",
     "description": "HarmonyOS NEXT的代理软件",
-    "stars": 4298,
+    "stars": 4309,
     "latest_hap_release": {
       "tag_name": "1.7.4",
       "published_at": "2026-04-02T14:50:20Z",
@@ -2444,7 +2480,7 @@
     "full_name": "likuai2010/auto-installer",
     "html_url": "https://github.com/likuai2010/auto-installer",
     "description": "HarmonyOS Next Hap installer",
-    "stars": 2929,
+    "stars": 2935,
     "latest_hap_release": {
       "tag_name": "3.1.0",
       "published_at": "2026-03-25T01:22:17Z",
@@ -2462,7 +2498,7 @@
     "full_name": "DaLongZhuaZi/manxia",
     "html_url": "https://github.com/DaLongZhuaZi/manxia",
     "description": "漫匣是一款专为 HarmonyOS Next 平台开发的漫画阅读应用",
-    "stars": 51,
+    "stars": 52,
     "latest_hap_release": {
       "tag_name": "v0.0.7-1033027",
       "published_at": "2026-03-15T12:30:35Z",
@@ -3063,7 +3099,7 @@
     "full_name": "ohosvscode/ohos_electron_hap",
     "html_url": "https://github.com/ohosvscode/ohos_electron_hap",
     "description": "📱 一个基于 HarmonyOS 平台的 Electron 应用程序包（HAP）项目模板，提供完整的工具链和示例代码，帮助开发者将 Electron 应用无缝移植到鸿蒙设备。支持悬浮窗、系统权限管理、多窗口协同等鸿蒙原生特性，内置调试工具和权限配置指南。",
-    "stars": 52,
+    "stars": 54,
     "latest_hap_release": {
       "tag_name": "v1.0.0",
       "published_at": "2025-07-17T15:12:24Z",
