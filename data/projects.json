@@ -3,16 +3,88 @@
     "full_name": "LZZLHY/amcl",
     "html_url": "https://github.com/LZZLHY/amcl",
     "description": "AMCL — 首款鸿蒙版全量Java版我的世界启动器",
-    "stars": 91,
+    "stars": 92,
     "latest_hap_release": {
-      "tag_name": "v1.0.4",
-      "published_at": "2026-09-24T04:42:20Z",
-      "html_url": "https://github.com/LZZLHY/amcl/releases/tag/v1.0.4",
+      "tag_name": "v1.0.5",
+      "published_at": "2026-09-24T21:07:19Z",
+      "html_url": "https://github.com/LZZLHY/amcl/releases/tag/v1.0.5",
       "assets": [
         {
-          "name": "amcl-v1.0.4-unsigned.hap",
-          "browser_download_url": "https://github.com/LZZLHY/amcl/releases/download/v1.0.4/amcl-v1.0.4-unsigned.hap",
-          "size": 76922276
+          "name": "amcl-v1.0.5-unsigned.hap",
+          "browser_download_url": "https://github.com/LZZLHY/amcl/releases/download/v1.0.5/amcl-v1.0.5-unsigned.hap",
+          "size": 77157706
+        }
+      ]
+    }
+  },
+  {
+    "full_name": "qbw101/watch-client",
+    "html_url": "https://github.com/qbw101/watch-client",
+    "description": "华为 WATCH 5 抖音私信客户端 · HarmonyOS ArkTS 穿戴应用，圆屏适配 / 旋转表冠 / 智慧手势，裸 TCP 二进制帧协议（非 HTTP）。配套服务端见 watch-bridge。",
+    "stars": 0,
+    "latest_hap_release": {
+      "tag_name": "1.0.0.0",
+      "published_at": "2026-09-24T15:06:23Z",
+      "html_url": "https://github.com/qbw101/watch-client/releases/tag/1.0.0.0",
+      "assets": [
+        {
+          "name": "douyinwatch-1.0.0-signed.hap",
+          "browser_download_url": "https://github.com/qbw101/watch-client/releases/download/1.0.0.0/douyinwatch-1.0.0-signed.hap",
+          "size": 827209
+        }
+      ]
+    }
+  },
+  {
+    "full_name": "fe-spark/EcoHub-for-OHOS",
+    "html_url": "https://github.com/fe-spark/EcoHub-for-OHOS",
+    "description": "EcoHub原生客户端，提供极致流畅的多源聚合观影体验，支持灵活配置与切换私有软件源",
+    "stars": 21,
+    "latest_hap_release": {
+      "tag_name": "v1.4.1",
+      "published_at": "2026-09-24T11:04:10Z",
+      "html_url": "https://github.com/fe-spark/EcoHub-for-OHOS/releases/tag/v1.4.1",
+      "assets": [
+        {
+          "name": "EcoHub-1.4.1-b98af4a-unsigned.hap",
+          "browser_download_url": "https://github.com/fe-spark/EcoHub-for-OHOS/releases/download/v1.4.1/EcoHub-1.4.1-b98af4a-unsigned.hap",
+          "size": 2248539
+        }
+      ]
+    }
+  },
+  {
+    "full_name": "ks-lm-kf/harmony-kslmkf-karing-hap",
+    "html_url": "https://github.com/ks-lm-kf/harmony-kslmkf-karing-hap",
+    "description": "HarmonyOS HAP beta release for Karing/sing-box based build",
+    "stars": 65,
+    "latest_hap_release": {
+      "tag_name": "v1.10.0",
+      "published_at": "2026-09-24T09:48:17Z",
+      "html_url": "https://github.com/ks-lm-kf/harmony-kslmkf-karing-hap/releases/tag/v1.10.0",
+      "assets": [
+        {
+          "name": "karing-harmony-1.10.0.hap",
+          "browser_download_url": "https://github.com/ks-lm-kf/harmony-kslmkf-karing-hap/releases/download/v1.10.0/karing-harmony-1.10.0.hap",
+          "size": 48424888
+        }
+      ]
+    }
+  },
+  {
+    "full_name": "qitinyu/Sumy-Music",
+    "html_url": "https://github.com/qitinyu/Sumy-Music",
+    "description": "基于Arkts/OpenHarmony的鸿蒙原生音乐软件,回归音乐本质",
+    "stars": 7,
+    "latest_hap_release": {
+      "tag_name": "V2.0.9",
+      "published_at": "2026-09-24T09:37:24Z",
+      "html_url": "https://github.com/qitinyu/Sumy-Music/releases/tag/V2.0.9",
+      "assets": [
+        {
+          "name": "NEW.Sumy-signed-V2.0.9.5.hap",
+          "browser_download_url": "https://github.com/qitinyu/Sumy-Music/releases/download/V2.0.9/NEW.Sumy-signed-V2.0.9.5.hap",
+          "size": 11702742
         }
       ]
     }
@@ -393,24 +465,6 @@
     }
   },
   {
-    "full_name": "qitinyu/Sumy-Music",
-    "html_url": "https://github.com/qitinyu/Sumy-Music",
-    "description": "基于Arkts/OpenHarmony的鸿蒙原生音乐软件,回归音乐本质",
-    "stars": 7,
-    "latest_hap_release": {
-      "tag_name": "V2.0.7.7",
-      "published_at": "2026-09-19T08:21:20Z",
-      "html_url": "https://github.com/qitinyu/Sumy-Music/releases/tag/V2.0.7.7",
-      "assets": [
-        {
-          "name": "Sumy.V2.0.7.7.hap",
-          "browser_download_url": "https://github.com/qitinyu/Sumy-Music/releases/download/V2.0.7.7/Sumy.V2.0.7.7.hap",
-          "size": 9530061
-        }
-      ]
-    }
-  },
-  {
     "full_name": "zhonxinya/jellyfin_ohos",
     "html_url": "https://github.com/zhonxinya/jellyfin_ohos",
     "description": "",
@@ -606,24 +660,6 @@
     }
   },
   {
-    "full_name": "fe-spark/EcoHub-for-OHOS",
-    "html_url": "https://github.com/fe-spark/EcoHub-for-OHOS",
-    "description": "EcoHub原生客户端，提供极致流畅的多源聚合观影体验，支持灵活配置与切换私有软件源",
-    "stars": 21,
-    "latest_hap_release": {
-      "tag_name": "v1.4.0",
-      "published_at": "2026-09-17T07:13:18Z",
-      "html_url": "https://github.com/fe-spark/EcoHub-for-OHOS/releases/tag/v1.4.0",
-      "assets": [
-        {
-          "name": "EcoHub-1.4.0-caac2a4-unsigned.hap",
-          "browser_download_url": "https://github.com/fe-spark/EcoHub-for-OHOS/releases/download/v1.4.0/EcoHub-1.4.0-caac2a4-unsigned.hap",
-          "size": 2111642
-        }
-      ]
-    }
-  },
-  {
     "full_name": "CsCesium/KantaiHomo",
     "html_url": "https://github.com/CsCesium/KantaiHomo",
     "description": "A viewer for KantaiCollection in HarmonyOS",
@@ -750,7 +786,7 @@
     "full_name": "Sle2p/AniCh",
     "html_url": "https://github.com/Sle2p/AniCh",
     "description": "一个支持超分辨率的在线动漫弹幕APP。多平台，多番剧源，多弹幕，高清无广告。追番看番必备软件。",
-    "stars": 6470,
+    "stars": 6474,
     "latest_hap_release": {
       "tag_name": "1.5.25",
       "published_at": "2026-09-15T22:35:34Z",
@@ -768,7 +804,7 @@
     "full_name": "winehua/WineHua",
     "html_url": "https://github.com/winehua/WineHua",
     "description": "Run Windows exe on HarmonyOS based on box64 and Wine",
-    "stars": 130,
+    "stars": 131,
     "latest_hap_release": {
       "tag_name": "rc-1.0.31",
       "published_at": "2026-09-15T19:01:30Z",
@@ -840,7 +876,7 @@
     "full_name": "erosTeam/NextN",
     "html_url": "https://github.com/erosTeam/NextN",
     "description": "",
-    "stars": 9,
+    "stars": 10,
     "latest_hap_release": {
       "tag_name": "v1.0.5",
       "published_at": "2026-09-13T18:16:37Z",
@@ -894,7 +930,7 @@
     "full_name": "YuanChu-Tec/JMComic-HarmonyOS",
     "html_url": "https://github.com/YuanChu-Tec/JMComic-HarmonyOS",
     "description": "JMComic对HarmonyOS的适配版本",
-    "stars": 127,
+    "stars": 128,
     "latest_hap_release": {
       "tag_name": "JMComic1.0.9",
       "published_at": "2026-09-13T06:43:18Z",
@@ -1002,7 +1038,7 @@
     "full_name": "DandanLLab/mr",
     "html_url": "https://github.com/DandanLLab/mr",
     "description": "",
-    "stars": 102,
+    "stars": 103,
     "latest_hap_release": {
       "tag_name": "v2609127-dev",
       "published_at": "2026-09-12T06:24:42Z",
@@ -1056,7 +1092,7 @@
     "full_name": "mgz0227/legado-Harmony",
     "html_url": "https://github.com/mgz0227/legado-Harmony",
     "description": "开源阅读鸿蒙版仓库",
-    "stars": 2177,
+    "stars": 2180,
     "latest_hap_release": {
       "tag_name": "V1.0.6.158",
       "published_at": "2026-09-09T12:19:16Z",
@@ -1115,7 +1151,7 @@
     "full_name": "OpenBMB/MiniCPM-V-Apps",
     "html_url": "https://github.com/OpenBMB/MiniCPM-V-Apps",
     "description": "MiniCPM-V apps — fully offline multimodal chat on iOS / Android / HarmonyOS",
-    "stars": 396,
+    "stars": 397,
     "latest_hap_release": {
       "tag_name": "v2.5",
       "published_at": "2026-09-08T14:32:44Z",
@@ -1557,7 +1593,7 @@
     "full_name": "yabi-zzh/livify-ohos",
     "html_url": "https://github.com/yabi-zzh/livify-ohos",
     "description": "HarmonyOS NEXT 纯原生直播聚合（聚映）。mpv 内核，支持 HDR、硬件解码与系统投屏。推荐使用 HoKit 侧载。",
-    "stars": 19,
+    "stars": 20,
     "latest_hap_release": {
       "tag_name": "v1.1.0",
       "published_at": "2026-08-22T15:41:31Z",
@@ -1939,24 +1975,6 @@
           "name": "Wake-default-unsigned-API26-Release.hap",
           "browser_download_url": "https://github.com/azhuge233/Wake-HarmonyOS/releases/download/2.7.3/Wake-default-unsigned-API26-Release.hap",
           "size": 998453
-        }
-      ]
-    }
-  },
-  {
-    "full_name": "ks-lm-kf/harmony-kslmkf-karing-hap",
-    "html_url": "https://github.com/ks-lm-kf/harmony-kslmkf-karing-hap",
-    "description": "HarmonyOS HAP beta release for Karing/sing-box based build",
-    "stars": 66,
-    "latest_hap_release": {
-      "tag_name": "v1.0.9-beta",
-      "published_at": "2026-08-02T15:48:17Z",
-      "html_url": "https://github.com/ks-lm-kf/harmony-kslmkf-karing-hap/releases/tag/v1.0.9-beta",
-      "assets": [
-        {
-          "name": "karing-harmony-1.0.9-beta.hap",
-          "browser_download_url": "https://github.com/ks-lm-kf/harmony-kslmkf-karing-hap/releases/download/v1.0.9-beta/karing-harmony-1.0.9-beta.hap",
-          "size": 36705035
         }
       ]
     }
@@ -2636,7 +2654,7 @@
     "full_name": "HanversionOvO/OHSidian",
     "html_url": "https://github.com/HanversionOvO/OHSidian",
     "description": "Using Obsidian on your HarmonyOS PC or tablet",
-    "stars": 153,
+    "stars": 154,
     "latest_hap_release": {
       "tag_name": "latest",
       "published_at": "2026-05-30T08:05:24Z",
@@ -2857,7 +2875,7 @@
     "full_name": "xiaobaigroup/ClashBox",
     "html_url": "https://github.com/xiaobaigroup/ClashBox",
     "description": "HarmonyOS NEXT的代理软件",
-    "stars": 4421,
+    "stars": 4424,
     "latest_hap_release": {
       "tag_name": "1.7.4",
       "published_at": "2026-04-02T14:50:20Z",
@@ -2893,7 +2911,7 @@
     "full_name": "likuai2010/auto-installer",
     "html_url": "https://github.com/likuai2010/auto-installer",
     "description": "HarmonyOS Next Hap installer",
-    "stars": 2964,
+    "stars": 2966,
     "latest_hap_release": {
       "tag_name": "3.1.0",
       "published_at": "2026-03-25T01:22:17Z",
@@ -2911,7 +2929,7 @@
     "full_name": "DaLongZhuaZi/manxia",
     "html_url": "https://github.com/DaLongZhuaZi/manxia",
     "description": "漫匣是一款专为 HarmonyOS Next 平台开发的漫画阅读应用",
-    "stars": 55,
+    "stars": 56,
     "latest_hap_release": {
       "tag_name": "v0.0.7-1033027",
       "published_at": "2026-03-15T12:30:35Z",
