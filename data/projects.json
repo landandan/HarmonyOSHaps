@@ -1,5 +1,100 @@
 [
   {
+    "full_name": "october-pig/ente-auth-harmonyos",
+    "html_url": "https://github.com/october-pig/ente-auth-harmonyos",
+    "description": "Native ArkTS / ArkUI port of Ente Auth for HarmonyOS — unofficial community project. Alpha / Work in Progress.",
+    "stars": 0,
+    "latest_hap_release": {
+      "tag_name": "v0.1.0-alpha",
+      "published_at": "2026-09-29T18:18:22Z",
+      "html_url": "https://github.com/october-pig/ente-auth-harmonyos/releases/tag/v0.1.0-alpha",
+      "assets": [
+        {
+          "name": "ente-auth-harmonyos-v0.1.0-alpha-unsigned.hap",
+          "browser_download_url": "https://github.com/october-pig/ente-auth-harmonyos/releases/download/v0.1.0-alpha/ente-auth-harmonyos-v0.1.0-alpha-unsigned.hap",
+          "size": 3804619
+        }
+      ]
+    }
+  },
+  {
+    "full_name": "thx853068675-dev/quietstart",
+    "html_url": "https://github.com/thx853068675-dev/quietstart",
+    "description": "HarmonyOS 原生页面控件识别辅助工具。按提示对页面识别与学习，自动生成规则。",
+    "stars": 101,
+    "latest_hap_release": {
+      "tag_name": "v1.2.0",
+      "published_at": "2026-09-29T14:58:40Z",
+      "html_url": "https://github.com/thx853068675-dev/quietstart/releases/tag/v1.2.0",
+      "assets": [
+        {
+          "name": "quietstart-1.2.0.hap",
+          "browser_download_url": "https://github.com/thx853068675-dev/quietstart/releases/download/v1.2.0/quietstart-1.2.0.hap",
+          "size": 4365069
+        },
+        {
+          "name": "quietstart-installer-0.4.36-signed.hap",
+          "browser_download_url": "https://github.com/thx853068675-dev/quietstart/releases/download/v1.2.0/quietstart-installer-0.4.36-signed.hap",
+          "size": 12014976
+        }
+      ]
+    }
+  },
+  {
+    "full_name": "mason173/aira-browser",
+    "html_url": "https://github.com/mason173/aira-browser",
+    "description": "Aira Browser · 鸿蒙原生浏览器",
+    "stars": 79,
+    "latest_hap_release": {
+      "tag_name": "v3.5.2",
+      "published_at": "2026-09-29T10:16:07Z",
+      "html_url": "https://github.com/mason173/aira-browser/releases/tag/v3.5.2",
+      "assets": [
+        {
+          "name": "Aira-community-v3.5.2-1000479-default-unsigned.hap",
+          "browser_download_url": "https://github.com/mason173/aira-browser/releases/download/v3.5.2/Aira-community-v3.5.2-1000479-default-unsigned.hap",
+          "size": 85621435
+        }
+      ]
+    }
+  },
+  {
+    "full_name": "wuwu888/HarmoTail-Releases",
+    "html_url": "https://github.com/wuwu888/HarmoTail-Releases",
+    "description": "HarmoTail - Tailscale for HarmonyOS NEXT / 鸿蒙 Tailscale / 鸿蒙版 Tailscale 客户端",
+    "stars": 2,
+    "latest_hap_release": {
+      "tag_name": "v0.16.10",
+      "published_at": "2026-09-29T01:32:35Z",
+      "html_url": "https://github.com/wuwu888/HarmoTail-Releases/releases/tag/v0.16.10",
+      "assets": [
+        {
+          "name": "HarmoTail-v0.16.10.hap",
+          "browser_download_url": "https://github.com/wuwu888/HarmoTail-Releases/releases/download/v0.16.10/HarmoTail-v0.16.10.hap",
+          "size": 38477917
+        }
+      ]
+    }
+  },
+  {
+    "full_name": "SYTKILLER/PixLume",
+    "html_url": "https://github.com/SYTKILLER/PixLume",
+    "description": "为 HarmonyOS 打造的原生轻量级 Pixiv 第三方客户端（前身 Pixark）| A native lightweight third-party Pixiv client for HarmonyOS",
+    "stars": 3,
+    "latest_hap_release": {
+      "tag_name": "v1.0.0",
+      "published_at": "2026-09-28T20:15:50Z",
+      "html_url": "https://github.com/SYTKILLER/PixLume/releases/tag/v1.0.0",
+      "assets": [
+        {
+          "name": "PixLume-v1.0.0-unsigned.hap",
+          "browser_download_url": "https://github.com/SYTKILLER/PixLume/releases/download/v1.0.0/PixLume-v1.0.0-unsigned.hap",
+          "size": 28432885
+        }
+      ]
+    }
+  },
+  {
     "full_name": "DaLongZhuaZi/manxia",
     "html_url": "https://github.com/DaLongZhuaZi/manxia",
     "description": "漫匣是一款专为 HarmonyOS Next 平台开发的漫画阅读应用",
@@ -21,7 +116,7 @@
     "full_name": "zhuoyi233/zhihu-plus-plus-HMOS",
     "html_url": "https://github.com/zhuoyi233/zhihu-plus-plus-HMOS",
     "description": "Zhihu++ For HarmonyOS | 知乎++鸿蒙原生版",
-    "stars": 26,
+    "stars": 27,
     "latest_hap_release": {
       "tag_name": "HMOSv0.5.6",
       "published_at": "2026-09-28T14:17:10Z",
@@ -57,7 +152,7 @@
     "full_name": "haohandc/MindustryArk",
     "html_url": "https://github.com/haohandc/MindustryArk",
     "description": "Run Mindustry on HarmonyOS / OpenHarmony via a self-built launcher — embedded JDK, native JVM startup, real SDL3 window.",
-    "stars": 3,
+    "stars": 4,
     "latest_hap_release": {
       "tag_name": "v1.0.0.2",
       "published_at": "2026-09-28T11:06:49Z",
@@ -67,24 +162,6 @@
           "name": "MindustryArk-v1.0.0.2-unsigned.hap",
           "browser_download_url": "https://github.com/haohandc/MindustryArk/releases/download/v1.0.0.2/MindustryArk-v1.0.0.2-unsigned.hap",
           "size": 273157091
-        }
-      ]
-    }
-  },
-  {
-    "full_name": "mason173/aira-browser",
-    "html_url": "https://github.com/mason173/aira-browser",
-    "description": "Aira Browser · 鸿蒙原生浏览器",
-    "stars": 72,
-    "latest_hap_release": {
-      "tag_name": "v3.4.3",
-      "published_at": "2026-09-28T10:06:41Z",
-      "html_url": "https://github.com/mason173/aira-browser/releases/tag/v3.4.3",
-      "assets": [
-        {
-          "name": "Aira-community-v3.4.3-1000472-default-unsigned.hap",
-          "browser_download_url": "https://github.com/mason173/aira-browser/releases/download/v3.4.3/Aira-community-v3.4.3-1000472-default-unsigned.hap",
-          "size": 82747786
         }
       ]
     }
@@ -139,24 +216,6 @@
           "name": "BeeGent-v0.2.0-harmonyos-unsigned.hap",
           "browser_download_url": "https://github.com/XiaoLuoLYG/beegent/releases/download/v0.2.0/BeeGent-v0.2.0-harmonyos-unsigned.hap",
           "size": 607158
-        }
-      ]
-    }
-  },
-  {
-    "full_name": "wuwu888/HarmoTail-Releases",
-    "html_url": "https://github.com/wuwu888/HarmoTail-Releases",
-    "description": "HarmoTail - Tailscale for HarmonyOS NEXT / 鸿蒙 Tailscale / 鸿蒙版 Tailscale 客户端",
-    "stars": 2,
-    "latest_hap_release": {
-      "tag_name": "v0.16.9",
-      "published_at": "2026-09-28T00:00:05Z",
-      "html_url": "https://github.com/wuwu888/HarmoTail-Releases/releases/tag/v0.16.9",
-      "assets": [
-        {
-          "name": "HarmoTail-v0.16.9.hap",
-          "browser_download_url": "https://github.com/wuwu888/HarmoTail-Releases/releases/download/v0.16.9/HarmoTail-v0.16.9.hap",
-          "size": 38473421
         }
       ]
     }
@@ -255,7 +314,7 @@
     "full_name": "apap6628114/lnga_harmony",
     "html_url": "https://github.com/apap6628114/lnga_harmony",
     "description": "Harmony鸿蒙原生开源NGA",
-    "stars": 13,
+    "stars": 14,
     "latest_hap_release": {
       "tag_name": "1.2.5",
       "published_at": "2026-09-26T19:05:31Z",
@@ -296,7 +355,7 @@
     "full_name": "xiaoli8571/Nexus-VPN-HarmonyOS",
     "html_url": "https://github.com/xiaoli8571/Nexus-VPN-HarmonyOS",
     "description": "",
-    "stars": 5,
+    "stars": 7,
     "latest_hap_release": {
       "tag_name": "v5.7.3",
       "published_at": "2026-09-26T04:46:46Z",
@@ -373,7 +432,7 @@
     "full_name": "dev4harmony/PiliPlus",
     "html_url": "https://github.com/dev4harmony/PiliPlus",
     "description": "PiliPlus",
-    "stars": 323,
+    "stars": 322,
     "latest_hap_release": {
       "tag_name": "2.1.4-ohos-2",
       "published_at": "2026-09-25T09:49:42Z",
@@ -388,33 +447,10 @@
     }
   },
   {
-    "full_name": "thx853068675-dev/quietstart",
-    "html_url": "https://github.com/thx853068675-dev/quietstart",
-    "description": "HarmonyOS 原生页面控件识别辅助工具。按提示对页面识别与学习，自动生成规则。",
-    "stars": 96,
-    "latest_hap_release": {
-      "tag_name": "v1.1.0",
-      "published_at": "2026-09-25T04:11:27Z",
-      "html_url": "https://github.com/thx853068675-dev/quietstart/releases/tag/v1.1.0",
-      "assets": [
-        {
-          "name": "quietstart-1.1.0.hap",
-          "browser_download_url": "https://github.com/thx853068675-dev/quietstart/releases/download/v1.1.0/quietstart-1.1.0.hap",
-          "size": 6655349
-        },
-        {
-          "name": "xiaobai-quietstart-3.1.1-unsigned.hap",
-          "browser_download_url": "https://github.com/thx853068675-dev/quietstart/releases/download/v1.1.0/xiaobai-quietstart-3.1.1-unsigned.hap",
-          "size": 34410739
-        }
-      ]
-    }
-  },
-  {
     "full_name": "LZZLHY/amcl",
     "html_url": "https://github.com/LZZLHY/amcl",
     "description": "AMCL — 首款鸿蒙版全量Java版我的世界启动器",
-    "stars": 93,
+    "stars": 95,
     "latest_hap_release": {
       "tag_name": "v1.0.5",
       "published_at": "2026-09-24T21:07:19Z",
@@ -450,7 +486,7 @@
     "full_name": "fe-spark/EcoHub-for-OHOS",
     "html_url": "https://github.com/fe-spark/EcoHub-for-OHOS",
     "description": "EcoHub原生客户端，提供极致流畅的多源聚合观影体验，支持灵活配置与切换私有软件源",
-    "stars": 23,
+    "stars": 24,
     "latest_hap_release": {
       "tag_name": "v1.4.1",
       "published_at": "2026-09-24T11:04:10Z",
@@ -817,7 +853,7 @@
     "full_name": "xiaoli8571/NekoBox4Harmony",
     "html_url": "https://github.com/xiaoli8571/NekoBox4Harmony",
     "description": "NekoBox-style VPN client for HarmonyOS NEXT; in-process sing-box 1.11.9 c-shared core (Hysteria2/TUIC), clone-and-build unsigned HAP",
-    "stars": 41,
+    "stars": 42,
     "latest_hap_release": {
       "tag_name": "v2.0.2",
       "published_at": "2026-09-18T08:46:49Z",
@@ -948,7 +984,7 @@
     "full_name": "xiasi0/ha-companion-harmonyos",
     "html_url": "https://github.com/xiasi0/ha-companion-harmonyos",
     "description": "",
-    "stars": 47,
+    "stars": 48,
     "latest_hap_release": {
       "tag_name": "v1.4.2",
       "published_at": "2026-09-16T15:29:51Z",
@@ -1012,7 +1048,7 @@
     "full_name": "Sle2p/AniCh",
     "html_url": "https://github.com/Sle2p/AniCh",
     "description": "一个支持超分辨率的在线动漫弹幕APP。多平台，多番剧源，多弹幕，高清无广告。追番看番必备软件。",
-    "stars": 6513,
+    "stars": 6525,
     "latest_hap_release": {
       "tag_name": "1.5.25",
       "published_at": "2026-09-15T22:35:34Z",
@@ -1120,7 +1156,7 @@
     "full_name": "haohaoai0/HarmonyX",
     "html_url": "https://github.com/haohaoai0/HarmonyX",
     "description": "A native, design-led X client for HarmonyOS — built with ArkTS and the Stage model.",
-    "stars": 96,
+    "stars": 99,
     "latest_hap_release": {
       "tag_name": "v1.0.0",
       "published_at": "2026-09-13T08:17:57Z",
@@ -1156,7 +1192,7 @@
     "full_name": "sol5766/dshm",
     "html_url": "https://github.com/sol5766/dshm",
     "description": "deepseek harnes HarmonyOS PC client",
-    "stars": 9,
+    "stars": 10,
     "latest_hap_release": {
       "tag_name": "v2.0.0-debug",
       "published_at": "2026-09-13T05:00:31Z",
@@ -1228,7 +1264,7 @@
     "full_name": "DandanLLab/mr",
     "html_url": "https://github.com/DandanLLab/mr",
     "description": "",
-    "stars": 104,
+    "stars": 105,
     "latest_hap_release": {
       "tag_name": "v2609127-dev",
       "published_at": "2026-09-12T06:24:42Z",
@@ -1282,7 +1318,7 @@
     "full_name": "mgz0227/legado-Harmony",
     "html_url": "https://github.com/mgz0227/legado-Harmony",
     "description": "开源阅读鸿蒙版仓库",
-    "stars": 2184,
+    "stars": 2185,
     "latest_hap_release": {
       "tag_name": "V1.0.6.158",
       "published_at": "2026-09-09T12:19:16Z",
@@ -1377,7 +1413,7 @@
     "full_name": "ErBWs/Kazumi",
     "html_url": "https://github.com/ErBWs/Kazumi",
     "description": "该分支仓库目前用于发布 HarmonyOS NEXT 版本 hap 包",
-    "stars": 293,
+    "stars": 292,
     "latest_hap_release": {
       "tag_name": "2.3.1",
       "published_at": "2026-09-07T15:54:37Z",
@@ -1449,7 +1485,7 @@
     "full_name": "Abhi-Flex1/OHEmacs",
     "html_url": "https://github.com/Abhi-Flex1/OHEmacs",
     "description": "Emacs ported and adapted for OpenHarmony and HarmonyOS based systems",
-    "stars": 2,
+    "stars": 3,
     "latest_hap_release": {
       "tag_name": "v0.1.0",
       "published_at": "2026-09-05T14:00:24Z",
@@ -1765,7 +1801,7 @@
     "full_name": "yabi-zzh/livify-ohos",
     "html_url": "https://github.com/yabi-zzh/livify-ohos",
     "description": "HarmonyOS NEXT 纯原生直播聚合（聚映）。mpv 内核，支持 HDR、硬件解码与系统投屏。推荐使用 HoKit 侧载。",
-    "stars": 20,
+    "stars": 19,
     "latest_hap_release": {
       "tag_name": "v1.1.0",
       "published_at": "2026-08-22T15:41:31Z",
@@ -2281,7 +2317,7 @@
     "full_name": "awaLiny2333/LinysBrowser_NEXT",
     "html_url": "https://github.com/awaLiny2333/LinysBrowser_NEXT",
     "description": "A basic browser on HarmonyOS NEXT!",
-    "stars": 288,
+    "stars": 287,
     "latest_hap_release": {
       "tag_name": "v2.1.0-beta",
       "published_at": "2026-07-25T13:04:51Z",
@@ -2371,7 +2407,7 @@
     "full_name": "flypigJ/Tailscale-OHOS",
     "html_url": "https://github.com/flypigJ/Tailscale-OHOS",
     "description": "MeshArc — Native Tailscale client for HarmonyOS NEXT. Connect devices, transfer files, and explore remote storage.",
-    "stars": 50,
+    "stars": 51,
     "latest_hap_release": {
       "tag_name": "v0.3.19-release",
       "published_at": "2026-07-16T03:33:46Z",
@@ -2556,7 +2592,7 @@
     "full_name": "HanversionOvO/OHgram",
     "html_url": "https://github.com/HanversionOvO/OHgram",
     "description": "telegram 3rd party client for HarmonyOS 2in1/tablet devices",
-    "stars": 36,
+    "stars": 35,
     "latest_hap_release": {
       "tag_name": "v1.0.0",
       "published_at": "2026-06-17T15:57:48Z",
@@ -2826,7 +2862,7 @@
     "full_name": "HanversionOvO/OHSidian",
     "html_url": "https://github.com/HanversionOvO/OHSidian",
     "description": "Using Obsidian on your HarmonyOS PC or tablet",
-    "stars": 155,
+    "stars": 154,
     "latest_hap_release": {
       "tag_name": "latest",
       "published_at": "2026-05-30T08:05:24Z",
@@ -2880,7 +2916,7 @@
     "full_name": "YuanChu-Tec/HMTG_Archive",
     "html_url": "https://github.com/YuanChu-Tec/HMTG_Archive",
     "description": "Telegram for HarmonyOS",
-    "stars": 55,
+    "stars": 54,
     "latest_hap_release": {
       "tag_name": "HMTG1.0.4",
       "published_at": "2026-05-25T02:56:31Z",
@@ -3047,7 +3083,7 @@
     "full_name": "xiaobaigroup/ClashBox",
     "html_url": "https://github.com/xiaobaigroup/ClashBox",
     "description": "HarmonyOS NEXT的代理软件",
-    "stars": 4434,
+    "stars": 4443,
     "latest_hap_release": {
       "tag_name": "1.7.4",
       "published_at": "2026-04-02T14:50:20Z",
@@ -3083,7 +3119,7 @@
     "full_name": "likuai2010/auto-installer",
     "html_url": "https://github.com/likuai2010/auto-installer",
     "description": "HarmonyOS Next Hap installer",
-    "stars": 2974,
+    "stars": 2978,
     "latest_hap_release": {
       "tag_name": "3.1.0",
       "published_at": "2026-03-25T01:22:17Z",
@@ -3535,7 +3571,7 @@
     "full_name": "Chevey339/kelivo-ohos",
     "html_url": "https://github.com/Chevey339/kelivo-ohos",
     "description": "",
-    "stars": 43,
+    "stars": 44,
     "latest_hap_release": {
       "tag_name": "beta",
       "published_at": "2025-09-12T06:55:24Z",
