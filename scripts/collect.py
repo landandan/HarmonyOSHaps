@@ -359,21 +359,29 @@ def build_table(projects):
         key=lambda p: (p.get("latest_hap_release") or {}).get("published_at") or "",
         reverse=True,
     )
+    generated_at = now_iso()
+    today = generated_at[:10]
     rows = [
         "<!-- 自动生成，请勿手动编辑 -->",
-        f"**共收录 {len(ordered)} 个项目** · 更新于 {now_iso()[:16]} (UTC)",
+        f"**共收录 {len(ordered)} 个项目** · 更新于 {generated_at[:16]} (UTC)",
         "",
     ]
     grouped = {category: [] for category in CATEGORIES}
     for project in ordered:
         grouped[classify_project(project)].append(project)
-    for category in CATEGORIES:
+    # 今日更新是额外汇总，项目仍保留在原分类中，不计入分类总数。
+    grouped["今日更新"] = [
+        project for project in ordered
+        if ((project.get("latest_hap_release") or {}).get("published_at") or "")[:10] == today
+    ]
+    sections = ("今日更新", *CATEGORIES)
+    for category in sections:
         count = len(grouped[category])
         rows.append(
             f"- [{category}：{count}](#:~:text={category}（{count}%20个项目）)"
         )
     current_category = None
-    for category, p in ((category, p) for category in CATEGORIES for p in grouped[category]):
+    for category, p in ((category, p) for category in sections for p in (grouped[category] or [None])):
         if category != current_category:
             if current_category is not None:
                 rows.extend(["", "</details>"])
@@ -386,6 +394,11 @@ def build_table(projects):
                 "|:-----|:-----|:-------:|:-----------:|:------------|",
             ])
             current_category = category
+            if category == "今日更新":
+                rows[-2:-2] = [f"统计日期：{today}（UTC），项目同时保留在下方原分类中。", ""]
+        if p is None:
+            rows.extend(["", "暂无更新。" if category == "今日更新" else "暂无项目。"])
+            continue
         name = p.get("full_name", "")
         repo_url = p.get("html_url") or f"https://github.com/{name}"
         # 项目列：仓库名加粗，所属者换行小字（owner/repo 拆两行）
