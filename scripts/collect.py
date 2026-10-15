@@ -315,12 +315,16 @@ def inspect_releases(full_name, releases):
     return None, False
 
 
-CATEGORIES = ("工具与实用程序", "办公", "影音娱乐", "网络浏览器", "社交网络", "其他")
+CATEGORIES = ("工具与实用程序", "办公", "影音娱乐", "阅读", "代理工具", "游戏", "开发", "网络浏览器", "社交网络", "其他")
 
 # 按用途匹配；专用应用优先于通用工具，无法识别的项目归入“其他”。
 CATEGORY_RULES = (
+    ("代理工具", r"vpn|clash|代理|proxy|sing.?box|tailscale|harmotail|easytier|etohos|karing|v2ray|xray|shadowsocks|hysteria|nekobox"),
+    ("游戏", r"游戏|\bgame\b|gaming|mindustry|minecraft|minecaft|homolauncher|pvz|emulator|模拟器|hps2|snake|pokedex|宝可梦|buttercup|joiplay|tyranor|mcb_ohos"),
+    ("阅读", r"阅读|小说|漫画|电子书|词典|字典|manga|comic|cimoc|ehviewer|ehentai|e-hentai|exhentai|nhentai|picacg|bika|mybooks|copyhomo|copi-ohos|nextn\b|nexte\b|mdreader|ebook|epub|mdict|dictionar"),
+    ("开发", r"开发框架|开发工具|工具链|项目模板|测试靶场|客户端测试|调试|debug|\bsdk\b|\bide\b|\bdemo\b|\bsample\b|pipeline|github.action|github client|arkcat|终端|terminal|ssh|codex|harness|harnes|opencode|zcode|llama|tauri|electron|自动化构建|示例|开发课|ngf\b"),
     ("网络浏览器", r"browser|浏览器|webapp|webview app|nas_nav"),
-    ("影音娱乐", r"music|player|emby|jellyfin|anime|manga|comic|ehviewer|ehentai|e-hentai|nhentai|picacg|bika|pili|podcast|antennapod|homenapod|harflix|pixiv|pixlume|游戏|音乐|视频|影音|播放|漫画|动漫|番剧|直播|播客|相册|photo|immich|mybooks|漫画阅读|小说|mindustry|minecraft|minecaft|pvz|emulator|模拟器|snake|pokedex|宝可梦|copyhomo|copi-ohos|nextn\b|nexte\b|melotopia|buttercup"),
+    ("影音娱乐", r"music|player|emby|jellyfin|anime|pili|podcast|antennapod|homenapod|harflix|pixiv|pixlume|音乐|视频|影音|播放|动漫|番剧|直播|播客|相册|photo|immich|melotopia"),
     ("社交网络", r"telegram|petrelgram|社交|论坛|社区|贴吧|知乎|米游社|linux.?do|hipda|4d4y|stage1st|s1-orange|lnga|\bnga\b|tieba|zhihu|harmonyx|\bx client\b|mastodon|misskey|weibo|微博|fishpi|摸鱼派|c001apk"),
     ("办公", r"邮件|mail|笔记|note|markdown|日历|calendar|待办|todo|办公|office|文档|document|pdf|翻译|translat|剪贴板|clipboard|cliplink|记账|账本|tally"),
     ("工具与实用程序", r"搜图|工具|tool|utility|计算器|calculator|文件|file|同步|sync|localsend|输入法|fcitx|密码|password|auth|totp|vpn|clash|代理|tailscale|harmotail|easytier|etohos|karing|终端|terminal|ssh|codex|deepseek|harness|opencode|zcode|安装|install|下载|download|aria2|监控|monitor|benchmark|调试|debug|录屏|录音|record|远程|remote|homeassistant|米家|miha_hm|openwrt|磁盘|disk|spaceow|github client|arkcat|ai.?chat|ai.?助手|大模型|llama|kelivo|nextai|智能家居|识别|vision.assist|摄像|ipcam"),
