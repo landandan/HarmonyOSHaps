@@ -367,7 +367,11 @@ def build_table(projects):
     grouped = {category: [] for category in CATEGORIES}
     for project in ordered:
         grouped[classify_project(project)].append(project)
-    rows.append(" · ".join(f"{category}：{len(grouped[category])}" for category in CATEGORIES))
+    for category in CATEGORIES:
+        count = len(grouped[category])
+        rows.append(
+            f"- [{category}：{count}](#:~:text={category}（{count}%20个项目）)"
+        )
     current_category = None
     for category, p in ((category, p) for category in CATEGORIES for p in grouped[category]):
         if category != current_category:
