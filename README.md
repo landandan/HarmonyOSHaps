@@ -12,7 +12,8 @@
 
 工具与实用程序：40 · 办公：7 · 影音娱乐：37 · 阅读：22 · 代理工具：18 · 游戏：11 · 开发：33 · 网络浏览器：6 · 社交网络：17 · 其他：70
 
-### 工具与实用程序
+<details open>
+<summary><strong>工具与实用程序</strong>（40 个项目）</summary>
 
 | 项目 | 简介 | ⭐ Stars | 📅 更新日期 | 🏷️ 最新版本 |
 |:-----|:-----|:-------:|:-----------:|:------------|
@@ -57,7 +58,10 @@
 | [**Aigis**](https://github.com/iamhyc/Aigis)<br><sub>iamhyc</sub> | yet another TOTP 2FA Authenticator for HarmonyOS NEXT.<wbr> | 54 | 2024-12-26 | [v1.<wbr>0.<wbr>0](https://github.com/iamhyc/Aigis/releases/tag/v1.0.0) |
 | [**tickauth**](https://github.com/conradsheeran/tickauth)<br><sub>conradsheeran</sub> | A HarmonyOS application developed using ArkTS to implemen… | 4 | 2024-12-09 | [v1.<wbr>6.<wbr>3](https://github.com/conradsheeran/tickauth/releases/tag/v1.6.3) |
 
-### 办公
+</details>
+
+<details open>
+<summary><strong>办公</strong>（7 个项目）</summary>
 
 | 项目 | 简介 | ⭐ Stars | 📅 更新日期 | 🏷️ 最新版本 |
 |:-----|:-----|:-------:|:-----------:|:------------|
@@ -69,7 +73,10 @@
 | [**MemoFlow**](https://github.com/spring-soft/MemoFlow)<br><sub>spring-soft</sub> | MemoFlow — 鸿蒙NEXT备忘录 \| 沉浸光感UI \| 笔记/<wbr>待办/<wbr>番茄钟 \| 平板适配 | 2 | 2026-06-30 | [v2.<wbr>2.<wbr>0](https://github.com/spring-soft/MemoFlow/releases/tag/v2.2.0) |
 | [**ClipLink**](https://github.com/xiebyapps/ClipLink)<br><sub>xiebyapps</sub> | HarmonyOS implementation of SyncClipboard named ClipLink | 5 | 2026-04-16 | [v0.<wbr>0.<wbr>1](https://github.com/xiebyapps/ClipLink/releases/tag/v0.0.1) |
 
-### 影音娱乐
+</details>
+
+<details open>
+<summary><strong>影音娱乐</strong>（37 个项目）</summary>
 
 | 项目 | 简介 | ⭐ Stars | 📅 更新日期 | 🏷️ 最新版本 |
 |:-----|:-----|:-------:|:-----------:|:------------|
@@ -111,7 +118,10 @@
 | [**harmony-next-music-sharing**](https://github.com/Okysu/harmony-next-music-sharing)<br><sub>Okysu</sub> | 这是基于Harmony OS Next API12 版本的鸿蒙端面向通用的网络音乐播放器UI容器 | 80 | 2025-02-03 | [v1.<wbr>0.<wbr>4.<wbr>6patch02](https://github.com/Okysu/harmony-next-music-sharing/releases/tag/v1.0.4.6patch02) |
 | [**AnimeZ**](https://github.com/Z-P-J/AnimeZ)<br><sub>Z-P-J</sub> | AnimeZ，OpenHarmony开源看动漫应用 | 100 | 2023-11-18 | [v1.<wbr>0.<wbr>1](https://github.com/Z-P-J/AnimeZ/releases/tag/v1.0.1) |
 
-### 阅读
+</details>
+
+<details open>
+<summary><strong>阅读</strong>（22 个项目）</summary>
 
 | 项目 | 简介 | ⭐ Stars | 📅 更新日期 | 🏷️ 最新版本 |
 |:-----|:-----|:-------:|:-----------:|:------------|
@@ -138,7 +148,10 @@
 | [**copi-ohos**](https://github.com/niuhuan/copi-ohos)<br><sub>niuhuan</sub> | 鸿蒙NEXT 拷贝漫画客户端 | 85 | 2025-06-23 | [v0.<wbr>0.<wbr>6](https://github.com/niuhuan/copi-ohos/releases/tag/v0.0.6) |
 | [**PicACG_Next**](https://github.com/Luxcis/PicACG_Next)<br><sub>Luxcis</sub> | 哔咔漫画 鸿蒙NEXT版 | 109 | 2024-12-15 | [v1.<wbr>0.<wbr>0](https://github.com/Luxcis/PicACG_Next/releases/tag/v1.0.0) |
 
-### 代理工具
+</details>
+
+<details open>
+<summary><strong>代理工具</strong>（18 个项目）</summary>
 
 | 项目 | 简介 | ⭐ Stars | 📅 更新日期 | 🏷️ 最新版本 |
 |:-----|:-----|:-------:|:-----------:|:------------|
@@ -161,7 +174,10 @@
 | [**etohos**](https://github.com/collaborative-creation/etohos)<br><sub>collaborative-creation</sub> | EasyTier for 鸿蒙 | 31 | 2026-03-31 | [v1.<wbr>0.<wbr>9](https://github.com/collaborative-creation/etohos/releases/tag/v1.0.9) |
 | [**Clash-For-HarmonyOS**](https://github.com/2766859801/Clash-For-HarmonyOS)<br><sub>2766859801</sub> | — | 29 | 2024-11-18 | [v1.<wbr>0](https://github.com/2766859801/Clash-For-HarmonyOS/releases/tag/v1.0) |
 
-### 游戏
+</details>
+
+<details open>
+<summary><strong>游戏</strong>（11 个项目）</summary>
 
 | 项目 | 简介 | ⭐ Stars | 📅 更新日期 | 🏷️ 最新版本 |
 |:-----|:-----|:-------:|:-----------:|:------------|
@@ -177,7 +193,10 @@
 | [**buttercup**](https://github.com/Cateners/buttercup)<br><sub>Cateners</sub> | 给原生鸿蒙/<wbr>纯血鸿蒙/<wbr>鸿蒙Next的JoiPlay/<wbr>Tyranor模拟器替代 | 13 | 2024-12-24 | [v0.<wbr>0.<wbr>1](https://github.com/Cateners/buttercup/releases/tag/v0.0.1) |
 | [**Snake_NEXT**](https://github.com/awaLiny2333/Snake_NEXT)<br><sub>awaLiny2333</sub> | The Gluttonous snake Game on HarmonyOS NEXT! | 3 | 2024-08-13 | [v1.<wbr>0.<wbr>0](https://github.com/awaLiny2333/Snake_NEXT/releases/tag/v1.0.0) |
 
-### 开发
+</details>
+
+<details open>
+<summary><strong>开发</strong>（33 个项目）</summary>
 
 | 项目 | 简介 | ⭐ Stars | 📅 更新日期 | 🏷️ 最新版本 |
 |:-----|:-----|:-------:|:-----------:|:------------|
@@ -215,7 +234,10 @@
 | [**harmonyos-github-action-example**](https://github.com/harmonyos-dev/harmonyos-github-action-example)<br><sub>harmonyos-dev</sub> | GitHub Action example for HarmonyOS | 7 | 2024-02-28 | [v0.<wbr>0.<wbr>1](https://github.com/harmonyos-dev/harmonyos-github-action-example/releases/tag/v0.0.1) |
 | [**aigc-harmonyos-sample**](https://github.com/harmonyos-dev/aigc-harmonyos-sample)<br><sub>harmonyos-dev</sub> | AutoDev AI for HarmonyOS sample，适用于鸿蒙操作系统的 AutoDev AI 示例 | 8 | 2024-02-28 | [v0.<wbr>0.<wbr>3](https://github.com/harmonyos-dev/aigc-harmonyos-sample/releases/tag/v0.0.3) |
 
-### 网络浏览器
+</details>
+
+<details open>
+<summary><strong>网络浏览器</strong>（6 个项目）</summary>
 
 | 项目 | 简介 | ⭐ Stars | 📅 更新日期 | 🏷️ 最新版本 |
 |:-----|:-----|:-------:|:-----------:|:------------|
@@ -226,7 +248,10 @@
 | [**HarmonyOS_Next_Webapp**](https://github.com/Aloereed/HarmonyOS_Next_Webapp)<br><sub>Aloereed</sub> | Webview App for HarmonyOS Next | 19 | 2024-12-30 | [chatbox](https://github.com/Aloereed/HarmonyOS_Next_Webapp/releases/tag/chatbox) |
 | [**Webapp**](https://github.com/shanyan-wcx/Webapp)<br><sub>shanyan-wcx</sub> | 鸿蒙next的Webapp | 14 | 2024-10-13 | [v1.<wbr>0.<wbr>0](https://github.com/shanyan-wcx/Webapp/releases/tag/v1.0.0) |
 
-### 社交网络
+</details>
+
+<details open>
+<summary><strong>社交网络</strong>（17 个项目）</summary>
 
 | 项目 | 简介 | ⭐ Stars | 📅 更新日期 | 🏷️ 最新版本 |
 |:-----|:-----|:-------:|:-----------:|:------------|
@@ -248,7 +273,10 @@
 | [**idut-HarmonyOS-Next**](https://github.com/tianlongbaobao/idut-HarmonyOS-Next)<br><sub>tianlongbaobao</sub> | 原生鸿蒙i大工社区版 | 14 | 2025-09-04 | [6.<wbr>7.<wbr>2](https://github.com/tianlongbaobao/idut-HarmonyOS-Next/releases/tag/6.7.2) |
 | [**Web-Telegram-for-OpenHarmony**](https://github.com/XHXYT/Web-Telegram-for-OpenHarmony)<br><sub>XHXYT</sub> | 一个使用网页版电报封装的OpenHarmony平台应用，支持文件的下载与上传等功能。 | 52 | 2024-10-28 | [1.<wbr>3.<wbr>5](https://github.com/XHXYT/Web-Telegram-for-OpenHarmony/releases/tag/1.3.5) |
 
-### 其他
+</details>
+
+<details open>
+<summary><strong>其他</strong>（70 个项目）</summary>
 
 | 项目 | 简介 | ⭐ Stars | 📅 更新日期 | 🏷️ 最新版本 |
 |:-----|:-----|:-------:|:-----------:|:------------|
@@ -322,4 +350,6 @@
 | [**HMOSHapURL**](https://github.com/XHXYT/HMOSHapURL)<br><sub>XHXYT</sub> | 一个鸿蒙应用仓库收藏集，致力于收藏展示适配鸿蒙平台项目 | 78 | 2025-03-21 | [1.<wbr>0.<wbr>4](https://github.com/XHXYT/HMOSHapURL/releases/tag/1.0.4) |
 | [**WanAndroidHarmoney**](https://github.com/RedRackham1994/WanAndroidHarmoney)<br><sub>RedRackham1994</sub> | 使用ArkTS API9实现的鸿蒙玩安卓客户端 | 11 | 2024-06-05 | [1.<wbr>0.<wbr>0](https://github.com/RedRackham1994/WanAndroidHarmoney/releases/tag/1.0.0) |
 | [**OpenHarmony_Router**](https://github.com/hydrotho/OpenHarmony_Router)<br><sub>hydrotho</sub> | OpenHarmony 北向应用花式页面跳转 ~~~ A collection of several method… | 1 | 2022-09-06 | [v1.<wbr>0.<wbr>0](https://github.com/hydrotho/OpenHarmony_Router/releases/tag/v1.0.0) |
+
+</details>
 <!-- HAP_TABLE_END -->

@@ -371,9 +371,12 @@ def build_table(projects):
     current_category = None
     for category, p in ((category, p) for category in CATEGORIES for p in grouped[category]):
         if category != current_category:
+            if current_category is not None:
+                rows.extend(["", "</details>"])
             rows.extend([
                 "",
-                f"### {category}",
+                "<details open>",
+                f"<summary><strong>{category}</strong>（{len(grouped[category])} 个项目）</summary>",
                 "",
                 "| 项目 | 简介 | ⭐ Stars | 📅 更新日期 | 🏷️ 最新版本 |",
                 "|:-----|:-----|:-------:|:-----------:|:------------|",
@@ -406,6 +409,8 @@ def build_table(projects):
             f"| {project_cell} | {desc} | {stars} "
             f"| {date} | [{tag}]({rel_url}) |"
         )
+    if current_category is not None:
+        rows.extend(["", "</details>"])
     return "\n".join(rows)
 
 
