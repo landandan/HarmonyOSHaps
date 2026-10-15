@@ -315,8 +315,33 @@ def inspect_releases(full_name, releases):
     return None, False
 
 
+CATEGORIES = ("工具与实用程序", "办公", "影音娱乐", "网络浏览器", "社交网络", "其他")
+
+# 按用途匹配；专用应用优先于通用工具，无法识别的项目归入“其他”。
+CATEGORY_RULES = (
+    ("网络浏览器", r"browser|浏览器|webapp|webview app|nas_nav"),
+    ("影音娱乐", r"music|player|emby|jellyfin|anime|manga|comic|ehviewer|ehentai|e-hentai|nhentai|picacg|bika|pili|podcast|antennapod|homenapod|harflix|pixiv|pixlume|游戏|音乐|视频|影音|播放|漫画|动漫|番剧|直播|播客|相册|photo|immich|mybooks|漫画阅读|小说|mindustry|minecraft|minecaft|pvz|emulator|模拟器|snake|pokedex|宝可梦|copyhomo|copi-ohos|nextn\b|nexte\b|melotopia|buttercup"),
+    ("社交网络", r"telegram|petrelgram|社交|论坛|社区|贴吧|知乎|米游社|linux.?do|hipda|4d4y|stage1st|s1-orange|lnga|\bnga\b|tieba|zhihu|harmonyx|\bx client\b|mastodon|misskey|weibo|微博|fishpi|摸鱼派|c001apk"),
+    ("办公", r"邮件|mail|笔记|note|markdown|日历|calendar|待办|todo|办公|office|文档|document|pdf|翻译|translat|剪贴板|clipboard|cliplink|记账|账本|tally"),
+    ("工具与实用程序", r"搜图|工具|tool|utility|计算器|calculator|文件|file|同步|sync|localsend|输入法|fcitx|密码|password|auth|totp|vpn|clash|代理|tailscale|harmotail|easytier|etohos|karing|终端|terminal|ssh|codex|deepseek|harness|opencode|zcode|安装|install|下载|download|aria2|监控|monitor|benchmark|调试|debug|录屏|录音|record|远程|remote|homeassistant|米家|miha_hm|openwrt|磁盘|disk|spaceow|github client|arkcat|ai.?chat|ai.?助手|大模型|llama|kelivo|nextai|智能家居|识别|vision.assist|摄像|ipcam"),
+)
+
+
+def classify_project(project):
+    """根据仓库名和完整简介分类，也支持数据中显式指定 category。"""
+    category = project.get("category")
+    if category in CATEGORIES:
+        return category
+    repo = (project.get("full_name") or "").partition("/")[2]
+    text = f"{repo} {project.get('description') or ''}"
+    for category, pattern in CATEGORY_RULES:
+        if re.search(pattern, text, re.IGNORECASE):
+            return category
+    return "其他"
+
+
 def build_table(projects):
-    """生成 README 表格内容（按最新 HAP Release 发布时间降序）。
+    """生成分类 README 表格（各类内按最新 HAP Release 发布时间降序）。
 
     布局优化（GitHub 表格无法设列宽，靠对齐语法 + <wbr> 断行实现）：
       - 项目列：仓库名加粗 + 所属者第二行小字，列宽紧凑
@@ -334,10 +359,22 @@ def build_table(projects):
         "<!-- 自动生成，请勿手动编辑 -->",
         f"**共收录 {len(ordered)} 个项目** · 更新于 {now_iso()[:16]} (UTC)",
         "",
-        "| 项目 | 简介 | ⭐ Stars | 📅 更新日期 | 🏷️ 最新版本 |",
-        "|:-----|:-----|:-------:|:-----------:|:------------|",
     ]
-    for p in ordered:
+    grouped = {category: [] for category in CATEGORIES}
+    for project in ordered:
+        grouped[classify_project(project)].append(project)
+    rows.append(" · ".join(f"{category}：{len(grouped[category])}" for category in CATEGORIES))
+    current_category = None
+    for category, p in ((category, p) for category in CATEGORIES for p in grouped[category]):
+        if category != current_category:
+            rows.extend([
+                "",
+                f"### {category}",
+                "",
+                "| 项目 | 简介 | ⭐ Stars | 📅 更新日期 | 🏷️ 最新版本 |",
+                "|:-----|:-----|:-------:|:-----------:|:------------|",
+            ])
+            current_category = category
         name = p.get("full_name", "")
         repo_url = p.get("html_url") or f"https://github.com/{name}"
         # 项目列：仓库名加粗，所属者换行小字（owner/repo 拆两行）
