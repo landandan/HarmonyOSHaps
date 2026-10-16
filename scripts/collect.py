@@ -344,6 +344,13 @@ def classify_project(project):
     return "其他"
 
 
+SECTION_ANCHORS = dict(zip(
+    ("今日更新", *CATEGORIES),
+    ("today", "utilities", "office", "media", "reading", "proxy", "games",
+     "development", "browsers", "social", "other"),
+))
+
+
 def build_table(projects):
     """生成分类 README 表格（各类内按最新 HAP Release 发布时间降序）。
 
@@ -374,18 +381,21 @@ def build_table(projects):
         project for project in ordered
         if ((project.get("latest_hap_release") or {}).get("published_at") or "")[:10] == today
     ]
+    rows.extend(['<a id="hap-menu" name="hap-menu"></a>', ""])
     sections = ("今日更新", *CATEGORIES)
     for category in sections:
         count = len(grouped[category])
         rows.append(
-            f"- [{category}：{count}](#:~:text={category}（{count}%20个项目）)"
+            f"- [{category}：{count}](#hap-{SECTION_ANCHORS[category]})"
         )
     current_category = None
     for category, p in ((category, p) for category in sections for p in (grouped[category] or [None])):
         if category != current_category:
             if current_category is not None:
-                rows.extend(["", "</details>"])
+                rows.extend(["", "[↑ 返回菜单](#hap-menu)", "", "</details>"])
             rows.extend([
+                "",
+                f'<a id="hap-{SECTION_ANCHORS[category]}" name="hap-{SECTION_ANCHORS[category]}"></a>',
                 "",
                 "<details open>",
                 f"<summary><strong>{category}</strong>（{len(grouped[category])} 个项目）</summary>",
@@ -427,7 +437,7 @@ def build_table(projects):
             f"| {date} | [{tag}]({rel_url}) |"
         )
     if current_category is not None:
-        rows.extend(["", "</details>"])
+        rows.extend(["", "[↑ 返回菜单](#hap-menu)", "", "</details>"])
     return "\n".join(rows)
 
 

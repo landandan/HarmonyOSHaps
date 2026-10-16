@@ -10,17 +10,21 @@
 <!-- 自动生成，请勿手动编辑 -->
 **共收录 267 个项目** · 更新于 2026-10-16T01:50 (UTC)
 
-- [今日更新：0](#:~:text=今日更新（0%20个项目）)
-- [工具与实用程序：42](#:~:text=工具与实用程序（42%20个项目）)
-- [办公：7](#:~:text=办公（7%20个项目）)
-- [影音娱乐：39](#:~:text=影音娱乐（39%20个项目）)
-- [阅读：23](#:~:text=阅读（23%20个项目）)
-- [代理工具：18](#:~:text=代理工具（18%20个项目）)
-- [游戏：11](#:~:text=游戏（11%20个项目）)
-- [开发：33](#:~:text=开发（33%20个项目）)
-- [网络浏览器：6](#:~:text=网络浏览器（6%20个项目）)
-- [社交网络：17](#:~:text=社交网络（17%20个项目）)
-- [其他：71](#:~:text=其他（71%20个项目）)
+<a id="hap-menu" name="hap-menu"></a>
+
+- [今日更新：0](#hap-today)
+- [工具与实用程序：42](#hap-utilities)
+- [办公：7](#hap-office)
+- [影音娱乐：39](#hap-media)
+- [阅读：23](#hap-reading)
+- [代理工具：18](#hap-proxy)
+- [游戏：11](#hap-games)
+- [开发：33](#hap-development)
+- [网络浏览器：6](#hap-browsers)
+- [社交网络：17](#hap-social)
+- [其他：71](#hap-other)
+
+<a id="hap-today" name="hap-today"></a>
 
 <details open>
 <summary><strong>今日更新</strong>（0 个项目）</summary>
@@ -32,7 +36,11 @@
 
 暂无更新。
 
+[↑ 返回菜单](#hap-menu)
+
 </details>
+
+<a id="hap-utilities" name="hap-utilities"></a>
 
 <details open>
 <summary><strong>工具与实用程序</strong>（42 个项目）</summary>
@@ -82,7 +90,11 @@
 | [**Aigis**](https://github.com/iamhyc/Aigis)<br><sub>iamhyc</sub> | yet another TOTP 2FA Authenticator for HarmonyOS NEXT.<wbr> | 54 | 2024-12-26 | [v1.<wbr>0.<wbr>0](https://github.com/iamhyc/Aigis/releases/tag/v1.0.0) |
 | [**tickauth**](https://github.com/conradsheeran/tickauth)<br><sub>conradsheeran</sub> | A HarmonyOS application developed using ArkTS to implemen… | 4 | 2024-12-09 | [v1.<wbr>6.<wbr>3](https://github.com/conradsheeran/tickauth/releases/tag/v1.6.3) |
 
+[↑ 返回菜单](#hap-menu)
+
 </details>
+
+<a id="hap-office" name="hap-office"></a>
 
 <details open>
 <summary><strong>办公</strong>（7 个项目）</summary>
@@ -97,7 +109,11 @@
 | [**MemoFlow**](https://github.com/spring-soft/MemoFlow)<br><sub>spring-soft</sub> | MemoFlow — 鸿蒙NEXT备忘录 \| 沉浸光感UI \| 笔记/<wbr>待办/<wbr>番茄钟 \| 平板适配 | 2 | 2026-06-30 | [v2.<wbr>2.<wbr>0](https://github.com/spring-soft/MemoFlow/releases/tag/v2.2.0) |
 | [**ClipLink**](https://github.com/xiebyapps/ClipLink)<br><sub>xiebyapps</sub> | HarmonyOS implementation of SyncClipboard named ClipLink | 5 | 2026-04-16 | [v0.<wbr>0.<wbr>1](https://github.com/xiebyapps/ClipLink/releases/tag/v0.0.1) |
 
+[↑ 返回菜单](#hap-menu)
+
 </details>
+
+<a id="hap-media" name="hap-media"></a>
 
 <details open>
 <summary><strong>影音娱乐</strong>（39 个项目）</summary>
@@ -144,7 +160,11 @@
 | [**harmony-next-music-sharing**](https://github.com/Okysu/harmony-next-music-sharing)<br><sub>Okysu</sub> | 这是基于Harmony OS Next API12 版本的鸿蒙端面向通用的网络音乐播放器UI容器 | 80 | 2025-02-03 | [v1.<wbr>0.<wbr>4.<wbr>6patch02](https://github.com/Okysu/harmony-next-music-sharing/releases/tag/v1.0.4.6patch02) |
 | [**AnimeZ**](https://github.com/Z-P-J/AnimeZ)<br><sub>Z-P-J</sub> | AnimeZ，OpenHarmony开源看动漫应用 | 100 | 2023-11-18 | [v1.<wbr>0.<wbr>1](https://github.com/Z-P-J/AnimeZ/releases/tag/v1.0.1) |
 
+[↑ 返回菜单](#hap-menu)
+
 </details>
+
+<a id="hap-reading" name="hap-reading"></a>
 
 <details open>
 <summary><strong>阅读</strong>（23 个项目）</summary>
@@ -175,7 +195,11 @@
 | [**copi-ohos**](https://github.com/niuhuan/copi-ohos)<br><sub>niuhuan</sub> | 鸿蒙NEXT 拷贝漫画客户端 | 85 | 2025-06-23 | [v0.<wbr>0.<wbr>6](https://github.com/niuhuan/copi-ohos/releases/tag/v0.0.6) |
 | [**PicACG_Next**](https://github.com/Luxcis/PicACG_Next)<br><sub>Luxcis</sub> | 哔咔漫画 鸿蒙NEXT版 | 109 | 2024-12-15 | [v1.<wbr>0.<wbr>0](https://github.com/Luxcis/PicACG_Next/releases/tag/v1.0.0) |
 
+[↑ 返回菜单](#hap-menu)
+
 </details>
+
+<a id="hap-proxy" name="hap-proxy"></a>
 
 <details open>
 <summary><strong>代理工具</strong>（18 个项目）</summary>
@@ -201,7 +225,11 @@
 | [**etohos**](https://github.com/collaborative-creation/etohos)<br><sub>collaborative-creation</sub> | EasyTier for 鸿蒙 | 31 | 2026-03-31 | [v1.<wbr>0.<wbr>9](https://github.com/collaborative-creation/etohos/releases/tag/v1.0.9) |
 | [**Clash-For-HarmonyOS**](https://github.com/2766859801/Clash-For-HarmonyOS)<br><sub>2766859801</sub> | — | 29 | 2024-11-18 | [v1.<wbr>0](https://github.com/2766859801/Clash-For-HarmonyOS/releases/tag/v1.0) |
 
+[↑ 返回菜单](#hap-menu)
+
 </details>
+
+<a id="hap-games" name="hap-games"></a>
 
 <details open>
 <summary><strong>游戏</strong>（11 个项目）</summary>
@@ -220,7 +248,11 @@
 | [**buttercup**](https://github.com/Cateners/buttercup)<br><sub>Cateners</sub> | 给原生鸿蒙/<wbr>纯血鸿蒙/<wbr>鸿蒙Next的JoiPlay/<wbr>Tyranor模拟器替代 | 13 | 2024-12-24 | [v0.<wbr>0.<wbr>1](https://github.com/Cateners/buttercup/releases/tag/v0.0.1) |
 | [**Snake_NEXT**](https://github.com/awaLiny2333/Snake_NEXT)<br><sub>awaLiny2333</sub> | The Gluttonous snake Game on HarmonyOS NEXT! | 3 | 2024-08-13 | [v1.<wbr>0.<wbr>0](https://github.com/awaLiny2333/Snake_NEXT/releases/tag/v1.0.0) |
 
+[↑ 返回菜单](#hap-menu)
+
 </details>
+
+<a id="hap-development" name="hap-development"></a>
 
 <details open>
 <summary><strong>开发</strong>（33 个项目）</summary>
@@ -261,7 +293,11 @@
 | [**harmonyos-github-action-example**](https://github.com/harmonyos-dev/harmonyos-github-action-example)<br><sub>harmonyos-dev</sub> | GitHub Action example for HarmonyOS | 7 | 2024-02-28 | [v0.<wbr>0.<wbr>1](https://github.com/harmonyos-dev/harmonyos-github-action-example/releases/tag/v0.0.1) |
 | [**aigc-harmonyos-sample**](https://github.com/harmonyos-dev/aigc-harmonyos-sample)<br><sub>harmonyos-dev</sub> | AutoDev AI for HarmonyOS sample，适用于鸿蒙操作系统的 AutoDev AI 示例 | 8 | 2024-02-28 | [v0.<wbr>0.<wbr>3](https://github.com/harmonyos-dev/aigc-harmonyos-sample/releases/tag/v0.0.3) |
 
+[↑ 返回菜单](#hap-menu)
+
 </details>
+
+<a id="hap-browsers" name="hap-browsers"></a>
 
 <details open>
 <summary><strong>网络浏览器</strong>（6 个项目）</summary>
@@ -275,7 +311,11 @@
 | [**HarmonyOS_Next_Webapp**](https://github.com/Aloereed/HarmonyOS_Next_Webapp)<br><sub>Aloereed</sub> | Webview App for HarmonyOS Next | 19 | 2024-12-30 | [chatbox](https://github.com/Aloereed/HarmonyOS_Next_Webapp/releases/tag/chatbox) |
 | [**Webapp**](https://github.com/shanyan-wcx/Webapp)<br><sub>shanyan-wcx</sub> | 鸿蒙next的Webapp | 14 | 2024-10-13 | [v1.<wbr>0.<wbr>0](https://github.com/shanyan-wcx/Webapp/releases/tag/v1.0.0) |
 
+[↑ 返回菜单](#hap-menu)
+
 </details>
+
+<a id="hap-social" name="hap-social"></a>
 
 <details open>
 <summary><strong>社交网络</strong>（17 个项目）</summary>
@@ -300,7 +340,11 @@
 | [**idut-HarmonyOS-Next**](https://github.com/tianlongbaobao/idut-HarmonyOS-Next)<br><sub>tianlongbaobao</sub> | 原生鸿蒙i大工社区版 | 14 | 2025-09-04 | [6.<wbr>7.<wbr>2](https://github.com/tianlongbaobao/idut-HarmonyOS-Next/releases/tag/6.7.2) |
 | [**Web-Telegram-for-OpenHarmony**](https://github.com/XHXYT/Web-Telegram-for-OpenHarmony)<br><sub>XHXYT</sub> | 一个使用网页版电报封装的OpenHarmony平台应用，支持文件的下载与上传等功能。 | 52 | 2024-10-28 | [1.<wbr>3.<wbr>5](https://github.com/XHXYT/Web-Telegram-for-OpenHarmony/releases/tag/1.3.5) |
 
+[↑ 返回菜单](#hap-menu)
+
 </details>
+
+<a id="hap-other" name="hap-other"></a>
 
 <details open>
 <summary><strong>其他</strong>（71 个项目）</summary>
@@ -378,6 +422,8 @@
 | [**HMOSHapURL**](https://github.com/XHXYT/HMOSHapURL)<br><sub>XHXYT</sub> | 一个鸿蒙应用仓库收藏集，致力于收藏展示适配鸿蒙平台项目 | 78 | 2025-03-21 | [1.<wbr>0.<wbr>4](https://github.com/XHXYT/HMOSHapURL/releases/tag/1.0.4) |
 | [**WanAndroidHarmoney**](https://github.com/RedRackham1994/WanAndroidHarmoney)<br><sub>RedRackham1994</sub> | 使用ArkTS API9实现的鸿蒙玩安卓客户端 | 11 | 2024-06-05 | [1.<wbr>0.<wbr>0](https://github.com/RedRackham1994/WanAndroidHarmoney/releases/tag/1.0.0) |
 | [**OpenHarmony_Router**](https://github.com/hydrotho/OpenHarmony_Router)<br><sub>hydrotho</sub> | OpenHarmony 北向应用花式页面跳转 ~~~ A collection of several method… | 1 | 2022-09-06 | [v1.<wbr>0.<wbr>0](https://github.com/hydrotho/OpenHarmony_Router/releases/tag/v1.0.0) |
+
+[↑ 返回菜单](#hap-menu)
 
 </details>
 <!-- HAP_TABLE_END -->
