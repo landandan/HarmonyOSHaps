@@ -36,8 +36,8 @@
       "has_hap": false
     },
     "1055235342/Wpixelgram-for-HarmonyOS": {
-      "etag": "W/\"8ee2f9761042bfdf8655d13ae774fc99ee447c72a075ffc72eb0c5ace35240ec\"",
-      "last_checked_at": "2026-10-16T01:23:50Z",
+      "etag": "W/\"293ae16369a39b73edf79219e2819bca91008ab7968c06281f81660366dd8c22\"",
+      "last_checked_at": "2026-10-17T00:47:27Z",
       "has_hap": true
     },
     "1136346879/harmonyosdev": {
@@ -66,8 +66,8 @@
       "has_hap": false
     },
     "137458/tieba-lite-harmony": {
-      "etag": "W/\"a0fa1f570067acecf8485a4498dc3eb6f2a2cc7b4c53e90a34578947f04ef771\"",
-      "last_checked_at": "2026-10-16T01:23:52Z",
+      "etag": "W/\"5b105bafe82bbdc9944ce032fb1f951b7d0bfa52685b3ba3f6a86422c0641b3d\"",
+      "last_checked_at": "2026-10-17T00:47:28Z",
       "has_hap": true
     },
     "1395367184/harmonyos-app-dev": {
@@ -156,8 +156,8 @@
       "has_hap": false
     },
     "2766859801/Clash-For-HarmonyOS": {
-      "etag": "W/\"60499722e12a86668d5268f01f201b952e155d03897a86f8709753e694dfc1d5\"",
-      "last_checked_at": "2026-10-16T01:24:04Z",
+      "etag": "W/\"115480f866dc4dd41cd0cc0e5ff9b4a07bb94d1d2f7d182f28a4e9a957c87ce0\"",
+      "last_checked_at": "2026-10-17T00:47:29Z",
       "has_hap": true
     },
     "300Daras/OpenHarmony-iso": {
@@ -271,8 +271,8 @@
       "has_hap": false
     },
     "94run/AudioRecorder": {
-      "etag": "W/\"cd9034ee14df5cd2df14174b72d3db15d2cbc290db608f029ae26ec617694a8e\"",
-      "last_checked_at": "2026-10-16T01:24:17Z",
+      "etag": "W/\"3d94ab9c8525495c65e82954287e595887138ea04e04ef68ed1d3402a9c1a637\"",
+      "last_checked_at": "2026-10-17T00:47:29Z",
       "has_hap": true
     },
     "A2OH/openharmony-arm64": {
@@ -411,8 +411,8 @@
       "has_hap": false
     },
     "Actrlq/Harflix": {
-      "etag": "W/\"f40baefd37ba4031fe20db228450cd4f04fe302b861f3dd82a4ecc5ce1d76624\"",
-      "last_checked_at": "2026-10-16T01:24:34Z",
+      "etag": "W/\"7f6ba751a2d07587ea3f33f32d268ca3664c74f1ff7f6c574c1969776c260619\"",
+      "last_checked_at": "2026-10-17T00:47:30Z",
       "has_hap": true
     },
     "AdaUnlocked/2026-All-Brands-Bootloader-Unlock-Status": {
@@ -482,7 +482,7 @@
     },
     "AkirTech/FFmpegLiteNative": {
       "etag": "W/\"79f2d4b3a48c31ae5fd38f233fac90d5f7ec1f5e894f6cb08646195473a4b76f\"",
-      "last_checked_at": "2026-10-16T01:24:40Z",
+      "last_checked_at": "2026-10-17T00:47:31Z",
       "has_hap": true
     },
     "AlanLinYu/huawei-lite-watch-development": {
@@ -547,7 +547,7 @@
     },
     "Aloereed/HarmonyOS_Next_Webapp": {
       "etag": "W/\"fe440e0a112aafedcd5b2249cf03acec0584920eec610e384ae8e9f5d3144cb7\"",
-      "last_checked_at": "2026-10-16T01:24:44Z",
+      "last_checked_at": "2026-10-17T00:47:31Z",
       "has_hap": true
     },
     "Aloereed/aloeplayer_ohos": {
@@ -556,13 +556,13 @@
       "has_hap": false
     },
     "Aloereed/llama.cpp-server-ohos": {
-      "etag": "W/\"555678345b47f1875edb5093031bcb911d19811b980d2efa0c34505cd7bb94df\"",
-      "last_checked_at": "2026-10-16T01:24:46Z",
+      "etag": "W/\"f905533575918cb8df666d1558f9a6b4d715312cfdca226664411d1d4ff95e39\"",
+      "last_checked_at": "2026-10-17T00:47:31Z",
       "has_hap": true
     },
     "Aloereed/vlc-qt6-ohos": {
-      "etag": "W/\"561986eba3bc3fbd35930f62622872fe531afa717c63a5336e1b1f9277b0c1ae\"",
-      "last_checked_at": "2026-10-16T01:24:46Z",
+      "etag": "W/\"7717d445ff0ff74b0da01bea14257374a3416582df57af6b6df81a638b62f356\"",
+      "last_checked_at": "2026-10-17T00:47:32Z",
       "has_hap": true
     },
     "Alone4869/liuying-open-source": {
@@ -917,7 +917,7 @@
     },
     "Applib-HarmonyOS/KitKatEmoji": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-13T00:11:31Z",
+      "last_checked_at": "2026-10-17T00:47:33Z",
       "has_hap": false
     },
     "Applib-HarmonyOS/LoadingButton": {
@@ -977,7 +977,7 @@
     },
     "Applib-HarmonyOS/Neumorphism_Smarthome_Darkmode": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-13T00:11:34Z",
+      "last_checked_at": "2026-10-17T00:47:33Z",
       "has_hap": false
     },
     "Applib-HarmonyOS/Neumorphism_Smarthome_Lightmode-": {
@@ -1037,7 +1037,7 @@
     },
     "Applib-HarmonyOS/Prefs": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-05T23:45:24Z",
+      "last_checked_at": "2026-10-17T00:47:33Z",
       "has_hap": false
     },
     "Applib-HarmonyOS/PullDownView": {
@@ -1072,7 +1072,7 @@
     },
     "Applib-HarmonyOS/SQLite2XL": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-08T22:54:00Z",
+      "last_checked_at": "2026-10-17T00:47:33Z",
       "has_hap": false
     },
     "Applib-HarmonyOS/SharpView-Lib": {
@@ -1262,7 +1262,7 @@
     },
     "Applib-HarmonyOS/amplify": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-13T00:11:45Z",
+      "last_checked_at": "2026-10-17T00:47:33Z",
       "has_hap": false
     },
     "Applib-HarmonyOS/animated_grid": {
@@ -1327,7 +1327,7 @@
     },
     "Applib-HarmonyOS/nice-spinner": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-13T00:11:48Z",
+      "last_checked_at": "2026-10-17T00:47:34Z",
       "has_hap": false
     },
     "Applib-HarmonyOS/ohos-lite-go": {
@@ -1886,8 +1886,8 @@
       "has_hap": false
     },
     "Chen-ce/NextAI": {
-      "etag": "W/\"8ce45387e2b9c1c5511e3632ba565fda30172d49d2c62d3fe850a9f5145f0a33\"",
-      "last_checked_at": "2026-10-16T01:26:08Z",
+      "etag": "W/\"73d23b5bba6e04185a2ad3124c0db39509921ecc5cd54755659f7f947ae3a543\"",
+      "last_checked_at": "2026-10-17T00:47:36Z",
       "has_hap": true
     },
     "Chenglin20170390/Haplotype-diversity": {
@@ -1897,12 +1897,12 @@
     },
     "Chenlvin/CloudMusic-HarmonyOSNext": {
       "etag": "W/\"ce833536fcc7147771aa8834500cca1c6374619f9e903369c611e9fbe5bb6c13\"",
-      "last_checked_at": "2026-10-16T01:26:09Z",
+      "last_checked_at": "2026-10-17T00:47:37Z",
       "has_hap": true
     },
     "Chenlvin/Melotopia-HMOS": {
-      "etag": "W/\"5b2d67251ed5a22903f7fad970d64c6c7b7bf7d8f5b86907a32eb438a057d05e\"",
-      "last_checked_at": "2026-10-16T01:26:09Z",
+      "etag": "W/\"0dc9c06f4f862943735308be44441e17249f5223e41b8ac72f0e0127ea20ce81\"",
+      "last_checked_at": "2026-10-17T00:47:37Z",
       "has_hap": true
     },
     "CherryRH/OpenHarmony-DistributedChat": {
@@ -2047,7 +2047,7 @@
     },
     "CsCesium/KantaiHomo": {
       "etag": "W/\"81453e0bd50939392200bd7f2275971a34670555e289d7bd7fd424606fb3117e\"",
-      "last_checked_at": "2026-10-16T01:26:26Z",
+      "last_checked_at": "2026-10-17T00:47:38Z",
       "has_hap": true
     },
     "Czz456789zzC/OpenHarmony": {
@@ -2097,7 +2097,7 @@
     },
     "DaLongZhuaZi/NGF": {
       "etag": "W/\"87ef323942aad50030d06c84f9c43d3a45605b2245e5e98d257809cf8c25ac0a\"",
-      "last_checked_at": "2026-10-16T01:26:31Z",
+      "last_checked_at": "2026-10-17T00:47:38Z",
       "has_hap": true
     },
     "DaLongZhuaZi/OpenHarmonyASF": {
@@ -2106,8 +2106,8 @@
       "has_hap": false
     },
     "DaLongZhuaZi/manxia": {
-      "etag": "W/\"e63fed7c5f028067d9955bcba4ea8c30d377083f68e07ac14cdd8d29b74a2fd8\"",
-      "last_checked_at": "2026-10-16T01:26:32Z",
+      "etag": "W/\"5ee3b7cc6fb3e53bcdcd5c9b3c09a866e3a1e35a3a570409452e319ffde4ee72\"",
+      "last_checked_at": "2026-10-17T00:47:39Z",
       "has_hap": true
     },
     "DanielMax937/kousou-harmonyos": {
@@ -2246,13 +2246,13 @@
       "has_hap": false
     },
     "Edge-Music/Community": {
-      "etag": "W/\"0242d2bc17775b07fadac188a2ac06934291a21667477f23a136310e4811b4a8\"",
-      "last_checked_at": "2026-10-16T01:26:49Z",
+      "etag": "W/\"5aed11336334bcddde3b3d201af9231e78cffed594ce8f2e9ae7b6517ba47b76\"",
+      "last_checked_at": "2026-10-17T00:47:41Z",
       "has_hap": true
     },
     "Edge-Music/Community_OH": {
       "etag": "W/\"789a911f0a4173517ecdc3d4f0f78aab435daa830258d9ff6f04dbd8a4ea97ef\"",
-      "last_checked_at": "2026-10-16T01:26:50Z",
+      "last_checked_at": "2026-10-17T00:47:41Z",
       "has_hap": true
     },
     "Eilgnaw/deploy-to-agc-testing": {
@@ -2512,7 +2512,7 @@
     },
     "GarhinZhou/HmHex": {
       "etag": "W/\"4cd05e61d946d9463968f027c2d201b8d831fb09b0d1da81f3f14d41f3cafc77\"",
-      "last_checked_at": "2026-10-16T01:29:06Z",
+      "last_checked_at": "2026-10-17T00:48:55Z",
       "has_hap": true
     },
     "Gcy0724/HarmonyOS": {
@@ -2542,7 +2542,7 @@
     },
     "Gokr-ble/LocalSendLite_HarmonyOS_NEXT": {
       "etag": "W/\"3a8e870f6b729f130c16c89e57cb3697c942c4631721974e006597c1aa2e6789\"",
-      "last_checked_at": "2026-10-16T01:29:10Z",
+      "last_checked_at": "2026-10-17T00:48:56Z",
       "has_hap": true
     },
     "GongchunV/OpenHarmony-RK3568": {
@@ -2701,13 +2701,13 @@
       "has_hap": false
     },
     "HanversionOvO/OHBittorrent": {
-      "etag": "W/\"fbb9f1425aec6590191883e0c01b436bfd04b74dbaebb029c8bd5e683d81a958\"",
-      "last_checked_at": "2026-10-16T01:29:26Z",
+      "etag": "W/\"4723022a9bf635104e2ddd4706200136f4d64146155f7cdc9473350f49ad9abe\"",
+      "last_checked_at": "2026-10-17T00:48:57Z",
       "has_hap": true
     },
     "HanversionOvO/OHSidian": {
-      "etag": "W/\"8b0ed810813c0ad31c0abda33646aad4507496b950624b1f7f7b3f1fd6a88dc6\"",
-      "last_checked_at": "2026-10-16T01:29:27Z",
+      "etag": "W/\"0fd54b4c6f110913059ece61b4d70f372cc1405c94b1a13cf9fc48881d1bcc18\"",
+      "last_checked_at": "2026-10-17T00:48:58Z",
       "has_hap": true
     },
     "HanversionOvO/OHSilksong": {
@@ -2716,23 +2716,23 @@
       "has_hap": false
     },
     "HanversionOvO/OHcode": {
-      "etag": "W/\"c6e8ed729a7ba1c3e22d5fc36f529b36c96d97bbaaab991455859dfeb49348a7\"",
-      "last_checked_at": "2026-10-16T01:29:28Z",
+      "etag": "W/\"1796935a33a07420a038027a140398fae47f729507f163121d14c4d00080219d\"",
+      "last_checked_at": "2026-10-17T00:48:58Z",
       "has_hap": true
     },
     "HanversionOvO/OHcodex": {
       "etag": "W/\"51f0d4d250174447ff5a1c03c2ce48c4250659f83c96a3e5ff366c9421dec77b\"",
-      "last_checked_at": "2026-10-16T01:29:28Z",
+      "last_checked_at": "2026-10-17T00:48:59Z",
       "has_hap": true
     },
     "HanversionOvO/OHgram": {
-      "etag": "W/\"689d2372d0fcc1b616488c8a174da083cf68a99f257cbde55331ecabd292c053\"",
-      "last_checked_at": "2026-10-16T01:29:28Z",
+      "etag": "W/\"1678c9ea707a0305af2600e6eb7c09385b5b2a250fc22781c243502098b827bf\"",
+      "last_checked_at": "2026-10-17T00:48:59Z",
       "has_hap": true
     },
     "HanversionOvO/OHtrix": {
-      "etag": "W/\"ad88b973044e3f323072af18b3ba1dd7a4add70443f5d6ba5a77331a424f4ec7\"",
-      "last_checked_at": "2026-10-16T01:29:29Z",
+      "etag": "W/\"c1d03a7339bad3f62a979caee5f386dcf2b2389d391d2363cf7cfc18fad45e60\"",
+      "last_checked_at": "2026-10-17T00:48:59Z",
       "has_hap": true
     },
     "HanversionOvO/aria2-harmonyos": {
@@ -3096,8 +3096,8 @@
       "has_hap": false
     },
     "Ibukitofu/Ohentai": {
-      "etag": "W/\"d8b61a125e63ce1767619fe72b2f8981e1b3ab8d191669777077e994b48a4fb3\"",
-      "last_checked_at": "2026-10-16T01:30:09Z",
+      "etag": "W/\"ac0585cf763fb5d536315c3fa55c65843585d952f0528f4275796094f3145479\"",
+      "last_checked_at": "2026-10-17T00:49:00Z",
       "has_hap": true
     },
     "IceTeacher/DrawingBook": {
@@ -3182,7 +3182,7 @@
     },
     "Islatri/tauri-ohos-test": {
       "etag": "W/\"d9f4688aa0bdf20932c1ff91cb700ca9149a8bf1076514fac039c3533624f96d\"",
-      "last_checked_at": "2026-10-16T01:30:14Z",
+      "last_checked_at": "2026-10-17T00:49:01Z",
       "has_hap": true
     },
     "Itz-Murali/Happy-BirthDay-Ai": {
@@ -3307,7 +3307,7 @@
     },
     "JiangYanjie12/OpenHarmony_Calculator": {
       "etag": "W/\"b58ae62f4ef026ea166a057f2fd824b06f059c8f9729b6dc92492c7c96f7058c\"",
-      "last_checked_at": "2026-10-16T01:30:28Z",
+      "last_checked_at": "2026-10-17T00:49:01Z",
       "has_hap": true
     },
     "Jiangbaijimo/HarmonyOS": {
@@ -3566,13 +3566,13 @@
       "has_hap": false
     },
     "LZZLHY/amcl": {
-      "etag": "W/\"ed68300108ecd90bb1e81fda50ea3068aa8917a1363de65f96268259aacc45c8\"",
-      "last_checked_at": "2026-10-16T01:30:49Z",
+      "etag": "W/\"8da53c55cead0e24866117f97f9d83c285cbc2c2a9efdfcd8ba7c85e5fcf070a\"",
+      "last_checked_at": "2026-10-17T00:49:02Z",
       "has_hap": true
     },
     "LZZLHY/hlib": {
-      "etag": "W/\"5a5c1a347e31a1aae9063d29a28e3cbc93563620a1a64cff4699e8ac99225885\"",
-      "last_checked_at": "2026-10-16T01:30:50Z",
+      "etag": "W/\"617d794201f51600c420fa31ca6317109995d09e9d53902583e0e35854553664\"",
+      "last_checked_at": "2026-10-17T00:49:03Z",
       "has_hap": true
     },
     "LZZLHY/mc-ohos-resources": {
@@ -3582,7 +3582,7 @@
     },
     "LZZLHY/skipface": {
       "etag": "W/\"5060aa9a4e3719bbee2db65e43c9440b52e161149d7508eaba08207e1f6db047\"",
-      "last_checked_at": "2026-10-16T01:30:51Z",
+      "last_checked_at": "2026-10-17T00:49:03Z",
       "has_hap": true
     },
     "LaNasilDark/OpenHarmony-5.0.0-full-sdk": {
@@ -3592,7 +3592,7 @@
     },
     "LaNasilDark/OpenHarmony_HeartBeat_Monitor": {
       "etag": "W/\"599e2168058d5bb3957c842ab1545c77b8622271cc3f8c473b550cd32c1f7fcb\"",
-      "last_checked_at": "2026-10-16T01:30:52Z",
+      "last_checked_at": "2026-10-17T00:49:04Z",
       "has_hap": true
     },
     "LambdaYH/ScrcpyForHarmonyOS": {
@@ -3611,8 +3611,8 @@
       "has_hap": false
     },
     "LecAfyc/WitBili-OH": {
-      "etag": "W/\"541cd0f1ed4db46d6687167637a5f4c9b6c57fba2ab234c53653e3d8bf5c07b0\"",
-      "last_checked_at": "2026-10-16T01:30:54Z",
+      "etag": "W/\"0153bae8739c99ffe9624ed233a58f66607b322fde1dbd91d2cce82e3aa47890\"",
+      "last_checked_at": "2026-10-17T00:49:04Z",
       "has_hap": true
     },
     "LeeeeT/happ-decryptor": {
@@ -3771,8 +3771,8 @@
       "has_hap": false
     },
     "LoMoCatAp/Bika-HarmonyOS": {
-      "etag": "W/\"f48eea8b256080f88daa543f50b8c936fddb10df7a74dc4e64b4d7a46fa03f93\"",
-      "last_checked_at": "2026-10-16T01:31:07Z",
+      "etag": "W/\"1df91f6e9ffd3d16ef232631ec50de2e217ada1e2cec165d351cc3e2d49f7d0e\"",
+      "last_checked_at": "2026-10-17T00:49:05Z",
       "has_hap": true
     },
     "LoMoCatAp/ImmersiveAI": {
@@ -3797,7 +3797,7 @@
     },
     "Louis-C7/react-native-openharmony-svg": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-13T00:17:43Z",
+      "last_checked_at": "2026-10-17T00:49:05Z",
       "has_hap": false
     },
     "Lounwb/AirCourse": {
@@ -3976,8 +3976,8 @@
       "has_hap": false
     },
     "MinamiJogen/HarmonyOS-EhViewer": {
-      "etag": "W/\"992c11ccc01b8b37bb544e8e790960c42bce20c376fe6779c4cdf7c759b47582\"",
-      "last_checked_at": "2026-10-16T01:31:29Z",
+      "etag": "W/\"4dbd96d05f5000fdb74daf86e6f2acc7ee181955adeb7a0fd19224a6f71d5217\"",
+      "last_checked_at": "2026-10-17T00:49:07Z",
       "has_hap": true
     },
     "Mineral-Salt/ohporting_device_board_xiaomi": {
@@ -4157,7 +4157,7 @@
     },
     "Nekofox-POT/LinMusic": {
       "etag": "W/\"80f40b9750d272b32b258ba7f7285781056beccfd34ffae4ef19420f53351355\"",
-      "last_checked_at": "2026-10-16T01:31:44Z",
+      "last_checked_at": "2026-10-17T00:49:09Z",
       "has_hap": true
     },
     "Nellaker-group/happy": {
@@ -4242,7 +4242,7 @@
     },
     "OHOTP/ohtotptoken": {
       "etag": "W/\"45cfc019c4e073865f2005a0537d00701d83856ba112cc9f1193419f6d0b1519\"",
-      "last_checked_at": "2026-10-16T01:31:53Z",
+      "last_checked_at": "2026-10-17T00:49:09Z",
       "has_hap": true
     },
     "OHPG/.github": {
@@ -4306,8 +4306,8 @@
       "has_hap": false
     },
     "Octopustank/HarmoNiLink": {
-      "etag": "W/\"88cd3442178f94698b311d2adf581d009a993039f9956053d38e934255fddeb1\"",
-      "last_checked_at": "2026-10-16T01:31:57Z",
+      "etag": "W/\"2d6e5708c393312d7e1be34d7d1a93353018d9fe8c6981faeed2d7e3ca00cc43\"",
+      "last_checked_at": "2026-10-17T00:49:09Z",
       "has_hap": true
     },
     "Oefenweb/ansible-haproxy": {
@@ -4356,8 +4356,8 @@
       "has_hap": false
     },
     "OpenBMB/MiniCPM-V-Apps": {
-      "etag": "W/\"6d393825d9749702128a68622df3b0cdb54ed0fff4f8edd2718982f09bef0ff4\"",
-      "last_checked_at": "2026-10-16T01:32:01Z",
+      "etag": "W/\"bf8989786b45a9b2ab21b7b2d8689f366047dac8da2ea3f8364926147fcb794b\"",
+      "last_checked_at": "2026-10-17T00:49:10Z",
       "has_hap": true
     },
     "OpenHarmony-NET/.github": {
@@ -4547,7 +4547,7 @@
     },
     "Puiching-Memory/HOMOAPP_Q5": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-13T00:19:06Z",
+      "last_checked_at": "2026-10-17T00:49:11Z",
       "has_hap": false
     },
     "PulseInProd/SP26_HAP455_Week2": {
@@ -4602,7 +4602,7 @@
     },
     "PzkpfwIVH/OpenHarmony_AI_Agent": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-13T00:19:09Z",
+      "last_checked_at": "2026-10-17T00:49:11Z",
       "has_hap": false
     },
     "Q-qiuqiu/OpenHarmony_2024": {
@@ -4757,7 +4757,7 @@
     },
     "Riordon666/cloud-mail-for-harmonyos": {
       "etag": "W/\"9146cef4e1aad787a231b8a634c8024feb9d6f17d488d8ea12d5fb16906660e4\"",
-      "last_checked_at": "2026-10-16T01:32:43Z",
+      "last_checked_at": "2026-10-17T00:49:12Z",
       "has_hap": true
     },
     "RiversCoda/openHarmonySmartFan": {
@@ -4777,7 +4777,7 @@
     },
     "RohyTeam/Player": {
       "etag": "W/\"facd0567b79d918340c717dbf0cadbc0e802c5d0b8d8968aeb14eef85fc16d2a\"",
-      "last_checked_at": "2026-10-16T01:32:45Z",
+      "last_checked_at": "2026-10-17T00:49:13Z",
       "has_hap": true
     },
     "RohyTeam/Rohier": {
@@ -4842,12 +4842,12 @@
     },
     "SKL-666666/mnn-local-ai-chat": {
       "etag": "W/\"ac2a7616656b73fef1c4c9ab50bdb5ebdb0048bfdca7f1a537715d0eb6f0ece9\"",
-      "last_checked_at": "2026-10-16T01:32:50Z",
+      "last_checked_at": "2026-10-17T00:49:13Z",
       "has_hap": true
     },
     "SKL-666666/qingtu-harmony": {
       "etag": "W/\"30819d23ec9e551a0ca79cacf994d3b56de323dada3713c1094e3709b304dbbc\"",
-      "last_checked_at": "2026-10-16T01:32:50Z",
+      "last_checked_at": "2026-10-17T00:49:14Z",
       "has_hap": true
     },
     "SKL-666666/qwen-studio-harmony": {
@@ -5017,7 +5017,7 @@
     },
     "ShwStone/AnyPWA": {
       "etag": "W/\"3fb20e96b1467c43ec3e2aa64036524693f6eaa5aa814eca1f0f42694a70d44d\"",
-      "last_checked_at": "2026-10-16T01:33:04Z",
+      "last_checked_at": "2026-10-17T00:49:15Z",
       "has_hap": true
     },
     "Shyky/163music": {
@@ -5221,8 +5221,8 @@
       "has_hap": false
     },
     "SwimmingTiger/aria2-ohos": {
-      "etag": "W/\"7698d165c3705550acc6a20c4cab754f88e513ac272676bf5dce8ae2d1e9d8a4\"",
-      "last_checked_at": "2026-10-16T01:33:23Z",
+      "etag": "W/\"2f6c3699211c90a4a8618b20ec28ceafa30c4bc4180bf27136339a2335ae6db6\"",
+      "last_checked_at": "2026-10-17T00:49:18Z",
       "has_hap": true
     },
     "Symbolk/HarmonyOS-Emoji-Lock": {
@@ -5381,8 +5381,8 @@
       "has_hap": false
     },
     "Torry2022/turbo-ai-chat-harmonyos": {
-      "etag": "W/\"0417156ed3bf31ebc60cf0ba38e21f13e5fe7aa4f6eca62556d606ca9c028102\"",
-      "last_checked_at": "2026-10-16T01:33:37Z",
+      "etag": "W/\"1d9d7f66de0a64bac9c95a403a58b97478d2c6de8676e8a5878ac11a8be3a1fc\"",
+      "last_checked_at": "2026-10-17T00:49:20Z",
       "has_hap": true
     },
     "TreasureGooldove/HarmonyOS_CrossDeviceIME": {
@@ -5392,7 +5392,7 @@
     },
     "Turbo1123/turbo-ai-chat-harmonyos": {
       "etag": "W/\"29f63c9140b14dc3a2a9afa85ff00dbdb3d21a665170d8c60a4f9abcb341390a\"",
-      "last_checked_at": "2026-10-16T01:33:39Z",
+      "last_checked_at": "2026-10-17T00:49:20Z",
       "has_hap": true
     },
     "Tw-0l/Happiness-Report": {
@@ -5487,7 +5487,7 @@
     },
     "VoidInHeart/DevControl_openHarmony": {
       "etag": "W/\"5664e7e5aff773df7c8ef43bd6dc05843784ed17cd2401ac56dbe67bcbae8399\"",
-      "last_checked_at": "2026-10-16T01:33:46Z",
+      "last_checked_at": "2026-10-17T00:49:20Z",
       "has_hap": true
     },
     "VomPom/blog_harmony": {
@@ -5592,7 +5592,7 @@
     },
     "WistfulReverie/Openharmony": {
       "etag": "W/\"5ddddd9f3460c185140e693ef7b59605c29fe6e0997c98daf422cf81c696f818\"",
-      "last_checked_at": "2026-10-16T01:33:57Z",
+      "last_checked_at": "2026-10-17T00:49:22Z",
       "has_hap": true
     },
     "Wscats/awesome-harmony": {
@@ -5626,8 +5626,8 @@
       "has_hap": false
     },
     "XCNXNXNX/lingxi-flow-agent": {
-      "etag": "W/\"8fb499abc0433f96a9fc0305a3b52eec51686b7590bf06dc2de5b301f7ce6678\"",
-      "last_checked_at": "2026-10-16T01:33:59Z",
+      "etag": "W/\"57d187790ce9896e1d883b2499ccd300e5af5d6eda97f4f14960d65931387b69\"",
+      "last_checked_at": "2026-10-17T00:49:22Z",
       "has_hap": true
     },
     "XFX-939/harmonyos-clashbox-guide": {
@@ -5637,7 +5637,7 @@
     },
     "XHXYT/Web-Telegram-for-OpenHarmony": {
       "etag": "W/\"c11f80bf453f8cd6307e8e92bde8916328b73bdb13e83fb67dd2b113272d16cd\"",
-      "last_checked_at": "2026-10-16T01:34:01Z",
+      "last_checked_at": "2026-10-17T00:49:23Z",
       "has_hap": true
     },
     "XXYoLoong/Lingli": {
@@ -5702,7 +5702,7 @@
     },
     "YANGZX22/Voot": {
       "etag": "W/\"2195dedefe8bf2043db98f275c89085a9695da0fa87aa9ef82612e31ae734793\"",
-      "last_checked_at": "2026-10-16T01:34:07Z",
+      "last_checked_at": "2026-10-17T00:49:24Z",
       "has_hap": true
     },
     "YL3528/HarmonyOS-test": {
@@ -5801,8 +5801,8 @@
       "has_hap": true
     },
     "YuanChu-Tec/JMComic-HarmonyOS": {
-      "etag": "W/\"c78844342296c8ccf5943999ccf52de8fb7568bf43fff9b9f88f693a83de8be2\"",
-      "last_checked_at": "2026-10-16T01:34:19Z",
+      "etag": "W/\"1a19923659d42548e2f1cfbc8198bb5ba6ae3055669bd603715582f71f7f34b6\"",
+      "last_checked_at": "2026-10-17T00:49:26Z",
       "has_hap": true
     },
     "YuanChu-Tec/tdlib-harmony-builder": {
@@ -5841,8 +5841,8 @@
       "has_hap": false
     },
     "Z-P-J/AnimeZ": {
-      "etag": "W/\"8d5626cf1526d059d91ee0ce271eeda4f9791f7d4f283557bd7d4fbc944117a9\"",
-      "last_checked_at": "2026-10-16T01:34:23Z",
+      "etag": "W/\"c16e79ad80af4aea4fab17d51e05792e0a90cf5f72c8b61e8c92165d20794fa5\"",
+      "last_checked_at": "2026-10-17T00:49:26Z",
       "has_hap": true
     },
     "Z1vK/OpenHarmonyHomework": {
@@ -5857,7 +5857,7 @@
     },
     "ZHCOOL520/HarmonyOS-McCraftLaucher": {
       "etag": "W/\"81c601c37d1683e77a6bc677fc37e1424bfce1f98d8183f4050084c4f16105c6\"",
-      "last_checked_at": "2026-10-16T01:34:24Z",
+      "last_checked_at": "2026-10-17T00:49:27Z",
       "has_hap": true
     },
     "ZHENGHONGGUANG-1/openHarmony-AI-Desktop": {
@@ -6002,7 +6002,7 @@
     },
     "adlsdztony/tailscale-hos": {
       "etag": "W/\"fa2d919ff8f296d359f9f2b549d2aefec111e38aa33f278f366fa969802df904\"",
-      "last_checked_at": "2026-10-16T01:34:44Z",
+      "last_checked_at": "2026-10-17T00:49:28Z",
       "has_hap": true
     },
     "adminparry/harmonyos": {
@@ -6572,12 +6572,12 @@
     },
     "awaLiny2333/Dictionareow": {
       "etag": "W/\"2055ff5aba51647ceaa667c2f49b6c80db27c4eb096203b173a0406fffc69f40\"",
-      "last_checked_at": "2026-10-16T01:35:30Z",
+      "last_checked_at": "2026-10-17T00:49:29Z",
       "has_hap": true
     },
     "awaLiny2333/LinysBrowser_NEXT": {
-      "etag": "W/\"76fa04a582d776ec8cc7ab8c5354378cc0c4f1ab0c4d4f1c4956d4179b3d006e\"",
-      "last_checked_at": "2026-10-16T01:35:31Z",
+      "etag": "W/\"dcbae3fba18fc12d327baa381cf79f09946d26ad8498d8f8a536232150d5748d\"",
+      "last_checked_at": "2026-10-17T00:49:30Z",
       "has_hap": true
     },
     "awaLiny2333/Linys_Ani_Examples_NEXT": {
@@ -6597,7 +6597,7 @@
     },
     "awaLiny2333/SmoothCard_NEXT": {
       "etag": "W/\"92b86c3f5288de471ad8d5cead2c70dec762d1c2537d99412654509af4678ac3\"",
-      "last_checked_at": "2026-10-16T01:35:33Z",
+      "last_checked_at": "2026-10-17T00:49:30Z",
       "has_hap": true
     },
     "awaLiny2333/SmoothLyrics_NEXT": {
@@ -6607,22 +6607,22 @@
     },
     "awaLiny2333/Snake_NEXT": {
       "etag": "W/\"f3e9898f80c025a592546901529291b8ffab05a666382850ff5f9e2b9c0a4a75\"",
-      "last_checked_at": "2026-10-16T01:35:33Z",
+      "last_checked_at": "2026-10-17T00:49:30Z",
       "has_hap": true
     },
     "awaLiny2333/Spaceow": {
       "etag": "W/\"7e0169a275341d53ff2bcc44083a31e396afbf72936375325c64eb22c0bcad38\"",
-      "last_checked_at": "2026-10-16T01:35:33Z",
+      "last_checked_at": "2026-10-17T00:49:31Z",
       "has_hap": true
     },
     "awaLiny2333/Spaceow_NEXT": {
       "etag": "W/\"f69cbaf436f575b02862507c3bda558bb27ab66b0db4e13903fcd8a39b14718f\"",
-      "last_checked_at": "2026-10-16T01:35:34Z",
+      "last_checked_at": "2026-10-17T00:49:31Z",
       "has_hap": true
     },
     "awaLiny2333/Symbolu_NEXT": {
       "etag": "W/\"b82ba2b221e353e0a44f72715bda1ab92d3e86f8874bdf54d76a380656920979\"",
-      "last_checked_at": "2026-10-16T01:35:34Z",
+      "last_checked_at": "2026-10-17T00:49:31Z",
       "has_hap": true
     },
     "awaLiny2333/Turbowarp_HMOS_Meow": {
@@ -6852,7 +6852,7 @@
     },
     "bluedeer000/clipboard-sync": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-05T23:56:54Z",
+      "last_checked_at": "2026-10-17T00:49:31Z",
       "has_hap": false
     },
     "bluerail/haproxy-centos": {
@@ -7186,8 +7186,8 @@
       "has_hap": false
     },
     "chashaochang/JellyFin_HarmonyOS": {
-      "etag": "W/\"6f922d0edb8d1281b4ff33f91349a5b5f538ca96c0e7f25122954605be8281c2\"",
-      "last_checked_at": "2026-10-16T01:36:23Z",
+      "etag": "W/\"16d4c7bce6c8dd8e4137cb15431dfe9a13d7e8a49449c2906c9ac15c6e579abb\"",
+      "last_checked_at": "2026-10-17T00:49:32Z",
       "has_hap": true
     },
     "chatJohn/HarmonyOS_Soft": {
@@ -7242,7 +7242,7 @@
     },
     "chenghancheng/OpenHarmony": {
       "etag": "W/\"0a5b546ceec37723c9fcdc493d569375c5aa29c4d8fe6f4303b053200b7b17c3\"",
-      "last_checked_at": "2026-10-16T01:36:27Z",
+      "last_checked_at": "2026-10-17T00:49:32Z",
       "has_hap": true
     },
     "chengssir/HarmonyOSUI": {
@@ -7406,8 +7406,8 @@
       "has_hap": false
     },
     "collaborative-creation/etohos": {
-      "etag": "W/\"ea71a4e0f248b227dab2124f5d864787d724f21aa88018b63bc0980acd8eb5c5\"",
-      "last_checked_at": "2026-10-16T01:36:41Z",
+      "etag": "W/\"bbceffe36a977d965e27aa841bf23284a491f8b436d611d3da89f223bdd75abe\"",
+      "last_checked_at": "2026-10-17T00:49:33Z",
       "has_hap": true
     },
     "colorlight/graphic_3d": {
@@ -7427,12 +7427,12 @@
     },
     "conradsheeran/steam-totp": {
       "etag": "W/\"7beed2d48f071d05dcef1e72b14b94b4e290c50f15224ed08c4c815030285cd4\"",
-      "last_checked_at": "2026-10-13T00:23:34Z",
+      "last_checked_at": "2026-10-17T00:49:33Z",
       "has_hap": false
     },
     "conradsheeran/tickauth": {
       "etag": "W/\"64d30a4475b98d058c13e673542babecf8949d7c48b34a1818cd75c7d5f3d33e\"",
-      "last_checked_at": "2026-10-16T01:36:43Z",
+      "last_checked_at": "2026-10-17T00:49:33Z",
       "has_hap": true
     },
     "continuationlabs/hapchat": {
@@ -7612,7 +7612,7 @@
     },
     "daugf2527/harmonyos-libretro-emulator": {
       "etag": "W/\"6dd466080eb929db5c88651bb38cb1c1a1e3f069dc5a0d3044e33a77c18e71c9\"",
-      "last_checked_at": "2026-10-16T01:36:57Z",
+      "last_checked_at": "2026-10-17T00:49:35Z",
       "has_hap": true
     },
     "davejacobsen/HapticHaven": {
@@ -8326,8 +8326,8 @@
       "has_hap": false
     },
     "flypigJ/Tailscale-OHOS": {
-      "etag": "W/\"bd864b02a07b7d9268a66a2fa9f75456537ccfa6b7b44746497105a633eb1ed7\"",
-      "last_checked_at": "2026-10-16T01:38:10Z",
+      "etag": "W/\"f2c4af509f68fdad630fb6985d69ec3d2483098d5e60e7c18ef2139a5d12d0cc\"",
+      "last_checked_at": "2026-10-17T00:49:40Z",
       "has_hap": true
     },
     "fm2309471970/openharmony-test": {
@@ -9156,8 +9156,8 @@
       "has_hap": false
     },
     "harmoninux/Harmonix": {
-      "etag": "W/\"fe00ba57942d3a1f1e329dda82474d5379169dfdddedbd54c2d03f19ee8b46f6\"",
-      "last_checked_at": "2026-10-16T01:39:07Z",
+      "etag": "W/\"841506617481c774c06d2190e320c0b08ba67a768bbc024999d02177487b6599\"",
+      "last_checked_at": "2026-10-17T00:49:43Z",
       "has_hap": true
     },
     "harmoninux/HiSH": {
@@ -9212,7 +9212,7 @@
     },
     "harmonyos-dev/aigc-harmonyos-sample": {
       "etag": "W/\"7e5f94b1da6a76d286a39021bc476ae676b1755b36f5eeff4f13c8f5f98b476a\"",
-      "last_checked_at": "2026-10-16T01:39:13Z",
+      "last_checked_at": "2026-10-17T00:49:44Z",
       "has_hap": true
     },
     "harmonyos-dev/arkui-codelabs": {
@@ -9232,7 +9232,7 @@
     },
     "harmonyos-dev/harmonyos-github-action-example": {
       "etag": "W/\"b8ecaf33e00c9282ac3a6ef06c7874af0093a5e8da599f5e8b9f707b87de0f07\"",
-      "last_checked_at": "2026-10-16T01:39:14Z",
+      "last_checked_at": "2026-10-17T00:49:44Z",
       "has_hap": true
     },
     "harmonyos-dev/highlightjs-arkts": {
@@ -9337,7 +9337,7 @@
     },
     "hefengbao/jingmo-for-HarmonyOS": {
       "etag": "W/\"2e81dc3b759775b129e469015bc93c15789df3e63806506f2c5142131541fa63\"",
-      "last_checked_at": "2026-10-16T01:39:20Z",
+      "last_checked_at": "2026-10-17T00:49:44Z",
       "has_hap": true
     },
     "hehuaiping/second-display": {
@@ -9502,7 +9502,7 @@
     },
     "hongvyd10-cloud/rustdesk-harmonyos": {
       "etag": "W/\"95dba93d31147ad54256b8639ec98f5db58108ab05d55e00af3ac293ac642f89\"",
-      "last_checked_at": "2026-10-16T01:39:39Z",
+      "last_checked_at": "2026-10-17T00:49:45Z",
       "has_hap": true
     },
     "honwen/luci-app-haproxy-tcp": {
@@ -9677,7 +9677,7 @@
     },
     "hydrotho/OpenHarmony_Router": {
       "etag": "W/\"d44b0115722ffb59a909516a2fcaaec1a348ae2a195677e073dfbae2389d29dd\"",
-      "last_checked_at": "2026-10-16T01:39:55Z",
+      "last_checked_at": "2026-10-17T00:49:45Z",
       "has_hap": true
     },
     "hypriot/rpi-node-haproxy-example": {
@@ -9727,7 +9727,7 @@
     },
     "iamhyc/Aigis": {
       "etag": "W/\"86c23281c991276db5be700a6a44dd93a058f138d0ad949dc22eaa9ec2c01307\"",
-      "last_checked_at": "2026-10-16T01:39:59Z",
+      "last_checked_at": "2026-10-17T00:49:45Z",
       "has_hap": true
     },
     "iamzhihuix/happy-claude-skills": {
@@ -10277,7 +10277,7 @@
     },
     "jschwe/ServoDemo": {
       "etag": "W/\"c67dd8740b1364f3f67f4eeb7624802adac9a668136e268e79c5921056fad318\"",
-      "last_checked_at": "2026-10-16T01:40:47Z",
+      "last_checked_at": "2026-10-17T00:49:46Z",
       "has_hap": true
     },
     "jschwe/ohos-fontconfig": {
@@ -10636,8 +10636,8 @@
       "has_hap": false
     },
     "ks-lm-kf/harmony-kslmkf-karing-hap": {
-      "etag": "W/\"a3259ef718408bf4678d04c83fc6e0baf594e96cf3bde2e551a839328d6f6fd3\"",
-      "last_checked_at": "2026-10-16T01:41:16Z",
+      "etag": "W/\"3fba5d865204d1bd6e1ca319b771d517ef02efb7b9c7888c3ba0e20f684135e1\"",
+      "last_checked_at": "2026-10-17T00:49:47Z",
       "has_hap": true
     },
     "kserge2001/vagrant-haproxy": {
@@ -10782,7 +10782,7 @@
     },
     "leonail1/OpenHarmony-ANNS-Test": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-13T00:28:18Z",
+      "last_checked_at": "2026-10-17T00:49:47Z",
       "has_hap": false
     },
     "letssudormrf/haproxy-windows": {
@@ -10856,13 +10856,13 @@
       "has_hap": false
     },
     "likuai2010/auto-installer": {
-      "etag": "W/\"239e8124ec4268c8006b212657921c8c123cb7bb5090478798e1f1d1ffbeecd2\"",
-      "last_checked_at": "2026-10-16T01:41:39Z",
+      "etag": "W/\"91eb731462a8075fb5f7b1f2e69abdd78e50b2fb9fc74285108e6674f035b7cb\"",
+      "last_checked_at": "2026-10-17T00:49:48Z",
       "has_hap": true
     },
     "likuai2010/moonlight-harmonyos": {
-      "etag": "W/\"c7d94ad7c77760d19abfb371cf8f566d821ffad3fbc59a8b5c77ac19c1d167eb\"",
-      "last_checked_at": "2026-10-16T01:41:40Z",
+      "etag": "W/\"64faf8e75a746e58da3a72847eb703ca92883638126ecf6806209cfa052bc054\"",
+      "last_checked_at": "2026-10-17T00:49:48Z",
       "has_hap": true
     },
     "limuyang2/ohos-Crop": {
@@ -10922,7 +10922,7 @@
     },
     "littlestone0806/doubao-watermark-lab": {
       "etag": "W/\"9aa6b15586adbef12c9a23c2dd5bca0e41fc716715355fa71d75bbe01e75d23f\"",
-      "last_checked_at": "2026-10-16T01:41:46Z",
+      "last_checked_at": "2026-10-17T00:49:49Z",
       "has_hap": true
     },
     "littlestone0806/godot-openharmony-test-video": {
@@ -11196,8 +11196,8 @@
       "has_hap": false
     },
     "lxdklp/MCB_OHOS": {
-      "etag": "W/\"c6d073455763a78c2cdd6dfe352d4efabd875143281efe553549a0d84f831fe3\"",
-      "last_checked_at": "2026-10-16T01:42:13Z",
+      "etag": "W/\"327b104ddad15a8f01fd8cff8e937acec487e80d3f601bbb18593300678cdff7\"",
+      "last_checked_at": "2026-10-17T00:49:50Z",
       "has_hap": true
     },
     "lzyJava666/HarmonyOS": {
@@ -11286,8 +11286,8 @@
       "has_hap": false
     },
     "maxin0324/ClashHM": {
-      "etag": "W/\"c6554280f16cdd89b6bb6d7abd83bb958622ebe52cb648040ae5febf56ab945e\"",
-      "last_checked_at": "2026-10-16T01:42:24Z",
+      "etag": "W/\"a56d262171013a9e6dba96390cee5a3b35c58436d83913c4a90e4e0c8768f31c\"",
+      "last_checked_at": "2026-10-17T00:49:51Z",
       "has_hap": true
     },
     "mayaculpa/hapi": {
@@ -11882,7 +11882,7 @@
     },
     "nokiafen/Smart-Indicator-for-harmony-os": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-06T00:05:03Z",
+      "last_checked_at": "2026-10-17T00:49:56Z",
       "has_hap": false
     },
     "normal-cock/happybase-kerberos-patch": {
@@ -12001,13 +12001,13 @@
       "has_hap": false
     },
     "ohosvscode/harmony-next-pipeline": {
-      "etag": "W/\"74908505996be40951a916186538929912b62ff22336193c74deacfb9d4aeff3\"",
-      "last_checked_at": "2026-10-16T01:43:42Z",
+      "etag": "W/\"cff113f084ab56ee718fa19c4499c6387a10b64197b198b90eaf1019c50f0e8d\"",
+      "last_checked_at": "2026-10-17T00:49:57Z",
       "has_hap": true
     },
     "ohosvscode/ohos_electron_hap": {
-      "etag": "W/\"d9d52862d7e37e8c5db5562a52490867f167f5b9b6202662ad9e24d99275dd57\"",
-      "last_checked_at": "2026-10-16T01:43:43Z",
+      "etag": "W/\"7ef6e7d5ee572ef56f9a61beae67440a5eab000fb32a4b00339ea8cd01517e35\"",
+      "last_checked_at": "2026-10-17T00:49:57Z",
       "has_hap": true
     },
     "ohosvscode/openharmony_manifest": {
@@ -13892,7 +13892,7 @@
     },
     "panedioic/blender-harmonyos-meta": {
       "etag": "W/\"cdbe538cd8fd3361948e0976cbd183c7cd056c06e9e109d436789224f7826312\"",
-      "last_checked_at": "2026-10-16T01:45:42Z",
+      "last_checked_at": "2026-10-17T00:49:58Z",
       "has_hap": true
     },
     "pangJimmy/openHarmonyUart": {
@@ -14127,7 +14127,7 @@
     },
     "qiuhaotc/HarmonyIPTV": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-13T00:32:49Z",
+      "last_checked_at": "2026-10-17T00:50:00Z",
       "has_hap": false
     },
     "qiuhaotc/HarmonyOSPlayground": {
@@ -14452,7 +14452,7 @@
     },
     "ruanxiaomei/hime-ohos": {
       "etag": "W/\"3f3ff3d4895d43152efc2c61488c4126c7e7aba7f58ce26f2a4a7e01c1cac25e\"",
-      "last_checked_at": "2026-10-16T01:46:32Z",
+      "last_checked_at": "2026-10-17T00:50:01Z",
       "has_hap": true
     },
     "rubyhan1314/HarmonyOS-100-Days": {
@@ -14482,7 +14482,7 @@
     },
     "rv2036/rvspoc-p2301-openharmony": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-13T00:33:18Z",
+      "last_checked_at": "2026-10-17T00:50:01Z",
       "has_hap": false
     },
     "rvaim/openharmony-docs": {
@@ -15107,7 +15107,7 @@
     },
     "spring-soft/MemoFlow": {
       "etag": "W/\"535105aea6ee600e2856bf20c626635aa9a7e99634b6d0c48ee0b1b7f20aa3f8\"",
-      "last_checked_at": "2026-10-16T01:47:30Z",
+      "last_checked_at": "2026-10-17T00:50:04Z",
       "has_hap": true
     },
     "springframeworkguru/hapi-spring-integration": {
@@ -15201,8 +15201,8 @@
       "has_hap": false
     },
     "suibianqwe/Ehviewer_OHOS": {
-      "etag": "W/\"7055e86b1aae2dc5837d648eebae6655c82440ae61de962e9a41885bd239cda0\"",
-      "last_checked_at": "2026-10-16T01:47:38Z",
+      "etag": "W/\"fdbc08e6924fd1276cf1f3f5d657bff55e3609b749b76b00963a8411d214bd64\"",
+      "last_checked_at": "2026-10-17T00:50:05Z",
       "has_hap": true
     },
     "suiminghui98-coder/HDF": {
@@ -15231,8 +15231,8 @@
       "has_hap": false
     },
     "sunny-luoyun/HM_pixiv": {
-      "etag": "W/\"5657440b9abb6d989194fee868c58ca67a7b39865819d48790f1b0f7f6c344b2\"",
-      "last_checked_at": "2026-10-16T01:47:41Z",
+      "etag": "W/\"c4cc03cb9133182f3b80514e7b0be21595553943f44a893f1763413669e7f354\"",
+      "last_checked_at": "2026-10-17T00:50:05Z",
       "has_hap": true
     },
     "sunxianlei/openharmonydocs": {
@@ -15432,7 +15432,7 @@
     },
     "tianlongbaobao/idut-HarmonyOS-Next": {
       "etag": "W/\"499ed39e9640de77f265feeaf9a3279f93900a70990a8344a5e44fe14e7f2947\"",
-      "last_checked_at": "2026-10-16T01:48:00Z",
+      "last_checked_at": "2026-10-17T00:50:07Z",
       "has_hap": true
     },
     "tiann/hapi": {
@@ -15602,7 +15602,7 @@
     },
     "una-231/Harmony_schoolHelper": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-13T00:34:58Z",
+      "last_checked_at": "2026-10-17T00:50:08Z",
       "has_hap": false
     },
     "unixsurfer/haproxyadmin": {
@@ -16071,8 +16071,8 @@
       "has_hap": false
     },
     "winehua/WineHua": {
-      "etag": "W/\"15cf1e1674b20db766674d69101a3cc06c04b5aa4c738193962748295098d972\"",
-      "last_checked_at": "2026-10-16T01:48:56Z",
+      "etag": "W/\"2d7d8ee940e621a9ecfb39d5e0ab28e77a0d862fe30fb983dfef2746328cb6fb\"",
+      "last_checked_at": "2026-10-17T00:50:09Z",
       "has_hap": true
     },
     "wip3l/legado-harmony": {
@@ -16096,8 +16096,8 @@
       "has_hap": false
     },
     "wkj2333666/Android-SSH-Codex": {
-      "etag": "W/\"53b0cfe58adb4c7546b61d91d50b90b9fa86187d301afff974ba7b365f333cfc\"",
-      "last_checked_at": "2026-10-16T01:48:58Z",
+      "etag": "W/\"bf9f9299d3c19d8d14da391e1cc2428291d43cf4139b3079492f4fc908a44183\"",
+      "last_checked_at": "2026-10-17T00:50:10Z",
       "has_hap": true
     },
     "wqdzxd/HarmonyOS": {
@@ -16177,7 +16177,7 @@
     },
     "wuweiyouzuoju/jidecards-anki-harmonyos": {
       "etag": "W/\"c7190611102ee1d9445ce32b26587355e358ba78c519cb79b381467562ac73e0\"",
-      "last_checked_at": "2026-10-16T01:49:08Z",
+      "last_checked_at": "2026-10-17T00:50:11Z",
       "has_hap": true
     },
     "wuxianlin/harmonyos_next_emulator_mod": {
@@ -16226,13 +16226,13 @@
       "has_hap": false
     },
     "xiaobaigroup/ClashBox": {
-      "etag": "W/\"9e88cb92d0658ff1a0c96f1f13ee50ca1e2335e7125b73751efacc265a2da635\"",
-      "last_checked_at": "2026-10-16T01:49:18Z",
+      "etag": "W/\"6c2e16abb62747e22356b01db25722dac6dc0fe675b751b34946035078ad9e7c\"",
+      "last_checked_at": "2026-10-17T00:50:12Z",
       "has_hap": true
     },
     "xiaobaigroup/HomoLauncher": {
-      "etag": "W/\"c32378dab95df117da43ff7bf6d9adf7a252570defb774db63e9a8832e62d2e1\"",
-      "last_checked_at": "2026-10-16T01:49:19Z",
+      "etag": "W/\"e1b48b2ba320a2afceb0c438fdca681016963205b011374ab32625e30b0a7934\"",
+      "last_checked_at": "2026-10-17T00:50:13Z",
       "has_hap": true
     },
     "xiaokele/HarmonyOSDemo": {
@@ -16266,8 +16266,8 @@
       "has_hap": false
     },
     "xiasi0/ha-companion-harmonyos": {
-      "etag": "W/\"cee32077f9578b7f7d89a72f0285592ba24abf45c53ad4603e54db737fcb9cad\"",
-      "last_checked_at": "2026-10-16T01:49:25Z",
+      "etag": "W/\"38288c60a5a651e5812d80608ba2e44adb574bf4b73cca8d088f8463c95fb752\"",
+      "last_checked_at": "2026-10-17T00:50:15Z",
       "has_hap": true
     },
     "xiatianwulei/HarmonyOS": {
@@ -16282,7 +16282,7 @@
     },
     "xiebyapps/ClipLink": {
       "etag": "W/\"f0adc998f9c78475fceb987d5b25712e80983c8172759b00e549a92d750ac9f4\"",
-      "last_checked_at": "2026-10-16T01:49:27Z",
+      "last_checked_at": "2026-10-17T00:50:16Z",
       "has_hap": true
     },
     "xieleihan/Qianfan-v2-HarmonyOS": {
@@ -16476,8 +16476,8 @@
       "has_hap": false
     },
     "yabi-zzh/simple-live-ohos": {
-      "etag": "W/\"af958a248fda5f098f124c49d176f86b64574b3a7b15b11a875453dab7081e10\"",
-      "last_checked_at": "2026-10-16T01:49:42Z",
+      "etag": "W/\"8e9b4b7234f9cfa829f09cda7ff8fa223fcbb00592eabdda4f0d816ef8256454\"",
+      "last_checked_at": "2026-10-17T00:50:17Z",
       "has_hap": true
     },
     "yan-6/HarmonyOS": {
@@ -16882,7 +16882,7 @@
     },
     "zhaozihanzzh/OpenHarmonyScreenCaptureSample": {
       "etag": "W/\"bb92deab1e2dd8c6a53a8f77c786a1eb19717f994d89eb02da5c0d2d8dad1a58\"",
-      "last_checked_at": "2026-10-16T01:50:21Z",
+      "last_checked_at": "2026-10-17T00:50:19Z",
       "has_hap": true
     },
     "zhen666555-sketch/HarmonyOS-community": {
@@ -17102,7 +17102,7 @@
     },
     "zyfdandan/HarmonyDesk": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-13T01:12:41Z",
+      "last_checked_at": "2026-10-17T00:50:21Z",
       "has_hap": false
     },
     "zygmuntz/kaggle-happiness": {
@@ -17437,7 +17437,7 @@
     },
     "AnmSleepalone/bujuan-harmony": {
       "etag": "W/\"eb069a107ab6675e91cf80a919074c4cf5ac67d9cfb41a53b6439ea0403bedc3\"",
-      "last_checked_at": "2026-10-16T01:24:52Z",
+      "last_checked_at": "2026-10-17T00:47:32Z",
       "has_hap": true
     },
     "AnowarOHossain/AnowarOHossain": {
@@ -17467,7 +17467,7 @@
     },
     "AuroraMaster/ohos-bindtest-app": {
       "etag": "W/\"73f4dc96d7f4e8dd46975cfdf1f6858dc4e99179a9c09a4fb20d5ef144006fa1\"",
-      "last_checked_at": "2026-10-16T01:25:38Z",
+      "last_checked_at": "2026-10-17T00:47:34Z",
       "has_hap": true
     },
     "AuroraMaster/ohos_react_native": {
@@ -17492,7 +17492,7 @@
     },
     "BGhost233/PackCheck": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-13T00:12:07Z",
+      "last_checked_at": "2026-10-17T00:47:34Z",
       "has_hap": false
     },
     "Betu-Li/Ledger": {
@@ -17537,7 +17537,7 @@
     },
     "Bokiiii02/PocketHana": {
       "etag": "W/\"b1442976a2c037e0673c9078efec3de7a13c6d764789d03768ca9ba0f0d36bfd\"",
-      "last_checked_at": "2026-10-16T01:25:51Z",
+      "last_checked_at": "2026-10-17T00:47:35Z",
       "has_hap": true
     },
     "BrainCoTech/ohos_ble_test": {
@@ -17632,7 +17632,7 @@
     },
     "Cateners/buttercup": {
       "etag": "W/\"aba6cc37f73815f2c917460423296764fac4062d0e4d2663b203db0dd4d7683e\"",
-      "last_checked_at": "2026-10-16T01:26:03Z",
+      "last_checked_at": "2026-10-17T00:47:36Z",
       "has_hap": true
     },
     "Chaeyoungxue/Harmony-OS": {
@@ -17651,8 +17651,8 @@
       "has_hap": false
     },
     "Chevey339/kelivo-ohos": {
-      "etag": "W/\"eb60e1124fde683a441d891497660e843fbcedbb6e450ffd999e30dbe13e684a\"",
-      "last_checked_at": "2026-10-16T01:26:11Z",
+      "etag": "W/\"8ce842037d168dfc97c7b72ebacc763159df9cd5c27500a5e202d3f3811f11a1\"",
+      "last_checked_at": "2026-10-17T00:47:37Z",
       "has_hap": true
     },
     "Chinzicam/DevEcoStudioProjects": {
@@ -17806,8 +17806,8 @@
       "has_hap": false
     },
     "DreamistW/Homowarden": {
-      "etag": "W/\"0a85b6cf0b528e2f0a18685fcd14d0e7602d999e7f6d5729c8af453a018d0adc\"",
-      "last_checked_at": "2026-10-16T01:26:44Z",
+      "etag": "W/\"663cdf851e3f90baf65b95610fe9129342dc221c8606378d0473eb2a49c8198b\"",
+      "last_checked_at": "2026-10-17T00:47:40Z",
       "has_hap": true
     },
     "DunoDoge/OHOS-Skills": {
@@ -17846,8 +17846,8 @@
       "has_hap": false
     },
     "Ember5843/YourPipe": {
-      "etag": "W/\"9c8eb7da33f647de7f21a89f3fd4eab8f33da5ef786e32e1ad37f19a9f84e56b\"",
-      "last_checked_at": "2026-10-16T01:26:54Z",
+      "etag": "W/\"9aac30b2defc4771395c8eec59b2360214e76a501630d36b3ea912b9385406c4\"",
+      "last_checked_at": "2026-10-17T00:47:42Z",
       "has_hap": true
     },
     "Entity-Him/dsh-harmonyos-pc": {
@@ -17861,8 +17861,8 @@
       "has_hap": false
     },
     "ErBWs/Kazumi": {
-      "etag": "W/\"64596330ea96cd8bfbab67f7c1d280d26b59def8b55bf86c4b7a85a7dedae377\"",
-      "last_checked_at": "2026-10-16T01:26:57Z",
+      "etag": "W/\"9191b7b09d3504211d08b2ec536ee9b352d74de0c02b1911b618ba2120f940f7\"",
+      "last_checked_at": "2026-10-17T00:47:42Z",
       "has_hap": true
     },
     "ErBWs/ohos-sdk": {
@@ -17982,7 +17982,7 @@
     },
     "FishPiOffical/fishpi-harmony": {
       "etag": "W/\"c616c52915e4a8cd62ac3888e59c2472c3cd047d1b6c7916f2bc31c483318f8d\"",
-      "last_checked_at": "2026-10-16T01:28:54Z",
+      "last_checked_at": "2026-10-17T00:48:54Z",
       "has_hap": true
     },
     "Fklearn/huawei-ohosDemo": {
@@ -18072,7 +18072,7 @@
     },
     "GetZ110/dbx-ohos": {
       "etag": "W/\"97ffdcb9944665a3a824f377a28387020e747748e1ec2db8304a3ce2d481dd96\"",
-      "last_checked_at": "2026-10-16T01:29:08Z",
+      "last_checked_at": "2026-10-17T00:48:55Z",
       "has_hap": true
     },
     "GitaWei/OHOS-AOSP-details": {
@@ -18152,7 +18152,7 @@
     },
     "HWYWL/iStore": {
       "etag": "W/\"ee8f6f72ff77c832f6d1e5fe8d4663551e8047a6dbb173236038fb54a7b3d93d\"",
-      "last_checked_at": "2026-10-16T01:29:20Z",
+      "last_checked_at": "2026-10-17T00:48:57Z",
       "has_hap": true
     },
     "Hackerl/ohos-ndk-llvm19": {
@@ -18181,8 +18181,8 @@
       "has_hap": false
     },
     "Hanmiao33/wyyhm6": {
-      "etag": "W/\"2c4389940200d8bc001c085470ef1f11271a48d66707dbeec90e2100314e2663\"",
-      "last_checked_at": "2026-10-16T01:29:24Z",
+      "etag": "W/\"885ebf8f8653d0df99ae24888b9216a75610f0b0e6a89da764065c3e27757074\"",
+      "last_checked_at": "2026-10-17T00:48:57Z",
       "has_hap": true
     },
     "Hans0812/OHOS": {
@@ -18552,7 +18552,7 @@
     },
     "Jiagu1218/vmrp-ohos": {
       "etag": "W/\"45ff46dac131fa909717a60438f2a016c3cc7c9db6dce58fcf1f0b90754e7086\"",
-      "last_checked_at": "2026-10-16T01:30:27Z",
+      "last_checked_at": "2026-10-17T00:49:01Z",
       "has_hap": true
     },
     "JieCode/todoList": {
@@ -18786,13 +18786,13 @@
       "has_hap": false
     },
     "Luxcis/PicACG_Next": {
-      "etag": "W/\"6445367a6ede552bfb04782a20781bae6ef520e2af1b22885352782168564da6\"",
-      "last_checked_at": "2026-10-16T01:31:13Z",
+      "etag": "W/\"ab0aea69ee9e49a41056934ac4825d88523ba504d20c5cff37c4cde118296315\"",
+      "last_checked_at": "2026-10-17T00:49:06Z",
       "has_hap": true
     },
     "Luxcis/Pokedex_Next": {
-      "etag": "W/\"0208c2af86401e4e292db455c0040a78549ce35c5b6d084c956336436cdcfbc2\"",
-      "last_checked_at": "2026-10-16T01:31:14Z",
+      "etag": "W/\"d7d2a79722225b18ae0a5d15344b550ab32b21420779c006eb11704cc6f767c3\"",
+      "last_checked_at": "2026-10-17T00:49:06Z",
       "has_hap": true
     },
     "LuyuZhang00/Word-Check": {
@@ -19077,7 +19077,7 @@
     },
     "Okysu/harmony-next-music-sharing": {
       "etag": "W/\"13dc8808357390460e8a9b7ee86909b9cc676fcd8c9f4ca557c1fffe59e50b6c\"",
-      "last_checked_at": "2026-10-16T01:31:59Z",
+      "last_checked_at": "2026-10-17T00:49:10Z",
       "has_hap": true
     },
     "OliviaWYQ/weather_harmony": {
@@ -19327,7 +19327,7 @@
     },
     "PollenWang6/HiXD": {
       "etag": "W/\"c4e231dbd95a9ab57c12ffea66a976b1d8e7f82ed16be1fb63b9c493c2a87ad8\"",
-      "last_checked_at": "2026-10-16T01:32:23Z",
+      "last_checked_at": "2026-10-17T00:49:11Z",
       "has_hap": true
     },
     "Ppwindf/Diary": {
@@ -19407,7 +19407,7 @@
     },
     "RedRackham1994/WanAndroidHarmoney": {
       "etag": "W/\"d559174486e149af0490cfb4aaca72698c88a0a1ef42737945b46c7109c18d1d\"",
-      "last_checked_at": "2026-10-16T01:32:40Z",
+      "last_checked_at": "2026-10-17T00:49:12Z",
       "has_hap": true
     },
     "Retrohos/libretro-frontend-ohos": {
@@ -19577,7 +19577,7 @@
     },
     "Su-Qingmu/QMHome": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-10T21:18:06Z",
+      "last_checked_at": "2026-10-17T00:49:17Z",
       "has_hap": false
     },
     "SuGar-JL/learnHarmony": {
@@ -19776,13 +19776,13 @@
       "has_hap": false
     },
     "WingedFin1251/Pvz-Gardendless-harmony": {
-      "etag": "W/\"075b7f975595b7895f68617e61d916d7c98c8bbe2cc67c2179cafbcc78dcc5b7\"",
-      "last_checked_at": "2026-10-16T01:33:55Z",
+      "etag": "W/\"17689d798183c2a17ca318310dc625e70eabde1a1ad418be76217acbab0886e0\"",
+      "last_checked_at": "2026-10-17T00:49:21Z",
       "has_hap": true
     },
     "Wodlie/PiliPlusX_ohos": {
       "etag": "W/\"6cfa20b88c05a4fba2b6232c2d765122a57345c48fc623816453dc83165fb690\"",
-      "last_checked_at": "2026-10-16T01:33:57Z",
+      "last_checked_at": "2026-10-17T00:49:22Z",
       "has_hap": true
     },
     "WuKongIM/WuKongIMHarmonyOSSDK": {
@@ -19801,8 +19801,8 @@
       "has_hap": true
     },
     "XHXYT/Pixark": {
-      "etag": "W/\"133a8e7e604f7264f6f8d46e70eb9cb1bcde0b915af8213caddbb194fcb81ec9\"",
-      "last_checked_at": "2026-10-16T01:34:00Z",
+      "etag": "W/\"f3df1544ef926a7c1552faf788cde33d3109451c4815a9cf4c03c3c173c8aa6b\"",
+      "last_checked_at": "2026-10-17T00:49:23Z",
       "has_hap": true
     },
     "XIVENNN/pet-care-hongmeng-ui": {
@@ -19817,7 +19817,7 @@
     },
     "XiaoChuangll/Melotopia": {
       "etag": "W/\"6e9e30fda3ec4ebb723ec5c2694a152cb0b75f9ac676b084ea9698352d21b3c6\"",
-      "last_checked_at": "2026-10-16T01:34:02Z",
+      "last_checked_at": "2026-10-17T00:49:24Z",
       "has_hap": true
     },
     "Xiaohuang-sysa/Harmony": {
@@ -19937,7 +19937,7 @@
     },
     "Your-USTC/DailyNic_HMOS": {
       "etag": "W/\"4630d5ef5da59c1963281fc4c044e224f774fe9c50d28c4bb99db618179dd40e\"",
-      "last_checked_at": "2026-10-16T01:34:17Z",
+      "last_checked_at": "2026-10-17T00:49:25Z",
       "has_hap": true
     },
     "YuanJieCao/ohos-device-doctor": {
@@ -20166,8 +20166,8 @@
       "has_hap": false
     },
     "apap6628114/lnga_harmony": {
-      "etag": "W/\"9cb4e645001725f8d312969aec6efdc6602dc179c74d9e19d2299f5f6405e476\"",
-      "last_checked_at": "2026-10-16T01:35:08Z",
+      "etag": "W/\"3b2fe4b06afdc797fa7349ab646dc5d60ae2b168adb314d36d8ae2a16958cfc0\"",
+      "last_checked_at": "2026-10-17T00:49:29Z",
       "has_hap": true
     },
     "app02-xiangbuchulai/hmzzq": {
@@ -20687,7 +20687,7 @@
     },
     "chashaochang/FNMusic_H": {
       "etag": "W/\"0253db7bb2fe2166fe090f0ef41e5e7191e56ff77a2c6b176236ec520ffeac1a\"",
-      "last_checked_at": "2026-10-16T01:36:22Z",
+      "last_checked_at": "2026-10-17T00:49:32Z",
       "has_hap": true
     },
     "chdown/store_ohos": {
@@ -20847,7 +20847,7 @@
     },
     "cvabm/HarmonyDemo": {
       "etag": "W/\"551d5f9c16f882aa4fecb2c6996e252e38e16f4a90ae497b78f3776166d5472a\"",
-      "last_checked_at": "2026-10-16T01:36:49Z",
+      "last_checked_at": "2026-10-17T00:49:34Z",
       "has_hap": true
     },
     "cyber-stanny/harmonyOS_aiDiary": {
@@ -20946,8 +20946,8 @@
       "has_hap": false
     },
     "dev4harmony/PiliPlus": {
-      "etag": "W/\"219f138370acda0726475533df33e1ca7fa61d5a965edf78172aa5dff1e7ce2a\"",
-      "last_checked_at": "2026-10-16T01:37:05Z",
+      "etag": "W/\"503cf2061b675dea8b5cce367c798699c8609a2b990b4642d880e421a66e7396\"",
+      "last_checked_at": "2026-10-17T00:49:36Z",
       "has_hap": true
     },
     "devhassanhafeez/Agrishop": {
@@ -21092,12 +21092,12 @@
     },
     "duckeaty/alistplayer_ohos": {
       "etag": "W/\"26f92b2b7fb074b8c325f17ffa58b8d79127db85536fa0ed93f8b4c553f3605d\"",
-      "last_checked_at": "2026-10-16T01:37:25Z",
+      "last_checked_at": "2026-10-17T00:49:37Z",
       "has_hap": true
     },
     "duckeaty/nas_nav_hormony": {
       "etag": "W/\"73e0aa92d5cfdedcf5634381ac72020cf2302175b68d2031428df379c8ce0e13\"",
-      "last_checked_at": "2026-10-16T01:37:25Z",
+      "last_checked_at": "2026-10-17T00:49:38Z",
       "has_hap": true
     },
     "dugu97/harmonyos-demo": {
@@ -21212,7 +21212,7 @@
     },
     "fcitx-contrib/fcitx5-harmony": {
       "etag": "W/\"d0302f690712f86d121a4ea8fcc64bb03cfe0d845fc67d3118241bb0885c0e4f\"",
-      "last_checked_at": "2026-10-16T01:37:55Z",
+      "last_checked_at": "2026-10-17T00:49:39Z",
       "has_hap": true
     },
     "fd9y2dqvtm-droid/emptyapp": {
@@ -21456,8 +21456,8 @@
       "has_hap": false
     },
     "guoxiucai/ohos-scrcpy-app": {
-      "etag": "W/\"ea0d1e32beb493d216c140dd82874112e78394da252715e2f65fcdfe7cbb9786\"",
-      "last_checked_at": "2026-10-16T01:38:44Z",
+      "etag": "W/\"d71d3b29855bf5a7f12d27dbf9b4aa71ee35a17a9bd36628255326844d9c41b7\"",
+      "last_checked_at": "2026-10-17T00:49:42Z",
       "has_hap": true
     },
     "h-desk/hdesk": {
@@ -22066,8 +22066,8 @@
       "has_hap": false
     },
     "jonas-pi/FMphoto": {
-      "etag": "W/\"2bb3ef3efa1051aa33a08d2373dd2e3448ec87593bb79e32d53e42c0d7058459\"",
-      "last_checked_at": "2026-10-16T01:40:44Z",
+      "etag": "W/\"1cbe521ac68a6b9c13a3aadda54c82b4e4b30d06fbe50a506867db44b2161178\"",
+      "last_checked_at": "2026-10-17T00:49:45Z",
       "has_hap": true
     },
     "jqknono/reference-harmony": {
@@ -22437,12 +22437,12 @@
     },
     "littlestone0806/NetEaseCloudMusic-ohos": {
       "etag": "W/\"ae56fd36791d1d0b8817e8346d26b4a3aa61a9c83cb02e2c3ef37d162c4457e1\"",
-      "last_checked_at": "2026-10-16T01:41:46Z",
+      "last_checked_at": "2026-10-17T00:49:49Z",
       "has_hap": true
     },
     "littlestone0806/WebApp-ohos": {
       "etag": "W/\"0c79e5d665b0520b3adf7913f6f4e5fcafefa033f626ff395dc83e07eae8b78a\"",
-      "last_checked_at": "2026-10-16T01:41:46Z",
+      "last_checked_at": "2026-10-17T00:49:49Z",
       "has_hap": true
     },
     "liuchunlao/PAGDemo": {
@@ -22731,8 +22731,8 @@
       "has_hap": false
     },
     "mgz0227/legado-Harmony": {
-      "etag": "W/\"406f17b21ddefa97e8c9b75880a31c1f38004106d6ee15287cd93ea56e2332b6\"",
-      "last_checked_at": "2026-10-16T01:42:32Z",
+      "etag": "W/\"d7df7a400960b220cf086d2d01de08fbd6a530132936d29e0537d6d9307c12da\"",
+      "last_checked_at": "2026-10-17T00:49:52Z",
       "has_hap": true
     },
     "mgzzZ/wechat_hmos": {
@@ -22782,7 +22782,7 @@
     },
     "mistrainn/harmonyTarget": {
       "etag": "W/\"f5533a77439c6b0cb8ba7f4faf98fbf364e60aa448c914c22aac7a34759e7eac\"",
-      "last_checked_at": "2026-10-16T01:42:44Z",
+      "last_checked_at": "2026-10-17T00:49:54Z",
       "has_hap": true
     },
     "mkj13146/myblog": {
@@ -22971,8 +22971,8 @@
       "has_hap": false
     },
     "niuhuan/copi-ohos": {
-      "etag": "W/\"f89a235941dc645f28ce4fa63458bc83b36d21fb19d803ecbe2930f6a5b32b6d\"",
-      "last_checked_at": "2026-10-16T01:43:19Z",
+      "etag": "W/\"1e11400849067fe50e805ac56f71202615f7e460102ab6eb4d9b99d3ab867096\"",
+      "last_checked_at": "2026-10-17T00:49:56Z",
       "has_hap": true
     },
     "niuhuan/daisy-ohos": {
@@ -23707,7 +23707,7 @@
     },
     "rzc135795/walllet": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-10T21:31:42Z",
+      "last_checked_at": "2026-10-17T00:50:01Z",
       "has_hap": false
     },
     "rzlnqliu9250/imusic": {
@@ -23801,18 +23801,18 @@
       "has_hap": false
     },
     "shanyan-wcx/Harmonic": {
-      "etag": "W/\"75872f9cdb909733bc50a688b0bc7ac1fdb276a05a38f4d4fe3c7d5dc656b724\"",
-      "last_checked_at": "2026-10-16T01:46:54Z",
+      "etag": "W/\"751af2d0db2f493a707396f34a05c1261e3ad627f3a155f79dc082d7f9a486f0\"",
+      "last_checked_at": "2026-10-17T00:50:01Z",
       "has_hap": true
     },
     "shanyan-wcx/Harmshelf": {
-      "etag": "W/\"6c14645175104ae45b183ca3bceec2e9e815d88282ce323322a6b381deb2c17f\"",
-      "last_checked_at": "2026-10-16T01:46:55Z",
+      "etag": "W/\"1908ee088c2adc91efadc27231fb3d9915a20448aa86f492d9c8f02744df6077\"",
+      "last_checked_at": "2026-10-17T00:50:02Z",
       "has_hap": true
     },
     "shanyan-wcx/Webapp": {
       "etag": "W/\"e71b2c0062a724463fdc6dc8254a532891384d2667d7bf07ab3ccd332c174e40\"",
-      "last_checked_at": "2026-10-16T01:46:55Z",
+      "last_checked_at": "2026-10-17T00:50:02Z",
       "has_hap": true
     },
     "shaohushuo/app_set_id_ohos": {
@@ -24112,7 +24112,7 @@
     },
     "sys2008/sys_AItoolkit_ohos": {
       "etag": "W/\"5d9cc9cd8f7156cbe8deea569cdcd1fef621f9aad81e16a979d0bd0baec4ded6\"",
-      "last_checked_at": "2026-10-16T01:47:47Z",
+      "last_checked_at": "2026-10-17T00:50:06Z",
       "has_hap": true
     },
     "tangfuhao/flutter-packages-ohos": {
@@ -24206,8 +24206,8 @@
       "has_hap": false
     },
     "tljk/FlClash-ohos": {
-      "etag": "W/\"db4266b747cb36bf2c68ad4ce8fb4d6bbd188b75799ab9789555832a3370a596\"",
-      "last_checked_at": "2026-10-16T01:48:04Z",
+      "etag": "W/\"1e4810aa9fae7e57d9cd198dc3e220d158f5ce14a4dde1c961a859e8572cc313\"",
+      "last_checked_at": "2026-10-17T00:50:08Z",
       "has_hap": true
     },
     "topasiz/ohospift": {
@@ -24337,7 +24337,7 @@
     },
     "w0scan/PiliOH": {
       "etag": "W/\"f025c0c4b67eb3e8c5383467f1a35ec2babfcde3b63a16a52ab9be0a1c6811a8\"",
-      "last_checked_at": "2026-10-16T01:48:27Z",
+      "last_checked_at": "2026-10-17T00:50:08Z",
       "has_hap": true
     },
     "w1-xr/HarmonyOs-Test": {
@@ -24561,8 +24561,8 @@
       "has_hap": false
     },
     "wly5556/S1-Orange": {
-      "etag": "W/\"37cdc8548ff9265cb324e3a1ffb2434e1783c5127bf68454141135ebf47af391\"",
-      "last_checked_at": "2026-10-16T01:48:59Z",
+      "etag": "W/\"44847cc4d03f660e37a736c1ff154a8075cb3298013bbcb5d09426a403a902c5\"",
+      "last_checked_at": "2026-10-17T00:50:11Z",
       "has_hap": true
     },
     "wogua-307/TuringEyes": {
@@ -24866,8 +24866,8 @@
       "has_hap": false
     },
     "yabi-zzh/livify-ohos": {
-      "etag": "W/\"ad65bd3a2669cf5aefb7783e296ff0d9c0de2aa4ae49e367be08ae7cb7d661d1\"",
-      "last_checked_at": "2026-10-16T01:49:42Z",
+      "etag": "W/\"bbc7a590143961144d36ffb39d11c36bd1886565e9dc8613b832cdf5252f63e8\"",
+      "last_checked_at": "2026-10-17T00:50:16Z",
       "has_hap": true
     },
     "yacholasser23/ohosha": {
@@ -25361,8 +25361,8 @@
       "has_hap": false
     },
     "forwardz666/Syncthing-for-HarmonyOS": {
-      "etag": "W/\"96173b45da5b12bc7f060d001e5c0b813fcb4ba77a367c1337f00fd2fdca8416\"",
-      "last_checked_at": "2026-10-16T01:38:13Z",
+      "etag": "W/\"8a474dc6cf684c94f0c5e30ed5136029d7f09e99c9bbf13b7dc9c456daa98663\"",
+      "last_checked_at": "2026-10-17T00:49:41Z",
       "has_hap": true
     },
     "mo-miller-685/Tomo_OHOS": {
@@ -25471,13 +25471,13 @@
       "has_hap": true
     },
     "enoughpower/dsh-harmony": {
-      "etag": "W/\"cc9266797242eaeb26d7292638b9bc4f1ed7b908fb12166a227afbef9f828ca7\"",
-      "last_checked_at": "2026-10-16T01:37:43Z",
+      "etag": "W/\"973feb33eddda573fe89c34a6ec3dd1c5de8a6d91dd718e612cc4abc2d129df8\"",
+      "last_checked_at": "2026-10-17T00:49:38Z",
       "has_hap": true
     },
     "fe-spark/EcoHub-for-OHOS": {
-      "etag": "W/\"a5d84ef76a15d9b3317f1130e1a2895c473ab65e2b1e4b3d9dd72bc7cf12be4f\"",
-      "last_checked_at": "2026-10-16T01:37:57Z",
+      "etag": "W/\"56fd28f9d3cbd611344938e3d0eb375600e178a97e7a8988b9be83fcf67f9dbe\"",
+      "last_checked_at": "2026-10-17T00:49:40Z",
       "has_hap": true
     },
     "nmhwsygxb/PhotoTrans-HarmonyOS": {
@@ -25491,8 +25491,8 @@
       "has_hap": false
     },
     "xiaobaigroup/HMOSHapURL": {
-      "etag": "W/\"de45126634dd15284314bade3b48dc33172ec0f7d95c98b88f0c970a0fb71316\"",
-      "last_checked_at": "2026-10-16T01:49:19Z",
+      "etag": "W/\"de5f44e24eb21cbdabe1c3ed77e1b0d498f880763abe85693569ec56e3b4a97e\"",
+      "last_checked_at": "2026-10-17T00:50:13Z",
       "has_hap": true
     },
     "Conectro/Conectro-Universal-Terminal-Client": {
@@ -25512,7 +25512,7 @@
     },
     "kamalovecz/hap_release_kit": {
       "etag": "W/\"e6945083e75e0895ec463071640b032e7a091e09184875638ce27686e7a9a7f8\"",
-      "last_checked_at": "2026-10-16T01:41:01Z",
+      "last_checked_at": "2026-10-17T00:49:47Z",
       "has_hap": true
     },
     "tiogansuni/ohosul": {
@@ -25527,7 +25527,7 @@
     },
     "wangxulove-jpg/ArkTavernSolo": {
       "etag": "W/\"d6c2b4371f4535d3eda2e595652d85ab804f7b2900e17bed9f9a170474fe569c\"",
-      "last_checked_at": "2026-10-16T01:48:36Z",
+      "last_checked_at": "2026-10-17T00:50:09Z",
       "has_hap": true
     },
     "yy438563755/openp2p_for_openharmony": {
@@ -25547,7 +25547,7 @@
     },
     "CDUESTC-OpenAtom-Open-Source-Club/openharmony-campus-safety": {
       "etag": "W/\"adf6b13baff48814f3b18e9489b040f662899dab0c832a683e1bb06a6f8c3146\"",
-      "last_checked_at": "2026-10-16T01:25:57Z",
+      "last_checked_at": "2026-10-17T00:47:35Z",
       "has_hap": true
     },
     "Entity-Him/dsh-doc-quick": {
@@ -25601,8 +25601,8 @@
       "has_hap": false
     },
     "qitinyu/Pilihos": {
-      "etag": "W/\"9c552e898abbbfa2ed2e1ff8efb407ad28df9805dd8f4b1de5316a22d173ddf9\"",
-      "last_checked_at": "2026-10-16T01:46:04Z",
+      "etag": "W/\"93d9dfb9c761b3c14cbeb98c356f13a833ffa6e20afdb8c47f190f24052d4cf2\"",
+      "last_checked_at": "2026-10-17T00:49:59Z",
       "has_hap": true
     },
     "re-ITRT/webdesk": {
@@ -25657,7 +25657,7 @@
     },
     "GarhinZhou/terminAI": {
       "etag": "W/\"6bbfc7ea175e3eb3aceafc62292653100a9cf1ac5a18317b48bc3212526d6c4a\"",
-      "last_checked_at": "2026-10-16T01:29:06Z",
+      "last_checked_at": "2026-10-17T00:48:55Z",
       "has_hap": true
     },
     "QinpanWan/AgentHub": {
@@ -25681,8 +25681,8 @@
       "has_hap": false
     },
     "QinpanWan/dsh-harmonyos-pc": {
-      "etag": "W/\"6e60cfb59e178102c94b1dc13be2b98d877c28a554c6f5ff7ad272771132906a\"",
-      "last_checked_at": "2026-10-16T01:32:34Z",
+      "etag": "W/\"49991222b539d7b5348efc803ee643c36316781ec59bd504dd47bad10e74bf8d\"",
+      "last_checked_at": "2026-10-17T00:49:12Z",
       "has_hap": true
     },
     "QinpanWan/dsh-hiboard-push": {
@@ -25707,12 +25707,12 @@
     },
     "WingedFin1251/GoTally": {
       "etag": "W/\"c251ab07c7fa91cc4a3f1b346695097292d19e961b547a82e1d3e221096a2195\"",
-      "last_checked_at": "2026-10-16T01:33:55Z",
+      "last_checked_at": "2026-10-17T00:49:21Z",
       "has_hap": true
     },
     "YANGZX22/XCube": {
       "etag": "W/\"23e51b72343e49bc78f21adae101e7405adc59c3071dff822e6c09fca1b0df21\"",
-      "last_checked_at": "2026-10-16T01:34:08Z",
+      "last_checked_at": "2026-10-17T00:49:25Z",
       "has_hap": true
     },
     "Yunyu-lin/ohos_live_song": {
@@ -25781,8 +25781,8 @@
       "has_hap": false
     },
     "Pkeji/FluxDownCover-OHOS": {
-      "etag": "W/\"66797f341e17a8cf4e5e57b05aef3e4beb0297cff7dcd5ed27b84a05b16936b8\"",
-      "last_checked_at": "2026-10-16T01:32:23Z",
+      "etag": "W/\"88bcb8037f9a25ff08a23794ce033c58ee92208e0a613c7661b8e86a5d4e1702\"",
+      "last_checked_at": "2026-10-17T00:49:10Z",
       "has_hap": true
     },
     "changshou83/RentRoom": {
@@ -25816,8 +25816,8 @@
       "has_hap": false
     },
     "wtronfi/FreshRSS-Harmony": {
-      "etag": "W/\"3376ff151ec83371df3bc07a9a9fec75fcc99eaffe00e5da2c4f7075421affa4\"",
-      "last_checked_at": "2026-10-16T01:49:05Z",
+      "etag": "W/\"8450fd61bb84225a3997b7e77170463419c67b492b80167a9f117d068e0b187a\"",
+      "last_checked_at": "2026-10-17T00:50:11Z",
       "has_hap": true
     },
     "NineSense9/openharmony-env-monitor": {
@@ -25852,7 +25852,7 @@
     },
     "shihuan1999/openjiuwen-ohos-port": {
       "etag": "W/\"c5b2d6399fcd6c647c4b8bd26363d187dff26d3ae738232b7473a130321ff591\"",
-      "last_checked_at": "2026-10-16T01:47:03Z",
+      "last_checked_at": "2026-10-17T00:50:03Z",
       "has_hap": true
     },
     "shihuan1999/vscode-ohos-port": {
@@ -25866,13 +25866,13 @@
       "has_hap": false
     },
     "SakuraNeko/Deepseek-Harmony": {
-      "etag": "W/\"25ea78ee65a15d12be558c01059d9322d3aa266387e3d57dfec3d5d486d2a8b5\"",
-      "last_checked_at": "2026-10-16T01:32:56Z",
+      "etag": "W/\"5accd8fcbcfd67265de5fbcab3bbb6bf43df7ee93a3d2a01e43b6802696459b4\"",
+      "last_checked_at": "2026-10-17T00:49:14Z",
       "has_hap": true
     },
     "WikG1018/site-mark": {
-      "etag": "W/\"8029a85c113d80725d50723b163707dc161ee947242436ccb7360c19d3ad0221\"",
-      "last_checked_at": "2026-10-16T01:33:53Z",
+      "etag": "W/\"9c65f3274f56be85c2aee3777d527bb0aa0cc6a275a6c4c86ea01e67178efcae\"",
+      "last_checked_at": "2026-10-17T00:49:21Z",
       "has_hap": true
     },
     "chen-linkai/build-hap": {
@@ -25947,7 +25947,7 @@
     },
     "Suixin04/Anomicon": {
       "etag": "W/\"37e388e78619d0ed48324f14afe75b0c86246c3af1fdcae937c0582051bf5f0e\"",
-      "last_checked_at": "2026-10-16T01:33:18Z",
+      "last_checked_at": "2026-10-17T00:49:17Z",
       "has_hap": true
     },
     "amiya6666/meow-harmony": {
@@ -26091,8 +26091,8 @@
       "has_hap": false
     },
     "SKL-666666/MiHome-Client": {
-      "etag": "W/\"bb0c22358e8a350c878a410caa37089eaab7bdc81a282e16c357dc8a630a379d\"",
-      "last_checked_at": "2026-10-16T01:32:49Z",
+      "etag": "W/\"86f1ee198239311408d81816e6a18363b471ae332e994062980792d8fc7701d8\"",
+      "last_checked_at": "2026-10-17T00:49:13Z",
       "has_hap": true
     },
     "Virtualtaknot/happ-vpn": {
@@ -26181,8 +26181,8 @@
       "has_hap": false
     },
     "sol5766/dshm": {
-      "etag": "W/\"e81e3aad2435b7b291b18d06da22dbe580d584d76a5a2950398566f402c4161e\"",
-      "last_checked_at": "2026-10-16T01:47:26Z",
+      "etag": "W/\"640283c75a473eaebabc9e20fe5022ddb6b09e428eae1e06b429ecd069d50bb0\"",
+      "last_checked_at": "2026-10-17T00:50:04Z",
       "has_hap": true
     },
     "veynelove/johnbeauty_os": {
@@ -26467,7 +26467,7 @@
     },
     "CloudWhiteTower/facilis-recording": {
       "etag": "W/\"19e1a655784005b8f15ac5d27629d820fee8b291801928180226aa234e3e3bc5\"",
-      "last_checked_at": "2026-10-16T01:26:18Z",
+      "last_checked_at": "2026-10-17T00:47:38Z",
       "has_hap": true
     },
     "EchoTechFE/devicekit": {
@@ -26531,8 +26531,8 @@
       "has_hap": false
     },
     "xiaoli8571/NekoBox4Harmony": {
-      "etag": "W/\"3c8aeae2bc247d3cfbfc923197ab4ea21560dc04c0ef05983b6c1951ea2da904\"",
-      "last_checked_at": "2026-10-16T01:49:22Z",
+      "etag": "W/\"13fd7e855fde50695d21b1aec92bc242dad9c92b0ed26423a49de9eb80567e18\"",
+      "last_checked_at": "2026-10-17T00:50:14Z",
       "has_hap": true
     },
     "yewse/harmony-inkboard": {
@@ -26592,7 +26592,7 @@
     },
     "shihuan1999/ohos-apps": {
       "etag": "W/\"2d7ad30c6b4d1a85bad525ee7fb4cfcab5b34d2f9cfc0f95a9cc92ef070d6f6a\"",
-      "last_checked_at": "2026-10-16T01:47:02Z",
+      "last_checked_at": "2026-10-17T00:50:02Z",
       "has_hap": true
     },
     "toads/hap-resigner": {
@@ -26657,7 +26657,7 @@
     },
     "lky005/komari-harmonyos-client": {
       "etag": "W/\"d36724c222f94810a9b6485696dabb733110b819a75a008e76090c6c78a637ac\"",
-      "last_checked_at": "2026-10-16T01:41:59Z",
+      "last_checked_at": "2026-10-17T00:49:50Z",
       "has_hap": true
     },
     "moyunqinghe/harmonyos-bill": {
@@ -26696,13 +26696,13 @@
       "has_hap": false
     },
     "Dou-art/jm": {
-      "etag": "W/\"a91a8c892b1debaedd9d8a9150048a7406286df41f96fa0a81137a814ac4343a\"",
-      "last_checked_at": "2026-10-16T01:26:43Z",
+      "etag": "W/\"3ea86c21859f71b7296878952fe3cecc41e36eae6f7ae21652b3f6a985c8444b\"",
+      "last_checked_at": "2026-10-17T00:47:40Z",
       "has_hap": true
     },
     "Henry-Fox/OhosXray": {
-      "etag": "W/\"3419f9f553ed99656c9792b5abc2551a2d5c0c3e95fcf9f58014e23c2daf343e\"",
-      "last_checked_at": "2026-10-16T01:29:56Z",
+      "etag": "W/\"d3b6c3a7fce91acb93182515fb781249fb41bd0b07fdd1c7ba2e5b73e1e5aff9\"",
+      "last_checked_at": "2026-10-17T00:49:00Z",
       "has_hap": true
     },
     "Kian0034/miaohui": {
@@ -26731,8 +26731,8 @@
       "has_hap": false
     },
     "xiaoli8571/SSRVPN_Harmony": {
-      "etag": "W/\"e3b0f8d1b88cd8c20776ad9dd5d275e45087b38db0631afb9b0a9cbd1d047274\"",
-      "last_checked_at": "2026-10-16T01:49:22Z",
+      "etag": "W/\"a809ff0355e2e841243ba96edb9d436a9a9f24c9f790bee781cec4a894c22c20\"",
+      "last_checked_at": "2026-10-17T00:50:15Z",
       "has_hap": true
     },
     "yuanyu3/commute_scene_baseline": {
@@ -26776,8 +26776,8 @@
       "has_hap": false
     },
     "StartYR/CalculatorX": {
-      "etag": "W/\"3fed2358cd0c88be75131fc9817197832d963070d9a7e7cb1d800875cf95710b\"",
-      "last_checked_at": "2026-10-16T01:33:16Z",
+      "etag": "W/\"efb16392051acdfa60d9446fc23a1709e7d6da5a4a9ded0152333c6f77957982\"",
+      "last_checked_at": "2026-10-17T00:49:17Z",
       "has_hap": true
     },
     "hello-will90/openharmony-workspace": {
@@ -26806,8 +26806,8 @@
       "has_hap": false
     },
     "wanmeime/tailmesh": {
-      "etag": "W/\"49c44e47a32b9f5a8ce3cde549f91ac9eb94267774ceec37c78cd2c6f34ea6f3\"",
-      "last_checked_at": "2026-10-16T01:48:38Z",
+      "etag": "W/\"9093b423ddc3f915f638d2fabc36488f71ef0081c471d097867667f3c04a094e\"",
+      "last_checked_at": "2026-10-17T00:50:09Z",
       "has_hap": true
     },
     "725lizi/MindMap-HarmonyOS": {
@@ -26866,8 +26866,8 @@
       "has_hap": false
     },
     "mason173/aira-browser": {
-      "etag": "W/\"3c3e1a6011203b5cb3849dc6f7e439c75c1a41ea69b9db80671485bf6a8f2094\"",
-      "last_checked_at": "2026-10-16T01:42:23Z",
+      "etag": "W/\"6faba6bae36ebda1a12178c769a091281d58e7757442be832887da0125d52f66\"",
+      "last_checked_at": "2026-10-17T00:49:51Z",
       "has_hap": true
     },
     "ohos-python/ohos_thirdPart_capability_map": {
@@ -26971,8 +26971,8 @@
       "has_hap": false
     },
     "zhonxinya/mybooks_ohos": {
-      "etag": "W/\"ae21657af99ff49c639080792c1698ca90ca11481c561f4a1a4b73d0562a02ea\"",
-      "last_checked_at": "2026-10-16T01:50:27Z",
+      "etag": "W/\"8d555bc7b76045b911e57c7b26a5e3534e41e2b384f76fb5fe32a4da3833ef71\"",
+      "last_checked_at": "2026-10-17T00:50:19Z",
       "has_hap": true
     },
     "Abhi-Flex1/OpenTwit": {
@@ -26982,7 +26982,7 @@
     },
     "DuFehlst/AlwaysToDo-HarmonyOS": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-13T00:13:03Z",
+      "last_checked_at": "2026-10-17T00:47:40Z",
       "has_hap": false
     },
     "OhosAgent/ohos-migration-analysis": {
@@ -27007,7 +27007,7 @@
     },
     "TonyKingWJX/transharmony": {
       "etag": "W/\"daf7ad0d968d0d9a0e13b4953ffd1784047a75df821f5d541d50d081bfbc1f50\"",
-      "last_checked_at": "2026-10-16T01:33:37Z",
+      "last_checked_at": "2026-10-17T00:49:19Z",
       "has_hap": true
     },
     "awaLiny2333/Harmomeow-Craft-Launcher": {
@@ -27022,7 +27022,7 @@
     },
     "dijia111223/yan": {
       "etag": "W/\"09fbd3009adc41c1860f0b74fdf4365537d90ef0a7e308aea8ac314a763dd0c7\"",
-      "last_checked_at": "2026-10-13T00:24:02Z",
+      "last_checked_at": "2026-10-17T00:49:37Z",
       "has_hap": false
     },
     "haritha99ch/HorizonHaptics": {
@@ -27072,7 +27072,7 @@
     },
     "SnishaperTeam/lumine-for-harmonyos": {
       "etag": "W/\"88f464c6a0b5ec1d5e0be822a972f4895043671f8119fd595ae256fe22852c72\"",
-      "last_checked_at": "2026-10-16T01:33:09Z",
+      "last_checked_at": "2026-10-17T00:49:16Z",
       "has_hap": true
     },
     "Stephanyw-Haneyk/ohosfhv": {
@@ -27106,8 +27106,8 @@
       "has_hap": false
     },
     "richerfu/Paws": {
-      "etag": "W/\"35fb0af358a9aed104054ad779e378fbb130742e4e8f237d4db3e0ab6bc52ee2\"",
-      "last_checked_at": "2026-10-16T01:46:23Z",
+      "etag": "W/\"0db591071241521d587157d8834e7c894ae8a8710841e80536dc34c7057be540\"",
+      "last_checked_at": "2026-10-17T00:50:00Z",
       "has_hap": true
     },
     "snipergoga/ohospwo": {
@@ -27117,7 +27117,7 @@
     },
     "yearsyan/pixiv-ohos": {
       "etag": "W/\"e1e592893ee9d5ebe745933a25193d20e324a758da7cbfcbf4fde2370dc2503a\"",
-      "last_checked_at": "2026-10-16T01:49:49Z",
+      "last_checked_at": "2026-10-17T00:50:17Z",
       "has_hap": true
     },
     "Changxin-YR/decision": {
@@ -27147,7 +27147,7 @@
     },
     "Changxin-YR/wooden-fish-drum": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-05T23:46:25Z",
+      "last_checked_at": "2026-10-17T00:47:36Z",
       "has_hap": false
     },
     "SonicloudTech/sonicloud_opensdk": {
@@ -27176,8 +27176,8 @@
       "has_hap": false
     },
     "thx853068675-dev/quietstart": {
-      "etag": "W/\"400276f9dc94134021e45e6574343280a55978dd81e2547a1d6b08c2781ea0de\"",
-      "last_checked_at": "2026-10-16T01:47:59Z",
+      "etag": "W/\"d69db47d56793628cb6394ff571db200611f906121087a184e7e6e9f211362c3\"",
+      "last_checked_at": "2026-10-17T00:50:07Z",
       "has_hap": true
     },
     "zhuhaozoo/FlyBrain-HarmonyOS": {
@@ -29302,7 +29302,7 @@
     },
     "zhonxinya/jellyfin_ohos": {
       "etag": "W/\"67518040f841dbd9483c4721f199bc9222a9cd561c78e7059a4b9298fc9a65eb\"",
-      "last_checked_at": "2026-10-16T01:50:27Z",
+      "last_checked_at": "2026-10-17T00:50:19Z",
       "has_hap": true
     },
     "022UGDW213/Harmony-OS-Next": {
@@ -29312,7 +29312,7 @@
     },
     "BOWLUNA/bowchat": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-13T00:12:08Z",
+      "last_checked_at": "2026-10-17T00:47:35Z",
       "has_hap": false
     },
     "HeZeBang/br_mobile_scanner_ohos": {
@@ -29326,8 +29326,8 @@
       "has_hap": false
     },
     "TomoeMami/HomenaPod": {
-      "etag": "W/\"40ecf7784794b61d8b10eedca99e1a3959e05a55e58142938b9591925cef3dd9\"",
-      "last_checked_at": "2026-10-16T01:33:36Z",
+      "etag": "W/\"806d2b2f43859c90a3a9a9ebbbfb72aed1261b9ac7ff40a835a9895af30cbc3a\"",
+      "last_checked_at": "2026-10-17T00:49:19Z",
       "has_hap": true
     },
     "Turbo1123/Turbo-IO": {
@@ -29376,8 +29376,8 @@
       "has_hap": false
     },
     "1440196924/HX360E": {
-      "etag": "W/\"6b122542cd3175561d645f2b2bd9d5851b1976cf42a9ee809a301b21876d0dfe\"",
-      "last_checked_at": "2026-10-16T01:23:54Z",
+      "etag": "W/\"9836bada83282333199c80178a2dbb737c6e9c6616eca13ca0c82af462d48d09\"",
+      "last_checked_at": "2026-10-17T00:47:28Z",
       "has_hap": true
     },
     "1dugumaze2/openharmony": {
@@ -29456,8 +29456,8 @@
       "has_hap": false
     },
     "a307608689-afk/TiebaPura": {
-      "etag": "W/\"1d8aee658cd67769445248cd9be8c64158bdac5237b555e35dae74890ea95b39\"",
-      "last_checked_at": "2026-10-16T01:34:32Z",
+      "etag": "W/\"1825c67d98d3519fbffda7d3aa59ea150efea14e91735b10566ed7c811f7b601\"",
+      "last_checked_at": "2026-10-17T00:49:27Z",
       "has_hap": true
     },
     "banxia-126/hexagram-lab": {
@@ -29536,8 +29536,8 @@
       "has_hap": false
     },
     "haohandc/MindustryArk": {
-      "etag": "W/\"b731b88b89da6a4879e7f7e5fc3cdaa2f65e1c6e66ccd29f18ec8ed2165194f1\"",
-      "last_checked_at": "2026-10-16T01:38:50Z",
+      "etag": "W/\"ed69426c44dc7db9c5d4d618c83984cf638f4cbf877aaf1c32b84eb4f6398b3e\"",
+      "last_checked_at": "2026-10-17T00:49:42Z",
       "has_hap": true
     },
     "kshsjsjshskq-design/Horor": {
@@ -29591,8 +29591,8 @@
       "has_hap": false
     },
     "DandanLLab/mr": {
-      "etag": "W/\"4097b6533eee575e7dfd4e578cded04ef931095a1f29cc59efee8319ace5dc4a\"",
-      "last_checked_at": "2026-10-16T01:26:33Z",
+      "etag": "W/\"9800de0f5a347592c978f2251102b5b8f0d85ca3863616274bd61727a0924682\"",
+      "last_checked_at": "2026-10-17T00:47:39Z",
       "has_hap": true
     },
     "INV-23596203029623/payment-updates-ohos19en": {
@@ -29601,8 +29601,8 @@
       "has_hap": false
     },
     "MrCashmere/miha_hm": {
-      "etag": "W/\"a440b5c0474917f025481dc9a1434dc199435506fe47811f12741a95699457e6\"",
-      "last_checked_at": "2026-10-16T01:31:36Z",
+      "etag": "W/\"f056d756ef2c5969d659d19d2cc0afb3bd344441b4cc56bd1bb91348e3b8fbde\"",
+      "last_checked_at": "2026-10-17T00:49:08Z",
       "has_hap": true
     },
     "Rayawa/dashboard": {
@@ -29611,8 +29611,8 @@
       "has_hap": false
     },
     "Sle2p/AniCh": {
-      "etag": "W/\"1a78edd7d5d792a3f2628f4c6c0ae00aefea2a38dbdec9b894c75209c3f1ee0b\"",
-      "last_checked_at": "2026-10-16T01:33:06Z",
+      "etag": "W/\"c72e33164867b9eba625e6900e679dd94cf73b6b15a6d0ff04b85d03750b6a7d\"",
+      "last_checked_at": "2026-10-17T00:49:16Z",
       "has_hap": true
     },
     "Zinnober02/texlive-ohos": {
@@ -29621,13 +29621,13 @@
       "has_hap": false
     },
     "erosTeam/NextN": {
-      "etag": "W/\"70017b8b016bda842c8cf17b7cb383911da9fe26f62f0f8c83573328225a8626\"",
-      "last_checked_at": "2026-10-16T01:37:46Z",
+      "etag": "W/\"61ce88c5e612bcc6be0cd3a4824fc73f4ce99157861eb0804093fd4d40c99c58\"",
+      "last_checked_at": "2026-10-17T00:49:39Z",
       "has_hap": true
     },
     "haohaoai0/HarmonyX": {
-      "etag": "W/\"49321616c9971aaa0e51010b943b3fbcb960b46a40c25d8c51a7930c5c554ad6\"",
-      "last_checked_at": "2026-10-16T01:38:51Z",
+      "etag": "W/\"172984feb859fc2fb37ca470356a0b3aefc85b46e8796f2f6eb4efeb55a30674\"",
+      "last_checked_at": "2026-10-17T00:49:43Z",
       "has_hap": true
     },
     "mufeng661/qingfan_HarmonyOs": {
@@ -29651,8 +29651,8 @@
       "has_hap": false
     },
     "zhuoyi233/zhihu-plus-plus-HMOS": {
-      "etag": "W/\"d679d0f0412e6e34ed9caf232ffeb9a3c5580133610777a30ca4c70b3eb3e88b\"",
-      "last_checked_at": "2026-10-16T01:50:31Z",
+      "etag": "W/\"cee1260289344e33f204eaaede6f294affd2abeece0e6d7c0108f1152bfce954\"",
+      "last_checked_at": "2026-10-17T00:50:20Z",
       "has_hap": true
     },
     "2doright/airslate-pc-server": {
@@ -29691,13 +29691,13 @@
       "has_hap": false
     },
     "ljq123ok/Hps2": {
-      "etag": "W/\"968da19b43601c650b5533c7e9cf3153bdc4a20d695f871ad8f4466e489195dd\"",
-      "last_checked_at": "2026-10-16T01:41:57Z",
+      "etag": "W/\"a2fb640963b1da8506f26fd030964ad2253afddf6968688997b6dc744ef923b5\"",
+      "last_checked_at": "2026-10-17T00:49:50Z",
       "has_hap": true
     },
     "metasequoiaime/msime": {
-      "etag": "W/\"56cda2e8c586d4c2ea884df64c9ca5932c9efc9e2914ff2ff7f4fec4985f07cb\"",
-      "last_checked_at": "2026-10-16T01:42:31Z",
+      "etag": "W/\"5506e0179bd9763083ced2732d3441956d3b7c6af9468a6a82b23f5c2053f742\"",
+      "last_checked_at": "2026-10-17T00:49:52Z",
       "has_hap": true
     },
     "ohos-rs/gpui-ohos": {
@@ -29721,8 +29721,8 @@
       "has_hap": false
     },
     "wuwu888/HarmoTail-Releases": {
-      "etag": "W/\"31216f14d394ee3f37e576726a929b6c4ff366a713018bf013a4b4bf7eac8a07\"",
-      "last_checked_at": "2026-10-16T01:49:08Z",
+      "etag": "W/\"8324f3b8f36a37fb865879a84635245ef0976727cd3fd740c92c76e05c1492be\"",
+      "last_checked_at": "2026-10-17T00:50:12Z",
       "has_hap": true
     },
     "wuwu888/harmotail-harmonyos": {
@@ -29731,8 +29731,8 @@
       "has_hap": false
     },
     "Abhi-Flex1/OpenTwit-Web": {
-      "etag": "W/\"5570163d7b178efbe684f5bf79e22677ca9fb62fef68a1fb11f65525e39f4fb7\"",
-      "last_checked_at": "2026-10-16T01:24:25Z",
+      "etag": "W/\"d0ab0f0d9f39d8fa6c5dbd5a8aac0eb913da71cad54a39425382ed51e48874e3\"",
+      "last_checked_at": "2026-10-17T00:47:30Z",
       "has_hap": true
     },
     "Apollo465/pethome": {
@@ -29761,8 +29761,8 @@
       "has_hap": false
     },
     "YuanChu-Tec/HMTG_Archive": {
-      "etag": "W/\"5d2ae2a5834343c74d2c2494fff164953223bb4b657bbcc6755d94447b39a5e4\"",
-      "last_checked_at": "2026-10-16T01:34:18Z",
+      "etag": "W/\"3cc99229f59ea65c2b8cbfded096bf84d61bdafbfa5cb50869f3f8a40a4ebff4\"",
+      "last_checked_at": "2026-10-17T00:49:25Z",
       "has_hap": true
     },
     "alvarezsusan63/ohosgn": {
@@ -29777,7 +29777,7 @@
     },
     "atengk/Ateng-Flutter": {
       "etag": "W/\"c664bf7070f479e546795fe76b96b4afc33410f75fb027b6ec8c133938991e37\"",
-      "last_checked_at": "2026-10-16T01:35:26Z",
+      "last_checked_at": "2026-10-17T00:49:29Z",
       "has_hap": true
     },
     "dwexva70b3/ohoslk": {
@@ -29827,12 +29827,12 @@
     },
     "qbw101/watch-client": {
       "etag": "W/\"a85984cbdc952c5d1ad77fb4982f8af8594f7e46ca8974cc31180e7cd10e45f8\"",
-      "last_checked_at": "2026-10-16T01:45:58Z",
+      "last_checked_at": "2026-10-17T00:49:59Z",
       "has_hap": true
     },
     "AriaLEntropy/KuiklyNotification": {
       "etag": "W/\"d9066a1ad14e85df58d99bee36e7865fd96a8721992d2b096ef453cbc593f1b4\"",
-      "last_checked_at": "2026-10-16T01:25:35Z",
+      "last_checked_at": "2026-10-17T00:47:34Z",
       "has_hap": true
     },
     "EPOTATOTV/PACC4_0": {
@@ -29927,17 +29927,17 @@
     },
     "mmcc65/word-assistant": {
       "etag": "W/\"c4d38768aaa0fe24a361d1bdf43964b1417a6b9179f79962438a18cfb13a05e0\"",
-      "last_checked_at": "2026-10-16T01:42:47Z",
+      "last_checked_at": "2026-10-17T00:49:54Z",
       "has_hap": true
     },
     "Abhi-Flex1/OHEmacs": {
       "etag": "W/\"63af1c444626e231f8a4bb4974434d62e6325a244cea33b8876f1e1a6ab0a341\"",
-      "last_checked_at": "2026-10-16T01:24:24Z",
+      "last_checked_at": "2026-10-17T00:47:30Z",
       "has_hap": true
     },
     "muleos/c001apk-ohos-releases": {
-      "etag": "W/\"e9a224474d6cfcc4ed2742898658f7f5df56ba92aac156ad52c0b6a70fbd139e\"",
-      "last_checked_at": "2026-10-16T01:43:01Z",
+      "etag": "W/\"c9b39dda1c8f6be2051e2d245d5ca15504148c493bae30bc985ab2066accc1a2\"",
+      "last_checked_at": "2026-10-17T00:49:54Z",
       "has_hap": true
     },
     "ohos-python/ohos_ai_shell": {
@@ -29961,8 +29961,8 @@
       "has_hap": false
     },
     "LMV475/hap-installer": {
-      "etag": "W/\"9a4c3f9d237acb6f75c16c33ecb3e19bf7a78c2ec5e560fb9cf61b656cb7aa9b\"",
-      "last_checked_at": "2026-10-16T01:30:47Z",
+      "etag": "W/\"13275be666edaaf2a5ca7b99a7c256edaa2d241373dc101cebaa227344547d63\"",
+      "last_checked_at": "2026-10-17T00:49:02Z",
       "has_hap": true
     },
     "QZzwj/F103RCT6_OHOS6": {
@@ -29976,8 +29976,8 @@
       "has_hap": false
     },
     "XiaoLuoLYG/beegent": {
-      "etag": "W/\"b26e7534f417fa39f33782599a469664105dbc9e17c09c9ff4266250abd7172b\"",
-      "last_checked_at": "2026-10-16T01:34:03Z",
+      "etag": "W/\"94ddff510f8dc35f0e09e43eed5bd258462dbfa4478c7166273ac9212a88e505\"",
+      "last_checked_at": "2026-10-17T00:49:24Z",
       "has_hap": true
     },
     "diana9905454/OronBox-Lite": {
@@ -30036,13 +30036,13 @@
       "has_hap": false
     },
     "SYTKILLER/PixLume": {
-      "etag": "W/\"6a61b9f616c65e0fa762615b083dee22abfd705f841e01d0e09b6f08f15e4270\"",
-      "last_checked_at": "2026-10-16T01:32:54Z",
+      "etag": "W/\"8681746c8abd3f3e2e7feb6cb31c8c07516144e341fbd7e2cbc873d1246b9c28\"",
+      "last_checked_at": "2026-10-17T00:49:14Z",
       "has_hap": true
     },
     "ZM-BAD/arkcat": {
       "etag": "W/\"cdb0814c84b91736d7c84b15499f75ababd5312714bec0b693fa84194e0da826\"",
-      "last_checked_at": "2026-10-16T01:34:25Z",
+      "last_checked_at": "2026-10-17T00:49:27Z",
       "has_hap": true
     },
     "c3h3-ci/ha-huawei-router": {
@@ -30057,7 +30057,7 @@
     },
     "october-pig/ente-auth-harmonyos": {
       "etag": "W/\"04e57aa60ce3a5de23e860ca030d80e16e0f455dbbaa3d2e923f223d900c8e3f\"",
-      "last_checked_at": "2026-10-16T01:43:27Z",
+      "last_checked_at": "2026-10-17T00:49:57Z",
       "has_hap": true
     },
     "qpst4/XGesture": {
@@ -30106,13 +30106,13 @@
       "has_hap": false
     },
     "dgh1818/immich_ohos": {
-      "etag": "W/\"73def08bdc9f20a19eaaccd7fb160d2fba666bf8290a7c3b4479a67dd4c905ee\"",
-      "last_checked_at": "2026-10-16T01:37:08Z",
+      "etag": "W/\"05ceef1a9ebf87340115ff94b4a4a783cfaf13426ed6908d7a70a6af5e76f136\"",
+      "last_checked_at": "2026-10-17T00:49:36Z",
       "has_hap": true
     },
     "miramira8295/Petrelgram": {
-      "etag": "W/\"1df82954d30ac6885d425dec24232e9c9010dcd646ac30d2ea665580cb0141f3\"",
-      "last_checked_at": "2026-10-16T01:42:43Z",
+      "etag": "W/\"0eb52eb066d798e5f8ca3408145cf3532bc819b5a535a429eca056a8d03f7f33\"",
+      "last_checked_at": "2026-10-17T00:49:53Z",
       "has_hap": true
     },
     "rootrd/csgo-ohos": {
@@ -30166,13 +30166,13 @@
       "has_hap": false
     },
     "dakkidaze/michomo": {
-      "etag": "W/\"f88dd8f62ffcd59f3904419719a297a0499eca335b4515adc73cd6a9f1cf5fdc\"",
-      "last_checked_at": "2026-10-16T01:36:54Z",
+      "etag": "W/\"5e05468909e03c563e3a6f3c29f73adb9ba458d4cec5887bdf1dbf6a4e1e2923\"",
+      "last_checked_at": "2026-10-17T00:49:34Z",
       "has_hap": true
     },
     "dev4harmony/PiliNara": {
-      "etag": "W/\"666031ac2578b21b99dc904a3cf8e744e9c7f2b8dc528de5b42176d9adadaf87\"",
-      "last_checked_at": "2026-10-16T01:37:05Z",
+      "etag": "W/\"3b95654a26ff7f6391aa428fc0048c1fb9bfc5582bf433bcb6d0049f89c2733b\"",
+      "last_checked_at": "2026-10-17T00:49:35Z",
       "has_hap": true
     },
     "dl1w1vojpi/ohos": {
@@ -30226,18 +30226,18 @@
       "has_hap": false
     },
     "yuanbaobaoo/zcode-ohos": {
-      "etag": "W/\"291681973b26212b0b95729a6b212112084178dc6879fdab155ccb5a2666d5ab\"",
-      "last_checked_at": "2026-10-16T01:50:03Z",
+      "etag": "W/\"37a27243f21440bd0e8b2df1b3fda9c1f7ace14f9b13d3774837845afe5789fe\"",
+      "last_checked_at": "2026-10-17T00:50:18Z",
       "has_hap": true
     },
     "BOT-K4CP3R/wisp-gym": {
       "etag": "W/\"7090c816d9883d895418467bbdc01210648f09fc9d398f8cacf36d5782d8fd50\"",
-      "last_checked_at": "2026-10-16T01:25:43Z",
+      "last_checked_at": "2026-10-17T00:47:35Z",
       "has_hap": true
     },
     "ElmGates/Homeassistant-APP-For-HarmonyOS-Watch": {
       "etag": "W/\"109b8599b7cc221fa3306d6dd2fa9106b23cd61e96f25515d9cad531c7a66fd8\"",
-      "last_checked_at": "2026-10-16T01:26:52Z",
+      "last_checked_at": "2026-10-17T00:47:41Z",
       "has_hap": true
     },
     "Ghroth6/clashbox-go": {
@@ -30246,8 +30246,8 @@
       "has_hap": false
     },
     "HU-WEITAO/EchoMusic_OHOS": {
-      "etag": "W/\"e2a22554db7fa27d29874945e5c409aa651dc0354f164767df596da04122f019\"",
-      "last_checked_at": "2026-10-16T01:29:19Z",
+      "etag": "W/\"806dec6538476ac49649c5001beb2afbb8a74d4294f8245a593c59464ca5fc1c\"",
+      "last_checked_at": "2026-10-17T00:48:56Z",
       "has_hap": true
     },
     "QQ1517146725/url2hap": {
@@ -30261,8 +30261,8 @@
       "has_hap": false
     },
     "muleos/collection_ohos": {
-      "etag": "W/\"3f75b9e8bac6adbf90950962b57fee62679de2789e8de69073011eb0ed1d2361\"",
-      "last_checked_at": "2026-10-16T01:43:01Z",
+      "etag": "W/\"b24c70800504619b82b28e7681209f57171be8b763303aa621464263e7331b95\"",
+      "last_checked_at": "2026-10-17T00:49:55Z",
       "has_hap": true
     },
     "salihoglueyup/PulseOPS": {
@@ -30297,17 +30297,17 @@
     },
     "Junk-debug/vision-assist": {
       "etag": "W/\"6e2eeb473c56bc9b1b99b874d0ae41421985c1e028404fed5d7e31b657d7665c\"",
-      "last_checked_at": "2026-10-16T01:30:34Z",
+      "last_checked_at": "2026-10-17T00:49:02Z",
       "has_hap": true
     },
     "LovelyFlash/JMComic-HarmonyOS": {
-      "etag": "W/\"261ad0d72fa0d8d3a229eba7dc22d68795da4ea5612f358407dc19cb2ec75b3d\"",
-      "last_checked_at": "2026-10-16T01:31:10Z",
+      "etag": "W/\"c5df70a6335c45f168727e7dcb0c9c52907186a8702181eaa03ffd6a9c9853fd\"",
+      "last_checked_at": "2026-10-17T00:49:05Z",
       "has_hap": true
     },
     "MrCashmere/HarmonyOS_ArkUI_Demo_API26": {
-      "etag": "W/\"f2663a1c5b2e0284740de9d2f26b0ddd95d831f9a7616e690c27b5fc68d7e80c\"",
-      "last_checked_at": "2026-10-16T01:31:35Z",
+      "etag": "W/\"774310090007bc858cb6eb765992de549b67d29f0016c5f9094df4809699d216\"",
+      "last_checked_at": "2026-10-17T00:49:07Z",
       "has_hap": true
     },
     "ademarkovi/ohosx": {
@@ -30347,12 +30347,12 @@
     },
     "LinuxSuRen/ohos-ipcam-streamer": {
       "etag": "W/\"ebfad2851fc88e91bba67605731764069a9af89892abe4317c40938ab4f67c86\"",
-      "last_checked_at": "2026-10-16T01:31:05Z",
+      "last_checked_at": "2026-10-17T00:49:04Z",
       "has_hap": true
     },
     "MrCashmere/hyoushe": {
-      "etag": "W/\"c5fc083b4e652485d3cfb77314dd2c5a8a393d7bc4c47e7de2f97a283758f2e4\"",
-      "last_checked_at": "2026-10-16T01:31:35Z",
+      "etag": "W/\"6e80f1324ab8d26b01a5fe778f3006a2f4fe551c4a75151a3f0c0e2e78894008\"",
+      "last_checked_at": "2026-10-17T00:49:08Z",
       "has_hap": true
     },
     "aaqunar-a11y/openharmony-sig-fluttertpc_camerawesome": {
@@ -30371,8 +30371,8 @@
       "has_hap": false
     },
     "dakkidaze/mangacopy-ohos": {
-      "etag": "W/\"65c4a4f03b17b7a6ed02730ccf3b3d6cf0542df723b0ca5b184e74821546a266\"",
-      "last_checked_at": "2026-10-16T01:36:53Z",
+      "etag": "W/\"6751a26ebb6362dcce7a1b136b9027cf149b811956f2fb49c6be8cd1396103a9\"",
+      "last_checked_at": "2026-10-17T00:49:34Z",
       "has_hap": true
     },
     "f96xv7eu/ohos": {
@@ -30406,13 +30406,13 @@
       "has_hap": false
     },
     "muleos/soutu_ohos": {
-      "etag": "W/\"5a566609f8f503bd49e5998e42606e879d0bf5e38edee686b3f524ee5cbe1672\"",
-      "last_checked_at": "2026-10-16T01:43:02Z",
+      "etag": "W/\"9f9e94269809aef1e9641c764469336bff901ee452dc4852194a06691f51086c\"",
+      "last_checked_at": "2026-10-17T00:49:55Z",
       "has_hap": true
     },
     "suyunxing/NeriPlayer-HarmonyOS": {
-      "etag": "W/\"703dba60f620719bb38c9a5b5b2b48e4c30262b51b8d70951d9fccd85d841204\"",
-      "last_checked_at": "2026-10-16T01:47:44Z",
+      "etag": "W/\"2ad01ee558ed7ed272d5f3606eae5030cdd1b5bcca7c2eaa2ce290a53befccdd\"",
+      "last_checked_at": "2026-10-17T00:50:06Z",
       "has_hap": true
     },
     "zeankundev/HMOSLarp": {
@@ -30466,8 +30466,8 @@
       "has_hap": false
     },
     "point258/copyhomo": {
-      "etag": "W/\"bc6ee927e7d33a6418bac9c813cb485e0a2114c3d957bd6cdc838abf40ff685d\"",
-      "last_checked_at": "2026-10-16T01:45:53Z",
+      "etag": "W/\"d6ad04b56526b975cfa858c62237d1cb687c16c83018b9ecef721da4a9a0d0ac\"",
+      "last_checked_at": "2026-10-17T00:49:58Z",
       "has_hap": true
     },
     "1823616178/ssh-client-ohos": {
@@ -30532,7 +30532,7 @@
     },
     "abookkkk/WRT": {
       "etag": "W/\"54e29497674b5b9dff6394a748bad6f1939dc8578e2e5608ea9b0617d2908a81\"",
-      "last_checked_at": "2026-10-16T01:34:41Z",
+      "last_checked_at": "2026-10-17T00:49:28Z",
       "has_hap": true
     },
     "fanyunchen/FilmCamera": {
@@ -30567,7 +30567,7 @@
     },
     "yuyayolin/crush-bench": {
       "etag": "W/\"021e2ab822636978d32edb553aba17c7e18ac1e7640670bdd3e38f23ee57a445\"",
-      "last_checked_at": "2026-10-16T01:50:09Z",
+      "last_checked_at": "2026-10-17T00:50:18Z",
       "has_hap": true
     },
     "Explore-In-HMOS-Wearable/how-to-access-system-gallery-on-kids-watch": {
@@ -30696,8 +30696,8 @@
       "has_hap": false
     },
     "Tlntin/home-cloud-shield": {
-      "etag": "W/\"c1b18b624fcc93a09e1363bf02ff00a1560e62c9bbe1eba14096e6c13d4d5c13\"",
-      "last_checked_at": "2026-10-16T01:33:34Z",
+      "etag": "W/\"7f866bfd6ce59ba1e311bab3ed36255ed3570e88c2a671d900a3a4637b7282cd\"",
+      "last_checked_at": "2026-10-17T00:49:18Z",
       "has_hap": true
     },
     "aaqunar-a11y/openharmony-sig-ohos_apng": {
@@ -30807,7 +30807,7 @@
     },
     "SYTKILLER/Cimoc": {
       "etag": "W/\"fc783d8a1e5c9d9a562f211cf40f910ff77cdaebd2ea2b2ed9649d84660a96f6\"",
-      "last_checked_at": "2026-10-16T01:32:54Z",
+      "last_checked_at": "2026-10-17T00:49:14Z",
       "has_hap": true
     },
     "Sutee-Seesing/MindustryArk": {
@@ -30917,7 +30917,7 @@
     },
     "xiaobailong/ClipboardMerger": {
       "etag": "W/\"b38cca9744cc7eb5478e333811ed7d7401d57acac3c2f0beaebd9f5d556f1354\"",
-      "last_checked_at": "2026-10-16T01:49:20Z",
+      "last_checked_at": "2026-10-17T00:50:14Z",
       "has_hap": true
     },
     "xiaomu120413/harmony-markdown-workbench": {
@@ -30926,8 +30926,8 @@
       "has_hap": false
     },
     "zhubowen-bot/Guncat-Work-for-hmos": {
-      "etag": "W/\"fde412df827af5884ec917b1c90a3dd1b9acd1f84bbb9c2331dc2834d89f038c\"",
-      "last_checked_at": "2026-10-16T01:50:30Z",
+      "etag": "W/\"671313bd5fd415cb757c20a37daaa521c07a7eb08afa8e282854cf98c007facf\"",
+      "last_checked_at": "2026-10-17T00:50:20Z",
       "has_hap": true
     },
     "zhuhaozoo/harmonyos-3d-wallpaper": {
@@ -30967,7 +30967,7 @@
     },
     "ZzXy47/maw-kg": {
       "etag": "W/\"cca861855e26a70ab3c995891717fe7a1428a4b35e11411e823b42d975e093c3\"",
-      "last_checked_at": "2026-10-11T21:37:39Z",
+      "last_checked_at": "2026-10-17T00:49:27Z",
       "has_hap": false
     },
     "aaqunar-a11y/openharmony-sig-applications_inputmethod": {
@@ -31007,7 +31007,7 @@
     },
     "zhisibi/clash-dashboard-ho": {
       "etag": "W/\"9172ab43e64b612bee95ad1cea1aa6db3ddcec32032d0105b5c6d211332a3e60\"",
-      "last_checked_at": "2026-10-16T01:50:24Z",
+      "last_checked_at": "2026-10-17T00:50:19Z",
       "has_hap": true
     },
     "97128785/arkts-triage-mcp": {
@@ -31076,8 +31076,8 @@
       "has_hap": false
     },
     "erosTeam/NextE": {
-      "etag": "W/\"2602bcc21739808c139a7e9d2bed13142173b17fb287eb9de0b71dc2402c779f\"",
-      "last_checked_at": "2026-10-16T01:37:45Z",
+      "etag": "W/\"b93f8c706859f95c2928f22d529197056d738bf92183c5c7ce4a7b4fdbda5bf0\"",
+      "last_checked_at": "2026-10-17T00:49:38Z",
       "has_hap": true
     },
     "fellow99/pi-workspace": {
@@ -31091,8 +31091,8 @@
       "has_hap": false
     },
     "k-brother/lx-music-harmony": {
-      "etag": "W/\"89aa08f37575e4e7a01967c6c598f56c725c878975726630b01ab91cff43fd17\"",
-      "last_checked_at": "2026-10-16T01:40:56Z",
+      "etag": "W/\"cdc0d1e21e43e023a355884795ef2a7d68f18f1ff379c07796f63575a63e830b\"",
+      "last_checked_at": "2026-10-17T00:49:46Z",
       "has_hap": true
     },
     "lij768423-svg/408-for-harmony": {
@@ -31102,7 +31102,7 @@
     },
     "likee-Evernight/float-VisualPhone-for-harmony": {
       "etag": "W/\"ccff1613f5e565a4f72dc31bbdfcf3bb9e853f945d60897edc25233b5643e39e\"",
-      "last_checked_at": "2026-10-16T01:41:38Z",
+      "last_checked_at": "2026-10-17T00:49:48Z",
       "has_hap": true
     },
     "mengde-tu/dsh-inspire-harness-on-harmonyos6": {
@@ -31121,18 +31121,18 @@
       "has_hap": false
     },
     "sis5595/hipda-oh": {
-      "etag": "W/\"98ee2a2bffa0ca29d90418612ef523938e19d33f17058c0b7bc54925b6f28281\"",
-      "last_checked_at": "2026-10-16T01:47:13Z",
+      "etag": "W/\"9e1a3e8421f2e61c5fa116dfaf86895d10e374b3d6d27fc42f9712e3a71b2447\"",
+      "last_checked_at": "2026-10-17T00:50:03Z",
       "has_hap": true
     },
     "xyuuii/linuxdo-harmony": {
-      "etag": "W/\"d9b0cb5c1334813677f789381ed2de9243d24e0d835f29072560efaa023adc3a\"",
-      "last_checked_at": "2026-10-16T01:49:40Z",
+      "etag": "W/\"dd30e6efc556aad5fbe5c839d37f6802fc3ed092c8f473b471d12cd8e9725a42\"",
+      "last_checked_at": "2026-10-17T00:50:16Z",
       "has_hap": true
     },
     "FengHDSL/LiteMdReader-HarmonyOS": {
       "etag": "W/\"0240b39b970ad5814d799f1162a3b1c3ede5ba9da602106d31adc2810a2b675b\"",
-      "last_checked_at": "2026-10-16T01:28:52Z",
+      "last_checked_at": "2026-10-17T00:48:53Z",
       "has_hap": true
     },
     "JohnnnyTang/harmonyos-dev-skills": {
@@ -31316,13 +31316,13 @@
       "has_hap": false
     },
     "muleos/ixiachu_ohos": {
-      "etag": "W/\"15e5f280752a0fc98b9de0daa7e0bb9f3f6031dc3ca3bfb42d61aaaf0e2aff4b\"",
-      "last_checked_at": "2026-10-16T01:43:02Z",
+      "etag": "W/\"e10bef79d23db6be0618c847d243c1e4f9f789a0ad14b4cbfc35be8b74a570f0\"",
+      "last_checked_at": "2026-10-17T00:49:55Z",
       "has_hap": true
     },
     "qitinyu/MuWan": {
       "etag": "W/\"c904f8fc5e78e12ca8e6000a6f8a3b5f6e48101f9434467a2e029faaf9eeb41a\"",
-      "last_checked_at": "2026-10-16T01:46:03Z",
+      "last_checked_at": "2026-10-17T00:49:59Z",
       "has_hap": true
     },
     "richerfu/arkdown": {
@@ -31336,8 +31336,8 @@
       "has_hap": false
     },
     "shuhuang-1/gt4-ebook-reader": {
-      "etag": "W/\"87bb9c1370513c1f7693e137703945428796a119b23283beb3353777c7b2f492\"",
-      "last_checked_at": "2026-10-16T01:47:08Z",
+      "etag": "W/\"a4be18c76cfacbe30243eba525f8125e55bdec222fc5e37b68e96485f5842b1b\"",
+      "last_checked_at": "2026-10-17T00:50:03Z",
       "has_hap": true
     },
     "solplum/yunkai": {
@@ -31347,7 +31347,7 @@
     },
     "springtwr/HandySend": {
       "etag": "W/\"d53031b0940837189a19f8684b6c4e3f1e6ccecc7e80a22c913bf2c1d137c535\"",
-      "last_checked_at": "2026-10-16T01:47:31Z",
+      "last_checked_at": "2026-10-17T00:50:05Z",
       "has_hap": true
     },
     "springtwr/harmonyos-clt": {
@@ -31394,109 +31394,1784 @@
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
       "last_checked_at": "2026-10-16T01:50:12Z",
       "has_hap": false
+    },
+    "Abhi-Flex1/AppFactory": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:29Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/airlines": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:43Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/allergy-care": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:43Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/audio-player": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:43Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/baby-day-tracker": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:43Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/backgammon": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:43Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/barista-recipes": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:44Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/beacon-based-attendance": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:44Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/bilingual-phrasebook": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:44Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/block-game": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:44Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/bmi-calculator": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:44Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/book-store": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:45Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/brain-game": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:45Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/breathing-exercise": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:45Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/cacti-hop": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:45Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/calorie-tracker": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:45Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/car-game-sample-app": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:46Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/carbon-footprint-step-tracker": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:46Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/cocos-game": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:46Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/coffee-tracker": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:46Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/coin-and-dice": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:46Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/context-aware-with-multiple-sensors": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:47Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/crown-music": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:47Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/crypto-notes": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:47Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/currency-converter": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:47Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/daily-dose": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:48Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/daily-food-chose-assistant": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:48Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/daily-horoscope": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:48Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/daily-quotes": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:48Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/demo-auth-scan": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:48Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/diabetes-tracker": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:48Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/drive-sense": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:49Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/early-learning": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:49Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/event-calendar": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:49Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/event-snap": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:49Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/expense-splitter": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:50Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/fall-detector": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:50Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/fast-reading-exercises": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:50Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/fasting-app": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:50Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/fitness-health-kit": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:50Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/flash-cards": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:51Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/flowear": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:51Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/focus-timer": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:51Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/geo-pulse": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:51Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/geo-schedule": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:51Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/golf-gps-range-finder": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:52Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/golf-helper": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:52Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/grow-your-pet": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:52Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/guess-the-language": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:52Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/guess-the-num": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:52Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/guitar-tuner": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:53Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/habit-timer": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:53Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/habit-tracker": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:53Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/harmony-bird": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:53Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/healio": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:54Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/heart-bridge": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:54Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/hi-cycle": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:54Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/hiking-app": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:54Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/hmos-index": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:54Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/hmos-user-guides": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:55Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/home-check-app": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:55Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-access-system-gallery-on-kids-watch": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:55Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-add-rotating-verifier": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:55Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-apply-text-typography": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:55Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-audit-accessibility-state": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:56Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-2d-path-engine": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:56Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-3d-post-processing": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:56Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-3d-watch-face-development": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:56Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-ability-start": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:56Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-ability-trigger-skills": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:57Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-app-state-observer": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:57Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-arc-progress-dashboard": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:57Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-atomic-service-launcher": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:57Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-auto-clear-storage-manager": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:57Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-biometric-auth-button": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:58Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-bluetooth-device-dashboard": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:58Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-border-shape-style": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:58Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-bt-message-phonebook-bridge": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:58Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-chip-segment-selector": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:58Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-cloud-file-sync": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:59Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-component-event-tracker": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:59Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-component-lifecycle-toolkit": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:59Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-concurrent-lru-cache": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:59Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-coordinate-toolkit": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:47:59Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-crash-recovery-guard": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:00Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-crown-gesture-navigator": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:00Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-custom-node-renderer": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:00Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-custom-tile-layers": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:00Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-data-ability-operations": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:01Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-data-prefetch-pipeline": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:01Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-dialog-patterns": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:01Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-dialog-system-config": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:01Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-dynamic-sync-cursor": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:01Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-fault-log-extension": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:02Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-gesture-drill-board": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:02Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-gesture-engine": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:02Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-insight-intent": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:02Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-js-form-controls": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:02Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-keyboard-switcher": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:03Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-loading-confirm-dialog": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:03Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-local-database": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:03Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-location-utility-toolkit": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:03Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-map-camera-zoom": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:03Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-map-geofence-runner": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:04Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-micro-poster-renderer": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:04Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-mission-task-switcher": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:04Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-multilingual-watch": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:04Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-multinav": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:04Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-network-firewall-tester": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:05Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-nfc-access-badge": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:05Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-overlay-dialog": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:05Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-photo-thumbnail-engine": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:05Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-picker-dialogs": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:05Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-podcast-player": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:06Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-poi-cluster-map": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:06Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-queue-scrollboard": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:06Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-rich-notification-center": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:06Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-round-form-navigator-and-paste-button": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:07Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-route-tracker": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:07Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-scroll-filter-list": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:07Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-security-buttons": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:07Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-shape-segment-button": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:07Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-swipe-to-refresh": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:08Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-touch-pointer-handler": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:08Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-trace-inspector": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:08Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-typed-int-arrays": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:08Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-typography-showcase": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:08Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-urpc-health-reporter": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:09Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-visual-effects": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:09Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-visual-effects-pipeline": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:09Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-voice-memo-recorder": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:09Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-volume-control-center": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:10Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-web-download-manager": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:10Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-web-file-keyboard": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:10Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-web-permission-console": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:10Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-web-proxy-prefetcher": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:10Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-build-web-status-handler": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:11Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-check-network-connection": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:11Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-control-smart-lights-with-harmonyos-and-mqtt": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:11Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-control-with-bluetooth": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:11Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-convert-address-and-cluster": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:11Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-create-arctext": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:12Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-create-calender-picker-in-wearable": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:12Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-create-pin-input": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:12Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-create-radial-menu": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:12Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-decrypt-with-publickey": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:12Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-display-place-details-on-map": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:13Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-download-file": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:13Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-draw-graphics": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:13Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-generate-symmetric-keys": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:13Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-get-heart-rate-with-sensorkit": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:13Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-implement-custom-image-based-swiper-indicators": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:14Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-implement-fft": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:14Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-implement-huks-attestation": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:14Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-implement-routing": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:14Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-implement-theme-aware-swipe-indicators": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:14Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-make-bluetooth-connectivity-monitor": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:15Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-make-button-popup": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:15Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-make-compass-app": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:15Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-make-counter-crown": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:15Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-make-custom-marker-on-map": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:16Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-make-draggable-masonry-grid": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:16Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-make-fitness-tracker": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:16Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-make-light-bulb-game": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:16Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-make-timed-random-number": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:16Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-make-transportation-app": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:17Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-make-wrist-fishing": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:17Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-parse-gpx-file-for-third-party-map-api": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:17Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-properly-initialize-and-configure-map-kit": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:17Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-record-audio-over-audio": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:18Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-record-voice": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:18Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-scan-ble": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:18Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-search-item": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:18Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-send-graphql-requests": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:19Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-send-timed-notification": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:19Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-show-user-location": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:19Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-use-advanced-typing": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:19Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-use-animation": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:19Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-use-background-tasks-kit": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:20Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-use-build-variant": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:20Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-use-digital-crown": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:20Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-use-hce": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:20Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-use-kv-store": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:20Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-use-magnetometer": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:21Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-use-network-kit": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:21Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-use-nfc-tag": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:21Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-use-notifications": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:21Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-use-performance-analysis-kit": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:22Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-use-progress": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:22Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-use-resources-and-json": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:22Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-use-rich-text-editor": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:22Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-use-sensorkit-in-wearable": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:22Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-use-stack": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:23Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-use-theme": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:23Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-use-uiability-lifecycle": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:23Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-use-weather-kit": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:23Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/how-to-use-web-socket": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:23Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/interval-clock": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:24Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/istanbul-travel-wearable": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:24Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/kitchen-clock-app": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:24Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/kokology-game": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:24Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/local-network-video-player": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:25Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/lynk-puzzle": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:25Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/mail-client": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:25Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/map-explorer": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:25Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/match-results-tracker": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:25Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/media-player": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:26Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/meet-by-near-link": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:26Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/meet-point": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:26Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/memory-trainer": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:26Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/mind-maze": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:26Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/mini-browser": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:27Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/mood-logger": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:27Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/moon-phases": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:27Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/move-beat": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:27Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/move-tracker": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:27Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/mr-bulb": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:28Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/music-player": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:28Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/music-player-based-gesture": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:28Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/n-body-simulation": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:28Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/ndk-opengl": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:28Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/news-app": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:29Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/nfc-emulation-app": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:29Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/noise-decibel-meter": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:29Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/park-pin": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:29Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/parking-timer": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:29Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/password-authenticator": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:30Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/peek-and-guess": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:30Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/perfume-collection": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:30Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/pet-training": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:30Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/picture-guesser-master": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:30Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/podcast-watch-app": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:31Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/presentation-remote": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:31Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/puzzle-game": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:31Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/quick-bill-split": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:31Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/quick-reminder": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:31Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/quiz-game": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:32Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/quiz-master": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:32Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/rolling-game": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:32Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/secure-dice-roller": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:32Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/secure-file-vault": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:33Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/secure-password-manager": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:33Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/serenity-kit": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:33Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sleep-and-relaxation": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:33Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sleep-tracker": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:33Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sliding-puzzle": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:34Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/smart-ad-beacon": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:34Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/smart-reminder": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:34Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/smart-scale": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:34Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/smart-word": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:34Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/snake-game": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:35Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sportwatch-airlines": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:35Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sportwatch-be-fit": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:35Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sportwatch-cacti-hop": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:35Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sportwatch-coffee-tracker": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:36Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sportwatch-counttimer-lite": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:36Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sportwatch-exit-app": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:36Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sportwatch-fasting-app": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:36Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sportwatch-goal-pulse": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:36Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sportwatch-golf-gps-range-finder": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:37Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sportwatch-guess-the-num": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:37Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sportwatch-how-to-blink-flash": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:37Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sportwatch-how-to-build-inclinometer": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:37Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sportwatch-how-to-calculate-distance": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:37Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sportwatch-how-to-create-dynamic-screen-changes": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:38Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sportwatch-how-to-create-image-animator": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:38Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sportwatch-how-to-create-radial-menu": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:38Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sportwatch-how-to-create-spin": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:38Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sportwatch-how-to-create-swiper": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:38Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sportwatch-how-to-derive-linear-acceleration-from-accelerometer-and-gyroscope": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:39Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sportwatch-how-to-do-file-operations": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:39Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sportwatch-how-to-gyro-light": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:39Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sportwatch-how-to-implement-a-custom-navigator": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:39Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sportwatch-how-to-implement-and-customize-qr-code": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:40Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sportwatch-how-to-implement-battery-indicator": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:40Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sportwatch-how-to-implement-expandable-list-item": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:40Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sportwatch-how-to-lite-chart": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:40Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sportwatch-how-to-make-compass-app": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:40Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sportwatch-how-to-pin-qr": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:41Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sportwatch-how-to-read-large-text-files": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:41Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sportwatch-how-to-show-heart-rate-and-steps": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:41Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sportwatch-how-to-swipe-to-delete": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:41Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sportwatch-how-to-use-crown": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:42Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sportwatch-how-to-use-geolocation": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:42Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sportwatch-how-to-use-hce": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:42Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sportwatch-how-to-use-localization-manager": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:42Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sportwatch-how-to-use-media-query": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:42Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sportwatch-how-to-use-secure-aes-decryption": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:43Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sportwatch-how-to-use-storage": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:43Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sportwatch-innerwave": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:43Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sportwatch-lynk-puzzle": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:43Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sportwatch-moveo": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:44Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sportwatch-pace-pulse-lite": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:44Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sportwatch-parked-here": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:44Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sportwatch-piece-it": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:44Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sportwatch-pong-game": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:44Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sportwatch-productivity-timer": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:45Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sportwatch-quiz-game": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:45Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sportwatch-rolling-game": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:45Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sportwatch-sudoku": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:45Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sportwatch-tap-the-dot-game": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:45Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sportwatch-tile-guess": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:46Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sportwatch-tower-defense-game": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:46Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sportwatch-virtual-keyboard": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:46Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sportwatch-wear-engine-lite-wearable-to-mobile": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:46Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sportwatch-weather-now": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:46Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/stack-game-with-unity-tuanjie": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:47Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/stock-tracker": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:47Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/story-time": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:47Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/sudoku": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:47Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/take-attendance-app": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:47Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/tap-rhythm": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:48Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/tap-the-dot-game": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:48Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/throw-the-lines": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:48Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/tic-tac-toe-lan": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:48Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/touristic-places": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:48Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/track-way": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:49Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/trading-app": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:49Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/travel-app": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:49Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/unit-calculator": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:49Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/visa-vista": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:50Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/water-tracker": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:50Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/way-find": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:50Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/wear-call": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:50Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/wear-engine-hmos-next-wearable-to-phone": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:50Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/wearable-ndk": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:51Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/weather-app": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:51Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/weather-guess": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:51Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/weather-voice": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:51Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/web-browser": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:51Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/web-cookie-playground": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:52Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/word-flip": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:52Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/workout-app": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:52Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/workout-center": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:52Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/world-clock-mini": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:52Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/wrist-auth": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:53Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/wv-notes": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:53Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/xox-game": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:53Z",
+      "has_hap": false
+    },
+    "Explore-In-HMOS/zone-target": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:48:53Z",
+      "has_hap": false
+    },
+    "FiveHair/pure_live": {
+      "etag": "W/\"c839465dc1011d9231780f60d38a6be232adf080a809e877ac36b8326a99adb9\"",
+      "last_checked_at": "2026-10-17T00:48:54Z",
+      "has_hap": false
+    },
+    "FluxMind-O/Hupu_Luna": {
+      "etag": "W/\"1b24e9389d681c80fff5bc8af0804b39aa0d0012986ebbce8120b1f74a55fef4\"",
+      "last_checked_at": "2026-10-17T00:48:54Z",
+      "has_hap": true
+    },
+    "GHchenjingqi/RNBuildStudio": {
+      "etag": "W/\"bc24b0a5a72d1156d1c7604eecc5411dd6640c3f64e2406eb52971032cdbc468\"",
+      "last_checked_at": "2026-10-17T00:48:55Z",
+      "has_hap": false
+    },
+    "Johnny-zbb/inside-pstack-zh": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:49:01Z",
+      "has_hap": false
+    },
+    "SinCircle/gkdonline": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:49:15Z",
+      "has_hap": false
+    },
+    "Starfie1d1272/Cexing": {
+      "etag": "W/\"19a9ada764f715b1c629fdeb8baeb9c3b70161b99b527f27c21d1b6e09185a04\"",
+      "last_checked_at": "2026-10-17T00:49:16Z",
+      "has_hap": true
+    },
+    "XCxyTianQ/CeruLean": {
+      "etag": "W/\"c36aec28502ce6b9b6ebaaf0a0b388b34effdccd0ac93fbd3b564c174e03e2a8\"",
+      "last_checked_at": "2026-10-17T00:49:23Z",
+      "has_hap": false
+    },
+    "catoncat/d2r-port-radar": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:49:31Z",
+      "has_hap": false
+    },
+    "fellow99/ohos-node-bridge": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:49:40Z",
+      "has_hap": false
+    },
+    "fjloser/okta_ohos": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:49:40Z",
+      "has_hap": false
+    },
+    "graycarl/WireGuard-Harmony": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:49:41Z",
+      "has_hap": false
+    },
+    "guogy1215/HarmonyHealth": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:49:42Z",
+      "has_hap": false
+    },
+    "hamzaniceguy99-glitch/ohotruckinglllc": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:49:42Z",
+      "has_hap": false
+    },
+    "mingdaocom/pd-openweb": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:49:53Z",
+      "has_hap": false
+    },
+    "peryixing-lab/OHClash": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:49:58Z",
+      "has_hap": false
+    },
+    "youz17/ohos-snipaste": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-10-17T00:50:17Z",
+      "has_hap": false
     }
   },
   "processed_event_ids": [
-    "22077510990",
-    "22077511215",
-    "22077511136",
-    "22077511257",
-    "22077511253",
-    "22077511250",
-    "22077511243",
-    "22077511240",
-    "22077511236",
-    "22077511235",
-    "22077511229",
-    "22077511228",
-    "22077511126",
-    "22077511124",
-    "22077511115",
-    "22077511106",
-    "22077511102",
-    "22077511094",
-    "22077511089",
-    "22077511080",
-    "22077511302",
-    "22077511145",
-    "22077511040",
-    "22077511038",
-    "22077511037",
-    "22077511035",
-    "22077511031",
-    "22077511011",
-    "22077511003",
-    "22077511270",
-    "22077510980",
-    "22077510965",
-    "22077510960",
-    "22077510940",
-    "22077510918",
-    "22077510904",
-    "22077510900",
-    "22077510898",
-    "22077510896",
-    "22077510891",
-    "22077510884",
-    "22077510878",
-    "22077511370",
-    "22077510875",
-    "22077510863",
-    "22077511224",
-    "22077511223",
-    "22077511222",
-    "22077511377",
-    "22077511220",
-    "22077511216",
-    "22077511273",
-    "22077511208",
-    "22077511192",
-    "22077511187",
-    "22077511184",
-    "22077511181",
-    "22077511179",
-    "22077511372",
-    "22077510853",
-    "22077510838",
-    "22077510836",
-    "22077510834",
-    "22077510832",
-    "22077510831",
-    "22077511173",
-    "22077511167",
-    "22077511166",
-    "22077511160",
-    "22077510825",
-    "22077510820",
-    "22077510813",
-    "22077510812",
-    "22077511140",
-    "15705617965",
-    "22077510805",
-    "22077511399",
-    "22077511397",
-    "22077511394",
-    "22077511393",
-    "22077511392",
-    "22077511388",
-    "22077511386",
-    "22077511384",
-    "22077511383",
-    "22077511378",
-    "22077511150",
-    "22077511149",
-    "22077510800",
-    "22077511368",
-    "22077511359",
-    "22077511358",
-    "22077511340",
-    "22077511339",
-    "22077511323",
-    "22077511316",
-    "22077511304",
-    "22077510780",
-    "22077510781",
-    "22077510782",
     "22176943614",
     "22176943356",
     "22176943315",
@@ -33396,6 +35071,106 @@
     "17356556578",
     "17356556574",
     "17356556566",
-    "17356556525"
+    "17356556525",
+    "24258346172",
+    "24258346191",
+    "24258346237",
+    "24258346236",
+    "24258346229",
+    "24258346227",
+    "24258346221",
+    "24258346219",
+    "24258346216",
+    "24258346215",
+    "24258346212",
+    "24258346199",
+    "24258346196",
+    "24258346189",
+    "24258346171",
+    "24258346153",
+    "24258346146",
+    "24258346145",
+    "24258346144",
+    "24258346133",
+    "24258346128",
+    "24258346115",
+    "24258346100",
+    "24258346097",
+    "24258346092",
+    "24258346091",
+    "24258346085",
+    "24258346081",
+    "24258346653",
+    "24258346080",
+    "24258346239",
+    "24258346267",
+    "24258346271",
+    "24258346280",
+    "24258346290",
+    "24258346291",
+    "24258346301",
+    "24258346311",
+    "24258346073",
+    "24258346323",
+    "24258346333",
+    "24258346334",
+    "24258346335",
+    "24258346337",
+    "24258346343",
+    "24258346348",
+    "24258346366",
+    "24258346381",
+    "24258346388",
+    "24258346672",
+    "24258346431",
+    "24258346437",
+    "24258346452",
+    "24258346457",
+    "24258346468",
+    "24258346490",
+    "24258346494",
+    "24258346497",
+    "24258346507",
+    "24258346512",
+    "24258346516",
+    "24258346518",
+    "24258346520",
+    "24258346542",
+    "24258346548",
+    "24258346767",
+    "24258346557",
+    "24258346563",
+    "24258346575",
+    "24258346578",
+    "24258346584",
+    "24258346596",
+    "24258346620",
+    "24258346624",
+    "24258346627",
+    "24258346628",
+    "24258346630",
+    "24258346669",
+    "24258346652",
+    "24258346644",
+    "24258346407",
+    "24258346678",
+    "24258346681",
+    "24258346779",
+    "24258346788",
+    "24258346802",
+    "24258346805",
+    "24258346808",
+    "24258346682",
+    "24258346708",
+    "24258346711",
+    "24258346712",
+    "24258346713",
+    "24258346715",
+    "24258346729",
+    "24258346755",
+    "24258346066",
+    "24258346065",
+    "17450973188",
+    "17450973186"
   ]
 }
