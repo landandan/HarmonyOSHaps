@@ -2,7 +2,6 @@ name: Collect HAP Projects
 
 on:
   schedule:
-    # 每天 UTC 22:30 运行一次（北京时间次日 06:30）
     - cron: "30 20 * * *"
   workflow_dispatch:
 

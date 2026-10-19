@@ -2,9 +2,12 @@
 
 自动收录在 GitHub Release 中提供 `.hap`（HarmonyOS 应用包）附件的开源项目，按工具与实用程序、办公、影音娱乐、阅读、代理工具、游戏、开发、网络浏览器、社交网络、其他分类展示，各类内按最新 Release 发布时间倒序排列。
 
-- 数据更新：每天自动运行一次（GitHub Actions 定时任务），也可在 Actions 页面手动触发。
+- 数据更新：每天自动运行一次。
 - 数据来源：GitHub Search API（harmonyos / openharmony / hap 关键词）+ 公共 Release 事件 + 手工种子仓库。
 - 原始数据：`data/projects.json`。
+
+安装工具推荐：
+[HoKit](https://github.com/yabi-zzh/HoKit)
 
 <!-- HAP_TABLE_START -->
 <!-- 自动生成，请勿手动编辑 -->
