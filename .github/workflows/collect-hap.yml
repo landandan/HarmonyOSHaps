@@ -3,7 +3,7 @@ name: Collect HAP Projects
 on:
   schedule:
     # 每天 UTC 22:30 运行一次（北京时间次日 06:30）
-    - cron: "30 22 * * *"
+    - cron: "30 20 * * *"
   workflow_dispatch:
 
 permissions:
@@ -20,10 +20,10 @@ jobs:
     timeout-minutes: 300
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.12"
 
