@@ -13,6 +13,7 @@
 认证：环境变量 GITHUB_TOKEN（强烈建议设置，CI 中自动可用）。
 """
 
+import argparse
 import json
 import os
 import re
@@ -30,6 +31,7 @@ DATA_DIR = ROOT / "data"
 SEEDS_FILE = DATA_DIR / "seeds.json"
 STATE_FILE = DATA_DIR / "state.json"
 PROJECTS_FILE = DATA_DIR / "projects.json"
+CATEGORIES_FILE = DATA_DIR / "categories.json"
 README_FILE = ROOT / "README.md"
 
 SEARCH_QUERIES = [
@@ -331,8 +333,32 @@ CATEGORY_RULES = (
 )
 
 
-def classify_project(project):
+def load_category_overrides():
+    """读取人工分类；配置错误时明确报错，避免静默使用自动分类。"""
+    if not CATEGORIES_FILE.exists():
+        return {}
+    with CATEGORIES_FILE.open(encoding="utf-8") as fh:
+        config = json.load(fh)
+    if not isinstance(config, dict):
+        raise ValueError("data/categories.json 必须是仓库全名到分类的 JSON 对象")
+    overrides = {}
+    for name, category in config.items():
+        if not re.fullmatch(r"[^/\s]+/[^/\s]+", name):
+            raise ValueError(f"无效仓库全名：{name!r}，应为 owner/repo")
+        if category not in CATEGORIES:
+            raise ValueError(f"{name} 的分类无效：{category!r}；可选分类：{'、'.join(CATEGORIES)}")
+        key = name.casefold()
+        if key in overrides:
+            raise ValueError(f"重复的仓库分类配置：{name}")
+        overrides[key] = category
+    return overrides
+
+
+def classify_project(project, overrides=None):
     """根据仓库名和完整简介分类，也支持数据中显式指定 category。"""
+    override = (overrides or {}).get((project.get("full_name") or "").casefold())
+    if override is not None:
+        return override
     category = project.get("category")
     if category in CATEGORIES:
         return category
@@ -361,6 +387,7 @@ def build_table(projects):
       - 简介 / tag 插入 <wbr>，内容可换行，整表不横向滚动
       - 不含下载列：HAP 附件数据仍完整保存在 data/projects.json
     """
+    overrides = load_category_overrides()
     ordered = sorted(
         projects,
         key=lambda p: (p.get("latest_hap_release") or {}).get("published_at") or "",
@@ -375,7 +402,7 @@ def build_table(projects):
     ]
     grouped = {category: [] for category in CATEGORIES}
     for project in ordered:
-        grouped[classify_project(project)].append(project)
+        grouped[classify_project(project, overrides)].append(project)
     # 今日更新是额外汇总，项目仍保留在原分类中，不计入分类总数。
     grouped["今日更新"] = [
         project for project in ordered
@@ -460,6 +487,19 @@ def update_readme(table):
 
 
 def main():
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--readme-only", action="store_true", help="仅用本地项目数据和分类配置更新 README，不请求 GitHub")
+    args = parser.parse_args()
+    # 在采集前校验人工配置，避免配置错误导致耗时采集后才失败。
+    load_category_overrides()
+    if args.readme_only:
+        projects = load_json(PROJECTS_FILE, [])
+        if not isinstance(projects, list):
+            raise ValueError("data/projects.json 必须是项目列表")
+        changed = update_readme(build_table(projects))
+        print(f"[readme] changed={changed}")
+        return
+
     if not TOKEN:
         print("[warn] GITHUB_TOKEN is not set; API rate limits will be much lower")
 
