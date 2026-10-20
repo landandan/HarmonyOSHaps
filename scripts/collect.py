@@ -321,10 +321,13 @@ CATEGORIES = ("工具与实用程序", "办公", "影音娱乐", "阅读", "代�
 
 # 按用途匹配；专用应用优先于通用工具，无法识别的项目归入“其他”。
 CATEGORY_RULES = (
+    # 明确用途优先；同步目录、模型引擎、UI 技术等实现细节不代表应用用途。
+    ("工具与实用程序", r"syncthing|文件同步|file.{0,20}sync|traccar|GPS.{0,12}(?:track|定位)|定位追踪|去水印|watermark.{0,12}remov|hap[-_ ]installer|hap[-_ ]release[-_ ]kit|签名安装套件|应用签名|为鸿蒙应用签名"),
+    ("工具与实用程序", r"本地.{0,8}AI.{0,8}对话|local[-_ ]ai[-_ ]chat|ai.{0,4}智能体.{0,30}个人助理|本地大模型工具箱"),
     ("代理工具", r"vpn|clash|代理|proxy|sing.?box|tailscale|harmotail|easytier|etohos|karing|v2ray|xray|shadowsocks|hysteria|nekobox"),
     ("游戏", r"游戏|\bgame\b|gaming|mindustry|minecraft|minecaft|homolauncher|pvz|emulator|模拟器|hps2|snake|pokedex|宝可梦|buttercup|joiplay|tyranor|mcb_ohos"),
     ("阅读", r"阅读|小说|漫画|电子书|词典|字典|manga|comic|cimoc|ehviewer|ehentai|e-hentai|exhentai|nhentai|picacg|bika|mybooks|copyhomo|copi-ohos|nextn\b|nexte\b|mdreader|ebook|epub|mdict|dictionar"),
-    ("开发", r"开发框架|开发工具|工具链|项目模板|测试靶场|客户端测试|调试|debug|\bsdk\b|\bide\b|\bdemo\b|\bsample\b|pipeline|github.action|github client|arkcat|终端|terminal|ssh|codex|harness|harnes|opencode|zcode|llama|tauri|electron|自动化构建|示例|开发课|ngf\b"),
+    ("开发", r"开发框架|开发工具|工具链|项目模板|测试靶场|客户端测试|调试|debug|\bide\b|\bdemo\b|\bsample\b|pipeline|github.action|github client|arkcat|终端|terminal|ssh|codex|harness|harnes|opencode|zcode|tauri.{0,12}(?:api[-_ ]*)?test|llama\.cpp[-_ ]server|自动化构建|示例|开发课|ngf\b"),
     ("网络浏览器", r"browser|浏览器|webapp|webview app|nas_nav"),
     ("影音娱乐", r"music|player|emby|jellyfin|anime|pili|podcast|antennapod|homenapod|harflix|pixiv|pixlume|音乐|视频|影音|播放|动漫|番剧|直播|播客|相册|photo|immich|melotopia"),
     ("社交网络", r"telegram|petrelgram|社交|论坛|社区|贴吧|知乎|米游社|linux.?do|hipda|4d4y|stage1st|s1-orange|lnga|\bnga\b|tieba|zhihu|harmonyx|\bx client\b|mastodon|misskey|weibo|微博|fishpi|摸鱼派|c001apk"),
