@@ -19,7 +19,7 @@ import os
 import re
 import sys
 import time
-from datetime import datetime, timezone
+from datetime import datetime, time as datetime_time, timedelta, timezone
 from pathlib import Path
 
 import requests
@@ -397,7 +397,12 @@ def build_table(projects):
         reverse=True,
     )
     generated_at = now_iso()
-    today = generated_at[:10]
+    generated_datetime = datetime.fromisoformat(generated_at.replace("Z", "+00:00"))
+    # UTC 00:00 之后、08:00 之前生成时，汇总前一天的发布记录。
+    statistics_date = generated_datetime.date()
+    if datetime_time(0) < generated_datetime.time() < datetime_time(8):
+        statistics_date -= timedelta(days=1)
+    today = statistics_date.isoformat()
     rows = [
         "<!-- 自动生成，请勿手动编辑 -->",
         f"**共收录 {len(ordered)} 个项目** · 更新于 {generated_at[:16]} (UTC)",

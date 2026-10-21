@@ -35,7 +35,7 @@ python scripts/collect.py --readme-only
 
 <a id="hap-menu" name="hap-menu"></a>
 
-- [今日更新：0](#hap-today)
+- [今日更新：13](#hap-today)
 - [工具与实用程序：77](#hap-utilities)
 - [办公：10](#hap-office)
 - [影音娱乐：50](#hap-media)
@@ -50,14 +50,25 @@ python scripts/collect.py --readme-only
 <a id="hap-today" name="hap-today"></a>
 
 <details open>
-<summary><strong>今日更新</strong>（0 个项目）</summary>
+<summary><strong>今日更新</strong>（13 个项目）</summary>
 
-统计日期：2026-10-21（UTC），项目同时保留在下方原分类中。
+统计日期：2026-10-20（UTC），项目同时保留在下方原分类中。
 
 | 项目 | 简介 | ⭐ Stars | 📅 更新日期 | 🏷️ 最新版本 |
 |:-----|:-----|:-------:|:-----------:|:------------|
-
-暂无更新。
+| [**ixiachu_ohos**](https://github.com/muleos/ixiachu_ohos)<br><sub>muleos</sub> | I下厨 —— 鸿蒙原生(HarmonyOS/<wbr>ArkTS)菜谱管理与点菜助手：菜单库/<wbr>点菜/<wbr>采购清单/<wbr>食材管理，HD… | 1 | 2026-10-20 | [v1.<wbr>12.<wbr>2](https://github.com/muleos/ixiachu_ohos/releases/tag/v1.12.2) |
+| [**HarmonyX**](https://github.com/haohaoai0/HarmonyX)<br><sub>haohaoai0</sub> | A native, design-<wbr>led X client for HarmonyOS — built with … | 246 | 2026-10-20 | [v3.<wbr>3.<wbr>0](https://github.com/haohaoai0/HarmonyX/releases/tag/v3.3.0) |
+| [**servo-ohos-browser**](https://github.com/KevinLu-ohos/servo-ohos-browser)<br><sub>KevinLu-ohos</sub> | — | 1 | 2026-10-20 | [v0.<wbr>9.<wbr>17](https://github.com/KevinLu-ohos/servo-ohos-browser/releases/tag/v0.9.17) |
+| [**Ehviewer_OHOS**](https://github.com/suibianqwe/Ehviewer_OHOS)<br><sub>suibianqwe</sub> | Ehviewer on Harmony OS，原生构建，纵享丝滑。还原安卓版多数功能，同时添加了一些实用功能。现已… | 47 | 2026-10-20 | [v0.<wbr>7.<wbr>4](https://github.com/suibianqwe/Ehviewer_OHOS/releases/tag/v0.7.4) |
+| [**turbo-ai-chat-harmonyos**](https://github.com/Torry2022/turbo-ai-chat-harmonyos)<br><sub>Torry2022</sub> | Multi-<wbr>model native LLM chat for HarmonyOS NEXT with MNN R… | 1 | 2026-10-20 | [v1.<wbr>14.<wbr>0](https://github.com/Torry2022/turbo-ai-chat-harmonyos/releases/tag/v1.14.0) |
+| [**UU-HarmonyOS**](https://github.com/lukedd666-sudo/UU-HarmonyOS)<br><sub>lukedd666-sudo</sub> | 面向鸿蒙电脑的独立远程控制实验客户端，对接本人官方网易 UU Mac /<wbr> Windows 客户端。 | 0 | 2026-10-20 | [v0.<wbr>1.<wbr>0](https://github.com/lukedd666-sudo/UU-HarmonyOS/releases/tag/v0.1.0) |
+| [**qemu-hmos**](https://github.com/AetheriumSimulator/qemu-hmos)<br><sub>AetheriumSimulator</sub> | A QEMU distro for Huawei's HarmonyOS Tablets and laptops,… | 37 | 2026-10-20 | [test-<wbr>5d17567824c1<wbr>744afb9a3b3a<wbr>…](https://github.com/AetheriumSimulator/qemu-hmos/releases/tag/test-5d17567824c1744afb9a3b3ae38f232e67e83e96) |
+| [**hyoushe**](https://github.com/MrCashmere/hyoushe)<br><sub>MrCashmere</sub> | 米游社第三方HarmonyOS移植 | 7 | 2026-10-20 | [v1.<wbr>1.<wbr>7](https://github.com/MrCashmere/hyoushe/releases/tag/v1.1.7) |
+| [**hipda-oh**](https://github.com/sis5595/hipda-oh)<br><sub>sis5595</sub> | HiPDA·OH：体验与 HiPDA·NG 对齐的原生鸿蒙 4D4Y 非官方客户端。 | 3 | 2026-10-20 | [v1.<wbr>0.<wbr>0-<wbr>beta.<wbr>5](https://github.com/sis5595/hipda-oh/releases/tag/v1.0.0-beta.5) |
+| [**OpenCMR2-ohos**](https://github.com/GetZ110/OpenCMR2-ohos)<br><sub>GetZ110</sub> | OpenCMR2 鸿蒙手机移植版，基于官方 SDL3/<wbr>Vulkan，支持触控操作与 ZIP 游戏资源导入，目前仅适… | 0 | 2026-10-20 | [ohos-<wbr>v0.<wbr>1.<wbr>0-<wbr>preview.<wbr>1](https://github.com/GetZ110/OpenCMR2-ohos/releases/tag/ohos-v0.1.0-preview.1) |
+| [**LibreTV-for-HarmonyOS**](https://github.com/panhaichen-creator/LibreTV-for-HarmonyOS)<br><sub>panhaichen-creator</sub> | LibreTV的鸿蒙原生客户端 · ArkTS + ArkUI · HarmonyOS NEXT | 30 | 2026-10-20 | [1.<wbr>1.<wbr>7](https://github.com/panhaichen-creator/LibreTV-for-HarmonyOS/releases/tag/1.1.7) |
+| [**HarmoTail-Releases**](https://github.com/wuwu888/HarmoTail-Releases)<br><sub>wuwu888</sub> | HarmoTail -<wbr> Tailscale for HarmonyOS NEXT /<wbr> 鸿蒙 Tailscale /<wbr>… | 7 | 2026-10-20 | [v0.<wbr>17.<wbr>1](https://github.com/wuwu888/HarmoTail-Releases/releases/tag/v0.17.1) |
+| [**Homeassistant-APP-For-HarmonyOS-Watch**](https://github.com/ElmGates/Homeassistant-APP-For-HarmonyOS-Watch)<br><sub>ElmGates</sub> | 一款基于 HarmonyOS6 的Homeassistant远程控制APP，需要全智能手表（华为Watch5以上机… | 0 | 2026-10-20 | [v1.<wbr>9.<wbr>11](https://github.com/ElmGates/Homeassistant-APP-For-HarmonyOS-Watch/releases/tag/v1.9.11) |
 
 [↑ 返回菜单](#hap-menu)
 
