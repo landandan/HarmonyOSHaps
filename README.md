@@ -9,26 +9,6 @@
 安装工具推荐：
 [HoKit](https://github.com/yabi-zzh/HoKit)
 
-### 手动配置分类
-
-编辑 [`data/categories.json`](data/categories.json)，以 GitHub 仓库全名为键、分类名称为值，例如：
-
-```json
-{
-  "dev4harmony/PiliPlus": "影音娱乐",
-  "tljk/FlClash-ohos": "代理工具"
-}
-```
-
-可选分类：工具与实用程序、办公、影音娱乐、阅读、代理工具、游戏、开发、网络浏览器、社交网络、其他。
-手动配置优先于项目数据中的 `category` 和自动识别，仓库名不区分大小写，自动采集不会覆盖此文件。删除对应条目即可恢复默认分类；无效分类会报错。配置仅调整已收录项目的分类，不会新增项目。
-
-配置后可等待每日自动更新，或在安装 `requirements.txt` 中的依赖后运行以下命令，使用本地数据立即更新导航（无需访问 GitHub）：
-
-```bash
-python scripts/collect.py --readme-only
-```
-
 <!-- HAP_TABLE_START -->
 <!-- 自动生成，请勿手动编辑 -->
 **共收录 284 个项目** · 更新于 2026-10-22T00:42 (UTC)
