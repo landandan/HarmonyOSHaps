@@ -11,21 +11,21 @@
 
 <!-- HAP_TABLE_START -->
 <!-- 自动生成，请勿手动编辑 -->
-**共收录 291 个项目** · 更新于 2026-10-22T23:40 (UTC)
+**共收录 291 个项目** · 更新于 2026-10-23T01:07 (UTC)
 
 <a id="hap-menu" name="hap-menu"></a>
 
 - [今日更新：14](#hap-today)
-- [工具与实用程序：77](#hap-utilities)
+- [工具与实用程序：78](#hap-utilities)
 - [办公：11](#hap-office)
-- [影音娱乐：50](#hap-media)
+- [影音娱乐：52](#hap-media)
 - [阅读：32](#hap-reading)
-- [代理工具：21](#hap-proxy)
+- [代理工具：22](#hap-proxy)
 - [游戏：21](#hap-games)
 - [开发：43](#hap-development)
 - [网络浏览器：8](#hap-browsers)
 - [社交网络：22](#hap-social)
-- [其他：6](#hap-other)
+- [其他：2](#hap-other)
 
 <a id="hap-today" name="hap-today"></a>
 
@@ -58,7 +58,7 @@
 <a id="hap-utilities" name="hap-utilities"></a>
 
 <details open>
-<summary><strong>工具与实用程序</strong>（77 个项目）</summary>
+<summary><strong>工具与实用程序</strong>（78 个项目）</summary>
 
 | 项目 | 简介 | ⭐ Stars | 📅 更新日期 | 🏷️ 最新版本 |
 |:-----|:-----|:-------:|:-----------:|:------------|
@@ -69,6 +69,7 @@
 | [**UU-HarmonyOS**](https://github.com/lukedd666-sudo/UU-HarmonyOS)<br><sub>lukedd666-sudo</sub> | 面向鸿蒙电脑的独立远程控制实验客户端，对接本人官方网易 UU Mac /<wbr> Windows 客户端。 | 0 | 2026-10-20 | [v0.<wbr>1.<wbr>0](https://github.com/lukedd666-sudo/UU-HarmonyOS/releases/tag/v0.1.0) |
 | [**Homeassistant-APP-For-HarmonyOS-Watch**](https://github.com/ElmGates/Homeassistant-APP-For-HarmonyOS-Watch)<br><sub>ElmGates</sub> | 一款基于 HarmonyOS6 的Homeassistant远程控制APP，需要全智能手表（华为Watch5以上机… | 0 | 2026-10-20 | [v1.<wbr>9.<wbr>11](https://github.com/ElmGates/Homeassistant-APP-For-HarmonyOS-Watch/releases/tag/v1.9.11) |
 | [**miha_hm**](https://github.com/MrCashmere/miha_hm)<br><sub>MrCashmere</sub> | 基于 HarmonyOS NEXT 原生 ArkTS /<wbr> ArkUI 开发的小米家庭 /<wbr> 米家（MIoT）控制应用… | 22 | 2026-10-19 | [v1.<wbr>1.<wbr>9](https://github.com/MrCashmere/miha_hm/releases/tag/v1.1.9) |
+| [**LANShare-Harmony**](https://github.com/fgsq-team/LANShare-Harmony)<br><sub>fgsq-team</sub> | LANShare 鸿蒙版 | 0 | 2026-10-19 | [v5.<wbr>3.<wbr>14](https://github.com/fgsq-team/LANShare-Harmony/releases/tag/v5.3.14) |
 | [**jidecards-anki-harmonyos**](https://github.com/wuweiyouzuoju/jidecards-anki-harmonyos)<br><sub>wuweiyouzuoju</sub> | 基于 HarmonyOS 的 Anki 卡片学习客户端，复用 Anki Rust 后端 | 25 | 2026-10-17 | [v3.<wbr>0.<wbr>20](https://github.com/wuweiyouzuoju/jidecards-anki-harmonyos/releases/tag/v3.0.20) |
 | [**ha-companion-harmonyos**](https://github.com/xiasi0/ha-companion-harmonyos)<br><sub>xiasi0</sub> | — | 49 | 2026-10-16 | [v1.<wbr>4.<wbr>3](https://github.com/xiasi0/ha-companion-harmonyos/releases/tag/v1.4.3) |
 | [**HarmoNiLink**](https://github.com/Octopustank/HarmoNiLink)<br><sub>Octopustank</sub> | 原生HarmonyOS平台尼康相机蓝牙GPS信息传输工具 | 7 | 2026-10-16 | [v2.<wbr>5.<wbr>6](https://github.com/Octopustank/HarmoNiLink/releases/tag/v2.5.6) |
@@ -170,10 +171,12 @@
 <a id="hap-media" name="hap-media"></a>
 
 <details open>
-<summary><strong>影音娱乐</strong>（50 个项目）</summary>
+<summary><strong>影音娱乐</strong>（52 个项目）</summary>
 
 | 项目 | 简介 | ⭐ Stars | 📅 更新日期 | 🏷️ 最新版本 |
 |:-----|:-----|:-------:|:-----------:|:------------|
+| [**aegisub-ohos**](https://github.com/qiorz/aegisub-ohos)<br><sub>qiorz</sub> | Aegisub port to HarmonyOS (OHOS) arm64 | 0 | 2026-10-22 | [v0.<wbr>2.<wbr>1](https://github.com/qiorz/aegisub-ohos/releases/tag/v0.2.1) |
+| [**handbrake-ohos**](https://github.com/qiorz/handbrake-ohos)<br><sub>qiorz</sub> | HandBrake port to HarmonyOS (OHOS) arm64 | 2 | 2026-10-22 | [v3.<wbr>1.<wbr>0](https://github.com/qiorz/handbrake-ohos/releases/tag/v3.1.0) |
 | [**YourPipe**](https://github.com/Ember5843/YourPipe)<br><sub>Ember5843</sub> | 一个基于New pipe extractor的鸿蒙youtube客户端实现 | 90 | 2026-10-22 | [v0.<wbr>7.<wbr>0-<wbr>1000032](https://github.com/Ember5843/YourPipe/releases/tag/v0.7.0-1000032) |
 | [**FMphoto**](https://github.com/jonas-pi/FMphoto)<br><sub>jonas-pi</sub> | 飞马相册-<wbr>第三方飞牛相册鸿蒙端实现 | 23 | 2026-10-22 | [v1.<wbr>4.<wbr>2.<wbr>12](https://github.com/jonas-pi/FMphoto/releases/tag/v1.4.2.12) |
 | [**LibreTV-for-HarmonyOS**](https://github.com/panhaichen-creator/LibreTV-for-HarmonyOS)<br><sub>panhaichen-creator</sub> | LibreTV的鸿蒙原生客户端 · ArkTS + ArkUI · HarmonyOS NEXT | 42 | 2026-10-21 | [1.<wbr>9.<wbr>8](https://github.com/panhaichen-creator/LibreTV-for-HarmonyOS/releases/tag/1.9.8) |
@@ -276,10 +279,11 @@
 <a id="hap-proxy" name="hap-proxy"></a>
 
 <details open>
-<summary><strong>代理工具</strong>（21 个项目）</summary>
+<summary><strong>代理工具</strong>（22 个项目）</summary>
 
 | 项目 | 简介 | ⭐ Stars | 📅 更新日期 | 🏷️ 最新版本 |
 |:-----|:-----|:-------:|:-----------:|:------------|
+| [**TunBox**](https://github.com/xiaoli8571/TunBox)<br><sub>xiaoli8571</sub> | — | 56 | 2026-10-22 | [v0.<wbr>5.<wbr>2](https://github.com/xiaoli8571/TunBox/releases/tag/v0.5.2) |
 | [**FlClash-ohos**](https://github.com/tljk/FlClash-ohos)<br><sub>tljk</sub> | A multi-<wbr>platform proxy client based on ClashMeta,simple a… | 278 | 2026-10-21 | [v0.<wbr>8.<wbr>96+202610210<wbr>1](https://github.com/tljk/FlClash-ohos/releases/tag/v0.8.96%2B2026102101) |
 | [**HarmoTail-Releases**](https://github.com/wuwu888/HarmoTail-Releases)<br><sub>wuwu888</sub> | HarmoTail -<wbr> Tailscale for HarmonyOS NEXT /<wbr> 鸿蒙 Tailscale /<wbr>… | 9 | 2026-10-20 | [v0.<wbr>17.<wbr>1](https://github.com/wuwu888/HarmoTail-Releases/releases/tag/v0.17.1) |
 | [**sing-box-for-harmonyos**](https://github.com/being123321/sing-box-for-harmonyos)<br><sub>being123321</sub> | Unofficial HarmonyOS sing-<wbr>box client · ArkUI UI, VPN Exte… | 12 | 2026-10-18 | [v0.<wbr>2.<wbr>10](https://github.com/being123321/sing-box-for-harmonyos/releases/tag/v0.2.10) |
@@ -451,14 +455,10 @@
 <a id="hap-other" name="hap-other"></a>
 
 <details open>
-<summary><strong>其他</strong>（6 个项目）</summary>
+<summary><strong>其他</strong>（2 个项目）</summary>
 
 | 项目 | 简介 | ⭐ Stars | 📅 更新日期 | 🏷️ 最新版本 |
 |:-----|:-----|:-------:|:-----------:|:------------|
-| [**aegisub-ohos**](https://github.com/qiorz/aegisub-ohos)<br><sub>qiorz</sub> | Aegisub port to HarmonyOS (OHOS) arm64 | 0 | 2026-10-22 | [v0.<wbr>2.<wbr>1](https://github.com/qiorz/aegisub-ohos/releases/tag/v0.2.1) |
-| [**handbrake-ohos**](https://github.com/qiorz/handbrake-ohos)<br><sub>qiorz</sub> | HandBrake port to HarmonyOS (OHOS) arm64 | 2 | 2026-10-22 | [v3.<wbr>1.<wbr>0](https://github.com/qiorz/handbrake-ohos/releases/tag/v3.1.0) |
-| [**TunBox**](https://github.com/xiaoli8571/TunBox)<br><sub>xiaoli8571</sub> | — | 56 | 2026-10-22 | [v0.<wbr>5.<wbr>2](https://github.com/xiaoli8571/TunBox/releases/tag/v0.5.2) |
-| [**LANShare-Harmony**](https://github.com/fgsq-team/LANShare-Harmony)<br><sub>fgsq-team</sub> | LANShare 鸿蒙版 | 0 | 2026-10-19 | [v5.<wbr>3.<wbr>14](https://github.com/fgsq-team/LANShare-Harmony/releases/tag/v5.3.14) |
 | [**wisp-gym**](https://github.com/BOT-K4CP3R/wisp-gym)<br><sub>BOT-K4CP3R</sub> | Wisp Gym: a creature that grows from your real training.<wbr> … | 0 | 2026-10-04 | [v1.<wbr>3.<wbr>1](https://github.com/BOT-K4CP3R/wisp-gym/releases/tag/v1.3.1) |
 | [**Openharmony**](https://github.com/WistfulReverie/Openharmony)<br><sub>WistfulReverie</sub> | first harmony app | 0 | 2025-12-19 | [v1](https://github.com/WistfulReverie/Openharmony/releases/tag/v1) |
 
