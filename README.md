@@ -11,21 +11,21 @@
 
 <!-- HAP_TABLE_START -->
 <!-- 自动生成，请勿手动编辑 -->
-**共收录 303 个项目** · 更新于 2026-10-25T23:53 (UTC)
+**共收录 303 个项目** · 更新于 2026-10-26T01:38 (UTC)
 
 <a id="hap-menu" name="hap-menu"></a>
 
 - [今日更新：7](#hap-today)
-- [工具与实用程序：80](#hap-utilities)
+- [工具与实用程序：81](#hap-utilities)
 - [办公：11](#hap-office)
 - [影音娱乐：52](#hap-media)
 - [阅读：35](#hap-reading)
 - [代理工具：23](#hap-proxy)
-- [游戏：22](#hap-games)
+- [游戏：23](#hap-games)
 - [开发：46](#hap-development)
 - [网络浏览器：8](#hap-browsers)
 - [社交网络：22](#hap-social)
-- [其他：4](#hap-other)
+- [其他：2](#hap-other)
 
 <a id="hap-today" name="hap-today"></a>
 
@@ -51,12 +51,13 @@
 <a id="hap-utilities" name="hap-utilities"></a>
 
 <details open>
-<summary><strong>工具与实用程序</strong>（80 个项目）</summary>
+<summary><strong>工具与实用程序</strong>（81 个项目）</summary>
 
 | 项目 | 简介 | ⭐ Stars | 📅 更新日期 | 🏷️ 最新版本 |
 |:-----|:-----|:-------:|:-----------:|:------------|
 | [**msime**](https://github.com/metasequoiaime/msime)<br><sub>metasequoiaime</sub> | 下一代跨平台水杉输入法（MSIME）：面向 Android、iOS、macOS、Linux、Windows 与 H… | 986 | 2026-10-25 | [harmony-<wbr>v0.<wbr>2.<wbr>1-<wbr>beta](https://github.com/metasequoiaime/msime/releases/tag/harmony-v0.2.1-beta) |
 | [**CFLark-Harmony**](https://github.com/Bailin-Love/CFLark-Harmony)<br><sub>Bailin-Love</sub> | CFLark（CFLark-<wbr>Harmony）：鸿蒙 HarmonyOS NEXT 原生 Cloudflare 节点… | 6 | 2026-10-25 | [v1.<wbr>3.<wbr>7](https://github.com/Bailin-Love/CFLark-Harmony/releases/tag/v1.3.7) |
+| [**dsh-meter**](https://github.com/ZsqNQ/dsh-meter)<br><sub>ZsqNQ</sub> | 轻测光 · 鸿蒙原生测光表，给胶片摄影师用的 EV 反算 App（AGPL-<wbr>3.<wbr>0 开源） | 0 | 2026-10-24 | [v1.<wbr>2.<wbr>1](https://github.com/ZsqNQ/dsh-meter/releases/tag/v1.2.1) |
 | [**iStore**](https://github.com/HWYWL/iStore)<br><sub>HWYWL</sub> | 鸿蒙版本的OpenWRT管理APP，开发中。。。 | 11 | 2026-10-24 | [v3.<wbr>4.<wbr>1](https://github.com/HWYWL/iStore/releases/tag/v3.4.1) |
 | [**lvlian-view-hm**](https://github.com/fhf2022/lvlian-view-hm)<br><sub>fhf2022</sub> | 联文件｜基于 ArkTS /<wbr> ArkUI 的 HarmonyOS NEXT 第三方绿联 NAS 文件管理器，支持图… | 2 | 2026-10-24 | [v1.<wbr>0.<wbr>11](https://github.com/fhf2022/lvlian-view-hm/releases/tag/v1.0.11) |
 | [**quietstart**](https://github.com/thx853068675-dev/quietstart)<br><sub>thx853068675-dev</sub> | HarmonyOS 原生页面控件识别辅助工具。按提示对页面识别与学习，自动生成规则。 | 232 | 2026-10-23 | [v1.<wbr>2.<wbr>8](https://github.com/thx853068675-dev/quietstart/releases/tag/v1.2.8) |
@@ -312,7 +313,7 @@
 <a id="hap-games" name="hap-games"></a>
 
 <details open>
-<summary><strong>游戏</strong>（22 个项目）</summary>
+<summary><strong>游戏</strong>（23 个项目）</summary>
 
 | 项目 | 简介 | ⭐ Stars | 📅 更新日期 | 🏷️ 最新版本 |
 |:-----|:-----|:-------:|:-----------:|:------------|
@@ -327,6 +328,7 @@
 | [**Hps2**](https://github.com/ljq123ok/Hps2)<br><sub>ljq123ok</sub> | HPS2 PS2 emulator for HarmonyOS /<wbr> OpenHarmony | 8 | 2026-10-11 | [v0.<wbr>17](https://github.com/ljq123ok/Hps2/releases/tag/v0.17) |
 | [**MindustryArk**](https://github.com/haohandc/MindustryArk)<br><sub>haohandc</sub> | 一款鸿蒙版Mindustry启动器 \| A launcher that runs Mindustry on Har… | 7 | 2026-10-05 | [v1.<wbr>3.<wbr>3.<wbr>2](https://github.com/haohandc/MindustryArk/releases/tag/v1.3.3.2) |
 | [**OH-OpenTTD**](https://github.com/TennousuAthena/OH-OpenTTD)<br><sub>TennousuAthena</sub> | OH-<wbr>OpenTTD is an open source simulation game based upon T… | 1 | 2026-10-03 | [15.<wbr>3-<wbr>harmonyos.<wbr>2](https://github.com/TennousuAthena/OH-OpenTTD/releases/tag/15.3-harmonyos.2) |
+| [**bibilabu--harmonyos**](https://github.com/point258/bibilabu--harmonyos)<br><sub>point258</sub> | 一个以封装web为基础的cs饰品比价程序，暂时弥补网易buff和悠悠有品暂未上架的遗憾 | 3 | 2026-09-26 | [1.<wbr>0](https://github.com/point258/bibilabu--harmonyos/releases/tag/1.0) |
 | [**HX360E**](https://github.com/1440196924/HX360E)<br><sub>1440196924</sub> | 鸿蒙XBOX360模拟器，基于Xenia移植 | 9 | 2026-09-18 | [1.<wbr>0.<wbr>2](https://github.com/1440196924/HX360E/releases/tag/1.0.2) |
 | [**vmrp-ohos**](https://github.com/Jiagu1218/vmrp-ohos)<br><sub>Jiagu1218</sub> | vmrp MRP emulator ported to HarmonyOS | 1 | 2026-08-09 | [v0.<wbr>3.<wbr>1](https://github.com/Jiagu1218/vmrp-ohos/releases/tag/v0.3.1) |
 | [**HMCL-HarmonyOS**](https://github.com/ABCmouren/HMCL-HarmonyOS)<br><sub>ABCmouren</sub> | 在鸿蒙上的HMCL | 0 | 2026-07-26 | [v1.<wbr>0.<wbr>0](https://github.com/ABCmouren/HMCL-HarmonyOS/releases/tag/v1.0.0) |
@@ -458,13 +460,11 @@
 <a id="hap-other" name="hap-other"></a>
 
 <details open>
-<summary><strong>其他</strong>（4 个项目）</summary>
+<summary><strong>其他</strong>（2 个项目）</summary>
 
 | 项目 | 简介 | ⭐ Stars | 📅 更新日期 | 🏷️ 最新版本 |
 |:-----|:-----|:-------:|:-----------:|:------------|
-| [**dsh-meter**](https://github.com/ZsqNQ/dsh-meter)<br><sub>ZsqNQ</sub> | 轻测光 · 鸿蒙原生测光表，给胶片摄影师用的 EV 反算 App（AGPL-<wbr>3.<wbr>0 开源） | 0 | 2026-10-24 | [v1.<wbr>2.<wbr>1](https://github.com/ZsqNQ/dsh-meter/releases/tag/v1.2.1) |
 | [**wisp-gym**](https://github.com/BOT-K4CP3R/wisp-gym)<br><sub>BOT-K4CP3R</sub> | Wisp Gym: a creature that grows from your real training.<wbr> … | 0 | 2026-10-04 | [v1.<wbr>3.<wbr>1](https://github.com/BOT-K4CP3R/wisp-gym/releases/tag/v1.3.1) |
-| [**bibilabu--harmonyos**](https://github.com/point258/bibilabu--harmonyos)<br><sub>point258</sub> | 一个以封装web为基础的cs饰品比价程序，暂时弥补网易buff和悠悠有品暂未上架的遗憾 | 3 | 2026-09-26 | [1.<wbr>0](https://github.com/point258/bibilabu--harmonyos/releases/tag/1.0) |
 | [**Openharmony**](https://github.com/WistfulReverie/Openharmony)<br><sub>WistfulReverie</sub> | first harmony app | 0 | 2025-12-19 | [v1](https://github.com/WistfulReverie/Openharmony/releases/tag/v1) |
 
 [↑ 返回菜单](#hap-menu)
