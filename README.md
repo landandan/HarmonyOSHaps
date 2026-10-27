@@ -5,6 +5,8 @@
 - 数据更新：每天自动运行一次。
 - 数据来源：GitHub Search API（harmonyos / openharmony / hap 关键词）+ 公共 Release 事件 + 手工种子仓库。
 - 原始数据：`data/projects.json`。
+- 消息推送：Actions 采集及提交成功后，通过 MeoW 推送本轮“今日更新”（项目、版本、简介及 Release 链接）；无更新时也发送通知。默认使用已配置的推送地址，可通过仓库 Secret `MEOW_PUSH_URL` 覆盖。推送失败会使工作流报错。
+- 本地预览推送：`python scripts/push_today_updates.py --dry-run`（不发送消息）。
 
 安装工具推荐：
 [HoKit](https://github.com/yabi-zzh/HoKit)

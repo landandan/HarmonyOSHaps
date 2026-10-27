@@ -45,3 +45,9 @@ jobs:
           fi
           git commit -m "chore: update HAP project list [skip ci]"
           git push
+
+      - name: Push today's updates to MeoW
+        if: ${{ success() }}
+        env:
+          MEOW_PUSH_URL: ${{ secrets.MEOW_PUSH_URL }}
+        run: python scripts/push_today_updates.py
