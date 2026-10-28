@@ -13,21 +13,21 @@
 
 <!-- HAP_TABLE_START -->
 <!-- 自动生成，请勿手动编辑 -->
-**共收录 308 个项目** · 更新于 2026-10-28T00:06 (UTC)
+**共收录 308 个项目** · 更新于 2026-10-28T01:03 (UTC)
 
 <a id="hap-menu" name="hap-menu"></a>
 
 - [今日更新：17](#hap-today)
-- [工具与实用程序：82](#hap-utilities)
+- [工具与实用程序：83](#hap-utilities)
 - [办公：11](#hap-office)
-- [影音娱乐：53](#hap-media)
+- [影音娱乐：54](#hap-media)
 - [阅读：35](#hap-reading)
 - [代理工具：23](#hap-proxy)
 - [游戏：23](#hap-games)
-- [开发：46](#hap-development)
+- [开发：47](#hap-development)
 - [网络浏览器：8](#hap-browsers)
 - [社交网络：22](#hap-social)
-- [其他：5](#hap-other)
+- [其他：2](#hap-other)
 
 <a id="hap-today" name="hap-today"></a>
 
@@ -63,7 +63,7 @@
 <a id="hap-utilities" name="hap-utilities"></a>
 
 <details open>
-<summary><strong>工具与实用程序</strong>（82 个项目）</summary>
+<summary><strong>工具与实用程序</strong>（83 个项目）</summary>
 
 | 项目 | 简介 | ⭐ Stars | 📅 更新日期 | 🏷️ 最新版本 |
 |:-----|:-----|:-------:|:-----------:|:------------|
@@ -89,6 +89,7 @@
 | [**HarmoNiLink**](https://github.com/Octopustank/HarmoNiLink)<br><sub>Octopustank</sub> | 原生HarmonyOS平台尼康相机蓝牙GPS信息传输工具 | 7 | 2026-10-16 | [v2.<wbr>5.<wbr>6](https://github.com/Octopustank/HarmoNiLink/releases/tag/v2.5.6) |
 | [**traccar-client-harmony**](https://github.com/simon2137/traccar-client-harmony)<br><sub>simon2137</sub> | Traccar Client for HarmonyOS -<wbr> ArkTS /<wbr> ArkUI port of trac… | 0 | 2026-10-14 | [v1.<wbr>0.<wbr>0](https://github.com/simon2137/traccar-client-harmony/releases/tag/v1.0.0) |
 | [**facilis-recording**](https://github.com/CloudWhiteTower/facilis-recording)<br><sub>CloudWhiteTower</sub> | A simple, offline-<wbr>first native HarmonyOS recorder built w… | 0 | 2026-10-09 | [v3.<wbr>0.<wbr>2](https://github.com/CloudWhiteTower/facilis-recording/releases/tag/v3.0.2) |
+| [**DiPlay-Harmony**](https://github.com/Tedfaraday/DiPlay-Harmony)<br><sub>Tedfaraday</sub> | 基于 DiPlay 协议实现的原生 HarmonyOS NEXT 无线 CarPlay 显示接收端，使用 ArkT… | 11 | 2026-10-08 | [v0.<wbr>13.<wbr>11-<wbr>preview](https://github.com/Tedfaraday/DiPlay-Harmony/releases/tag/v0.13.11-preview) |
 | [**hermes-harmony**](https://github.com/topyang519/hermes-harmony)<br><sub>topyang519</sub> | 赫默狮 · HarmonyOS client and Python connector for a paired … | 3 | 2026-10-06 | [v0.<wbr>6.<wbr>8](https://github.com/topyang519/hermes-harmony/releases/tag/v0.6.8) |
 | [**crush-bench**](https://github.com/yuyayolin/crush-bench)<br><sub>yuyayolin</sub> | HarmonyOS native benchmark app | 2 | 2026-10-06 | [Harmony](https://github.com/yuyayolin/crush-bench/releases/tag/Harmony) |
 | [**soutu_ohos**](https://github.com/muleos/soutu_ohos)<br><sub>muleos</sub> | 搜图神器 鸿蒙网页封装（soutushenqi.<wbr>com 网页端移植） | 1 | 2026-10-06 | [v1.<wbr>2.<wbr>10](https://github.com/muleos/soutu_ohos/releases/tag/v1.2.10) |
@@ -180,12 +181,13 @@
 <a id="hap-media" name="hap-media"></a>
 
 <details open>
-<summary><strong>影音娱乐</strong>（53 个项目）</summary>
+<summary><strong>影音娱乐</strong>（54 个项目）</summary>
 
 | 项目 | 简介 | ⭐ Stars | 📅 更新日期 | 🏷️ 最新版本 |
 |:-----|:-----|:-------:|:-----------:|:------------|
 | [**WristMusic**](https://github.com/Lyx721188/WristMusic)<br><sub>Lyx721188</sub> | 第三方鸿蒙手表网易云音乐客户端（HarmonyOS wearable · ArkTS/<wbr>ArkUI） | 0 | 2026-10-27 | [v1.<wbr>0.<wbr>0](https://github.com/Lyx721188/WristMusic/releases/tag/v1.0.0) |
 | [**LibreTV-for-HarmonyOS**](https://github.com/panhaichen-creator/LibreTV-for-HarmonyOS)<br><sub>panhaichen-creator</sub> | LibreTV的鸿蒙原生客户端 · ArkTS + ArkUI · HarmonyOS NEXT | 54 | 2026-10-27 | [2.<wbr>3.<wbr>6](https://github.com/panhaichen-creator/LibreTV-for-HarmonyOS/releases/tag/2.3.6) |
+| [**kazuhomo**](https://github.com/point258/kazuhomo)<br><sub>point258</sub> | Kazumi 的鸿蒙原生客户端 · HarmonyOS native client for Kazumi (Ark… | 7 | 2026-10-27 | [v2.<wbr>4.<wbr>2.<wbr>4](https://github.com/point258/kazuhomo/releases/tag/v2.4.2.4) |
 | [**immich_ohos**](https://github.com/dgh1818/immich_ohos)<br><sub>dgh1818</sub> | https:/<wbr>/<wbr>appgallery.<wbr>huawei.<wbr>com/<wbr>link/<wbr>invite-<wbr>test-<wbr>wap?taskI… | 90 | 2026-10-27 | [v3.<wbr>3.<wbr>5-<wbr>ohos-<wbr>v0.<wbr>0.<wbr>1](https://github.com/dgh1818/immich_ohos/releases/tag/v3.3.5-ohos-v0.0.1) |
 | [**NeriPlayer-HarmonyOS**](https://github.com/suyunxing/NeriPlayer-HarmonyOS)<br><sub>suyunxing</sub> | NeriPlayer的HarmonyOS移植 | 20 | 2026-10-24 | [v1.<wbr>4.<wbr>0](https://github.com/suyunxing/NeriPlayer-HarmonyOS/releases/tag/v1.4.0) |
 | [**aegisub-ohos**](https://github.com/qiorz/aegisub-ohos)<br><sub>qiorz</sub> | Aegisub port to HarmonyOS (OHOS) arm64 | 0 | 2026-10-23 | [v0.<wbr>2.<wbr>23](https://github.com/qiorz/aegisub-ohos/releases/tag/v0.2.23) |
@@ -362,10 +364,11 @@
 <a id="hap-development" name="hap-development"></a>
 
 <details open>
-<summary><strong>开发</strong>（46 个项目）</summary>
+<summary><strong>开发</strong>（47 个项目）</summary>
 
 | 项目 | 简介 | ⭐ Stars | 📅 更新日期 | 🏷️ 最新版本 |
 |:-----|:-----|:-------:|:-----------:|:------------|
+| [**kdevelop-ohos-artifacts**](https://github.com/2847181243-ops/kdevelop-ohos-artifacts)<br><sub>2847181243-ops</sub> | KDevelop for HarmonyOS PC -<wbr> HAP build artifacts (releases… | 0 | 2026-10-27 | [v0.<wbr>9.<wbr>31](https://github.com/2847181243-ops/kdevelop-ohos-artifacts/releases/tag/v0.9.31) |
 | [**Android-SSH-Codex**](https://github.com/wkj2333666/Android-SSH-Codex)<br><sub>wkj2333666</sub> | Codex Desktop-<wbr>style mobile UI that securely controls remo… | 4 | 2026-10-26 | [v0.<wbr>4.<wbr>37](https://github.com/wkj2333666/Android-SSH-Codex/releases/tag/v0.4.37) |
 | [**zcode-ohos**](https://github.com/yuanbaobaoo/zcode-ohos)<br><sub>yuanbaobaoo</sub> | ZCode Desktop 鸿蒙系统（HarmonyOS）适配版本 | 12 | 2026-10-26 | [v3.<wbr>16.<wbr>2-<wbr>ohos-<wbr>patch4](https://github.com/yuanbaobaoo/zcode-ohos/releases/tag/v3.16.2-ohos-patch4) |
 | [**Arknights-Angelina-Pet-YuYuan-HarmonyOS-NEXT**](https://github.com/JNGKZbird/Arknights-Angelina-Pet-YuYuan-HarmonyOS-NEXT)<br><sub>JNGKZbird</sub> | 《明日方舟》予愿安洁莉娜开源桌宠 · 鸿蒙版（HarmonyOS NEXT）：Arknights-<wbr>Angelina… | 1 | 2026-10-23 | [v3.<wbr>1](https://github.com/JNGKZbird/Arknights-Angelina-Pet-YuYuan-HarmonyOS-NEXT/releases/tag/v3.1) |
@@ -474,13 +477,10 @@
 <a id="hap-other" name="hap-other"></a>
 
 <details open>
-<summary><strong>其他</strong>（5 个项目）</summary>
+<summary><strong>其他</strong>（2 个项目）</summary>
 
 | 项目 | 简介 | ⭐ Stars | 📅 更新日期 | 🏷️ 最新版本 |
 |:-----|:-----|:-------:|:-----------:|:------------|
-| [**kdevelop-ohos-artifacts**](https://github.com/2847181243-ops/kdevelop-ohos-artifacts)<br><sub>2847181243-ops</sub> | KDevelop for HarmonyOS PC -<wbr> HAP build artifacts (releases… | 0 | 2026-10-27 | [v0.<wbr>9.<wbr>31](https://github.com/2847181243-ops/kdevelop-ohos-artifacts/releases/tag/v0.9.31) |
-| [**kazuhomo**](https://github.com/point258/kazuhomo)<br><sub>point258</sub> | Kazumi 的鸿蒙原生客户端 · HarmonyOS native client for Kazumi (Ark… | 7 | 2026-10-27 | [v2.<wbr>4.<wbr>2.<wbr>4](https://github.com/point258/kazuhomo/releases/tag/v2.4.2.4) |
-| [**DiPlay-Harmony**](https://github.com/Tedfaraday/DiPlay-Harmony)<br><sub>Tedfaraday</sub> | 基于 DiPlay 协议实现的原生 HarmonyOS NEXT 无线 CarPlay 显示接收端，使用 ArkT… | 11 | 2026-10-08 | [v0.<wbr>13.<wbr>11-<wbr>preview](https://github.com/Tedfaraday/DiPlay-Harmony/releases/tag/v0.13.11-preview) |
 | [**wisp-gym**](https://github.com/BOT-K4CP3R/wisp-gym)<br><sub>BOT-K4CP3R</sub> | Wisp Gym: a creature that grows from your real training.<wbr> … | 0 | 2026-10-04 | [v1.<wbr>3.<wbr>1](https://github.com/BOT-K4CP3R/wisp-gym/releases/tag/v1.3.1) |
 | [**Openharmony**](https://github.com/WistfulReverie/Openharmony)<br><sub>WistfulReverie</sub> | first harmony app | 0 | 2025-12-19 | [v1](https://github.com/WistfulReverie/Openharmony/releases/tag/v1) |
 
