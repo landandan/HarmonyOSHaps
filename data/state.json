@@ -36,8 +36,8 @@
       "has_hap": false
     },
     "1055235342/Wpixelgram-for-HarmonyOS": {
-      "etag": "W/\"bef711dc33816f09f38af9a956a678fdb9c8a4b3a1d9d7838c1bc9e181791475\"",
-      "last_checked_at": "2026-11-03T02:39:39Z",
+      "etag": "W/\"785f42200c72635aa973f1b441d5e6c0f7e76b9399a04bb9142aa4825371df35\"",
+      "last_checked_at": "2026-11-04T00:54:41Z",
       "has_hap": true
     },
     "1136346879/harmonyosdev": {
@@ -66,8 +66,8 @@
       "has_hap": false
     },
     "137458/tieba-lite-harmony": {
-      "etag": "W/\"fe0b8fc3b0ea68787a5f5ca753b6330afa2fbeea09eaeae3c9fa02a51db388e3\"",
-      "last_checked_at": "2026-11-03T02:39:41Z",
+      "etag": "W/\"f5ed7a7a09fb020f40f2a379433265db16fcb36f54fdf4e599cd85c8bdeaefab\"",
+      "last_checked_at": "2026-11-04T00:54:42Z",
       "has_hap": true
     },
     "1395367184/harmonyos-app-dev": {
@@ -157,7 +157,7 @@
     },
     "2766859801/Clash-For-HarmonyOS": {
       "etag": "W/\"09e5d717eb73890e7b2c1f61b44006ecb18453d067963fe30fb7e92b0458f991\"",
-      "last_checked_at": "2026-11-03T02:39:54Z",
+      "last_checked_at": "2026-11-04T00:54:44Z",
       "has_hap": true
     },
     "300Daras/OpenHarmony-iso": {
@@ -272,7 +272,7 @@
     },
     "94run/AudioRecorder": {
       "etag": "W/\"3d94ab9c8525495c65e82954287e595887138ea04e04ef68ed1d3402a9c1a637\"",
-      "last_checked_at": "2026-11-03T02:40:06Z",
+      "last_checked_at": "2026-11-04T00:54:45Z",
       "has_hap": true
     },
     "A2OH/openharmony-arm64": {
@@ -411,8 +411,8 @@
       "has_hap": false
     },
     "Actrlq/Harflix": {
-      "etag": "W/\"f00fbab7ebc8ae176224f3efe85ef1ba62df946d52eaf396053b5602f6d12315\"",
-      "last_checked_at": "2026-11-03T02:40:21Z",
+      "etag": "W/\"d40b93abf80a3eab6d0705d9b768433f1ed24fbe55dcf635e340711de19fffb6\"",
+      "last_checked_at": "2026-11-04T00:54:46Z",
       "has_hap": true
     },
     "AdaUnlocked/2026-All-Brands-Bootloader-Unlock-Status": {
@@ -431,8 +431,8 @@
       "has_hap": false
     },
     "AetheriumSimulator/qemu-hmos": {
-      "etag": "W/\"f3834eb26ea5db71b8014bbfc2fb03991d0fb2cb2f3c48eca186b47d1a96843a\"",
-      "last_checked_at": "2026-11-03T02:40:23Z",
+      "etag": "W/\"5a489ae41b8c71007b264d9f842ab5b90915d091e0b5bd420fc4613c29ec94c7\"",
+      "last_checked_at": "2026-11-04T00:54:46Z",
       "has_hap": true
     },
     "AetheriumSimulator/qemu-with-hmv-support": {
@@ -482,7 +482,7 @@
     },
     "AkirTech/FFmpegLiteNative": {
       "etag": "W/\"d26b2abc6010e164433570b8c2d6f4c7c85cc6e6e54a97ab9dfc5086b1df479d\"",
-      "last_checked_at": "2026-11-03T02:40:27Z",
+      "last_checked_at": "2026-11-04T00:54:48Z",
       "has_hap": true
     },
     "AlanLinYu/huawei-lite-watch-development": {
@@ -547,7 +547,7 @@
     },
     "Aloereed/HarmonyOS_Next_Webapp": {
       "etag": "W/\"fd679f49d35aacf63691ded1b35b5470c2bb84445c6838fb196bdd9c1ccd70d1\"",
-      "last_checked_at": "2026-11-03T02:40:32Z",
+      "last_checked_at": "2026-11-04T00:54:48Z",
       "has_hap": true
     },
     "Aloereed/aloeplayer_ohos": {
@@ -557,12 +557,12 @@
     },
     "Aloereed/llama.cpp-server-ohos": {
       "etag": "W/\"cec29e73262537e919860ba8663fe0d94cc85f72f8adbc6770938cbd3176fd7c\"",
-      "last_checked_at": "2026-11-03T02:40:34Z",
+      "last_checked_at": "2026-11-04T00:54:48Z",
       "has_hap": true
     },
     "Aloereed/vlc-qt6-ohos": {
-      "etag": "W/\"0774a4b7ce9e33a5bd18ad36a6136957306f16bba0b1b55700385c90b577f73b\"",
-      "last_checked_at": "2026-11-03T02:40:34Z",
+      "etag": "W/\"ed16eba95f79e201965b72180d69a6a34bf9c206bd7e17afab2a12573eaf4482\"",
+      "last_checked_at": "2026-11-04T00:54:48Z",
       "has_hap": true
     },
     "Alone4869/liuying-open-source": {
@@ -752,7 +752,7 @@
     },
     "Applib-HarmonyOS/Calligraphy": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-31T00:05:43Z",
+      "last_checked_at": "2026-11-04T00:54:49Z",
       "has_hap": false
     },
     "Applib-HarmonyOS/Card": {
@@ -867,7 +867,7 @@
     },
     "Applib-HarmonyOS/GBSlideBar": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-31T00:05:47Z",
+      "last_checked_at": "2026-11-04T00:54:50Z",
       "has_hap": false
     },
     "Applib-HarmonyOS/GuideView": {
@@ -977,7 +977,7 @@
     },
     "Applib-HarmonyOS/Neumorphism_Smarthome_Darkmode": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-11-01T23:54:56Z",
+      "last_checked_at": "2026-11-04T00:54:50Z",
       "has_hap": false
     },
     "Applib-HarmonyOS/Neumorphism_Smarthome_Lightmode-": {
@@ -1072,7 +1072,7 @@
     },
     "Applib-HarmonyOS/SQLite2XL": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-31T00:05:54Z",
+      "last_checked_at": "2026-11-04T00:54:50Z",
       "has_hap": false
     },
     "Applib-HarmonyOS/SharpView-Lib": {
@@ -1087,7 +1087,7 @@
     },
     "Applib-HarmonyOS/Signal-strengths": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-31T00:05:54Z",
+      "last_checked_at": "2026-11-04T00:54:50Z",
       "has_hap": false
     },
     "Applib-HarmonyOS/SizeAdjustingTextView": {
@@ -1187,7 +1187,7 @@
     },
     "Applib-HarmonyOS/TypefaceHelper": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-31T00:05:59Z",
+      "last_checked_at": "2026-11-04T00:54:50Z",
       "has_hap": false
     },
     "Applib-HarmonyOS/UnifiedContactPicker": {
@@ -1247,7 +1247,7 @@
     },
     "Applib-HarmonyOS/Zbanner": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-31T00:06:02Z",
+      "last_checked_at": "2026-11-04T00:54:51Z",
       "has_hap": false
     },
     "Applib-HarmonyOS/Zgallery": {
@@ -1327,7 +1327,7 @@
     },
     "Applib-HarmonyOS/nice-spinner": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-11-01T23:55:05Z",
+      "last_checked_at": "2026-11-04T00:54:51Z",
       "has_hap": false
     },
     "Applib-HarmonyOS/ohos-lite-go": {
@@ -1887,7 +1887,7 @@
     },
     "Chen-ce/NextAI": {
       "etag": "W/\"78cb2b7866a68132a153eeb9e038543a97e3c006ff02e30dc9971a99590963a2\"",
-      "last_checked_at": "2026-11-03T02:41:55Z",
+      "last_checked_at": "2026-11-04T00:54:55Z",
       "has_hap": true
     },
     "Chenglin20170390/Haplotype-diversity": {
@@ -1897,12 +1897,12 @@
     },
     "Chenlvin/CloudMusic-HarmonyOSNext": {
       "etag": "W/\"66a65613f75539acb19d57a20081a98ad2d92bfe170711e74fbb8b8a6dfeefaf\"",
-      "last_checked_at": "2026-11-03T02:41:56Z",
+      "last_checked_at": "2026-11-04T00:54:55Z",
       "has_hap": true
     },
     "Chenlvin/Melotopia-HMOS": {
-      "etag": "W/\"5bed7c1764d920597ce5e74ee8e56544d54fbb989eafd5950c01028a48881db9\"",
-      "last_checked_at": "2026-11-03T02:41:56Z",
+      "etag": "W/\"42c24a3708b3e66755d22ee8754f47d4d9df38e5b64bc2ce54b8689945e8e36e\"",
+      "last_checked_at": "2026-11-04T00:54:55Z",
       "has_hap": true
     },
     "CherryRH/OpenHarmony-DistributedChat": {
@@ -2046,8 +2046,8 @@
       "has_hap": false
     },
     "CsCesium/KantaiHomo": {
-      "etag": "W/\"989263f4729180b6b0bfe0235ddca215a84f60150fb5b4405e2cfeec5879762d\"",
-      "last_checked_at": "2026-11-03T02:42:14Z",
+      "etag": "W/\"6113bbb12c5610727ada81d84a606de1046ebad0bf9488b09baf413a805c4ae1\"",
+      "last_checked_at": "2026-11-04T00:54:57Z",
       "has_hap": true
     },
     "Czz456789zzC/OpenHarmony": {
@@ -2097,7 +2097,7 @@
     },
     "DaLongZhuaZi/NGF": {
       "etag": "W/\"87ef323942aad50030d06c84f9c43d3a45605b2245e5e98d257809cf8c25ac0a\"",
-      "last_checked_at": "2026-11-03T02:42:19Z",
+      "last_checked_at": "2026-11-04T00:54:59Z",
       "has_hap": true
     },
     "DaLongZhuaZi/OpenHarmonyASF": {
@@ -2106,8 +2106,8 @@
       "has_hap": false
     },
     "DaLongZhuaZi/manxia": {
-      "etag": "W/\"8b123950c8064ffe29879b446e45ced15809ce8be9a16b88696d44a7dcabf118\"",
-      "last_checked_at": "2026-11-03T02:42:20Z",
+      "etag": "W/\"60857c1e32539064b4756c983b37ee95a0cc90e588f5a48cfd9038618017dddb\"",
+      "last_checked_at": "2026-11-04T00:54:59Z",
       "has_hap": true
     },
     "DanielMax937/kousou-harmonyos": {
@@ -2251,8 +2251,8 @@
       "has_hap": true
     },
     "Edge-Music/Community_OH": {
-      "etag": "W/\"a7e42117f914e8c82f71eaef6cd4aecd82422ea3ac29184905b0f254f24dae2b\"",
-      "last_checked_at": "2026-11-03T02:42:35Z",
+      "etag": "W/\"e08494abad502e75b8a8184d7260e9c94c95bf8a15a1801d1c29652f753c7d8f\"",
+      "last_checked_at": "2026-11-04T00:55:01Z",
       "has_hap": true
     },
     "Eilgnaw/deploy-to-agc-testing": {
@@ -2512,7 +2512,7 @@
     },
     "GarhinZhou/HmHex": {
       "etag": "W/\"4cd05e61d946d9463968f027c2d201b8d831fb09b0d1da81f3f14d41f3cafc77\"",
-      "last_checked_at": "2026-11-03T02:44:39Z",
+      "last_checked_at": "2026-11-04T00:55:10Z",
       "has_hap": true
     },
     "Gcy0724/HarmonyOS": {
@@ -2542,7 +2542,7 @@
     },
     "Gokr-ble/LocalSendLite_HarmonyOS_NEXT": {
       "etag": "W/\"3a8e870f6b729f130c16c89e57cb3697c942c4631721974e006597c1aa2e6789\"",
-      "last_checked_at": "2026-11-03T02:44:44Z",
+      "last_checked_at": "2026-11-04T00:55:12Z",
       "has_hap": true
     },
     "GongchunV/OpenHarmony-RK3568": {
@@ -2701,13 +2701,13 @@
       "has_hap": false
     },
     "HanversionOvO/OHBittorrent": {
-      "etag": "W/\"38a273debc5471647dc4e89090a37782931a8de6f5d2e4056e22c3fdaa70a515\"",
-      "last_checked_at": "2026-11-03T02:45:02Z",
+      "etag": "W/\"dd4db9c82a461cf0fe149332c5191be8720192e6cdd11813ea216eee4805a623\"",
+      "last_checked_at": "2026-11-04T00:55:13Z",
       "has_hap": true
     },
     "HanversionOvO/OHSidian": {
-      "etag": "W/\"718168acb4d87a54798a2c469765f0f5732a71bfd8fa01883056fa21780a1d48\"",
-      "last_checked_at": "2026-11-03T02:45:03Z",
+      "etag": "W/\"6d5d5e34a5f31a7342985887f15cf841b86ea6abfa58c15f5fbc10c0d67c57a2\"",
+      "last_checked_at": "2026-11-04T00:55:14Z",
       "has_hap": true
     },
     "HanversionOvO/OHSilksong": {
@@ -2716,23 +2716,23 @@
       "has_hap": false
     },
     "HanversionOvO/OHcode": {
-      "etag": "W/\"727f4fff2a90086c632c8835defac01d2d59e192706e53dbb24fcca88769e80f\"",
-      "last_checked_at": "2026-11-03T02:45:03Z",
+      "etag": "W/\"5588483a7fe3bbdf43953d4ee1e880bd0ca2ed87ab0026ef393937d28cf3095b\"",
+      "last_checked_at": "2026-11-04T00:55:14Z",
       "has_hap": true
     },
     "HanversionOvO/OHcodex": {
       "etag": "W/\"b94e3792998ee7f9729af4d53110250e2908616c02bf184331a07b140bce40bf\"",
-      "last_checked_at": "2026-11-03T02:45:04Z",
+      "last_checked_at": "2026-11-04T00:55:15Z",
       "has_hap": true
     },
     "HanversionOvO/OHgram": {
-      "etag": "W/\"d22f2feac24c4d4b4860d46b26e5cffb7f6e484033ae9eba1cdc5cf777e9927e\"",
-      "last_checked_at": "2026-11-03T02:45:04Z",
+      "etag": "W/\"4a2e3666343bf8a9c25ab2c0966517a627f91b753ff2dab495ea765aface2b17\"",
+      "last_checked_at": "2026-11-04T00:55:15Z",
       "has_hap": true
     },
     "HanversionOvO/OHtrix": {
       "etag": "W/\"17187bda2993f03208305a0f8cad6b259d69b5379e1720530b833f81733cd9c0\"",
-      "last_checked_at": "2026-11-03T02:45:05Z",
+      "last_checked_at": "2026-11-04T00:55:15Z",
       "has_hap": true
     },
     "HanversionOvO/aria2-harmonyos": {
@@ -3096,8 +3096,8 @@
       "has_hap": false
     },
     "Ibukitofu/Ohentai": {
-      "etag": "W/\"ca8c1d8895d3ff880a1efe7c01b6981de746fde062cb4b05bd72e0b631aee4b3\"",
-      "last_checked_at": "2026-11-03T02:45:46Z",
+      "etag": "W/\"a8b58197b9b42ffd0ea9bbe4c7d134720da52c74ccd019d3afd46df123915bf5\"",
+      "last_checked_at": "2026-11-04T00:55:17Z",
       "has_hap": true
     },
     "IceTeacher/DrawingBook": {
@@ -3182,7 +3182,7 @@
     },
     "Islatri/tauri-ohos-test": {
       "etag": "W/\"d9f4688aa0bdf20932c1ff91cb700ca9149a8bf1076514fac039c3533624f96d\"",
-      "last_checked_at": "2026-11-03T02:45:51Z",
+      "last_checked_at": "2026-11-04T00:55:17Z",
       "has_hap": true
     },
     "Itz-Murali/Happy-BirthDay-Ai": {
@@ -3307,7 +3307,7 @@
     },
     "JiangYanjie12/OpenHarmony_Calculator": {
       "etag": "W/\"b58ae62f4ef026ea166a057f2fd824b06f059c8f9729b6dc92492c7c96f7058c\"",
-      "last_checked_at": "2026-11-03T02:46:07Z",
+      "last_checked_at": "2026-11-04T00:55:18Z",
       "has_hap": true
     },
     "Jiangbaijimo/HarmonyOS": {
@@ -3566,13 +3566,13 @@
       "has_hap": false
     },
     "LZZLHY/amcl": {
-      "etag": "W/\"b636671bf70724e37851f4b4a74790593978ed085002207ffe5f455a70d1c3b5\"",
-      "last_checked_at": "2026-11-03T02:46:31Z",
+      "etag": "W/\"fc3628a012a6adbc68b61a2f3e640e4eca3578b1d66ff5fac14e07a8b893ba79\"",
+      "last_checked_at": "2026-11-04T00:55:21Z",
       "has_hap": true
     },
     "LZZLHY/hlib": {
-      "etag": "W/\"87f270e251c0ae377e412b8a584cf0383531a980b539296207329de7f3e4acc0\"",
-      "last_checked_at": "2026-11-03T02:46:32Z",
+      "etag": "W/\"52bbbe47df884d207f818f9c09beef1d8f19af4e7fc4c336d6f1b008d53609d2\"",
+      "last_checked_at": "2026-11-04T00:55:21Z",
       "has_hap": true
     },
     "LZZLHY/mc-ohos-resources": {
@@ -3582,7 +3582,7 @@
     },
     "LZZLHY/skipface": {
       "etag": "W/\"23013b371fad2c41773cc56cb46d456b0556d20d638044fc4712bae8da4b77c5\"",
-      "last_checked_at": "2026-11-03T02:46:33Z",
+      "last_checked_at": "2026-11-04T00:55:22Z",
       "has_hap": true
     },
     "LaNasilDark/OpenHarmony-5.0.0-full-sdk": {
@@ -3592,7 +3592,7 @@
     },
     "LaNasilDark/OpenHarmony_HeartBeat_Monitor": {
       "etag": "W/\"599e2168058d5bb3957c842ab1545c77b8622271cc3f8c473b550cd32c1f7fcb\"",
-      "last_checked_at": "2026-11-03T02:46:33Z",
+      "last_checked_at": "2026-11-04T00:55:22Z",
       "has_hap": true
     },
     "LambdaYH/ScrcpyForHarmonyOS": {
@@ -3612,7 +3612,7 @@
     },
     "LecAfyc/WitBili-OH": {
       "etag": "W/\"7363efacee6cfd735965cd6defae8c7e0520a1c53b46b4bf5a6a55e86f461227\"",
-      "last_checked_at": "2026-11-03T02:46:35Z",
+      "last_checked_at": "2026-11-04T00:55:23Z",
       "has_hap": true
     },
     "LeeeeT/happ-decryptor": {
@@ -3771,8 +3771,8 @@
       "has_hap": false
     },
     "LoMoCatAp/Bika-HarmonyOS": {
-      "etag": "W/\"58ca073517c3d2efa6f01e95814edc4c7d6f22d2b5f413ddeef329e08024c936\"",
-      "last_checked_at": "2026-11-03T02:46:51Z",
+      "etag": "W/\"6cc1899ca289a8ba3c06c175c24f0ef0bb7335bd32c52012b9953285a40def2c\"",
+      "last_checked_at": "2026-11-04T00:55:24Z",
       "has_hap": true
     },
     "LoMoCatAp/ImmersiveAI": {
@@ -3976,8 +3976,8 @@
       "has_hap": false
     },
     "MinamiJogen/HarmonyOS-EhViewer": {
-      "etag": "W/\"6d02cb104f3a1d2d3fad7348a75702e7d6d7cc5cc4b1158b4a52d0aa4addece3\"",
-      "last_checked_at": "2026-11-03T02:47:14Z",
+      "etag": "W/\"d3b52154cf17732aa5bbb36189d07e37d75ee844bd54f08a0b4cddfb71c4614e\"",
+      "last_checked_at": "2026-11-04T00:55:27Z",
       "has_hap": true
     },
     "Mineral-Salt/ohporting_device_board_xiaomi": {
@@ -4157,7 +4157,7 @@
     },
     "Nekofox-POT/LinMusic": {
       "etag": "W/\"80f40b9750d272b32b258ba7f7285781056beccfd34ffae4ef19420f53351355\"",
-      "last_checked_at": "2026-11-03T02:47:33Z",
+      "last_checked_at": "2026-11-04T00:55:29Z",
       "has_hap": true
     },
     "Nellaker-group/happy": {
@@ -4242,7 +4242,7 @@
     },
     "OHOTP/ohtotptoken": {
       "etag": "W/\"9bc7893454867019ab85743d00d1bb0b87ff7980f59b0503e005d400bd2ec179\"",
-      "last_checked_at": "2026-11-03T02:47:41Z",
+      "last_checked_at": "2026-11-04T00:55:30Z",
       "has_hap": true
     },
     "OHPG/.github": {
@@ -4306,8 +4306,8 @@
       "has_hap": false
     },
     "Octopustank/HarmoNiLink": {
-      "etag": "W/\"8d0f45a14fd9458f5538731b759b8b27229d6dee856ebce6bbf3b0eeddd7f0a0\"",
-      "last_checked_at": "2026-11-03T02:47:45Z",
+      "etag": "W/\"27ebd37a6598a0ae7a0197b8023247ef25052853baf56d98b7b65ed9e6280f56\"",
+      "last_checked_at": "2026-11-04T00:55:30Z",
       "has_hap": true
     },
     "Oefenweb/ansible-haproxy": {
@@ -4356,8 +4356,8 @@
       "has_hap": false
     },
     "OpenBMB/MiniCPM-V-Apps": {
-      "etag": "W/\"c261708d6603b401071d6702b7a231652f7d6b788da839112417f9c1719af500\"",
-      "last_checked_at": "2026-11-03T02:47:50Z",
+      "etag": "W/\"0cad1001c4b8c3097e785e3fe41ebe47990af01514f492aba3a8e6d6bdf32d35\"",
+      "last_checked_at": "2026-11-04T00:55:31Z",
       "has_hap": true
     },
     "OpenHarmony-NET/.github": {
@@ -4547,7 +4547,7 @@
     },
     "Puiching-Memory/HOMOAPP_Q5": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-11-02T00:00:16Z",
+      "last_checked_at": "2026-11-04T00:55:33Z",
       "has_hap": false
     },
     "PulseInProd/SP26_HAP455_Week2": {
@@ -4702,7 +4702,7 @@
     },
     "Rebornix-zero/OHPLC": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-31T00:11:23Z",
+      "last_checked_at": "2026-11-04T00:55:33Z",
       "has_hap": false
     },
     "RenTingting602/HarmonyOS": {
@@ -4757,7 +4757,7 @@
     },
     "Riordon666/cloud-mail-for-harmonyos": {
       "etag": "W/\"8bf7c7d3e2de80dff9666d757d2ca8e60fafffb1ace5d2afa21439deb9d75528\"",
-      "last_checked_at": "2026-11-03T02:48:36Z",
+      "last_checked_at": "2026-11-04T00:55:34Z",
       "has_hap": true
     },
     "RiversCoda/openHarmonySmartFan": {
@@ -4777,7 +4777,7 @@
     },
     "RohyTeam/Player": {
       "etag": "W/\"028a3396b695fac8e6ef8856b4155524b83b2cde4cc467991921db25ee8d6ad9\"",
-      "last_checked_at": "2026-11-03T02:48:40Z",
+      "last_checked_at": "2026-11-04T00:55:36Z",
       "has_hap": true
     },
     "RohyTeam/Rohier": {
@@ -4842,7 +4842,7 @@
     },
     "SKL-666666/mnn-local-ai-chat": {
       "etag": "W/\"20930b7e79d2064ff7b5a46bbf04e2e17298ea93489173e8eb9975bc6e79e931\"",
-      "last_checked_at": "2026-11-03T02:48:45Z",
+      "last_checked_at": "2026-11-04T00:55:37Z",
       "has_hap": true
     },
     "SKL-666666/qingtu-harmony": {
@@ -5017,7 +5017,7 @@
     },
     "ShwStone/AnyPWA": {
       "etag": "W/\"3fb20e96b1467c43ec3e2aa64036524693f6eaa5aa814eca1f0f42694a70d44d\"",
-      "last_checked_at": "2026-11-03T02:49:00Z",
+      "last_checked_at": "2026-11-04T00:55:39Z",
       "has_hap": true
     },
     "Shyky/163music": {
@@ -5221,8 +5221,8 @@
       "has_hap": false
     },
     "SwimmingTiger/aria2-ohos": {
-      "etag": "W/\"e226d6a10e8c6692bfd5c52ec30ea75eca1285059d4ba02677b868aece2c4cbb\"",
-      "last_checked_at": "2026-11-03T02:49:23Z",
+      "etag": "W/\"635d942635fd281d1ff3b61e097875897b6dbcb45232f54b797362676e234fac\"",
+      "last_checked_at": "2026-11-04T00:55:43Z",
       "has_hap": true
     },
     "Symbolk/HarmonyOS-Emoji-Lock": {
@@ -5381,8 +5381,8 @@
       "has_hap": false
     },
     "Torry2022/turbo-ai-chat-harmonyos": {
-      "etag": "W/\"6c007d43241dcdfc6e2f3bf7864c45588d76d6c12150c5d3d0eef4212490a66a\"",
-      "last_checked_at": "2026-11-03T02:49:40Z",
+      "etag": "W/\"dc1fc9099deb7cb3f609c21f5a54a3e6070342435500dbadb5e49ab3363cf70b\"",
+      "last_checked_at": "2026-11-04T00:55:46Z",
       "has_hap": true
     },
     "TreasureGooldove/HarmonyOS_CrossDeviceIME": {
@@ -5392,7 +5392,7 @@
     },
     "Turbo1123/turbo-ai-chat-harmonyos": {
       "etag": "W/\"d6fdde9ac5ecbac3ca78b908747c93594467da9363de5ba725b0184b603671f7\"",
-      "last_checked_at": "2026-11-03T02:49:41Z",
+      "last_checked_at": "2026-11-04T00:55:47Z",
       "has_hap": true
     },
     "Tw-0l/Happiness-Report": {
@@ -5592,7 +5592,7 @@
     },
     "WistfulReverie/Openharmony": {
       "etag": "W/\"5ddddd9f3460c185140e693ef7b59605c29fe6e0997c98daf422cf81c696f818\"",
-      "last_checked_at": "2026-11-03T02:50:01Z",
+      "last_checked_at": "2026-11-04T00:55:49Z",
       "has_hap": true
     },
     "Wscats/awesome-harmony": {
@@ -5626,8 +5626,8 @@
       "has_hap": false
     },
     "XCNXNXNX/lingxi-flow-agent": {
-      "etag": "W/\"14f1014d7044944006da6dc35991b5d54973801d15b13638033a1074a31fb552\"",
-      "last_checked_at": "2026-11-03T02:50:04Z",
+      "etag": "W/\"d2ccce0e4efe735c8873ac3cb23fc7b80016ea9f4afd5490f9a2be881ecf9d65\"",
+      "last_checked_at": "2026-11-04T00:55:49Z",
       "has_hap": true
     },
     "XFX-939/harmonyos-clashbox-guide": {
@@ -5636,8 +5636,8 @@
       "has_hap": false
     },
     "XHXYT/Web-Telegram-for-OpenHarmony": {
-      "etag": "W/\"1ed2502f17c6e1336ab8d834cc53b76822b83ff20278e663b53b1e5738c55388\"",
-      "last_checked_at": "2026-11-03T02:50:05Z",
+      "etag": "W/\"6b55d7988987c069337208401570aa7b0137e39af9c5e0a931974d4f107b7326\"",
+      "last_checked_at": "2026-11-04T00:55:50Z",
       "has_hap": true
     },
     "XXYoLoong/Lingli": {
@@ -5702,7 +5702,7 @@
     },
     "YANGZX22/Voot": {
       "etag": "W/\"0dabe0a808b1c0c8153ad27cf018f75d948b1632d9938c07e4e457ff119d70cc\"",
-      "last_checked_at": "2026-11-03T02:50:13Z",
+      "last_checked_at": "2026-11-04T00:55:52Z",
       "has_hap": true
     },
     "YL3528/HarmonyOS-test": {
@@ -5801,8 +5801,8 @@
       "has_hap": true
     },
     "YuanChu-Tec/JMComic-HarmonyOS": {
-      "etag": "W/\"9f032a27d6b1c536f950253264e7554f8502e6daf51f57b4eed52289010ce095\"",
-      "last_checked_at": "2026-11-03T02:50:25Z",
+      "etag": "W/\"08a7ef75bb78d3be0dd8cb3e0165a61e83b6543ebb54e1dd838e27c368e4b6d1\"",
+      "last_checked_at": "2026-11-04T00:55:53Z",
       "has_hap": true
     },
     "YuanChu-Tec/tdlib-harmony-builder": {
@@ -5842,7 +5842,7 @@
     },
     "Z-P-J/AnimeZ": {
       "etag": "W/\"0723cf8a3b9b12df0f844c7ba9aab317015cbc71a429c405ee7c2e7ad8dbb6cb\"",
-      "last_checked_at": "2026-11-03T02:50:29Z",
+      "last_checked_at": "2026-11-04T00:55:53Z",
       "has_hap": true
     },
     "Z1vK/OpenHarmonyHomework": {
@@ -5857,7 +5857,7 @@
     },
     "ZHCOOL520/HarmonyOS-McCraftLaucher": {
       "etag": "W/\"945c53ceb1c051ff9145b0f0f10334b2c009977eb47b63ad39077478ee6be756\"",
-      "last_checked_at": "2026-11-03T02:50:30Z",
+      "last_checked_at": "2026-11-04T00:55:54Z",
       "has_hap": true
     },
     "ZHENGHONGGUANG-1/openHarmony-AI-Desktop": {
@@ -6002,7 +6002,7 @@
     },
     "adlsdztony/tailscale-hos": {
       "etag": "W/\"634bc42eb13ff01702da32097ca7b5b871f738c2f998347c7e5b0a4b26b18072\"",
-      "last_checked_at": "2026-11-03T02:50:50Z",
+      "last_checked_at": "2026-11-04T00:55:55Z",
       "has_hap": true
     },
     "adminparry/harmonyos": {
@@ -6417,7 +6417,7 @@
     },
     "applibgroup/TypedPreferences": {
       "etag": "W/\"2391c589dda1b3970c0e916c4aa520ec630ea6ffd7878288c27455b09d17e1cb\"",
-      "last_checked_at": "2026-10-31T00:14:00Z",
+      "last_checked_at": "2026-11-04T00:55:56Z",
       "has_hap": false
     },
     "applibgroup/XRadarView": {
@@ -6572,12 +6572,12 @@
     },
     "awaLiny2333/Dictionareow": {
       "etag": "W/\"e224c49a8602a686a13f4a8aeb8de45d82c52ecfcbd8a14ff9e2897bd23dd513\"",
-      "last_checked_at": "2026-11-03T02:51:42Z",
+      "last_checked_at": "2026-11-04T00:55:57Z",
       "has_hap": true
     },
     "awaLiny2333/LinysBrowser_NEXT": {
-      "etag": "W/\"268696bfb6e3bfe0ce119c92d0c4fda61cbaba057d6460ac4090f00d86718756\"",
-      "last_checked_at": "2026-11-03T02:51:43Z",
+      "etag": "W/\"5ca3707f69d8967e24448683e40b3d669347aa644ce8b43c0efaa6670c7e2fa4\"",
+      "last_checked_at": "2026-11-04T00:55:57Z",
       "has_hap": true
     },
     "awaLiny2333/Linys_Ani_Examples_NEXT": {
@@ -6597,7 +6597,7 @@
     },
     "awaLiny2333/SmoothCard_NEXT": {
       "etag": "W/\"92b86c3f5288de471ad8d5cead2c70dec762d1c2537d99412654509af4678ac3\"",
-      "last_checked_at": "2026-11-03T02:51:45Z",
+      "last_checked_at": "2026-11-04T00:55:57Z",
       "has_hap": true
     },
     "awaLiny2333/SmoothLyrics_NEXT": {
@@ -6607,22 +6607,22 @@
     },
     "awaLiny2333/Snake_NEXT": {
       "etag": "W/\"f5e727ca346cc4ed6a4526ec4d86a06856f2fcf63cd4a5deefc85e2913c44ab7\"",
-      "last_checked_at": "2026-11-03T02:51:45Z",
+      "last_checked_at": "2026-11-04T00:55:58Z",
       "has_hap": true
     },
     "awaLiny2333/Spaceow": {
       "etag": "W/\"92d4d73b7a634b971250cc742c68ff99669e54e01566ebf9f97cc26502fefb48\"",
-      "last_checked_at": "2026-11-03T02:51:46Z",
+      "last_checked_at": "2026-11-04T00:55:58Z",
       "has_hap": true
     },
     "awaLiny2333/Spaceow_NEXT": {
       "etag": "W/\"63925babf26c1c07ba9ccf4e229a80262dd3a4194d3414adfef4be18dc72d7e2\"",
-      "last_checked_at": "2026-11-03T02:51:46Z",
+      "last_checked_at": "2026-11-04T00:55:58Z",
       "has_hap": true
     },
     "awaLiny2333/Symbolu_NEXT": {
       "etag": "W/\"b82ba2b221e353e0a44f72715bda1ab92d3e86f8874bdf54d76a380656920979\"",
-      "last_checked_at": "2026-11-03T02:51:47Z",
+      "last_checked_at": "2026-11-04T00:55:58Z",
       "has_hap": true
     },
     "awaLiny2333/Turbowarp_HMOS_Meow": {
@@ -6652,12 +6652,12 @@
     },
     "azhuge233/ASFShortcut-HN": {
       "etag": "W/\"62df89f8c088e14fcc9c81e0600f0ce52df936bd6caabbc27047eba096346e7c\"",
-      "last_checked_at": "2026-11-03T02:51:49Z",
+      "last_checked_at": "2026-11-04T00:55:59Z",
       "has_hap": true
     },
     "azhuge233/HiloadSender": {
       "etag": "W/\"0668fada86c6e6e4ec1fc67b07bdb68f510c3e0c8142e2b0be7dcecf9641e7b7\"",
-      "last_checked_at": "2026-11-03T02:51:50Z",
+      "last_checked_at": "2026-11-04T00:55:59Z",
       "has_hap": true
     },
     "azhuge233/Wake-HarmonyOS": {
@@ -7186,8 +7186,8 @@
       "has_hap": false
     },
     "chashaochang/JellyFin_HarmonyOS": {
-      "etag": "W/\"f0963aafac77d87c7d319827b220d75f7045e0d85d6ff6dcb1beee6e1948ada6\"",
-      "last_checked_at": "2026-11-03T02:52:41Z",
+      "etag": "W/\"03b0a5b0f737d63f9e4b194a10c56fc655313b7b55b331c05b90c41edf686ba7\"",
+      "last_checked_at": "2026-11-04T00:56:01Z",
       "has_hap": true
     },
     "chatJohn/HarmonyOS_Soft": {
@@ -7242,7 +7242,7 @@
     },
     "chenghancheng/OpenHarmony": {
       "etag": "W/\"0a5b546ceec37723c9fcdc493d569375c5aa29c4d8fe6f4303b053200b7b17c3\"",
-      "last_checked_at": "2026-11-03T02:52:45Z",
+      "last_checked_at": "2026-11-04T00:56:02Z",
       "has_hap": true
     },
     "chengssir/HarmonyOSUI": {
@@ -7406,8 +7406,8 @@
       "has_hap": false
     },
     "collaborative-creation/etohos": {
-      "etag": "W/\"f032d4d95983e279ee6124f1bf9ca0f1b84977b6c74965e65d1d131e61ce623a\"",
-      "last_checked_at": "2026-11-03T02:53:00Z",
+      "etag": "W/\"4827984b4e7b0e5a3f792d3a37437d3fcf990a3155ebab1f34050823b62087dc\"",
+      "last_checked_at": "2026-11-04T00:56:02Z",
       "has_hap": true
     },
     "colorlight/graphic_3d": {
@@ -7427,12 +7427,12 @@
     },
     "conradsheeran/steam-totp": {
       "etag": "W/\"7beed2d48f071d05dcef1e72b14b94b4e290c50f15224ed08c4c815030285cd4\"",
-      "last_checked_at": "2026-11-02T00:03:50Z",
+      "last_checked_at": "2026-11-04T00:56:03Z",
       "has_hap": false
     },
     "conradsheeran/tickauth": {
       "etag": "W/\"1dd5225eceecbf6266a3d20e3d6ef9a1d601a960d407ba17bc7116b584f81093\"",
-      "last_checked_at": "2026-11-03T02:53:03Z",
+      "last_checked_at": "2026-11-04T00:56:03Z",
       "has_hap": true
     },
     "continuationlabs/hapchat": {
@@ -7612,7 +7612,7 @@
     },
     "daugf2527/harmonyos-libretro-emulator": {
       "etag": "W/\"e0c14882987a312a6efd7f68c816965806b93ecbb946afb1feabde40a4e01fb9\"",
-      "last_checked_at": "2026-11-03T02:53:18Z",
+      "last_checked_at": "2026-11-04T00:56:04Z",
       "has_hap": true
     },
     "davejacobsen/HapticHaven": {
@@ -8212,7 +8212,7 @@
     },
     "fastbiography-hue/litradar-harmonyos": {
       "etag": "W/\"b0c674dacecca732718336b9392ded56176b7bc36f8454241e243981e0dc4f2b\"",
-      "last_checked_at": "2026-11-03T02:54:21Z",
+      "last_checked_at": "2026-11-04T00:56:10Z",
       "has_hap": true
     },
     "faysalmehedi/what-happens-when_BN": {
@@ -8297,7 +8297,7 @@
     },
     "flobernd/docker-haproxy-acme": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-23T23:43:06Z",
+      "last_checked_at": "2026-11-04T00:56:12Z",
       "has_hap": false
     },
     "flores/haproxyctl": {
@@ -8326,8 +8326,8 @@
       "has_hap": false
     },
     "flypigJ/Tailscale-OHOS": {
-      "etag": "W/\"b3ba2b743b244725fce37c7cd6ad4e7f31da3e9fd50d59d563198e9da2748e89\"",
-      "last_checked_at": "2026-11-03T02:54:41Z",
+      "etag": "W/\"2024bbdbdccef59b5433d0585ac2c0b167ab5f3df50219e90be1f3f97b7f5d20\"",
+      "last_checked_at": "2026-11-04T00:56:13Z",
       "has_hap": true
     },
     "fm2309471970/openharmony-test": {
@@ -9156,8 +9156,8 @@
       "has_hap": false
     },
     "harmoninux/Harmonix": {
-      "etag": "W/\"215b7a0bc07ddf3937ced7b1acf411edcaf41cf30a7a08735e0e7192fa8a873e\"",
-      "last_checked_at": "2026-11-03T02:55:45Z",
+      "etag": "W/\"20a55407eec983324decc610e9ab49081b20cae9f3303c588babcad271e29c71\"",
+      "last_checked_at": "2026-11-04T00:56:16Z",
       "has_hap": true
     },
     "harmoninux/HiSH": {
@@ -9212,7 +9212,7 @@
     },
     "harmonyos-dev/aigc-harmonyos-sample": {
       "etag": "W/\"7e5f94b1da6a76d286a39021bc476ae676b1755b36f5eeff4f13c8f5f98b476a\"",
-      "last_checked_at": "2026-11-03T02:55:51Z",
+      "last_checked_at": "2026-11-04T00:56:16Z",
       "has_hap": true
     },
     "harmonyos-dev/arkui-codelabs": {
@@ -9232,7 +9232,7 @@
     },
     "harmonyos-dev/harmonyos-github-action-example": {
       "etag": "W/\"b8ecaf33e00c9282ac3a6ef06c7874af0093a5e8da599f5e8b9f707b87de0f07\"",
-      "last_checked_at": "2026-11-03T02:55:52Z",
+      "last_checked_at": "2026-11-04T00:56:16Z",
       "has_hap": true
     },
     "harmonyos-dev/highlightjs-arkts": {
@@ -9336,8 +9336,8 @@
       "has_hap": false
     },
     "hefengbao/jingmo-for-HarmonyOS": {
-      "etag": "W/\"54d124bf05bac344f61497af67b3f62af1ae727114696eebaaed4b86ad4b6cc7\"",
-      "last_checked_at": "2026-11-03T02:56:00Z",
+      "etag": "W/\"63d04fe7617b2c1c5fb0aef06a2748e884d4d5b92bcddcef6533ca8b55f38f44\"",
+      "last_checked_at": "2026-11-04T00:56:17Z",
       "has_hap": true
     },
     "hehuaiping/second-display": {
@@ -9501,8 +9501,8 @@
       "has_hap": false
     },
     "hongvyd10-cloud/rustdesk-harmonyos": {
-      "etag": "W/\"3edb0838c89da1d66ddb0885744c74765e749a1981567e8b0ecf44f65ffec0cd\"",
-      "last_checked_at": "2026-11-03T02:56:22Z",
+      "etag": "W/\"28fdb35a6e42e23a0e03f1d2d196eacb8629fa0e2343396d29eed5913b501884\"",
+      "last_checked_at": "2026-11-04T00:56:18Z",
       "has_hap": true
     },
     "honwen/luci-app-haproxy-tcp": {
@@ -9677,7 +9677,7 @@
     },
     "hydrotho/OpenHarmony_Router": {
       "etag": "W/\"d44b0115722ffb59a909516a2fcaaec1a348ae2a195677e073dfbae2389d29dd\"",
-      "last_checked_at": "2026-11-03T02:56:42Z",
+      "last_checked_at": "2026-11-04T00:56:20Z",
       "has_hap": true
     },
     "hypriot/rpi-node-haproxy-example": {
@@ -9727,7 +9727,7 @@
     },
     "iamhyc/Aigis": {
       "etag": "W/\"8d8ec8913b8a9006d7f1ce7664c0e5e98226fc55465938e670396f209665e853\"",
-      "last_checked_at": "2026-11-03T02:56:47Z",
+      "last_checked_at": "2026-11-04T00:56:20Z",
       "has_hap": true
     },
     "iamzhihuix/happy-claude-skills": {
@@ -10277,7 +10277,7 @@
     },
     "jschwe/ServoDemo": {
       "etag": "W/\"ef0e0b2491167d4eb63b5b24e05d89a0b2901435acf9c7b371a9f4e81d966015\"",
-      "last_checked_at": "2026-11-03T02:57:39Z",
+      "last_checked_at": "2026-11-04T00:56:22Z",
       "has_hap": true
     },
     "jschwe/ohos-fontconfig": {
@@ -10612,17 +10612,17 @@
     },
     "kqakqakqa/hap-sign-utils": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-11-02T00:07:39Z",
+      "last_checked_at": "2026-11-04T00:56:23Z",
       "has_hap": false
     },
     "kqakqakqa/harmonyos-sdks": {
       "etag": "W/\"8ad1c61edede13f848617ad5cf409fbc0aa1f83ddea38bb728161c885f123dd3\"",
-      "last_checked_at": "2026-11-02T00:07:39Z",
+      "last_checked_at": "2026-11-04T00:56:23Z",
       "has_hap": false
     },
     "kqakqakqa/hmlwsim": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-11-02T00:07:40Z",
+      "last_checked_at": "2026-11-04T00:56:24Z",
       "has_hap": false
     },
     "krakenjs/hapi-openapi": {
@@ -10636,8 +10636,8 @@
       "has_hap": false
     },
     "ks-lm-kf/harmony-kslmkf-karing-hap": {
-      "etag": "W/\"a4f7394a4016189cf93862217d5aa691bcb631a0a40d597dd5f5cc95ab05d27e\"",
-      "last_checked_at": "2026-11-03T02:58:10Z",
+      "etag": "W/\"b191833f8304632bf968a89f01cc7f3fc487768dd4a5d4f8e3a9a355a774f4f9\"",
+      "last_checked_at": "2026-11-04T00:56:24Z",
       "has_hap": true
     },
     "kserge2001/vagrant-haproxy": {
@@ -10856,13 +10856,13 @@
       "has_hap": false
     },
     "likuai2010/auto-installer": {
-      "etag": "W/\"adc29f9fbacdcb0b3cec1ddf8f9e80adb3aa25f933bab512cb10cf100cf2eab1\"",
-      "last_checked_at": "2026-11-03T02:58:36Z",
+      "etag": "W/\"eab5f60f4aec555f37853918f6008af5c8947ee17e9e3f9761b0c43c4dd6d6a7\"",
+      "last_checked_at": "2026-11-04T00:56:25Z",
       "has_hap": true
     },
     "likuai2010/moonlight-harmonyos": {
       "etag": "W/\"9230a97d1f6c4bedb4595d2c621a5b3c1f2f6cdb305432d2e2811cd4cf8db825\"",
-      "last_checked_at": "2026-11-03T02:58:37Z",
+      "last_checked_at": "2026-11-04T00:56:26Z",
       "has_hap": true
     },
     "limuyang2/ohos-Crop": {
@@ -10922,7 +10922,7 @@
     },
     "littlestone0806/doubao-watermark-lab": {
       "etag": "W/\"0445e1c8b131b8b7feb220dd4bd3b3cba47e7aea64a04db7295b3b985f9c9394\"",
-      "last_checked_at": "2026-11-03T02:58:44Z",
+      "last_checked_at": "2026-11-04T00:56:27Z",
       "has_hap": true
     },
     "littlestone0806/godot-openharmony-test-video": {
@@ -11196,8 +11196,8 @@
       "has_hap": false
     },
     "lxdklp/MCB_OHOS": {
-      "etag": "W/\"813b9373aaf9da59c81123cbff514ce8de7aad61d50243f86dc4894b56946403\"",
-      "last_checked_at": "2026-11-03T02:59:15Z",
+      "etag": "W/\"bbfd37024d1129754024128c27d120b8039a43e955bd1b3b0f21abd7332b45c9\"",
+      "last_checked_at": "2026-11-04T00:56:28Z",
       "has_hap": true
     },
     "lzyJava666/HarmonyOS": {
@@ -11287,7 +11287,7 @@
     },
     "maxin0324/ClashHM": {
       "etag": "W/\"ec4df446df56daf846cc33715040adc1da011653ea6ef527ed8a36980b8a1c4b\"",
-      "last_checked_at": "2026-11-03T02:59:26Z",
+      "last_checked_at": "2026-11-04T00:56:30Z",
       "has_hap": true
     },
     "mayaculpa/hapi": {
@@ -12001,13 +12001,13 @@
       "has_hap": false
     },
     "ohosvscode/harmony-next-pipeline": {
-      "etag": "W/\"8836062a4a03def1f261baaf07172e13a276eaa74aa9cef969987a97936a3263\"",
-      "last_checked_at": "2026-11-03T03:00:50Z",
+      "etag": "W/\"00d1375f5890f88ce8edd8457765f0a91001ab1e61b0cbdf74a87621678f5cb5\"",
+      "last_checked_at": "2026-11-04T00:56:36Z",
       "has_hap": true
     },
     "ohosvscode/ohos_electron_hap": {
       "etag": "W/\"3218ad53b91720dbee610436affc7200d7a94c0fedfd941334451a4e8fcd66c4\"",
-      "last_checked_at": "2026-11-03T03:00:50Z",
+      "last_checked_at": "2026-11-04T00:56:36Z",
       "has_hap": true
     },
     "ohosvscode/openharmony_manifest": {
@@ -13857,7 +13857,7 @@
     },
     "p-meier/hapi-rest-mongo": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-25T23:14:11Z",
+      "last_checked_at": "2026-11-04T00:56:37Z",
       "has_hap": false
     },
     "pablezhang/harmonyOS": {
@@ -13892,7 +13892,7 @@
     },
     "panedioic/blender-harmonyos-meta": {
       "etag": "W/\"f908d30a78d9589e1b7e1af13ac5eb3dd218b20ce64e6ebf8f6a0736b72d153a\"",
-      "last_checked_at": "2026-11-03T03:03:00Z",
+      "last_checked_at": "2026-11-04T00:56:37Z",
       "has_hap": true
     },
     "pangJimmy/openHarmonyUart": {
@@ -14127,7 +14127,7 @@
     },
     "qiuhaotc/HarmonyIPTV": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-11-02T00:11:37Z",
+      "last_checked_at": "2026-11-04T00:56:40Z",
       "has_hap": false
     },
     "qiuhaotc/HarmonyOSPlayground": {
@@ -14451,8 +14451,8 @@
       "has_hap": false
     },
     "ruanxiaomei/hime-ohos": {
-      "etag": "W/\"69773d83f8065567299e7bd262e2d611d90f72ffd780c62fc1f9cda4c3a28ad3\"",
-      "last_checked_at": "2026-11-03T03:04:00Z",
+      "etag": "W/\"5b3a39640bd72493e020736c6b5d05e69b947eacb3f48265332e13b66659e3c3\"",
+      "last_checked_at": "2026-11-04T00:56:41Z",
       "has_hap": true
     },
     "rubyhan1314/HarmonyOS-100-Days": {
@@ -15106,8 +15106,8 @@
       "has_hap": false
     },
     "spring-soft/MemoFlow": {
-      "etag": "W/\"d459f269b11fcb2c2fbc65ec7286a18d4ba3043d22ec029534e2b20ac218ae53\"",
-      "last_checked_at": "2026-11-03T03:05:06Z",
+      "etag": "W/\"7868f05e8fd95fa03beb0be0e3f54b3254837b55255be62aa8cfc5b221c47b8c\"",
+      "last_checked_at": "2026-11-04T00:56:46Z",
       "has_hap": true
     },
     "springframeworkguru/hapi-spring-integration": {
@@ -15201,8 +15201,8 @@
       "has_hap": false
     },
     "suibianqwe/Ehviewer_OHOS": {
-      "etag": "W/\"65b4c483d669b7ff3b5aaeb10191c592107246ddfa4e0b12958c716e4efbcc88\"",
-      "last_checked_at": "2026-11-03T03:05:16Z",
+      "etag": "W/\"aff4cb7f49a6fb7b44a61890ccb2c4b1413e2a3d12d55c0e00cb28c705caeb51\"",
+      "last_checked_at": "2026-11-04T00:56:47Z",
       "has_hap": true
     },
     "suiminghui98-coder/HDF": {
@@ -15231,8 +15231,8 @@
       "has_hap": false
     },
     "sunny-luoyun/HM_pixiv": {
-      "etag": "W/\"f1c620105d2d55e081b75fdfa8c754b64d0d3773c6f94f23591b16c09e3aa5fb\"",
-      "last_checked_at": "2026-11-03T03:05:19Z",
+      "etag": "W/\"5bc3e99d26b3043fa078db19ace720371f03207ec380f5511643f1da7ca11f10\"",
+      "last_checked_at": "2026-11-04T00:56:48Z",
       "has_hap": true
     },
     "sunxianlei/openharmonydocs": {
@@ -15432,7 +15432,7 @@
     },
     "tianlongbaobao/idut-HarmonyOS-Next": {
       "etag": "W/\"499ed39e9640de77f265feeaf9a3279f93900a70990a8344a5e44fe14e7f2947\"",
-      "last_checked_at": "2026-11-03T03:05:43Z",
+      "last_checked_at": "2026-11-04T00:56:50Z",
       "has_hap": true
     },
     "tiann/hapi": {
@@ -15602,7 +15602,7 @@
     },
     "una-231/Harmony_schoolHelper": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-11-02T00:54:04Z",
+      "last_checked_at": "2026-11-04T00:56:51Z",
       "has_hap": false
     },
     "unixsurfer/haproxyadmin": {
@@ -16071,8 +16071,8 @@
       "has_hap": false
     },
     "winehua/WineHua": {
-      "etag": "W/\"04e078564f121e43c3f20f44ef403cb8c4eda34d2fae8201d93ce697a9f36190\"",
-      "last_checked_at": "2026-11-03T03:40:21Z",
+      "etag": "W/\"5058990a36b2dbe5cfd4673e09f34410633cff7480c28503a56d98bffeda7320\"",
+      "last_checked_at": "2026-11-04T00:56:53Z",
       "has_hap": true
     },
     "wip3l/legado-harmony": {
@@ -16096,8 +16096,8 @@
       "has_hap": false
     },
     "wkj2333666/Android-SSH-Codex": {
-      "etag": "W/\"b4934e301f234f63144b511c39eb2394c867ef18a4b5f48f92d32ef45f70dea7\"",
-      "last_checked_at": "2026-11-03T03:40:24Z",
+      "etag": "W/\"b1b7fd9c3e4b57d9dad1ca47bbab30cf5dae1f9ba1d8538e7a9db16208f2365a\"",
+      "last_checked_at": "2026-11-04T00:56:53Z",
       "has_hap": true
     },
     "wqdzxd/HarmonyOS": {
@@ -16176,8 +16176,8 @@
       "has_hap": false
     },
     "wuweiyouzuoju/jidecards-anki-harmonyos": {
-      "etag": "W/\"0b27e642acda7df9da2e6b4a52971a2a421a1f4dded4336b7d4e046827702491\"",
-      "last_checked_at": "2026-11-03T03:40:33Z",
+      "etag": "W/\"e5a44d3f7809bc8a93d69481c080a3077b0186bd61d6ac7772d5186e454557b5\"",
+      "last_checked_at": "2026-11-04T00:56:54Z",
       "has_hap": true
     },
     "wuxianlin/harmonyos_next_emulator_mod": {
@@ -16226,13 +16226,13 @@
       "has_hap": false
     },
     "xiaobaigroup/ClashBox": {
-      "etag": "W/\"4bf8906680d4d1d00a97f0afe22e1d70192d85a13194a121f622adc79c242392\"",
-      "last_checked_at": "2026-11-03T03:40:45Z",
+      "etag": "W/\"3c5d1175219d1d81adfae7f4de26864ef64e558c3992c8962ab21186ea560b1d\"",
+      "last_checked_at": "2026-11-04T00:56:56Z",
       "has_hap": true
     },
     "xiaobaigroup/HomoLauncher": {
-      "etag": "W/\"4118b9a9eb00b68ff73ed72dec6dfb64c02eda42a09e895f82d9427b016c9d70\"",
-      "last_checked_at": "2026-11-03T03:40:46Z",
+      "etag": "W/\"c680237fbea37294a4cd4f9cab35384273f20a9bf6dc5be096170448ee3305be\"",
+      "last_checked_at": "2026-11-04T00:56:57Z",
       "has_hap": true
     },
     "xiaokele/HarmonyOSDemo": {
@@ -16282,7 +16282,7 @@
     },
     "xiebyapps/ClipLink": {
       "etag": "W/\"c9aa82a276d24a42729c10a9d2d0c8e03f553cd26d8b1d4623b0f88e27e62b31\"",
-      "last_checked_at": "2026-11-03T03:40:54Z",
+      "last_checked_at": "2026-11-04T00:56:59Z",
       "has_hap": true
     },
     "xieleihan/Qianfan-v2-HarmonyOS": {
@@ -16477,7 +16477,7 @@
     },
     "yabi-zzh/simple-live-ohos": {
       "etag": "W/\"cee3907853d88970221e2a33f2c88451f7a034bc17888acc8e930a45ea165ffc\"",
-      "last_checked_at": "2026-11-03T03:41:12Z",
+      "last_checked_at": "2026-11-04T00:57:00Z",
       "has_hap": true
     },
     "yan-6/HarmonyOS": {
@@ -16882,7 +16882,7 @@
     },
     "zhaozihanzzh/OpenHarmonyScreenCaptureSample": {
       "etag": "W/\"bb92deab1e2dd8c6a53a8f77c786a1eb19717f994d89eb02da5c0d2d8dad1a58\"",
-      "last_checked_at": "2026-11-03T03:41:56Z",
+      "last_checked_at": "2026-11-04T00:57:02Z",
       "has_hap": true
     },
     "zhen666555-sketch/HarmonyOS-community": {
@@ -17102,7 +17102,7 @@
     },
     "zyfdandan/HarmonyDesk": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-31T00:27:32Z",
+      "last_checked_at": "2026-11-04T00:57:06Z",
       "has_hap": false
     },
     "zygmuntz/kaggle-happiness": {
@@ -17202,7 +17202,7 @@
     },
     "158153/Delivery": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-31T00:04:43Z",
+      "last_checked_at": "2026-11-04T00:54:43Z",
       "has_hap": false
     },
     "1617103489/harmanyOSLearning": {
@@ -17437,7 +17437,7 @@
     },
     "AnmSleepalone/bujuan-harmony": {
       "etag": "W/\"f01fb96e2193f6795beb9d3858124891602780f0d105818fd60f6fda619678e3\"",
-      "last_checked_at": "2026-11-03T02:40:40Z",
+      "last_checked_at": "2026-11-04T00:54:49Z",
       "has_hap": true
     },
     "AnowarOHossain/AnowarOHossain": {
@@ -17467,7 +17467,7 @@
     },
     "AuroraMaster/ohos-bindtest-app": {
       "etag": "W/\"73f4dc96d7f4e8dd46975cfdf1f6858dc4e99179a9c09a4fb20d5ef144006fa1\"",
-      "last_checked_at": "2026-11-03T02:41:24Z",
+      "last_checked_at": "2026-11-04T00:54:52Z",
       "has_hap": true
     },
     "AuroraMaster/ohos_react_native": {
@@ -17537,7 +17537,7 @@
     },
     "Bokiiii02/PocketHana": {
       "etag": "W/\"b1442976a2c037e0673c9078efec3de7a13c6d764789d03768ca9ba0f0d36bfd\"",
-      "last_checked_at": "2026-11-03T02:41:36Z",
+      "last_checked_at": "2026-11-04T00:54:53Z",
       "has_hap": true
     },
     "BrainCoTech/ohos_ble_test": {
@@ -17631,8 +17631,8 @@
       "has_hap": false
     },
     "Cateners/buttercup": {
-      "etag": "W/\"2c16c45f80cdb3481b9016402c49f8d1e72369660da83a734af9d2dd342ddd95\"",
-      "last_checked_at": "2026-11-03T02:41:50Z",
+      "etag": "W/\"ad53a5526eb57b13c71e537e32138e313cd3cec9f8918a661757ae857c9f954d\"",
+      "last_checked_at": "2026-11-04T00:54:54Z",
       "has_hap": true
     },
     "Chaeyoungxue/Harmony-OS": {
@@ -17651,8 +17651,8 @@
       "has_hap": false
     },
     "Chevey339/kelivo-ohos": {
-      "etag": "W/\"6a4de18a4f169d3d6f450d6ddf64f4f1a06c7c384ef840b1652bf5160fc6cccf\"",
-      "last_checked_at": "2026-11-03T02:41:58Z",
+      "etag": "W/\"f812ea9e7b9bce820594e9e16c1d51842398759999d44e40ac846533efb3ae84\"",
+      "last_checked_at": "2026-11-04T00:54:56Z",
       "has_hap": true
     },
     "Chinzicam/DevEcoStudioProjects": {
@@ -17806,8 +17806,8 @@
       "has_hap": false
     },
     "DreamistW/Homowarden": {
-      "etag": "W/\"79c55404db5b200105460263b239f83463911f563833c768591c325acf1f979c\"",
-      "last_checked_at": "2026-11-03T02:42:30Z",
+      "etag": "W/\"1cf648f551ce2fff5df82139eded189937a1efdeabc3f636f70dc70fc1d88604\"",
+      "last_checked_at": "2026-11-04T00:55:01Z",
       "has_hap": true
     },
     "DunoDoge/OHOS-Skills": {
@@ -17846,8 +17846,8 @@
       "has_hap": false
     },
     "Ember5843/YourPipe": {
-      "etag": "W/\"574f7d627d14d31dbc11adfe9f7d7114cf2581a90a19067eb26551ed98a113b8\"",
-      "last_checked_at": "2026-11-03T02:42:40Z",
+      "etag": "W/\"e76839ac1dfc6ed4559e632c8189f0a8343a9b91caa6ca1a70d6b0a62b38c5ac\"",
+      "last_checked_at": "2026-11-04T00:55:02Z",
       "has_hap": true
     },
     "Entity-Him/dsh-harmonyos-pc": {
@@ -17861,8 +17861,8 @@
       "has_hap": false
     },
     "ErBWs/Kazumi": {
-      "etag": "W/\"63e0d593ad1aa5e58bfe748dca9d44085b99906156c7051a43ffc57419d06605\"",
-      "last_checked_at": "2026-11-03T02:42:41Z",
+      "etag": "W/\"8d8efc6d7a3b6fada565d4d7d3f447270d784b4c5b78630642ebc2a29c3fe048\"",
+      "last_checked_at": "2026-11-04T00:55:03Z",
       "has_hap": true
     },
     "ErBWs/ohos-sdk": {
@@ -17982,7 +17982,7 @@
     },
     "FishPiOffical/fishpi-harmony": {
       "etag": "W/\"c616c52915e4a8cd62ac3888e59c2472c3cd047d1b6c7916f2bc31c483318f8d\"",
-      "last_checked_at": "2026-11-03T02:44:25Z",
+      "last_checked_at": "2026-11-04T00:55:08Z",
       "has_hap": true
     },
     "Fklearn/huawei-ohosDemo": {
@@ -18072,7 +18072,7 @@
     },
     "GetZ110/dbx-ohos": {
       "etag": "W/\"4166817844f8d1a95335135bb254d704f029a7ac95f5ebc309bdb0084e92d0ad\"",
-      "last_checked_at": "2026-11-03T02:44:42Z",
+      "last_checked_at": "2026-11-04T00:55:11Z",
       "has_hap": true
     },
     "GitaWei/OHOS-AOSP-details": {
@@ -18151,8 +18151,8 @@
       "has_hap": false
     },
     "HWYWL/iStore": {
-      "etag": "W/\"9a7a7080d7d63b062592edcf741905fa733fd24c9baf8b885e0e2948c60b2670\"",
-      "last_checked_at": "2026-11-03T02:44:54Z",
+      "etag": "W/\"37011d604c802502e208064099a59cb94d5a852a5ef2e6d31851661b0d9ff1aa\"",
+      "last_checked_at": "2026-11-04T00:55:12Z",
       "has_hap": true
     },
     "Hackerl/ohos-ndk-llvm19": {
@@ -18182,7 +18182,7 @@
     },
     "Hanmiao33/wyyhm6": {
       "etag": "W/\"b71a1152fb40fa558a4c31433ff649fa908844b19d462538023740c2ea66f08c\"",
-      "last_checked_at": "2026-11-03T02:45:00Z",
+      "last_checked_at": "2026-11-04T00:55:13Z",
       "has_hap": true
     },
     "Hans0812/OHOS": {
@@ -18461,8 +18461,8 @@
       "has_hap": false
     },
     "JNGKZbird/Arknights-Angelina-Pet-YuYuan-HarmonyOS-NEXT": {
-      "etag": "W/\"ae1c36c8776cb5510a88d4676b8bf5bf21a4dfded90587d8449432deaaaede8b\"",
-      "last_checked_at": "2026-11-03T02:45:55Z",
+      "etag": "W/\"a61a3a48d7380b8c7faada61965810fc776073d0850296f4570d55688f5cd366\"",
+      "last_checked_at": "2026-11-04T00:55:17Z",
       "has_hap": true
     },
     "JNYZ1/onnxruntime-ohos-build": {
@@ -18552,7 +18552,7 @@
     },
     "Jiagu1218/vmrp-ohos": {
       "etag": "W/\"45ff46dac131fa909717a60438f2a016c3cc7c9db6dce58fcf1f0b90754e7086\"",
-      "last_checked_at": "2026-11-03T02:46:06Z",
+      "last_checked_at": "2026-11-04T00:55:18Z",
       "has_hap": true
     },
     "JieCode/todoList": {
@@ -18786,13 +18786,13 @@
       "has_hap": false
     },
     "Luxcis/PicACG_Next": {
-      "etag": "W/\"9904795f0804bfdbee9ee5dc441537c8e28295e9964937b80c00971576c86212\"",
-      "last_checked_at": "2026-11-03T02:46:57Z",
+      "etag": "W/\"cfe16c26b8cb1c3f8baf75b3350c5c6784bdf9e0ab3b141070c5c3d0dcbedd24\"",
+      "last_checked_at": "2026-11-04T00:55:25Z",
       "has_hap": true
     },
     "Luxcis/Pokedex_Next": {
-      "etag": "W/\"efb5aa8fcd85a5c800c05f299e9e075d613fcf51c2badde3fec9398346324f7f\"",
-      "last_checked_at": "2026-11-03T02:46:58Z",
+      "etag": "W/\"9770226e7917e67133f6d5bfee15b1bd07cca138f477a7290fefc711024c8bfd\"",
+      "last_checked_at": "2026-11-04T00:55:26Z",
       "has_hap": true
     },
     "LuyuZhang00/Word-Check": {
@@ -19047,7 +19047,7 @@
     },
     "Obito-fans/obito": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-31T00:10:49Z",
+      "last_checked_at": "2026-11-04T00:55:30Z",
       "has_hap": false
     },
     "Oh-OS/OhOS-BookMarkService": {
@@ -19077,7 +19077,7 @@
     },
     "Okysu/harmony-next-music-sharing": {
       "etag": "W/\"710b7bd15fe93daf087d1a4de9b04f8cfca3edbeb5960d0e8051172a5c5faf8f\"",
-      "last_checked_at": "2026-11-03T02:47:47Z",
+      "last_checked_at": "2026-11-04T00:55:31Z",
       "has_hap": true
     },
     "OliviaWYQ/weather_harmony": {
@@ -19327,7 +19327,7 @@
     },
     "PollenWang6/HiXD": {
       "etag": "W/\"c4e231dbd95a9ab57c12ffea66a976b1d8e7f82ed16be1fb63b9c493c2a87ad8\"",
-      "last_checked_at": "2026-11-03T02:48:14Z",
+      "last_checked_at": "2026-11-04T00:55:32Z",
       "has_hap": true
     },
     "Ppwindf/Diary": {
@@ -19407,7 +19407,7 @@
     },
     "RedRackham1994/WanAndroidHarmoney": {
       "etag": "W/\"d559174486e149af0490cfb4aaca72698c88a0a1ef42737945b46c7109c18d1d\"",
-      "last_checked_at": "2026-11-03T02:48:31Z",
+      "last_checked_at": "2026-11-04T00:55:34Z",
       "has_hap": true
     },
     "Retrohos/libretro-frontend-ohos": {
@@ -19776,8 +19776,8 @@
       "has_hap": false
     },
     "WingedFin1251/Pvz-Gardendless-harmony": {
-      "etag": "W/\"2f4deac4f2ce8536151d653edacadd870c7c29ae358528d551e3d22b08235ade\"",
-      "last_checked_at": "2026-11-03T02:49:59Z",
+      "etag": "W/\"1b66388e2ba3f4f1eb2f8a009c83c801bba9d7ce610f9bf753f6bdd0e4c1a08a\"",
+      "last_checked_at": "2026-11-04T00:55:48Z",
       "has_hap": true
     },
     "Wodlie/PiliPlusX_ohos": {
@@ -19801,8 +19801,8 @@
       "has_hap": true
     },
     "XHXYT/Pixark": {
-      "etag": "W/\"959353f114425708b8b1986cb09ad23ff3b8ef66e5422f08cdebc00fb446a425\"",
-      "last_checked_at": "2026-11-03T02:50:04Z",
+      "etag": "W/\"6d4971bc5b8555fab646db750bac65b7df617bc72f5cd8d4d9f250ed37d393a5\"",
+      "last_checked_at": "2026-11-04T00:55:50Z",
       "has_hap": true
     },
     "XIVENNN/pet-care-hongmeng-ui": {
@@ -19817,12 +19817,12 @@
     },
     "XiaoChuangll/Melotopia": {
       "etag": "W/\"c1384c3fd5e1d423e982e77fbd4c378dee0fb7cdb052cb3e9676c807b0062655\"",
-      "last_checked_at": "2026-11-03T02:50:08Z",
+      "last_checked_at": "2026-11-04T00:55:51Z",
       "has_hap": true
     },
     "Xiaohuang-sysa/Harmony": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-29T00:27:53Z",
+      "last_checked_at": "2026-11-04T00:55:51Z",
       "has_hap": false
     },
     "XingLuoYunxiao/Project1": {
@@ -19937,7 +19937,7 @@
     },
     "Your-USTC/DailyNic_HMOS": {
       "etag": "W/\"4630d5ef5da59c1963281fc4c044e224f774fe9c50d28c4bb99db618179dd40e\"",
-      "last_checked_at": "2026-11-03T02:50:22Z",
+      "last_checked_at": "2026-11-04T00:55:52Z",
       "has_hap": true
     },
     "YuanJieCao/ohos-device-doctor": {
@@ -20166,8 +20166,8 @@
       "has_hap": false
     },
     "apap6628114/lnga_harmony": {
-      "etag": "W/\"ca08aa09f117f9fec495ae49556debb15625e41a52cc256ea58c9b61fb3e3fd0\"",
-      "last_checked_at": "2026-11-03T02:51:19Z",
+      "etag": "W/\"b30283fb45ba2792678e5320ed57f6a802e36a656758bc42437ab0b666d0dfef\"",
+      "last_checked_at": "2026-11-04T00:55:56Z",
       "has_hap": true
     },
     "app02-xiangbuchulai/hmzzq": {
@@ -20687,7 +20687,7 @@
     },
     "chashaochang/FNMusic_H": {
       "etag": "W/\"ee817f9ad9d40ba3a90480b211b9a777d9c96ce7f0ad3485fcbd47a90f62cb48\"",
-      "last_checked_at": "2026-11-03T02:52:40Z",
+      "last_checked_at": "2026-11-04T00:56:00Z",
       "has_hap": true
     },
     "chdown/store_ohos": {
@@ -20847,7 +20847,7 @@
     },
     "cvabm/HarmonyDemo": {
       "etag": "W/\"551d5f9c16f882aa4fecb2c6996e252e38e16f4a90ae497b78f3776166d5472a\"",
-      "last_checked_at": "2026-11-03T02:53:10Z",
+      "last_checked_at": "2026-11-04T00:56:03Z",
       "has_hap": true
     },
     "cyber-stanny/harmonyOS_aiDiary": {
@@ -20946,8 +20946,8 @@
       "has_hap": false
     },
     "dev4harmony/PiliPlus": {
-      "etag": "W/\"0d115b29d5a4e471ade9f02ef8b7a248f2ef7b3365112e6161998b489e1ecb08\"",
-      "last_checked_at": "2026-11-03T02:53:27Z",
+      "etag": "W/\"a597cd474d35802812a76657f9fba491f462dbba6e8a32de00c954d443dd5490\"",
+      "last_checked_at": "2026-11-04T00:56:05Z",
       "has_hap": true
     },
     "devhassanhafeez/Agrishop": {
@@ -21092,12 +21092,12 @@
     },
     "duckeaty/alistplayer_ohos": {
       "etag": "W/\"bc868af269c56b817140c2667c2119253118f14e3c7ecf269b5c8a78bda18d6c\"",
-      "last_checked_at": "2026-11-03T02:53:48Z",
+      "last_checked_at": "2026-11-04T00:56:07Z",
       "has_hap": true
     },
     "duckeaty/nas_nav_hormony": {
-      "etag": "W/\"30bfc6007e5b678ae8db9e8a2a2d9ec088cabd9e81139f6541f078bec512474c\"",
-      "last_checked_at": "2026-11-03T02:53:48Z",
+      "etag": "W/\"fe6271cb036026b5fd752001bf7f9ebadd099cd18fc6259ae97b36512504237d\"",
+      "last_checked_at": "2026-11-04T00:56:07Z",
       "has_hap": true
     },
     "dugu97/harmonyos-demo": {
@@ -21211,8 +21211,8 @@
       "has_hap": false
     },
     "fcitx-contrib/fcitx5-harmony": {
-      "etag": "W/\"3ba262989a1def3340f51c17d9285af2afd7ed5e3154c81c4d4dec5519bbe8ec\"",
-      "last_checked_at": "2026-11-03T02:54:21Z",
+      "etag": "W/\"f190fddd5b3dd2e7ced5cfd7be48d190f3d798315be057d87ad2497159fa07c8\"",
+      "last_checked_at": "2026-11-04T00:56:10Z",
       "has_hap": true
     },
     "fd9y2dqvtm-droid/emptyapp": {
@@ -21457,7 +21457,7 @@
     },
     "guoxiucai/ohos-scrcpy-app": {
       "etag": "W/\"5484035139d3906c00aec29856aaea57cf1098dfd7c6530a76d545fae4a5248e\"",
-      "last_checked_at": "2026-11-03T02:55:20Z",
+      "last_checked_at": "2026-11-04T00:56:14Z",
       "has_hap": true
     },
     "h-desk/hdesk": {
@@ -22066,8 +22066,8 @@
       "has_hap": false
     },
     "jonas-pi/FMphoto": {
-      "etag": "W/\"b83d23d55c6e4cc410d93c89a13d50d621eed859bff497051d52807b118e1888\"",
-      "last_checked_at": "2026-11-03T02:57:36Z",
+      "etag": "W/\"947607519f23d2c980089f477dea19be52d29d7fe360f445794d6f6fb7dfb0a2\"",
+      "last_checked_at": "2026-11-04T00:56:21Z",
       "has_hap": true
     },
     "jqknono/reference-harmony": {
@@ -22437,12 +22437,12 @@
     },
     "littlestone0806/NetEaseCloudMusic-ohos": {
       "etag": "W/\"ae56fd36791d1d0b8817e8346d26b4a3aa61a9c83cb02e2c3ef37d162c4457e1\"",
-      "last_checked_at": "2026-11-03T02:58:44Z",
+      "last_checked_at": "2026-11-04T00:56:26Z",
       "has_hap": true
     },
     "littlestone0806/WebApp-ohos": {
       "etag": "W/\"2025c04c1d8405fbeda8b992d60df76c8e2c4f581aad8ed6547a5e08f5bff766\"",
-      "last_checked_at": "2026-11-03T02:58:44Z",
+      "last_checked_at": "2026-11-04T00:56:26Z",
       "has_hap": true
     },
     "liuchunlao/PAGDemo": {
@@ -22731,8 +22731,8 @@
       "has_hap": false
     },
     "mgz0227/legado-Harmony": {
-      "etag": "W/\"8bcaac057b0daf5d266924d3505dddf4052f73a02eebc3d239d762548d708fd4\"",
-      "last_checked_at": "2026-11-03T02:59:35Z",
+      "etag": "W/\"2e257e172d09e26a34216b1cf270b8d841a68f4ff4567730b97306bc0bd90e12\"",
+      "last_checked_at": "2026-11-04T00:56:31Z",
       "has_hap": true
     },
     "mgzzZ/wechat_hmos": {
@@ -22782,7 +22782,7 @@
     },
     "mistrainn/harmonyTarget": {
       "etag": "W/\"f5533a77439c6b0cb8ba7f4faf98fbf364e60aa448c914c22aac7a34759e7eac\"",
-      "last_checked_at": "2026-11-03T02:59:45Z",
+      "last_checked_at": "2026-11-04T00:56:32Z",
       "has_hap": true
     },
     "mkj13146/myblog": {
@@ -22972,7 +22972,7 @@
     },
     "niuhuan/copi-ohos": {
       "etag": "W/\"80ad085a09f76af46a8ed3a45d27847ad09aeaabde4145ca2ed896786e22741a\"",
-      "last_checked_at": "2026-11-03T03:00:24Z",
+      "last_checked_at": "2026-11-04T00:56:36Z",
       "has_hap": true
     },
     "niuhuan/daisy-ohos": {
@@ -23737,7 +23737,7 @@
     },
     "sakurajh/Wechat_Project": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-31T00:24:04Z",
+      "last_checked_at": "2026-11-04T00:56:42Z",
       "has_hap": false
     },
     "sakurajh/Youtube_HarmonyOS": {
@@ -23801,18 +23801,18 @@
       "has_hap": false
     },
     "shanyan-wcx/Harmonic": {
-      "etag": "W/\"f9782cebad37edc2f72e4c106a5ae43d03a65dfba303f95bbc411dfe2338f29d\"",
-      "last_checked_at": "2026-11-03T03:04:26Z",
+      "etag": "W/\"73a9d158ee0ab25cce271d3a26905fad5d75ad562af29dc11e206309eb0aece5\"",
+      "last_checked_at": "2026-11-04T00:56:42Z",
       "has_hap": true
     },
     "shanyan-wcx/Harmshelf": {
-      "etag": "W/\"cfa8f7271ffd60a26f9b1d8680a3e477301bac70a95390399e8351e7b2aa3a38\"",
-      "last_checked_at": "2026-11-03T03:04:26Z",
+      "etag": "W/\"85a23cf9598384eebdd9f4c78b6aabb046b67222f7086799cc95029aa0da66c0\"",
+      "last_checked_at": "2026-11-04T00:56:43Z",
       "has_hap": true
     },
     "shanyan-wcx/Webapp": {
       "etag": "W/\"9dcc45f1816facc27128a99264649192597c228b24bbe5d1cf0b7a6017ccfe85\"",
-      "last_checked_at": "2026-11-03T03:04:27Z",
+      "last_checked_at": "2026-11-04T00:56:43Z",
       "has_hap": true
     },
     "shaohushuo/app_set_id_ohos": {
@@ -24112,7 +24112,7 @@
     },
     "sys2008/sys_AItoolkit_ohos": {
       "etag": "W/\"5d9cc9cd8f7156cbe8deea569cdcd1fef621f9aad81e16a979d0bd0baec4ded6\"",
-      "last_checked_at": "2026-11-03T03:05:26Z",
+      "last_checked_at": "2026-11-04T00:56:49Z",
       "has_hap": true
     },
     "tangfuhao/flutter-packages-ohos": {
@@ -24206,8 +24206,8 @@
       "has_hap": false
     },
     "tljk/FlClash-ohos": {
-      "etag": "W/\"e22dfd4ffe9e0e5f9c5c2b36dfab699553e272b2e4b3d9e8e2d32daf6d4cc6c8\"",
-      "last_checked_at": "2026-11-03T03:05:47Z",
+      "etag": "W/\"c45c45db6c4edb556135a45f5553de2b2294c956b7219e23d7fb42a0b0810106\"",
+      "last_checked_at": "2026-11-04T00:56:50Z",
       "has_hap": true
     },
     "topasiz/ohospift": {
@@ -24337,7 +24337,7 @@
     },
     "w0scan/PiliOH": {
       "etag": "W/\"d84f4bd64c0ef1369a2322c9c1dd2eb0cb7959de6dcbc4f421ae3ff5e31d2329\"",
-      "last_checked_at": "2026-11-03T03:39:50Z",
+      "last_checked_at": "2026-11-04T00:56:51Z",
       "has_hap": true
     },
     "w1-xr/HarmonyOs-Test": {
@@ -24561,8 +24561,8 @@
       "has_hap": false
     },
     "wly5556/S1-Orange": {
-      "etag": "W/\"61d3ae5e2c65b441ea6d438d08b12c540dcb03644937a40eec234cb2744399a1\"",
-      "last_checked_at": "2026-11-03T03:40:25Z",
+      "etag": "W/\"86a8d13a4818dfc2708220144331b767d08d55e69030b8c5baa2350a66db281c\"",
+      "last_checked_at": "2026-11-04T00:56:54Z",
       "has_hap": true
     },
     "wogua-307/TuringEyes": {
@@ -24752,7 +24752,7 @@
     },
     "xiaogouyo/dsh-harmonyos": {
       "etag": "W/\"562abdd4c390f6099857e786274dd69deccc3f142363bf0ff86da3a4d0dfc2b7\"",
-      "last_checked_at": "2026-11-03T03:40:48Z",
+      "last_checked_at": "2026-11-04T00:56:57Z",
       "has_hap": true
     },
     "xiaomaiTD/flutter_get_ohos": {
@@ -24866,8 +24866,8 @@
       "has_hap": false
     },
     "yabi-zzh/livify-ohos": {
-      "etag": "W/\"d4fc42ca951c4a40da05bc1a53d852829a41d71b10003b42a13f0eac140642cf\"",
-      "last_checked_at": "2026-11-03T03:41:11Z",
+      "etag": "W/\"1219bdee696ba525a4bdcf05e85b65385252dce497e6041a71b5237249b67c30\"",
+      "last_checked_at": "2026-11-04T00:57:00Z",
       "has_hap": true
     },
     "yacholasser23/ohosha": {
@@ -25362,7 +25362,7 @@
     },
     "forwardz666/Syncthing-for-HarmonyOS": {
       "etag": "W/\"8669127104e435b53d0484383c4f03cf5e6266fa3091cbccf38a20d6556398c5\"",
-      "last_checked_at": "2026-11-03T02:54:43Z",
+      "last_checked_at": "2026-11-04T00:56:13Z",
       "has_hap": true
     },
     "mo-miller-685/Tomo_OHOS": {
@@ -25467,17 +25467,17 @@
     },
     "dragan-novakovic/openharmony-bb10-keyboard": {
       "etag": "W/\"b12af1f9a35abf82dacd2dd1b58af13546962af6bb39178b0147249d8280bf47\"",
-      "last_checked_at": "2026-11-03T02:53:47Z",
+      "last_checked_at": "2026-11-04T00:56:06Z",
       "has_hap": true
     },
     "enoughpower/dsh-harmony": {
       "etag": "W/\"5f00ae80de79f52f29db8cfff98cf3f031ab1b793977510940229ea211be252e\"",
-      "last_checked_at": "2026-11-03T02:54:08Z",
+      "last_checked_at": "2026-11-04T00:56:08Z",
       "has_hap": true
     },
     "fe-spark/EcoHub-for-OHOS": {
-      "etag": "W/\"ae9965457a4d8c7d397be05d36e4426942135ee68d95fc8c4c36acc7c7842d7c\"",
-      "last_checked_at": "2026-11-03T02:54:23Z",
+      "etag": "W/\"1cff60014961d91c6a4e47677f7647c4038543f6f8f710d76333ca4d7df2e874\"",
+      "last_checked_at": "2026-11-04T00:56:11Z",
       "has_hap": true
     },
     "nmhwsygxb/PhotoTrans-HarmonyOS": {
@@ -25491,8 +25491,8 @@
       "has_hap": false
     },
     "xiaobaigroup/HMOSHapURL": {
-      "etag": "W/\"ee0231dd79689d8153cc29e3cb7d2597f9f7bd57ab32fbfaf396ed7e64ffcb9a\"",
-      "last_checked_at": "2026-11-03T03:40:46Z",
+      "etag": "W/\"35febe5a795c8dea2ed4c1abf9f59f31ea10cda8c6b1b8f4a73d1e7ca37b9d39\"",
+      "last_checked_at": "2026-11-04T00:56:56Z",
       "has_hap": true
     },
     "Conectro/Conectro-Universal-Terminal-Client": {
@@ -25511,8 +25511,8 @@
       "has_hap": false
     },
     "kamalovecz/hap_release_kit": {
-      "etag": "W/\"89e6af7da99526120f96d8f023db97ac39796acf5f8730dc354abdb6c99e83e1\"",
-      "last_checked_at": "2026-11-03T02:57:54Z",
+      "etag": "W/\"55793cb06a28d59ee05a74cf11a3856479ff35832bf709326a16861895050eb9\"",
+      "last_checked_at": "2026-11-04T00:56:23Z",
       "has_hap": true
     },
     "tiogansuni/ohosul": {
@@ -25526,8 +25526,8 @@
       "has_hap": false
     },
     "wangxulove-jpg/ArkTavernSolo": {
-      "etag": "W/\"c29ee14be04758d12e2b858a816ade3534dafb0f6404f933dcbf63936915b734\"",
-      "last_checked_at": "2026-11-03T03:40:01Z",
+      "etag": "W/\"5fbdf1d31fb117eabe024b3e730dc1d42505655776aba563d3996c736cb4ef37\"",
+      "last_checked_at": "2026-11-04T00:56:52Z",
       "has_hap": true
     },
     "yy438563755/openp2p_for_openharmony": {
@@ -25547,7 +25547,7 @@
     },
     "CDUESTC-OpenAtom-Open-Source-Club/openharmony-campus-safety": {
       "etag": "W/\"adf6b13baff48814f3b18e9489b040f662899dab0c832a683e1bb06a6f8c3146\"",
-      "last_checked_at": "2026-11-03T02:41:43Z",
+      "last_checked_at": "2026-11-04T00:54:53Z",
       "has_hap": true
     },
     "Entity-Him/dsh-doc-quick": {
@@ -25657,7 +25657,7 @@
     },
     "GarhinZhou/terminAI": {
       "etag": "W/\"6bbfc7ea175e3eb3aceafc62292653100a9cf1ac5a18317b48bc3212526d6c4a\"",
-      "last_checked_at": "2026-11-03T02:44:40Z",
+      "last_checked_at": "2026-11-04T00:55:11Z",
       "has_hap": true
     },
     "QinpanWan/AgentHub": {
@@ -25681,8 +25681,8 @@
       "has_hap": false
     },
     "QinpanWan/dsh-harmonyos-pc": {
-      "etag": "W/\"94671d7f79e8d274a220172e1b1831226bdb70248dc34f910c63ce2aa8d84b40\"",
-      "last_checked_at": "2026-11-03T02:48:25Z",
+      "etag": "W/\"fd259c5c19a9eb337e3f6e6fdd6fcf6237cc13859991a189958ee72e481108d0\"",
+      "last_checked_at": "2026-11-04T00:55:33Z",
       "has_hap": true
     },
     "QinpanWan/dsh-hiboard-push": {
@@ -25707,7 +25707,7 @@
     },
     "WingedFin1251/GoTally": {
       "etag": "W/\"c251ab07c7fa91cc4a3f1b346695097292d19e961b547a82e1d3e221096a2195\"",
-      "last_checked_at": "2026-11-03T02:49:58Z",
+      "last_checked_at": "2026-11-04T00:55:48Z",
       "has_hap": true
     },
     "YANGZX22/XCube": {
@@ -25781,8 +25781,8 @@
       "has_hap": false
     },
     "Pkeji/FluxDownCover-OHOS": {
-      "etag": "W/\"b54df42694a9388191d7d3462e965ea1eb2b0e0abcbcb726aa8589e13872ba46\"",
-      "last_checked_at": "2026-11-03T02:48:13Z",
+      "etag": "W/\"bbfc779667edce7d54470b2557be55bf46207fbf26b9bf835506f6ee01440632\"",
+      "last_checked_at": "2026-11-04T00:55:32Z",
       "has_hap": true
     },
     "changshou83/RentRoom": {
@@ -25852,7 +25852,7 @@
     },
     "shihuan1999/openjiuwen-ohos-port": {
       "etag": "W/\"c5b2d6399fcd6c647c4b8bd26363d187dff26d3ae738232b7473a130321ff591\"",
-      "last_checked_at": "2026-11-03T03:04:36Z",
+      "last_checked_at": "2026-11-04T00:56:44Z",
       "has_hap": true
     },
     "shihuan1999/vscode-ohos-port": {
@@ -25866,13 +25866,13 @@
       "has_hap": false
     },
     "SakuraNeko/Deepseek-Harmony": {
-      "etag": "W/\"1eda92c40f73c1c4f8cf3a9958145cf4817c0d0d76dc44c44bc44224cf8d12a0\"",
-      "last_checked_at": "2026-11-03T02:48:50Z",
+      "etag": "W/\"87f8cbd363bc69202496e855a761b0bfe2c7cfcfe5df24cd0486facbe37f254f\"",
+      "last_checked_at": "2026-11-04T00:55:38Z",
       "has_hap": true
     },
     "WikG1018/site-mark": {
-      "etag": "W/\"0197a5df5ac716729388ea159eef5a4c4300867c2720fbaffaa12c462130dead\"",
-      "last_checked_at": "2026-11-03T02:49:57Z",
+      "etag": "W/\"36d0e4760d777ec3091fd4f636557433e1b433349eee99ccf5a0946a6c4f24c5\"",
+      "last_checked_at": "2026-11-04T00:55:47Z",
       "has_hap": true
     },
     "chen-linkai/build-hap": {
@@ -25947,7 +25947,7 @@
     },
     "Suixin04/Anomicon": {
       "etag": "W/\"20d44449ff7c4fa3079f7ed4c95901aeb8a6dbe12f4f8c18ba21edc1058e9ffb\"",
-      "last_checked_at": "2026-11-03T02:49:17Z",
+      "last_checked_at": "2026-11-04T00:55:42Z",
       "has_hap": true
     },
     "amiya6666/meow-harmony": {
@@ -26091,8 +26091,8 @@
       "has_hap": false
     },
     "SKL-666666/MiHome-Client": {
-      "etag": "W/\"0d41dec275c51dcd8c6e6206cecf30caba93acc39ac70248b72fc1b11d3af368\"",
-      "last_checked_at": "2026-11-03T02:48:44Z",
+      "etag": "W/\"0e4889e7efd67ddb05dcac5dc9efbfc78814193fe08749ac5fce1a4183bd17a8\"",
+      "last_checked_at": "2026-11-04T00:55:37Z",
       "has_hap": true
     },
     "Virtualtaknot/happ-vpn": {
@@ -26181,8 +26181,8 @@
       "has_hap": false
     },
     "sol5766/dshm": {
-      "etag": "W/\"f328bff006119eefca069f6db9c2ef91ac96da281ed3c5b1422a0aec400fc03d\"",
-      "last_checked_at": "2026-11-03T03:05:01Z",
+      "etag": "W/\"7fe2c803d2ca376a52240d30849c758f2a340cd284b8b48edb99cfe391bf47f6\"",
+      "last_checked_at": "2026-11-04T00:56:45Z",
       "has_hap": true
     },
     "veynelove/johnbeauty_os": {
@@ -26467,7 +26467,7 @@
     },
     "CloudWhiteTower/facilis-recording": {
       "etag": "W/\"19e1a655784005b8f15ac5d27629d820fee8b291801928180226aa234e3e3bc5\"",
-      "last_checked_at": "2026-11-03T02:42:05Z",
+      "last_checked_at": "2026-11-04T00:54:56Z",
       "has_hap": true
     },
     "EchoTechFE/devicekit": {
@@ -26531,8 +26531,8 @@
       "has_hap": false
     },
     "xiaoli8571/NekoBox4Harmony": {
-      "etag": "W/\"88874da1ab7c2be5081100133f56d198a544f7d4c18e5b2c7e5ba69b0a84e9c1\"",
-      "last_checked_at": "2026-11-03T03:40:49Z",
+      "etag": "W/\"c53f17b12a2dd6e2eb65fd409946b535624d6997dc659ce9f64b6d0f56117d9e\"",
+      "last_checked_at": "2026-11-04T00:56:57Z",
       "has_hap": true
     },
     "yewse/harmony-inkboard": {
@@ -26592,7 +26592,7 @@
     },
     "shihuan1999/ohos-apps": {
       "etag": "W/\"2d7ad30c6b4d1a85bad525ee7fb4cfcab5b34d2f9cfc0f95a9cc92ef070d6f6a\"",
-      "last_checked_at": "2026-11-03T03:04:35Z",
+      "last_checked_at": "2026-11-04T00:56:44Z",
       "has_hap": true
     },
     "toads/hap-resigner": {
@@ -26657,7 +26657,7 @@
     },
     "lky005/komari-harmonyos-client": {
       "etag": "W/\"d36724c222f94810a9b6485696dabb733110b819a75a008e76090c6c78a637ac\"",
-      "last_checked_at": "2026-11-03T02:58:57Z",
+      "last_checked_at": "2026-11-04T00:56:27Z",
       "has_hap": true
     },
     "moyunqinghe/harmonyos-bill": {
@@ -26697,12 +26697,12 @@
     },
     "Dou-art/jm": {
       "etag": "W/\"3e0f273691a885fadc254952556669979ef68d69de5770723795782136474c62\"",
-      "last_checked_at": "2026-11-03T02:42:29Z",
+      "last_checked_at": "2026-11-04T00:55:00Z",
       "has_hap": true
     },
     "Henry-Fox/OhosXray": {
-      "etag": "W/\"e5a2b905fac6059d70023699cb552b63f2110207573098673f9d46ab13cb78ad\"",
-      "last_checked_at": "2026-11-03T02:45:34Z",
+      "etag": "W/\"a6ec48cef80beab533d3fddd9400a6b931ff785b913ddc5042f425caae5b0364\"",
+      "last_checked_at": "2026-11-04T00:55:16Z",
       "has_hap": true
     },
     "Kian0034/miaohui": {
@@ -26732,7 +26732,7 @@
     },
     "xiaoli8571/SSRVPN_Harmony": {
       "etag": "W/\"06d074c401a803b9a5bf122d8b1068b43a75bd0328ef7e8f37aea453e76c121e\"",
-      "last_checked_at": "2026-11-03T03:40:50Z",
+      "last_checked_at": "2026-11-04T00:56:58Z",
       "has_hap": true
     },
     "yuanyu3/commute_scene_baseline": {
@@ -26776,8 +26776,8 @@
       "has_hap": false
     },
     "StartYR/CalculatorX": {
-      "etag": "W/\"282659e4e863023e9bcc060ae3183a2a3435e1d5686ffeb3774b54379e569fd8\"",
-      "last_checked_at": "2026-11-03T02:49:14Z",
+      "etag": "W/\"ff83488cffe28f61e8d886600ada3ef5a8b7306e07046f4daafd111a5746d9c8\"",
+      "last_checked_at": "2026-11-04T00:55:42Z",
       "has_hap": true
     },
     "hello-will90/openharmony-workspace": {
@@ -26806,8 +26806,8 @@
       "has_hap": false
     },
     "wanmeime/tailmesh": {
-      "etag": "W/\"fe295c9b1cce509ebb18d0b6e089841574c7b1638627228f48098efd1f3f355c\"",
-      "last_checked_at": "2026-11-03T03:40:02Z",
+      "etag": "W/\"adf582da144ada0121ea805ee7bb5f17fa32dda8fc02aaefee198d4a2ce262c6\"",
+      "last_checked_at": "2026-11-04T00:56:52Z",
       "has_hap": true
     },
     "725lizi/MindMap-HarmonyOS": {
@@ -26866,8 +26866,8 @@
       "has_hap": false
     },
     "mason173/aira-browser": {
-      "etag": "W/\"77901a3fe61667edb7907afa0ffbeca0e529ef38f604cf49a192349d27e1b402\"",
-      "last_checked_at": "2026-11-03T02:59:24Z",
+      "etag": "W/\"d957c3498afb5bc2eac1887616349e8c9a317bb03117acfb33e0a88e8397f7ab\"",
+      "last_checked_at": "2026-11-04T00:56:29Z",
       "has_hap": true
     },
     "ohos-python/ohos_thirdPart_capability_map": {
@@ -26972,7 +26972,7 @@
     },
     "zhonxinya/mybooks_ohos": {
       "etag": "W/\"e900dafa022b932803495373c436529ea6c59418a6ce19f452071ddd37df5958\"",
-      "last_checked_at": "2026-11-03T03:42:03Z",
+      "last_checked_at": "2026-11-04T00:57:04Z",
       "has_hap": true
     },
     "Abhi-Flex1/OpenTwit": {
@@ -27006,8 +27006,8 @@
       "has_hap": false
     },
     "TonyKingWJX/transharmony": {
-      "etag": "W/\"d250d111b60a14ebf93751c9141ca68f4d61a0fbcf8f737b1c7cf892c2ce98bc\"",
-      "last_checked_at": "2026-11-03T02:49:39Z",
+      "etag": "W/\"105ed1151b1ce54cba01ba2cb25b96fe1db7ba077103419bed0acfe3eca7ce2e\"",
+      "last_checked_at": "2026-11-04T00:55:46Z",
       "has_hap": true
     },
     "awaLiny2333/Harmomeow-Craft-Launcher": {
@@ -27071,8 +27071,8 @@
       "has_hap": false
     },
     "SnishaperTeam/lumine-for-harmonyos": {
-      "etag": "W/\"0a37a3f3b8844a0dec18651e89484b2de6ff016dd709d6ed33c63e19a618afb6\"",
-      "last_checked_at": "2026-11-03T02:49:06Z",
+      "etag": "W/\"4b3b2a734f1d2312d60a9a2e5bdf0c0a7821f071d49e57e63fe8e297ab07b462\"",
+      "last_checked_at": "2026-11-04T00:55:40Z",
       "has_hap": true
     },
     "Stephanyw-Haneyk/ohosfhv": {
@@ -27106,8 +27106,8 @@
       "has_hap": false
     },
     "richerfu/Paws": {
-      "etag": "W/\"28739032141f4e11b8927ff6f266d706061c421affe09920b7228f413e110872\"",
-      "last_checked_at": "2026-11-03T03:03:50Z",
+      "etag": "W/\"674b22f516ba2defa954e2bcac6a634b4f16b447ce3d497749fd58f764aba8af\"",
+      "last_checked_at": "2026-11-04T00:56:40Z",
       "has_hap": true
     },
     "snipergoga/ohospwo": {
@@ -27117,7 +27117,7 @@
     },
     "yearsyan/pixiv-ohos": {
       "etag": "W/\"cbdf4fd5850e92bb3eb8a8123229415354b5e14e35182a3c8729eec718d89dbe\"",
-      "last_checked_at": "2026-11-03T03:41:20Z",
+      "last_checked_at": "2026-11-04T00:57:01Z",
       "has_hap": true
     },
     "Changxin-YR/decision": {
@@ -27176,8 +27176,8 @@
       "has_hap": false
     },
     "thx853068675-dev/quietstart": {
-      "etag": "W/\"b581c63f4d9f9b319ee3efb8f054ac1b8e4d7f5f5c2c295986045b094ef0a385\"",
-      "last_checked_at": "2026-11-03T03:05:41Z",
+      "etag": "W/\"c2997f9d5e114a86162fa63ae7181bcce1381f682d78ad9882b29cd003831f0e\"",
+      "last_checked_at": "2026-11-04T00:56:49Z",
       "has_hap": true
     },
     "zhuhaozoo/FlyBrain-HarmonyOS": {
@@ -29302,7 +29302,7 @@
     },
     "zhonxinya/jellyfin_ohos": {
       "etag": "W/\"67518040f841dbd9483c4721f199bc9222a9cd561c78e7059a4b9298fc9a65eb\"",
-      "last_checked_at": "2026-11-03T03:42:03Z",
+      "last_checked_at": "2026-11-04T00:57:03Z",
       "has_hap": true
     },
     "022UGDW213/Harmony-OS-Next": {
@@ -29326,8 +29326,8 @@
       "has_hap": false
     },
     "TomoeMami/HomenaPod": {
-      "etag": "W/\"c6fd5e5daa6983675ae06e1667d4e558da912045627ba0b662271ed8e8f99eab\"",
-      "last_checked_at": "2026-11-03T02:49:38Z",
+      "etag": "W/\"3ba9eefe895abdb58af5bd1e56c623401f8d1dec2d9b508fffccc40a2df3ef9a\"",
+      "last_checked_at": "2026-11-04T00:55:45Z",
       "has_hap": true
     },
     "Turbo1123/Turbo-IO": {
@@ -29376,8 +29376,8 @@
       "has_hap": false
     },
     "1440196924/HX360E": {
-      "etag": "W/\"ee246de79fcfdbd8dfe3e34afa2ad6b26bb7665543589be8320866fd210873ff\"",
-      "last_checked_at": "2026-11-03T02:39:42Z",
+      "etag": "W/\"be6871e30efbacd857532d0366e3fbbd7737a28fda807e69541f613533b8ff7c\"",
+      "last_checked_at": "2026-11-04T00:54:42Z",
       "has_hap": true
     },
     "1dugumaze2/openharmony": {
@@ -29456,8 +29456,8 @@
       "has_hap": false
     },
     "a307608689-afk/TiebaPura": {
-      "etag": "W/\"dfe201ce73caf16a80201fd39b5987f369cda6316b87d5487d8d6d76083b9b11\"",
-      "last_checked_at": "2026-11-03T02:50:39Z",
+      "etag": "W/\"aab5b716011043b159017c232503c69b66ac8ecb8b1c3d5480e888639ac2ab1e\"",
+      "last_checked_at": "2026-11-04T00:55:54Z",
       "has_hap": true
     },
     "banxia-126/hexagram-lab": {
@@ -29536,8 +29536,8 @@
       "has_hap": false
     },
     "haohandc/MindustryArk": {
-      "etag": "W/\"87f19a3f9a04510ff636bff4287b7b5d4712a4847b86c19a2241a60514c34a8c\"",
-      "last_checked_at": "2026-11-03T02:55:27Z",
+      "etag": "W/\"09c593b267b50e008cb7f54f35fa4972ec56375ba5aeafb5e1ac0b3308938f2f\"",
+      "last_checked_at": "2026-11-04T00:56:14Z",
       "has_hap": true
     },
     "kshsjsjshskq-design/Horor": {
@@ -29591,8 +29591,8 @@
       "has_hap": false
     },
     "DandanLLab/mr": {
-      "etag": "W/\"f7366374c107f0ca829239a9638cf04a95c5287f992c1aec08557fde003f9b9a\"",
-      "last_checked_at": "2026-11-03T02:42:21Z",
+      "etag": "W/\"f0ffb2a4b304d25801ebce5c46e6dbfb6347c47863044b29fa1141e2c3a8cd6d\"",
+      "last_checked_at": "2026-11-04T00:54:59Z",
       "has_hap": true
     },
     "INV-23596203029623/payment-updates-ohos19en": {
@@ -29601,8 +29601,8 @@
       "has_hap": false
     },
     "MrCashmere/miha_hm": {
-      "etag": "W/\"c7009a04397725115d276ec5899e26524308c669efad0a31a446c2479542c568\"",
-      "last_checked_at": "2026-11-03T02:47:23Z",
+      "etag": "W/\"fcf53edaa0878ede588352d167b6f842c36c8afb0aecd8dd483a9a37494f1e3a\"",
+      "last_checked_at": "2026-11-04T00:55:28Z",
       "has_hap": true
     },
     "Rayawa/dashboard": {
@@ -29611,8 +29611,8 @@
       "has_hap": false
     },
     "Sle2p/AniCh": {
-      "etag": "W/\"86d8d688efb73830afefe3e3ad425a181641137314d398e6f54ca850616d3cc3\"",
-      "last_checked_at": "2026-11-03T02:49:03Z",
+      "etag": "W/\"20ed07cb5f168dc3efb919d749fffb2676a0a7d32e3a621819ea3054eaf83937\"",
+      "last_checked_at": "2026-11-04T00:55:40Z",
       "has_hap": true
     },
     "Zinnober02/texlive-ohos": {
@@ -29621,13 +29621,13 @@
       "has_hap": false
     },
     "erosTeam/NextN": {
-      "etag": "W/\"35dd94fdec301eefa1381c86a66fd7544e35fbb2b81d8e01de242724e2ec8cf5\"",
-      "last_checked_at": "2026-11-03T02:54:10Z",
+      "etag": "W/\"6c220bace726104042b36a1ed67aadbac54226149ac142b0c2b9a921a0af2981\"",
+      "last_checked_at": "2026-11-04T00:56:09Z",
       "has_hap": true
     },
     "haohaoai0/HarmonyX": {
-      "etag": "W/\"ae50437beaef943f89c4bf181b6add5603e1c4927fada8d6a4b6ae84da8257dc\"",
-      "last_checked_at": "2026-11-03T02:55:28Z",
+      "etag": "W/\"0473c01314cc736e5c426c959afa9f1cd5208a8660c5e1f53db287f1dafad219\"",
+      "last_checked_at": "2026-11-04T00:56:15Z",
       "has_hap": true
     },
     "mufeng661/qingfan_HarmonyOs": {
@@ -29651,8 +29651,8 @@
       "has_hap": false
     },
     "zhuoyi233/zhihu-plus-plus-HMOS": {
-      "etag": "W/\"5b7f38be3d9762041cf09b57de78e19345b00139f80bf26ad21b7f371f7f0fb8\"",
-      "last_checked_at": "2026-11-03T03:42:08Z",
+      "etag": "W/\"2d38de66aae42642112862d3749fb75b9b1584a9402d9c6e8012a17ee482d920\"",
+      "last_checked_at": "2026-11-04T00:57:04Z",
       "has_hap": true
     },
     "2doright/airslate-pc-server": {
@@ -29692,12 +29692,12 @@
     },
     "ljq123ok/Hps2": {
       "etag": "W/\"41552edbdaa8540169ab47089aaff93e0de6e17ccb91c93844ba057498feb6ad\"",
-      "last_checked_at": "2026-11-03T02:58:56Z",
+      "last_checked_at": "2026-11-04T00:56:27Z",
       "has_hap": true
     },
     "metasequoiaime/msime": {
-      "etag": "W/\"cecccdd2582439da4e45aa8e4d1aaf3c6bed64eee0c34783ce5aed77f01b16c8\"",
-      "last_checked_at": "2026-11-03T02:59:33Z",
+      "etag": "W/\"62cc157cdb11ddaf47afffc4cecdb37f256c09b78f9173a1f92bd4b40446b517\"",
+      "last_checked_at": "2026-11-04T00:56:30Z",
       "has_hap": true
     },
     "ohos-rs/gpui-ohos": {
@@ -29721,8 +29721,8 @@
       "has_hap": false
     },
     "wuwu888/HarmoTail-Releases": {
-      "etag": "W/\"ecf58a5a01baf9f8fb5974b38004441a3eeeb6827f92bbb3c2405c95598888ad\"",
-      "last_checked_at": "2026-11-03T03:40:34Z",
+      "etag": "W/\"b7ecfeb6ffae9f423e890204e1df6774547a714962feb640704a5ebed9d42b36\"",
+      "last_checked_at": "2026-11-04T00:56:55Z",
       "has_hap": true
     },
     "wuwu888/harmotail-harmonyos": {
@@ -29731,8 +29731,8 @@
       "has_hap": false
     },
     "Abhi-Flex1/OpenTwit-Web": {
-      "etag": "W/\"97ac1b0a43809cf6ade1a32d7e266131561625844b90d8efd53569541d97878c\"",
-      "last_checked_at": "2026-11-03T02:40:14Z",
+      "etag": "W/\"591e7f64d78f73b696e2e887948ae0507c7fc5cf96c4b7cf7735dfdd6bb46e94\"",
+      "last_checked_at": "2026-11-04T00:54:45Z",
       "has_hap": true
     },
     "Apollo465/pethome": {
@@ -29762,7 +29762,7 @@
     },
     "YuanChu-Tec/HMTG_Archive": {
       "etag": "W/\"7ba92aac69a9c52baebc7a3572cf5ed7f59a15da8bb6611b13bffac0ca136f82\"",
-      "last_checked_at": "2026-11-03T02:50:24Z",
+      "last_checked_at": "2026-11-04T00:55:52Z",
       "has_hap": true
     },
     "alvarezsusan63/ohosgn": {
@@ -29777,7 +29777,7 @@
     },
     "atengk/Ateng-Flutter": {
       "etag": "W/\"c664bf7070f479e546795fe76b96b4afc33410f75fb027b6ec8c133938991e37\"",
-      "last_checked_at": "2026-11-03T02:51:38Z",
+      "last_checked_at": "2026-11-04T00:55:56Z",
       "has_hap": true
     },
     "dwexva70b3/ohoslk": {
@@ -29827,12 +29827,12 @@
     },
     "qbw101/watch-client": {
       "etag": "W/\"07e939c881482958fa43a1a6961e74680654ea37288aec5522ba1eac70e4d7ad\"",
-      "last_checked_at": "2026-11-03T03:03:21Z",
+      "last_checked_at": "2026-11-04T00:56:38Z",
       "has_hap": true
     },
     "AriaLEntropy/KuiklyNotification": {
       "etag": "W/\"2f36d2b5ebf1e6d39e937279db5263afb253eaa9c56c3cc70197665ee80884b8\"",
-      "last_checked_at": "2026-11-03T02:41:21Z",
+      "last_checked_at": "2026-11-04T00:54:51Z",
       "has_hap": true
     },
     "EPOTATOTV/PACC4_0": {
@@ -29927,17 +29927,17 @@
     },
     "mmcc65/word-assistant": {
       "etag": "W/\"7abf4160b8ac85c99bda276b5eddfeeec72ce078e2899a58c9b6f7c32272add9\"",
-      "last_checked_at": "2026-11-03T02:59:49Z",
+      "last_checked_at": "2026-11-04T00:56:32Z",
       "has_hap": true
     },
     "Abhi-Flex1/OHEmacs": {
       "etag": "W/\"4dddbeceb246d8898febbbd867ef5bfbc95b75766133b13844bc8cfb22545f3d\"",
-      "last_checked_at": "2026-11-03T02:40:13Z",
+      "last_checked_at": "2026-11-04T00:54:45Z",
       "has_hap": true
     },
     "muleos/c001apk-ohos-releases": {
-      "etag": "W/\"f839504443d5c8b0fb6b9c49543d3e483b07a4a85718891aae2d48050b188676\"",
-      "last_checked_at": "2026-11-03T03:00:02Z",
+      "etag": "W/\"737d65b3b0649fe7d041fa6a80ca020a15209749b5e01f38fa418ace7ef7c846\"",
+      "last_checked_at": "2026-11-04T00:56:33Z",
       "has_hap": true
     },
     "ohos-python/ohos_ai_shell": {
@@ -29961,8 +29961,8 @@
       "has_hap": false
     },
     "LMV475/hap-installer": {
-      "etag": "W/\"f956e497f41beadc6be687ba0b0434eec198121c3ddca7754dd737b539a0570b\"",
-      "last_checked_at": "2026-11-03T02:46:29Z",
+      "etag": "W/\"5e10c6557653f65688519243c6d77f62c091b57aa928ee9c02f05beb1b3905f6\"",
+      "last_checked_at": "2026-11-04T00:55:20Z",
       "has_hap": true
     },
     "QZzwj/F103RCT6_OHOS6": {
@@ -29977,7 +29977,7 @@
     },
     "XiaoLuoLYG/beegent": {
       "etag": "W/\"94ddff510f8dc35f0e09e43eed5bd258462dbfa4478c7166273ac9212a88e505\"",
-      "last_checked_at": "2026-11-03T02:50:08Z",
+      "last_checked_at": "2026-11-04T00:55:51Z",
       "has_hap": true
     },
     "diana9905454/OronBox-Lite": {
@@ -30036,13 +30036,13 @@
       "has_hap": false
     },
     "SYTKILLER/PixLume": {
-      "etag": "W/\"ebe5109767ee4faef4a33d7255bd3e604fb5ee03c5ee8bef67801491435ce2ff\"",
-      "last_checked_at": "2026-11-03T02:48:49Z",
+      "etag": "W/\"ebb020806d65a01ce603d26b931e463b3fc440c2bd0140afc0ff1c9f78ffc580\"",
+      "last_checked_at": "2026-11-04T00:55:38Z",
       "has_hap": true
     },
     "ZM-BAD/arkcat": {
       "etag": "W/\"33276c797318660047d489cedcad8bf2ee2afbd175f3f9532c584dafaf40a7ca\"",
-      "last_checked_at": "2026-11-03T02:50:31Z",
+      "last_checked_at": "2026-11-04T00:55:54Z",
       "has_hap": true
     },
     "c3h3-ci/ha-huawei-router": {
@@ -30097,7 +30097,7 @@
     },
     "chen-m5/dsh-harmony": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-31T00:14:55Z",
+      "last_checked_at": "2026-11-04T00:56:01Z",
       "has_hap": false
     },
     "chenjh16/HarmonyOS-Claude-Code": {
@@ -30106,13 +30106,13 @@
       "has_hap": false
     },
     "dgh1818/immich_ohos": {
-      "etag": "W/\"df83afdb6198dd0c645c0267a73961c818e34f585c6cbe1f93a9328054d44eb2\"",
-      "last_checked_at": "2026-11-03T02:53:30Z",
+      "etag": "W/\"5c1b201f2f70ec6bb3cd211296df7c9cb43b1a74915ac574e680b0a5a3974093\"",
+      "last_checked_at": "2026-11-04T00:56:06Z",
       "has_hap": true
     },
     "miramira8295/Petrelgram": {
-      "etag": "W/\"447f241b90237340334e96f26727d3775d0d9b52cfb1da3b1f825145af81cec6\"",
-      "last_checked_at": "2026-11-03T02:59:45Z",
+      "etag": "W/\"6e568ca6273b6322b2d7f97a4551f67af61fa132e952cdaadd61f5d5991a368e\"",
+      "last_checked_at": "2026-11-04T00:56:32Z",
       "has_hap": true
     },
     "rootrd/csgo-ohos": {
@@ -30167,12 +30167,12 @@
     },
     "dakkidaze/michomo": {
       "etag": "W/\"d805d666af89f975040c0d86e339f7e52eec94574dd191e836e09214e14ee221\"",
-      "last_checked_at": "2026-11-03T02:53:14Z",
+      "last_checked_at": "2026-11-04T00:56:04Z",
       "has_hap": true
     },
     "dev4harmony/PiliNara": {
-      "etag": "W/\"8f19f666817de38501c30013058d40579e55c15375f80912fd143f718bb96484\"",
-      "last_checked_at": "2026-11-03T02:53:26Z",
+      "etag": "W/\"6835c5909ff40e4caef316f0df58ed04bffa1999ec176df97ccd3f8cf7becdc9\"",
+      "last_checked_at": "2026-11-04T00:56:05Z",
       "has_hap": true
     },
     "dl1w1vojpi/ohos": {
@@ -30226,18 +30226,18 @@
       "has_hap": false
     },
     "yuanbaobaoo/zcode-ohos": {
-      "etag": "W/\"eafbf9532baacdb7a725592fd3e9880d4ada29525c959bc88d625cd73fd05031\"",
-      "last_checked_at": "2026-11-03T03:41:37Z",
+      "etag": "W/\"8dd6a7481085d9de01d8ad35de94f5a6882773f412519d6900fd07b94ee6d954\"",
+      "last_checked_at": "2026-11-04T00:57:01Z",
       "has_hap": true
     },
     "BOT-K4CP3R/wisp-gym": {
-      "etag": "W/\"799c56454028cf5f2fab849463ea87ad4c161367b3baa081a5d8d439da13bf43\"",
-      "last_checked_at": "2026-11-03T02:41:28Z",
+      "etag": "W/\"2640f7351f740841d366cae505829d959e11fa5d35eb5b123bff942550f3e2ff\"",
+      "last_checked_at": "2026-11-04T00:54:52Z",
       "has_hap": true
     },
     "ElmGates/Homeassistant-APP-For-HarmonyOS-Watch": {
       "etag": "W/\"e0cc3fd0e0922af81895cc99dc9ef2217d38d4a50df4e8c7bbd96e4aa9b7e69d\"",
-      "last_checked_at": "2026-11-03T02:42:39Z",
+      "last_checked_at": "2026-11-04T00:55:02Z",
       "has_hap": true
     },
     "Ghroth6/clashbox-go": {
@@ -30246,8 +30246,8 @@
       "has_hap": false
     },
     "HU-WEITAO/EchoMusic_OHOS": {
-      "etag": "W/\"743605b014f6cdddf5bc9fb0522f051ba3bcd159ed89325963dbc3079941677d\"",
-      "last_checked_at": "2026-11-03T02:44:53Z",
+      "etag": "W/\"f5f48ae0bc3eb5909365444bced03fc62c7a4709f919547bc613f7f064795ca1\"",
+      "last_checked_at": "2026-11-04T00:55:12Z",
       "has_hap": true
     },
     "QQ1517146725/url2hap": {
@@ -30261,8 +30261,8 @@
       "has_hap": false
     },
     "muleos/collection_ohos": {
-      "etag": "W/\"d2ce13a067491d6a0b306548e5f272db7997f9d8ddb9b12291afeb716da9ca31\"",
-      "last_checked_at": "2026-11-03T03:00:03Z",
+      "etag": "W/\"32f9af9b35251ceeabb6a343153bf9285ad2f23bb5c666f763b9bf7013d2ad56\"",
+      "last_checked_at": "2026-11-04T00:56:33Z",
       "has_hap": true
     },
     "salihoglueyup/PulseOPS": {
@@ -30297,12 +30297,12 @@
     },
     "Junk-debug/vision-assist": {
       "etag": "W/\"6e2eeb473c56bc9b1b99b874d0ae41421985c1e028404fed5d7e31b657d7665c\"",
-      "last_checked_at": "2026-11-03T02:46:13Z",
+      "last_checked_at": "2026-11-04T00:55:19Z",
       "has_hap": true
     },
     "LovelyFlash/JMComic-HarmonyOS": {
-      "etag": "W/\"4d1c4e04e82a9877097325363698fdeb9a2c2247237edb8a5fadcb5c40f4de18\"",
-      "last_checked_at": "2026-11-03T02:46:54Z",
+      "etag": "W/\"7730bc9821c5d913961e8d8d132d233e21fd4fe187b114996ccb822fbda1fbd6\"",
+      "last_checked_at": "2026-11-04T00:55:25Z",
       "has_hap": true
     },
     "MrCashmere/HarmonyOS_ArkUI_Demo_API26": {
@@ -30347,12 +30347,12 @@
     },
     "LinuxSuRen/ohos-ipcam-streamer": {
       "etag": "W/\"ebfad2851fc88e91bba67605731764069a9af89892abe4317c40938ab4f67c86\"",
-      "last_checked_at": "2026-11-03T02:46:48Z",
+      "last_checked_at": "2026-11-04T00:55:23Z",
       "has_hap": true
     },
     "MrCashmere/hyoushe": {
-      "etag": "W/\"6fba0c5bef72942b05bc5302fc5f19e968a13babbfa95dc425b1eadadd6c0013\"",
-      "last_checked_at": "2026-11-03T02:47:22Z",
+      "etag": "W/\"1583868d0efb9f8492fc3c81dcecafe8f7a2191fbb6f563d7c9351b84b6ecfa8\"",
+      "last_checked_at": "2026-11-04T00:55:28Z",
       "has_hap": true
     },
     "aaqunar-a11y/openharmony-sig-fluttertpc_camerawesome": {
@@ -30371,8 +30371,8 @@
       "has_hap": false
     },
     "dakkidaze/mangacopy-ohos": {
-      "etag": "W/\"6ad13a753f3380fc3b51429816ab99d1109abad9365fb9a886134726be2c063e\"",
-      "last_checked_at": "2026-11-03T02:53:14Z",
+      "etag": "W/\"71cb4ee3e6f4cc345b0468c6a1cd998222f1a376d54dcd52bbbe28592679e9be\"",
+      "last_checked_at": "2026-11-04T00:56:04Z",
       "has_hap": true
     },
     "f96xv7eu/ohos": {
@@ -30382,7 +30382,7 @@
     },
     "fgsq-team/LANShare-Harmony": {
       "etag": "W/\"6cd4fff8a48c1264d6819b3f83412db23a6987355e1d293b4458a50ec31a5794\"",
-      "last_checked_at": "2026-11-03T02:54:33Z",
+      "last_checked_at": "2026-11-04T00:56:12Z",
       "has_hap": true
     },
     "hnmrxz/deepseek-harness-desktop-HarmonyOS": {
@@ -30406,13 +30406,13 @@
       "has_hap": false
     },
     "muleos/soutu_ohos": {
-      "etag": "W/\"879c8164820c15172fd7595df6ecafe9b839087451baa7f09425a60147cd6c91\"",
-      "last_checked_at": "2026-11-03T03:00:04Z",
+      "etag": "W/\"a9c9ae125459fad4667b631358898e9ba548b26cd2881edc2e39d8db35d0bd52\"",
+      "last_checked_at": "2026-11-04T00:56:34Z",
       "has_hap": true
     },
     "suyunxing/NeriPlayer-HarmonyOS": {
-      "etag": "W/\"607fe821416297bcbe29d34fa0caf2e9fb2f4ed71d1e6597d8a8a424903ad28d\"",
-      "last_checked_at": "2026-11-03T03:05:22Z",
+      "etag": "W/\"8955cbaad77bfef1cb392a3a9510e9d35f81019401bc2bf95a651a8926794ffc\"",
+      "last_checked_at": "2026-11-04T00:56:48Z",
       "has_hap": true
     },
     "zeankundev/HMOSLarp": {
@@ -30532,7 +30532,7 @@
     },
     "abookkkk/WRT": {
       "etag": "W/\"281a3fe3729d07b46dfdcaf5990128d0305e1defc81ca500558ed015c4063175\"",
-      "last_checked_at": "2026-11-03T02:50:48Z",
+      "last_checked_at": "2026-11-04T00:55:55Z",
       "has_hap": true
     },
     "fanyunchen/FilmCamera": {
@@ -30567,7 +30567,7 @@
     },
     "yuyayolin/crush-bench": {
       "etag": "W/\"d1b4f6770ebacdd09b834dd18ddd88e9f65dfe9290719972500dd1c27f86d421\"",
-      "last_checked_at": "2026-11-03T03:41:43Z",
+      "last_checked_at": "2026-11-04T00:57:01Z",
       "has_hap": true
     },
     "Explore-In-HMOS-Wearable/how-to-access-system-gallery-on-kids-watch": {
@@ -30696,8 +30696,8 @@
       "has_hap": false
     },
     "Tlntin/home-cloud-shield": {
-      "etag": "W/\"9a68647a14f5e09d7241fb0ff3ad1bd3daee7ef9a06df53ee923b5d88cd841fa\"",
-      "last_checked_at": "2026-11-03T02:49:36Z",
+      "etag": "W/\"deda87393863b93d3b1639e09ce753a5b8333210e239073a921651706f75b511\"",
+      "last_checked_at": "2026-11-04T00:55:45Z",
       "has_hap": true
     },
     "aaqunar-a11y/openharmony-sig-ohos_apng": {
@@ -30766,8 +30766,8 @@
       "has_hap": false
     },
     "xxz-0308/lumen-harmony": {
-      "etag": "W/\"75cabf0f232e90ac8e472dbaaeb69f60b97183a00ce881c6e5ae4b10b0d65ef2\"",
-      "last_checked_at": "2026-11-03T03:41:08Z",
+      "etag": "W/\"2080aee635726cc0f9245112a02d739043769ee419e28b5bc335170d2110ee24\"",
+      "last_checked_at": "2026-11-04T00:56:59Z",
       "has_hap": true
     },
     "zhongdaiqi/flutter-ohos-app-template": {
@@ -30807,7 +30807,7 @@
     },
     "SYTKILLER/Cimoc": {
       "etag": "W/\"835ce401b9a6a3520a3a45989718083e6a4c571cd2e19f197eb6ad20af672baf\"",
-      "last_checked_at": "2026-11-03T02:48:48Z",
+      "last_checked_at": "2026-11-04T00:55:37Z",
       "has_hap": true
     },
     "Sutee-Seesing/MindustryArk": {
@@ -30926,8 +30926,8 @@
       "has_hap": false
     },
     "zhubowen-bot/Guncat-Work-for-hmos": {
-      "etag": "W/\"f97a794c545802bd9559fe24238e77fe69c6a9d960c6fcaae28f2de80604e45b\"",
-      "last_checked_at": "2026-11-03T03:42:06Z",
+      "etag": "W/\"2e68a8def694016812a5b8113c0b997a87637f733dfaf5144493c9155e53f99a\"",
+      "last_checked_at": "2026-11-04T00:57:04Z",
       "has_hap": true
     },
     "zhuhaozoo/harmonyos-3d-wallpaper": {
@@ -30967,7 +30967,7 @@
     },
     "ZzXy47/maw-kg": {
       "etag": "W/\"cca861855e26a70ab3c995891717fe7a1428a4b35e11411e823b42d975e093c3\"",
-      "last_checked_at": "2026-10-31T00:13:11Z",
+      "last_checked_at": "2026-11-04T00:55:54Z",
       "has_hap": false
     },
     "aaqunar-a11y/openharmony-sig-applications_inputmethod": {
@@ -31006,8 +31006,8 @@
       "has_hap": false
     },
     "zhisibi/clash-dashboard-ho": {
-      "etag": "W/\"2c837da6b53177160969cba651db28752e6920ac4ef3d91a62b2c55c566ed9da\"",
-      "last_checked_at": "2026-11-03T03:42:00Z",
+      "etag": "W/\"2b005af9a06962f0f118e8b64bd0610ebcc4004c97ce43cc49298443e56966b5\"",
+      "last_checked_at": "2026-11-04T00:57:03Z",
       "has_hap": true
     },
     "97128785/arkts-triage-mcp": {
@@ -31037,7 +31037,7 @@
     },
     "Keanu2/MiniPC": {
       "etag": "W/\"fe47ad40f1b73dc7f76103a0d60be392da804da659b935771798299487e4ab14\"",
-      "last_checked_at": "2026-11-03T02:46:16Z",
+      "last_checked_at": "2026-11-04T00:55:19Z",
       "has_hap": true
     },
     "QiaoBie324/ohos-ohos": {
@@ -31076,8 +31076,8 @@
       "has_hap": false
     },
     "erosTeam/NextE": {
-      "etag": "W/\"510c0aff1dfecae94b47009afc49c4c615dfecea0b82709ab8fc1f61f4aa3446\"",
-      "last_checked_at": "2026-11-03T02:54:09Z",
+      "etag": "W/\"875a4745a16965d61cc940742b31e1e3bfc25de5196de86cf853f2f95c0555cf\"",
+      "last_checked_at": "2026-11-04T00:56:08Z",
       "has_hap": true
     },
     "fellow99/pi-workspace": {
@@ -31091,8 +31091,8 @@
       "has_hap": false
     },
     "k-brother/lx-music-harmony": {
-      "etag": "W/\"ee00dc26017df59b1b8ccbd608be2012801253e6be70c9c630ec2c4c62332907\"",
-      "last_checked_at": "2026-11-03T02:57:48Z",
+      "etag": "W/\"fe45dcfaae647ab2ac7a9f334ff3f06b66bc4e6e242cad95000e433190db7971\"",
+      "last_checked_at": "2026-11-04T00:56:22Z",
       "has_hap": true
     },
     "lij768423-svg/408-for-harmony": {
@@ -31102,7 +31102,7 @@
     },
     "likee-Evernight/float-VisualPhone-for-harmony": {
       "etag": "W/\"544dc8c37fc728a9c9b6354fefc2aa17eddb3ba8e1db3e9eeb7b01cc64f91172\"",
-      "last_checked_at": "2026-11-03T02:58:36Z",
+      "last_checked_at": "2026-11-04T00:56:25Z",
       "has_hap": true
     },
     "mengde-tu/dsh-inspire-harness-on-harmonyos6": {
@@ -31121,18 +31121,18 @@
       "has_hap": false
     },
     "sis5595/hipda-oh": {
-      "etag": "W/\"8562b30e24599e2151122c8e9a95f9c852e5eabb4c752fc03b605fe662e92fd3\"",
-      "last_checked_at": "2026-11-03T03:04:47Z",
+      "etag": "W/\"66df67d46d2274a80e4e48b47a2ac9b6ed0af1d46115e9774a7554bdd1b8a0e9\"",
+      "last_checked_at": "2026-11-04T00:56:45Z",
       "has_hap": true
     },
     "xyuuii/linuxdo-harmony": {
       "etag": "W/\"d3684b7febf150735a50b8f1b505ac8008b7395852e473a49c149bd3b76e3695\"",
-      "last_checked_at": "2026-11-03T03:41:09Z",
+      "last_checked_at": "2026-11-04T00:56:59Z",
       "has_hap": true
     },
     "FengHDSL/LiteMdReader-HarmonyOS": {
-      "etag": "W/\"9f156f6664e5738e50e61bccc39f3f1f1ecb796486b635543b4dd9136b46ffab\"",
-      "last_checked_at": "2026-11-03T02:44:23Z",
+      "etag": "W/\"f9b376bbbaf4e82778767e440a3889b5dd93516c034274bc1d4d8a0d33791199\"",
+      "last_checked_at": "2026-11-04T00:55:08Z",
       "has_hap": true
     },
     "JohnnnyTang/harmonyos-dev-skills": {
@@ -31296,8 +31296,8 @@
       "has_hap": false
     },
     "fangzhouxiaohai/seal-office": {
-      "etag": "W/\"f3b86e0cad37b305b48e630789b00bed70faafc1aa1f09c7d011772d8ce780e2\"",
-      "last_checked_at": "2026-11-03T02:54:18Z",
+      "etag": "W/\"295ca7096137eda462e4ac23e3b9c9fccf9cd8fb1d034751f8b28c1c88304f84\"",
+      "last_checked_at": "2026-11-04T00:56:09Z",
       "has_hap": true
     },
     "hua4731/HarmonyTG": {
@@ -31321,8 +31321,8 @@
       "has_hap": true
     },
     "qitinyu/MuWan": {
-      "etag": "W/\"f5f8d0ec5fe45b35d0374beaf50c1489d5df9b81f06ced3f2a2227454a952539\"",
-      "last_checked_at": "2026-11-03T03:03:29Z",
+      "etag": "W/\"8d3e4e39ba93ca6f6fad3e681b09387a36d72532227e4a0a9ef162e653a95a64\"",
+      "last_checked_at": "2026-11-04T00:56:39Z",
       "has_hap": true
     },
     "richerfu/arkdown": {
@@ -31336,8 +31336,8 @@
       "has_hap": false
     },
     "shuhuang-1/gt4-ebook-reader": {
-      "etag": "W/\"ebdbc9a68c7b0e8f18d7de9007c192a9b2a99489baeb53b1268df692f589c264\"",
-      "last_checked_at": "2026-11-03T03:04:42Z",
+      "etag": "W/\"3c5d283aee4c79bc32706f06e9f762ed664f12120d89ad510957938b449f7343\"",
+      "last_checked_at": "2026-11-04T00:56:44Z",
       "has_hap": true
     },
     "solplum/yunkai": {
@@ -31347,7 +31347,7 @@
     },
     "springtwr/HandySend": {
       "etag": "W/\"f9c9035d382bb4d5473fb8c822c48a1a389386cb3de7e7f391a88e3f66247fb6\"",
-      "last_checked_at": "2026-11-03T03:05:07Z",
+      "last_checked_at": "2026-11-04T00:56:46Z",
       "has_hap": true
     },
     "springtwr/harmonyos-clt": {
@@ -31432,7 +31432,7 @@
     },
     "Explore-In-HMOS/beacon-based-attendance": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-31T00:07:17Z",
+      "last_checked_at": "2026-11-04T00:55:04Z",
       "has_hap": false
     },
     "Explore-In-HMOS/bilingual-phrasebook": {
@@ -31722,7 +31722,7 @@
     },
     "Explore-In-HMOS/how-to-build-2d-path-engine": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-31T00:07:28Z",
+      "last_checked_at": "2026-11-04T00:55:04Z",
       "has_hap": false
     },
     "Explore-In-HMOS/how-to-build-3d-post-processing": {
@@ -31867,12 +31867,12 @@
     },
     "Explore-In-HMOS/how-to-build-gesture-drill-board": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-31T00:07:33Z",
+      "last_checked_at": "2026-11-04T00:55:04Z",
       "has_hap": false
     },
     "Explore-In-HMOS/how-to-build-gesture-engine": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-31T00:07:33Z",
+      "last_checked_at": "2026-11-04T00:55:05Z",
       "has_hap": false
     },
     "Explore-In-HMOS/how-to-build-insight-intent": {
@@ -32157,7 +32157,7 @@
     },
     "Explore-In-HMOS/how-to-implement-fft": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-31T00:07:42Z",
+      "last_checked_at": "2026-11-04T00:55:05Z",
       "has_hap": false
     },
     "Explore-In-HMOS/how-to-implement-huks-attestation": {
@@ -32212,7 +32212,7 @@
     },
     "Explore-In-HMOS/how-to-make-light-bulb-game": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-11-01T23:56:43Z",
+      "last_checked_at": "2026-11-04T00:55:05Z",
       "has_hap": false
     },
     "Explore-In-HMOS/how-to-make-timed-random-number": {
@@ -32362,7 +32362,7 @@
     },
     "Explore-In-HMOS/how-to-use-theme": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-31T00:07:51Z",
+      "last_checked_at": "2026-11-04T00:55:06Z",
       "has_hap": false
     },
     "Explore-In-HMOS/how-to-use-uiability-lifecycle": {
@@ -32432,7 +32432,7 @@
     },
     "Explore-In-HMOS/meet-by-near-link": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-31T00:07:54Z",
+      "last_checked_at": "2026-11-04T00:55:07Z",
       "has_hap": false
     },
     "Explore-In-HMOS/meet-point": {
@@ -32847,7 +32847,7 @@
     },
     "Explore-In-HMOS/sportwatch-lynk-puzzle": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-31T00:08:13Z",
+      "last_checked_at": "2026-11-04T00:55:07Z",
       "has_hap": false
     },
     "Explore-In-HMOS/sportwatch-moveo": {
@@ -33012,7 +33012,7 @@
     },
     "Explore-In-HMOS/wear-call": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-11-01T23:57:17Z",
+      "last_checked_at": "2026-11-04T00:55:08Z",
       "has_hap": false
     },
     "Explore-In-HMOS/wear-engine-hmos-next-wearable-to-phone": {
@@ -33096,8 +33096,8 @@
       "has_hap": false
     },
     "FluxMind-O/Hupu_Luna": {
-      "etag": "W/\"6a55cef792a21338efb16987791891e3c26909011d0b3f8c4ab435703e502060\"",
-      "last_checked_at": "2026-11-03T02:44:29Z",
+      "etag": "W/\"28ef32e4abea8fa6e1b7cae667e28b082400b3a27acfe175504563b77233a6e3\"",
+      "last_checked_at": "2026-11-04T00:55:09Z",
       "has_hap": true
     },
     "GHchenjingqi/RNBuildStudio": {
@@ -33112,17 +33112,17 @@
     },
     "SinCircle/gkdonline": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-31T00:11:44Z",
+      "last_checked_at": "2026-11-04T00:55:39Z",
       "has_hap": false
     },
     "Starfie1d1272/Cexing": {
-      "etag": "W/\"7e0ae38d04bc689803f74dbfd1a6cf681119d4ca54b9107d4bed9a3ce267b98d\"",
-      "last_checked_at": "2026-11-03T02:49:14Z",
+      "etag": "W/\"c05d5147f410a46f7f8554f11d0f91928daa4a25fb572786dd7f5ad8bb9d78b9\"",
+      "last_checked_at": "2026-11-04T00:55:41Z",
       "has_hap": true
     },
     "XCxyTianQ/CeruLean": {
       "etag": "W/\"fcfe000bfb5b661065590ccc09b509b75fbaca33be7338e2b4331f01f1420957\"",
-      "last_checked_at": "2026-10-31T00:12:37Z",
+      "last_checked_at": "2026-11-04T00:55:49Z",
       "has_hap": false
     },
     "catoncat/d2r-port-radar": {
@@ -33292,7 +33292,7 @@
     },
     "Rocktier/Rock-Reader": {
       "etag": "W/\"b450e4d5f6b524599e6bf1772ce318adef59096b4cfe069b07068c5ee76d5ac4\"",
-      "last_checked_at": "2026-11-03T02:48:37Z",
+      "last_checked_at": "2026-11-04T00:55:34Z",
       "has_hap": true
     },
     "SouthAki/Qianfan-v2-HarmonyOS": {
@@ -33441,8 +33441,8 @@
       "has_hap": false
     },
     "Lobing11/musehroom": {
-      "etag": "W/\"d746fba4deb1f19d3c3e664c72288a6c3c833065a20779da1e5fedd2b217217f\"",
-      "last_checked_at": "2026-11-03T02:46:52Z",
+      "etag": "W/\"9d8d3a387efd8b7e631b020619a94f5565253ec3d6355df8611397417fbf8b3b\"",
+      "last_checked_at": "2026-11-04T00:55:24Z",
       "has_hap": true
     },
     "Redminote11tech/Hisuite-For-Linux": {
@@ -33451,8 +33451,8 @@
       "has_hap": false
     },
     "ShiYi070415/Instamony": {
-      "etag": "W/\"c57da9eb2276aab061d2c24e3834fdda8157647dae6e7c4896dd1a05a57d79b9\"",
-      "last_checked_at": "2026-11-03T02:48:57Z",
+      "etag": "W/\"26f727ec28f19e07739b51ee32fd2cf09d0259a03278ff6f75e91f40b3391018\"",
+      "last_checked_at": "2026-11-04T00:55:39Z",
       "has_hap": true
     },
     "aicaibucai/ohos_lubancat4": {
@@ -33466,8 +33466,8 @@
       "has_hap": false
     },
     "being123321/sing-box-for-harmonyos": {
-      "etag": "W/\"27c75277017cf9a0d297f22d9f375e0f56d9a840e0b300df647ebe133014c509\"",
-      "last_checked_at": "2026-11-03T02:52:00Z",
+      "etag": "W/\"6738cf59544f7e3e3e7078581ba869e7bf4844d766ec988386a9072250582d86\"",
+      "last_checked_at": "2026-11-04T00:55:59Z",
       "has_hap": true
     },
     "holycloud/HarmonyOS_Start_UI": {
@@ -33621,8 +33621,8 @@
       "has_hap": false
     },
     "MinamiJogen/HarmonyOS-GTA-V": {
-      "etag": "W/\"02bf6963e13931da49331bbf7fb6185afff188e6e444f081483216f472df8b4b\"",
-      "last_checked_at": "2026-11-03T02:47:15Z",
+      "etag": "W/\"0a9786b66d2ad599ebdae042c72950760fae5c9143ba0c7bb26d02e7dd79eb8b\"",
+      "last_checked_at": "2026-11-04T00:55:27Z",
       "has_hap": true
     },
     "MondayYYDS/palm-njupt-phone": {
@@ -33681,13 +33681,13 @@
       "has_hap": false
     },
     "htoay/Bettbox": {
-      "etag": "W/\"80f8bdb7b4a4073f73ae62f5c4c760655f125af7839104e8ec0236c0f1d8d0af\"",
-      "last_checked_at": "2026-11-03T02:56:31Z",
+      "etag": "W/\"8e4e8295a2ffb9f19b64afa082139ea4371ddc58415eb629d93f71ad3fb65940\"",
+      "last_checked_at": "2026-11-04T00:56:19Z",
       "has_hap": true
     },
     "panhaichen-creator/LibreTV-for-HarmonyOS": {
-      "etag": "W/\"3e3bcdc833e8580a6be31b8755bb5ea6819cc44ad4a6ab99e7cb818caff7cb15\"",
-      "last_checked_at": "2026-11-03T03:03:02Z",
+      "etag": "W/\"83f5b719248ebeb29c3c84eb6e2f74b95bed27e01599b1e74562137b713fb640\"",
+      "last_checked_at": "2026-11-04T00:56:37Z",
       "has_hap": true
     },
     "quizzyjoy/shaderport": {
@@ -33717,7 +33717,7 @@
     },
     "KevinLu-ohos/servo-ohos-browser": {
       "etag": "W/\"efd44c70c398a92259ef33821df85623432c14319ce5ff83bc50545b1ceb98f8\"",
-      "last_checked_at": "2026-11-03T02:46:17Z",
+      "last_checked_at": "2026-11-04T00:55:20Z",
       "has_hap": true
     },
     "Star2121-1/BIT101-Harmony": {
@@ -33761,8 +33761,8 @@
       "has_hap": false
     },
     "lukedd666-sudo/UU-HarmonyOS": {
-      "etag": "W/\"fb0b06f65572556765dbb7401faea59338dbb94983a9fd5691c70eec298f7d3a\"",
-      "last_checked_at": "2026-11-03T02:59:10Z",
+      "etag": "W/\"b42e18f1fc5e79f912593297aff6ab5be1b269f50845f2ba4c1be8d3e446ce35\"",
+      "last_checked_at": "2026-11-04T00:56:28Z",
       "has_hap": true
     },
     "oOJohn6Oo/ohos-cmp-builder": {
@@ -33846,8 +33846,8 @@
       "has_hap": false
     },
     "zonglvye/folia-mobile": {
-      "etag": "W/\"b6c0202e5ca4c251416d3cb340de7e229eaa9d590f7984eb82e98c0ae1cd86be\"",
-      "last_checked_at": "2026-11-03T03:42:15Z",
+      "etag": "W/\"4dcf46f63a6fcc7c986c75bd6f8b80c1ca8a1a984b14e375ff1ffcc39b479b06\"",
+      "last_checked_at": "2026-11-04T00:57:05Z",
       "has_hap": true
     },
     "EPOTATOTV/PACC-MineCraft-Anti-Cheat-Client": {
@@ -33871,8 +33871,8 @@
       "has_hap": false
     },
     "TennousuAthena/OH-OpenTTD": {
-      "etag": "W/\"7a629b5ff14fb8f190f8e5ac5a4d0c04bee8330d45df2d8e12883de93622d3a7\"",
-      "last_checked_at": "2026-11-03T02:49:34Z",
+      "etag": "W/\"dd5992085f0ddf85d2e85a4eaf809defce170372938775981721599b1bc21cef\"",
+      "last_checked_at": "2026-11-04T00:55:44Z",
       "has_hap": true
     },
     "bruce3x/flutter_sentry_ohos": {
@@ -33886,8 +33886,8 @@
       "has_hap": false
     },
     "healing1/READ-BOOKS": {
-      "etag": "W/\"6870e6563b08a07e67daaca7af4bca3237909a9c05f9353488996de4aafe87bc\"",
-      "last_checked_at": "2026-11-03T02:55:58Z",
+      "etag": "W/\"f1fda051ade2bff8cb78015a2c85410e8ba22b0c71db86e48cbab792839700a6\"",
+      "last_checked_at": "2026-11-04T00:56:17Z",
       "has_hap": true
     },
     "hhh21212/tablet-keyboard": {
@@ -33916,13 +33916,13 @@
       "has_hap": false
     },
     "meowqwe/deepquest": {
-      "etag": "W/\"4e6b53ea64968fa8d6600a4313b784bd739df9d0fb26eb4429622d2fe90fe4d1\"",
-      "last_checked_at": "2026-11-03T02:59:33Z",
+      "etag": "W/\"0fad58ccaf33e11c0e8e887eb5f2e5685539c8f95020e4828143b13e9b0cd25c\"",
+      "last_checked_at": "2026-11-04T00:56:30Z",
       "has_hap": true
     },
     "nexhub-app/NexHub": {
-      "etag": "W/\"ba18daf42e2552c237593c85592a85d5a66785dff54b2427cc669e4ec3744a3b\"",
-      "last_checked_at": "2026-11-03T03:00:16Z",
+      "etag": "W/\"8f0c79414cd7dad9f0bc4a45dc3f2234747389f29acb38f675cc1233200a24a2\"",
+      "last_checked_at": "2026-11-04T00:56:34Z",
       "has_hap": true
     },
     "openharmony-rs/servo-fuzz": {
@@ -33932,12 +33932,12 @@
     },
     "qiorz/aegisub-ohos": {
       "etag": "W/\"2a1902cc794afc9c145de455f28284ee3516ec1868771a57948849516989405e\"",
-      "last_checked_at": "2026-11-03T03:03:28Z",
+      "last_checked_at": "2026-11-04T00:56:39Z",
       "has_hap": true
     },
     "qiorz/handbrake-ohos": {
       "etag": "W/\"3f98cf23f9319f5fbde2f2b7318aa72ab54885d26c8f3906d87d4692493ac578\"",
-      "last_checked_at": "2026-11-03T03:03:28Z",
+      "last_checked_at": "2026-11-04T00:56:39Z",
       "has_hap": true
     },
     "samsong8610/third_party_libuv": {
@@ -33961,8 +33961,8 @@
       "has_hap": false
     },
     "xiaoli8571/TunBox": {
-      "etag": "W/\"4a2778e82d85f7c981352aeda380e291b880eb1d64fdc710b896d5ff65a34d63\"",
-      "last_checked_at": "2026-11-03T03:40:50Z",
+      "etag": "W/\"775a5257b67de3c37d2a12f1ebae9ff16e51f2f47677cf3925dc4a2e5114f39c\"",
+      "last_checked_at": "2026-11-04T00:56:58Z",
       "has_hap": true
     },
     "zghnby0825/Beyond-theme": {
@@ -33977,7 +33977,7 @@
     },
     "Hayd-coder/openharmony-pqc-mlkem": {
       "etag": "W/\"499e72d2bee4a4fb40d5a7feaa4be272e13a2933887f9f6fc5016e1e91681515\"",
-      "last_checked_at": "2026-11-03T02:45:30Z",
+      "last_checked_at": "2026-11-04T00:55:16Z",
       "has_hap": true
     },
     "JesseLee-CN/njuschedule-hmos": {
@@ -34001,8 +34001,8 @@
       "has_hap": false
     },
     "jhaizhou-ops/d2r-mobile": {
-      "etag": "W/\"11e6cede430e1d45e0654a4e178cdecc9cda73e3a279a336b8f962e7a5da963d\"",
-      "last_checked_at": "2026-11-03T02:57:19Z",
+      "etag": "W/\"b7ada060997f52ddf455468c875f7b2caaf5b1ad2dd462988804029b10560b76\"",
+      "last_checked_at": "2026-11-04T00:56:21Z",
       "has_hap": true
     },
     "laeo/OHOS-PTL": {
@@ -34011,8 +34011,8 @@
       "has_hap": false
     },
     "levinrinco/Clash-Mate-for-HarmonyOS": {
-      "etag": "W/\"54b44e78171c1eec2fd86e8c7749679f8ddd52b17477eb9fc0b0f5dbac37d4dd\"",
-      "last_checked_at": "2026-11-03T02:58:28Z",
+      "etag": "W/\"7a730a016180e5a1f854e8f71a6933fe67da3341e9059b03229acf0e9a74c415\"",
+      "last_checked_at": "2026-11-04T00:56:24Z",
       "has_hap": true
     },
     "wip3l/qingye-reader": {
@@ -34036,8 +34036,8 @@
       "has_hap": false
     },
     "CangShui/VenHM": {
-      "etag": "W/\"2c6fd1015256de3beb1e7c6119d87769ea33ac69b193f4806d3160c3a0a03733\"",
-      "last_checked_at": "2026-11-03T02:41:49Z",
+      "etag": "W/\"4e976a8b018cbbd077203dbf621cfa6ab9a5856bf9dbfadd5a00b365a66a8ff9\"",
+      "last_checked_at": "2026-11-04T00:54:54Z",
       "has_hap": true
     },
     "DavidMastrenet/nabu-ohos": {
@@ -34081,13 +34081,13 @@
       "has_hap": false
     },
     "fhf2022/lvlian-view-hm": {
-      "etag": "W/\"088d9e8b36ee7ef80369873dbf288f07845c60cdf1e6b814fdfeaa82bd1bfef4\"",
-      "last_checked_at": "2026-11-03T02:54:33Z",
+      "etag": "W/\"cf36e7706227feaab0d0ac62294282a82c0c55f9f64069288d3375136631f152\"",
+      "last_checked_at": "2026-11-04T00:56:12Z",
       "has_hap": true
     },
     "point258/bibilabu--harmonyos": {
       "etag": "W/\"825d681ce9e28800bb9fbb00f97308a6ae01d66fe399c6bd04a261253b578a42\"",
-      "last_checked_at": "2026-11-03T03:03:14Z",
+      "last_checked_at": "2026-11-04T00:56:38Z",
       "has_hap": true
     },
     "song130103/harmony-dev-assistant": {
@@ -34101,8 +34101,8 @@
       "has_hap": false
     },
     "Bailin-Love/CFLark-Harmony": {
-      "etag": "W/\"5ba036c80bb17c7c93fb8c897701c5babbd036be4f4cf355e7e62009e4f3b560\"",
-      "last_checked_at": "2026-11-03T02:41:29Z",
+      "etag": "W/\"1299ba5c3ae64cba8228f8065f8a35ec4ff2c76fc2133e142252af7bfc2db338\"",
+      "last_checked_at": "2026-11-04T00:54:53Z",
       "has_hap": true
     },
     "Eknight-Eutopia/GhostLock-Huawei-HWWLZ": {
@@ -34112,7 +34112,7 @@
     },
     "Gc-Bond/harmonyClash": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-29T00:23:56Z",
+      "last_checked_at": "2026-11-04T00:55:11Z",
       "has_hap": false
     },
     "HelloZeroNick/libflutter-ohos-build": {
@@ -34131,8 +34131,8 @@
       "has_hap": false
     },
     "honjow/Next2V": {
-      "etag": "W/\"222f5f32379b261f84f8e9c9cc7a42b504cfe91a9e0c806309dcbf14ea17f96e\"",
-      "last_checked_at": "2026-11-03T02:56:23Z",
+      "etag": "W/\"4923e076ef3593c42669fd2c49a20a6ec652220fe76a190ab51b8196245c3e66\"",
+      "last_checked_at": "2026-11-04T00:56:19Z",
       "has_hap": true
     },
     "kharkilirov1/hdf-harmonyos-reverse": {
@@ -34211,8 +34211,8 @@
       "has_hap": false
     },
     "Tedfaraday/DiPlay-Harmony": {
-      "etag": "W/\"f6cef83000964463aca018ec2c8b6de11af59d30160c1e766caf9a1681be8f55\"",
-      "last_checked_at": "2026-11-03T02:49:30Z",
+      "etag": "W/\"2203b5eba50fa593928c29768b2b42be5519298d81725ddb8e407215d691c7fc\"",
+      "last_checked_at": "2026-11-04T00:55:44Z",
       "has_hap": true
     },
     "hqzing/ohos-unzip": {
@@ -34236,8 +34236,8 @@
       "has_hap": false
     },
     "nimmi114514/chromium-desktop-ohos": {
-      "etag": "W/\"b829b15e6fc5c8ff3828d2fdd164bad83757acb1bca8dbaac69086e5b1eee427\"",
-      "last_checked_at": "2026-11-03T03:00:22Z",
+      "etag": "W/\"0341e6c5228a40689dd07862df0356920d5ec4863edebf82f448c776a2b7da83\"",
+      "last_checked_at": "2026-11-04T00:56:35Z",
       "has_hap": true
     },
     "nimmi114514/chromium-ohos": {
@@ -34277,7 +34277,7 @@
     },
     "2847181243-ops/kdevelop-ohos-artifacts": {
       "etag": "W/\"f1f5ac4ff91a050d752b50194a17d4074d28db937afbfcea7b4236434e5edec3\"",
-      "last_checked_at": "2026-11-03T02:39:54Z",
+      "last_checked_at": "2026-11-04T00:54:44Z",
       "has_hap": true
     },
     "DuXingLang/OHBrowser": {
@@ -34287,12 +34287,12 @@
     },
     "Explore-In-HMOS/how-to-build-custom-emoji-keyboard": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-31T00:07:31Z",
+      "last_checked_at": "2026-11-04T00:55:04Z",
       "has_hap": false
     },
     "Explore-In-HMOS/how-to-build-map-animation-studio": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-31T00:07:34Z",
+      "last_checked_at": "2026-11-04T00:55:05Z",
       "has_hap": false
     },
     "Explore-In-HMOS/how-to-build-popup-tooltip": {
@@ -34302,7 +34302,7 @@
     },
     "Explore-In-HMOS/how-to-control3d-models-with-arkgraphics3d": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-31T00:07:40Z",
+      "last_checked_at": "2026-11-04T00:55:05Z",
       "has_hap": false
     },
     "Explore-In-HMOS/how-to-implement-camera-kit-on-kids-watch": {
@@ -34317,42 +34317,42 @@
     },
     "Explore-In-HMOS/how-to-use-battery-kit": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-31T00:07:48Z",
+      "last_checked_at": "2026-11-04T00:55:06Z",
       "has_hap": false
     },
     "Explore-In-HMOS/how-to-use-drag-and-drop": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-31T00:07:48Z",
+      "last_checked_at": "2026-11-04T00:55:06Z",
       "has_hap": false
     },
     "Explore-In-HMOS/library-app-lock": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-31T00:07:52Z",
+      "last_checked_at": "2026-11-04T00:55:06Z",
       "has_hap": false
     },
     "Explore-In-HMOS/posture-fixer": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-31T00:07:59Z",
+      "last_checked_at": "2026-11-04T00:55:07Z",
       "has_hap": false
     },
     "Explore-In-HMOS/sportwatch-city-taxi": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-31T00:08:04Z",
+      "last_checked_at": "2026-11-04T00:55:07Z",
       "has_hap": false
     },
     "Explore-In-HMOS/sportwatch-food-ticket-card": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-31T00:08:05Z",
+      "last_checked_at": "2026-11-04T00:55:07Z",
       "has_hap": false
     },
     "FloatingdreamWEDK/uu-harmonyos-next": {
-      "etag": "W/\"56d24cbd95c27924ee32122cc8f32186f2f11bdc74823ac13515c4fe864ecdc1\"",
-      "last_checked_at": "2026-11-03T02:44:27Z",
+      "etag": "W/\"08f77949efe1f0b951c70b27ec44bf1cd2b03d11a69a49107769149687982866\"",
+      "last_checked_at": "2026-11-04T00:55:09Z",
       "has_hap": true
     },
     "Lyx721188/WristMusic": {
       "etag": "W/\"25313b119d35e266c04bd478f6db82f983ec9f23eb05a52c840d9f7e0876181c\"",
-      "last_checked_at": "2026-11-03T02:47:00Z",
+      "last_checked_at": "2026-11-04T00:55:26Z",
       "has_hap": true
     },
     "OpenDroidOS/arkcompiler_ets_frontend": {
@@ -34407,7 +34407,7 @@
     },
     "haoge202301202/lite-watch-function-plot": {
       "etag": "W/\"1c9662ca10045937e293532254328d7e5b18a9b39b0613a02673680e0eb7e34c\"",
-      "last_checked_at": "2026-10-31T00:17:06Z",
+      "last_checked_at": "2026-11-04T00:56:14Z",
       "has_hap": false
     },
     "hqzing/ohos-python-test123": {
@@ -34462,7 +34462,7 @@
     },
     "Alt-2-cyber/lanqi-aqua": {
       "etag": "W/\"be4f32d368173eaf842b48614fc2ec813b7c68f2738c9593904204eeac52dc5f\"",
-      "last_checked_at": "2026-11-03T02:40:35Z",
+      "last_checked_at": "2026-11-04T00:54:49Z",
       "has_hap": true
     },
     "CJPLUK/eudi-app-hmos-wallet-ui": {
@@ -34471,8 +34471,8 @@
       "has_hap": false
     },
     "Fly-Noz/ComfyPilot": {
-      "etag": "W/\"6822fe2d02691409871ae17827a244fbf0ac22b4597aa410038757190de1393b\"",
-      "last_checked_at": "2026-11-03T02:44:29Z",
+      "etag": "W/\"886791f09642e6edae5541af7b5ed1ddb386ec9696f0912740b878234541696e\"",
+      "last_checked_at": "2026-11-04T00:55:10Z",
       "has_hap": true
     },
     "GeorgeGcs/ArkGenie": {
@@ -34597,7 +34597,7 @@
     },
     "vaple/Ehviewer_ohos": {
       "etag": "W/\"b56cb2790a530bb61c637ff96fb338f5013043f9fa3afe28a87998fa1dcca4e6\"",
-      "last_checked_at": "2026-11-03T03:39:43Z",
+      "last_checked_at": "2026-11-04T00:56:51Z",
       "has_hap": true
     },
     "16forever233/XDYou-HarmonyOS": {
@@ -34607,7 +34607,7 @@
     },
     "AWEsome639/AWEsome639": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-31T00:05:11Z",
+      "last_checked_at": "2026-11-04T00:54:45Z",
       "has_hap": false
     },
     "Equality-Machine/efflora-harmonyos-bench": {
@@ -34626,13 +34626,13 @@
       "has_hap": false
     },
     "KingPennymore/WengzhouVela-AnOpenSourceNovelEditorAndManager": {
-      "etag": "W/\"4bc467bc081748938db1b0540d380045d3f7520aab0f692091c6f482c6c39280\"",
-      "last_checked_at": "2026-11-03T02:46:20Z",
+      "etag": "W/\"1246a4f0a2068dbc7b5cddfa07589871a6f8e1b07d751b479cd39ecf21fdb2bc\"",
+      "last_checked_at": "2026-11-04T00:55:20Z",
       "has_hap": true
     },
     "Lin-Ruipeng/harmonyos-imu-rate-probe": {
       "etag": "W/\"284624bbbb4af9f63e491cff1e935ebc15522dc4c6309b9478c138c6e83d44de\"",
-      "last_checked_at": "2026-11-03T02:46:44Z",
+      "last_checked_at": "2026-11-04T00:55:23Z",
       "has_hap": true
     },
     "LingXia-Dev/LingXia": {
@@ -34641,8 +34641,8 @@
       "has_hap": false
     },
     "RockyMtnWolf/TunnelArk": {
-      "etag": "W/\"f83e7cb5a3bb946a6684aa3b4af2135ed2313f7cca93d2c03c7f3f2f7a66aebb\"",
-      "last_checked_at": "2026-11-03T02:48:38Z",
+      "etag": "W/\"1ca86468e94ffffdac6874adec42591d690dc33024b0f4965ff18a12c1bf045f\"",
+      "last_checked_at": "2026-11-04T00:55:35Z",
       "has_hap": true
     },
     "Shadow-ye/ohos-eevdf-qos": {
@@ -34682,7 +34682,7 @@
     },
     "shaoguanqiuzheng/moge-lianzi": {
       "etag": "W/\"0c5c6609b17beb8bb1bb79ff41246201eb6a51f32e2b8e2bd1478b94bb73bac5\"",
-      "last_checked_at": "2026-10-31T00:24:19Z",
+      "last_checked_at": "2026-11-04T00:56:43Z",
       "has_hap": false
     },
     "songhai007-blip/ohos-agent-notes": {
@@ -34697,7 +34697,7 @@
     },
     "studyguy/ZcodeRemote": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-31T00:25:01Z",
+      "last_checked_at": "2026-11-04T00:56:47Z",
       "has_hap": false
     },
     "yuanbaobaoo/Tesslo": {
@@ -34707,7 +34707,7 @@
     },
     "zcr16/word42-cet4": {
       "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
-      "last_checked_at": "2026-10-31T00:27:10Z",
+      "last_checked_at": "2026-11-04T00:57:02Z",
       "has_hap": false
     },
     "DUDUXXR2/harmony-glass-kit": {
@@ -34737,7 +34737,7 @@
     },
     "PCFXPCFX/OHSidian": {
       "etag": "W/\"6bea6b8c1c61ba496994238f022fa0990adee9c2218028a50f0181f07aae546f\"",
-      "last_checked_at": "2026-11-03T02:48:03Z",
+      "last_checked_at": "2026-11-04T00:55:32Z",
       "has_hap": true
     },
     "SlugAir928437/Limbo-OHOS": {
@@ -34751,8 +34751,8 @@
       "has_hap": false
     },
     "stlin256/DSH-Harmony": {
-      "etag": "W/\"c1e60d3c27d7034a3fc6fa2f8ac9d371a2a1870e4ea10ba14776e74733b1b664\"",
-      "last_checked_at": "2026-11-03T03:05:13Z",
+      "etag": "W/\"780be804232b494cd86593b76374e3f5ead32fa025cbbfeaa5a0d3c3eb5fbda1\"",
+      "last_checked_at": "2026-11-04T00:56:47Z",
       "has_hap": true
     },
     "wangyakuncop-sudo/MaidianStock": {
@@ -34766,8 +34766,8 @@
       "has_hap": false
     },
     "2751833085/PiliPlus-Harmony": {
-      "etag": "W/\"56bda813490ad0edf1a717316b0f04bb326be17638e2e132d5ef46ae1025d4eb\"",
-      "last_checked_at": "2026-11-03T02:39:52Z",
+      "etag": "W/\"9eec6bb14c62afb0e3e20c23b450de668edd3120c047a006e8de77a721d5b01c\"",
+      "last_checked_at": "2026-11-04T00:54:43Z",
       "has_hap": true
     },
     "CharonChui/FullStack-Notes": {
@@ -34796,13 +34796,13 @@
       "has_hap": false
     },
     "NaivG/bilimusic": {
-      "etag": "W/\"0ac5215cff5647f43fa4273c33edee59e711b6dc89af95717b30dcb868907743\"",
-      "last_checked_at": "2026-11-03T02:47:31Z",
+      "etag": "W/\"d42a7b3d66d23bdb812cea7d116dc58be13a306ab799f1ee80000498c728b8b4\"",
+      "last_checked_at": "2026-11-04T00:55:29Z",
       "has_hap": true
     },
     "Starchaser-Cyber/X-HarmonyOS": {
-      "etag": "W/\"09617f552d5d355059872e753f7b865134a2e0d8d29e40be81d1070c46c5d3a7\"",
-      "last_checked_at": "2026-11-03T02:49:13Z",
+      "etag": "W/\"ebd4ebc2e9c4c0fb36078c2221d2843e51cfdbb290a96893f1f619e5d38f1780\"",
+      "last_checked_at": "2026-11-04T00:55:41Z",
       "has_hap": true
     },
     "YJsnz/HarmonyOS": {
@@ -34826,8 +34826,8 @@
       "has_hap": false
     },
     "ls965526741/ClashOhos": {
-      "etag": "W/\"6e1e907629fab5d841542cee3bbcb154d7febb5a11c8804efea2c6d83345737b\"",
-      "last_checked_at": "2026-11-03T02:59:08Z",
+      "etag": "W/\"3f65d2e7faba268fda63d7ab342cd2a051cd4e6385166d92f88e26759cb3e6d7\"",
+      "last_checked_at": "2026-11-04T00:56:27Z",
       "has_hap": true
     },
     "openharmony/device_soc_bestechnic": {
@@ -34862,7 +34862,7 @@
     },
     "qitinyu/MuLi": {
       "etag": "W/\"dc310db5d25fc5d0abc1e47972368b69eaf05164ad1460e44eede1e89c8420d5\"",
-      "last_checked_at": "2026-11-03T03:03:28Z",
+      "last_checked_at": "2026-11-04T00:56:39Z",
       "has_hap": true
     },
     "sprvast-afk/ohos-openconnect": {
@@ -34876,8 +34876,8 @@
       "has_hap": false
     },
     "AimesSoft/NipaPlay-Reload": {
-      "etag": "W/\"64a7bff6f2362c89f5fb52ac3bb767a3b1f042ed2b1a4e4783ad72b77117bbda\"",
-      "last_checked_at": "2026-11-03T02:40:25Z",
+      "etag": "W/\"16abfbead4ca30f001e103ee91c5eaf51ae933f92fb1c35f2a651dbd2a22c064\"",
+      "last_checked_at": "2026-11-04T00:54:47Z",
       "has_hap": true
     },
     "Alahjarko/PocketNAI": {
@@ -34891,8 +34891,8 @@
       "has_hap": false
     },
     "JuckyLee668/v2rayH": {
-      "etag": "W/\"93eda787c0a5a40c3fb6de292bb5fc7c19d841632c3c2a623d96884b18679338\"",
-      "last_checked_at": "2026-11-03T02:46:12Z",
+      "etag": "W/\"1160ee9324b2cc35e43fff0a71fe7f96958c72bb122f222bbb7ecdf11ca40541\"",
+      "last_checked_at": "2026-11-04T00:55:18Z",
       "has_hap": true
     },
     "Mangoman2008/HOScrcpy-Sun": {
@@ -34901,13 +34901,13 @@
       "has_hap": false
     },
     "RockyMtnWolf/USBArc": {
-      "etag": "W/\"c4407acd2019ead9a9726ca5aa1fb0065b45c2be4e3e233357e280a95bf62967\"",
-      "last_checked_at": "2026-11-03T02:48:38Z",
+      "etag": "W/\"3c2734dd661b19e465a81bf2789e9d1a34ff3c0df1327add58b76c01525b327f\"",
+      "last_checked_at": "2026-11-04T00:55:35Z",
       "has_hap": true
     },
     "Svetoslav47/citytour": {
-      "etag": "W/\"9e9bc6a06e765fa73c3edb95b1ffb8b5568f33e62fdca317ad13f653827b68fe\"",
-      "last_checked_at": "2026-11-03T02:49:22Z",
+      "etag": "W/\"49d24fcda116ccb750e587d1f075b5c9192edf641cddff574918911f882fa105\"",
+      "last_checked_at": "2026-11-04T00:55:43Z",
       "has_hap": true
     },
     "andycaihello/codex-phonecall": {
@@ -34916,13 +34916,13 @@
       "has_hap": false
     },
     "bgli100/pixez-flutter-ohos": {
-      "etag": "W/\"1dda5d37bde67b71f2bf4b6104a2beaa6fcc0760366c8eb45e082a2b1fcf6f84\"",
-      "last_checked_at": "2026-11-03T02:52:04Z",
+      "etag": "W/\"cb4bcb3e036766fe1e5fe42ae73f0e3ac12924fe5fbfae91edfbe7151b35ab5d\"",
+      "last_checked_at": "2026-11-04T00:56:00Z",
       "has_hap": true
     },
     "honjow/Koma": {
-      "etag": "W/\"cfb86dc7c1b4eecbe3ff5e06a50bd1e2493b4dd1207a6c5314410653e9300a77\"",
-      "last_checked_at": "2026-11-03T02:56:22Z",
+      "etag": "W/\"3119998413b90ebabf3e30bd3ad2b38ba3419729017617d4a71c0cb368b7b1ed\"",
+      "last_checked_at": "2026-11-04T00:56:18Z",
       "has_hap": true
     },
     "leisure077/yellow-river-echo": {
@@ -34956,112 +34956,82 @@
       "has_hap": false
     },
     "zhailinlang/hapstore": {
-      "etag": "W/\"8cae505ea140f4909aa292e1d5564663a926d4bf4dd94c2fed892b19dbc44099\"",
-      "last_checked_at": "2026-11-03T03:41:52Z",
+      "etag": "W/\"4668b18764adcb5f275d83fe0b2592d0aa9856e8157a1e86a9fc23f12ca716bb\"",
+      "last_checked_at": "2026-11-04T00:57:02Z",
       "has_hap": true
+    },
+    "9-57/hongmeng": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-11-04T00:54:44Z",
+      "has_hap": false
+    },
+    "Asukaleo-aa/dshgo-harmony": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-11-04T00:54:51Z",
+      "has_hap": false
+    },
+    "Dogwind221/dwguard-dsh-hmos": {
+      "etag": "W/\"7f34f74d4f03e7b52fa51ecac4e1128325114c0dd8a4b9321c62103ac2b9b3dc\"",
+      "last_checked_at": "2026-11-04T00:55:00Z",
+      "has_hap": false
+    },
+    "LeiSureYu/dsh-smart-download": {
+      "etag": "W/\"bcfa9d8430f4c8b7fa55fc2e1c51e2d4254499a5af1c9d86cb92695f62bd6544\"",
+      "last_checked_at": "2026-11-04T00:55:23Z",
+      "has_hap": false
+    },
+    "QiuJiangY/openharmony_webhdc_lite": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-11-04T00:55:33Z",
+      "has_hap": false
+    },
+    "ethereal-666/microg-payments-lab": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-11-04T00:56:09Z",
+      "has_hap": false
+    },
+    "fengtai227-hash/RemoteDeskHarmonyOS": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-11-04T00:56:11Z",
+      "has_hap": false
+    },
+    "guoguibing/HappyCoding": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-11-04T00:56:13Z",
+      "has_hap": false
+    },
+    "jimwu0820/SoundMirror": {
+      "etag": "W/\"0d1128d8e7af400d39e56d1be6e1c6804ae77fa3618f28244c027c70feb54371\"",
+      "last_checked_at": "2026-11-04T00:56:21Z",
+      "has_hap": false
+    },
+    "ly553/weather-app": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-11-04T00:56:29Z",
+      "has_hap": false
+    },
+    "pancha7567-dotcom/pancha7567-gmail.com": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-11-04T00:56:37Z",
+      "has_hap": false
+    },
+    "rssh-org/rssh": {
+      "etag": "W/\"6819ca0416c7bd89247deda19bf972356db9291105bd70e68c89bbd64b2b6273\"",
+      "last_checked_at": "2026-11-04T00:56:41Z",
+      "has_hap": false
+    },
+    "sadicelik/DevBroom": {
+      "etag": "W/\"b1c7209228361969e5dd5f0cb880180cb7866446e692d0ed6d4ace2cd76ff8de\"",
+      "last_checked_at": "2026-11-04T00:56:42Z",
+      "has_hap": false
+    },
+    "zlhao1588/awesome-harmonyOS": {
+      "etag": "\"a92154d1d0c09d8e8a7e99140b7be3b9342cbda19be49c572d48a8d07405d637\"",
+      "last_checked_at": "2026-11-04T00:57:05Z",
+      "has_hap": false
     }
   },
   "processed_event_ids": [
-    "23917264087",
-    "23917263694",
-    "23917263738",
-    "23917264073",
-    "23917263688",
-    "23917263686",
-    "23917263659",
-    "23917263654",
-    "23917263635",
-    "23917263631",
-    "23917263626",
-    "23917263624",
-    "23917263617",
-    "23917263446",
-    "23917263458",
-    "23917263466",
-    "23917263468",
-    "23917263476",
-    "23917263485",
-    "23917263498",
-    "23917263740",
-    "23917263741",
-    "23917263743",
-    "23917263748",
-    "23917263755",
-    "23917263789",
-    "23917263793",
-    "23917263796",
-    "23917263804",
-    "23917263805",
-    "23917263807",
-    "23917263814",
-    "23917263821",
-    "23917263615",
-    "23917263610",
-    "23917263843",
-    "23917263849",
-    "23917263853",
-    "23917263854",
-    "23917263863",
-    "23917263880",
-    "23917263607",
-    "23917264071",
-    "23917263591",
-    "23917263590",
-    "23917263567",
-    "23917263566",
-    "23917263558",
-    "23917263555",
-    "23917263547",
-    "23917263541",
-    "23917263540",
-    "23917263539",
-    "23917263529",
-    "23917263526",
-    "23917263506",
-    "23917264163",
-    "23917264162",
-    "23917264161",
-    "23917264152",
-    "23917264151",
-    "23917264150",
-    "23917264139",
-    "23917264127",
-    "23917264125",
-    "23917264121",
-    "23917263704",
-    "23917263720",
-    "23917263603",
-    "23917264068",
-    "23917264062",
-    "23917264045",
-    "23917264041",
-    "23917264036",
-    "23917264028",
-    "23917264022",
-    "23917264017",
-    "23917264009",
-    "23917264008",
-    "23917263990",
-    "23917263988",
-    "23917263983",
-    "23917263966",
-    "23917263962",
-    "23917263958",
-    "23917263956",
-    "23917263951",
-    "23917263950",
-    "23917263940",
-    "23917263932",
-    "23917263927",
-    "23917263913",
-    "23917263907",
-    "23917263904",
-    "23917263896",
-    "23917263891",
-    "23917263890",
-    "23917263884",
-    "23917263881",
-    "17147651997",
     "24145393378",
     "24145393595",
     "24145393072",
@@ -36961,6 +36931,106 @@
     "25993769501",
     "18955224036",
     "18955224035",
-    "18955224030"
+    "18955224030",
+    "26085759399",
+    "26085758780",
+    "26085759585",
+    "26085758744",
+    "26085758757",
+    "26085758759",
+    "26085758768",
+    "26085758775",
+    "26085758778",
+    "26085759406",
+    "26085758791",
+    "26085758794",
+    "26085758800",
+    "26085758805",
+    "26085758808",
+    "26085758816",
+    "26085758817",
+    "26085758833",
+    "26085758837",
+    "26085758850",
+    "26085758857",
+    "26085758859",
+    "26085758863",
+    "26085758869",
+    "26085758870",
+    "26085758875",
+    "26085759412",
+    "26085758903",
+    "26085758904",
+    "26085758915",
+    "26085758927",
+    "26085758970",
+    "26085758993",
+    "26085758998",
+    "26085759002",
+    "26085759034",
+    "26085759041",
+    "26085759048",
+    "26085759072",
+    "26085759102",
+    "26085759120",
+    "26085759125",
+    "26085759128",
+    "26085759168",
+    "26085759179",
+    "26085759182",
+    "26085759183",
+    "26085759192",
+    "26085759202",
+    "26085759205",
+    "26085759207",
+    "26085759209",
+    "26085759210",
+    "26085759245",
+    "26085759249",
+    "26085759253",
+    "26085759254",
+    "26085759266",
+    "26085759286",
+    "26085759290",
+    "26085759294",
+    "26085759295",
+    "26085759305",
+    "26085759313",
+    "26085759315",
+    "26085759330",
+    "26085759335",
+    "26085759367",
+    "26085759381",
+    "26085759385",
+    "26085759392",
+    "26085759394",
+    "26085758740",
+    "26085758723",
+    "26085758893",
+    "26085759415",
+    "26085759418",
+    "26085759423",
+    "26085759435",
+    "26085759441",
+    "26085759445",
+    "26085759451",
+    "26085759459",
+    "26085759461",
+    "26085759465",
+    "26085759470",
+    "26085759484",
+    "26085759488",
+    "26085759503",
+    "26085759519",
+    "26085759536",
+    "26085759539",
+    "26085759543",
+    "26085759559",
+    "26085759583",
+    "19061391495",
+    "19061391491",
+    "19061391474",
+    "19061391476",
+    "19061391464"
   ]
 }
