@@ -230,16 +230,16 @@ def discover_release_events(state):
     return candidates
 
 
-def discover_candidates(state):
-    """合并 seeds + 搜索结果 + Release 事件，得到去重的候选仓库集合。"""
-    candidates = set()
-
-    # 1. 手工种子仓库
+def load_seeds():
     seeds = load_json(SEEDS_FILE, [])
-    if isinstance(seeds, list):
-        for name in seeds:
-            if isinstance(name, str) and name.strip() and "/" in name:
-                candidates.add(name.strip())
+    if not isinstance(seeds, list):
+        return set()
+    return {name.strip() for name in seeds if isinstance(name, str) and "/" in name}
+
+
+def discover_candidates(state, seeds):
+    """合并 seeds + 搜索结果 + Release 事件，得到去重的候选仓库集合。"""
+    candidates = set(seeds)
     print(f"[discover] {len(candidates)} candidates from seeds")
 
     # 2. GitHub 搜索（每次请求至少间隔 3 秒，页数不足 100 提前结束）
@@ -523,7 +523,9 @@ def main():
         p["full_name"]: p for p in projects if isinstance(p, dict) and p.get("full_name")
     }
 
-    candidates = discover_candidates(state)
+    seeds = load_seeds()
+    candidates = discover_candidates(state, seeds)
+    seed_keys = {name.casefold() for name in seeds}
     print(f"[discover] {len(candidates)} unique candidates")
 
     found = {}
@@ -561,6 +563,17 @@ def main():
                 )
                 cand["etag"] = etag
                 cand["last_checked_at"] = now_iso()
+
+            project, has_hap = inspect_releases(name, releases)
+            if name.casefold() in seed_keys:
+                page = 1
+                while not has_hap and len(releases) == RELEASES_PER_PAGE:
+                    page += 1
+                    releases, _, _ = api_get(
+                        f"{API_BASE}/repos/{name}/releases",
+                        params={"per_page": RELEASES_PER_PAGE, "page": page},
+                    )
+                    project, has_hap = inspect_releases(name, releases)
         except requests.exceptions.HTTPError as exc:
             # 搜索/种子中混入已删除或已改名的仓库，跳过而非中断
             status = exc.response.status_code if exc.response is not None else None
@@ -570,7 +583,6 @@ def main():
                 continue
             raise
 
-        project, has_hap = inspect_releases(name, releases)
         cand["has_hap"] = bool(has_hap)  # 记录检查结论，供后续 ETag 跳过判断使用
         if has_hap and project:
             found[name] = project
