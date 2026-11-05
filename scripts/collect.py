@@ -280,6 +280,7 @@ def inspect_releases(full_name, releases):
         key=lambda r: (r.get("published_at") or ""),
         reverse=True,
     )
+    latest_release = next((r for r in ordered if not r.get("draft")), None)
     for release in ordered:
         if release.get("draft"):
             continue
@@ -294,10 +295,14 @@ def inspect_releases(full_name, releases):
         # 命中：拉取仓库基本信息
         info, _, _ = api_get(f"{API_BASE}/repos/{full_name}")
         project = {
-            "full_name": full_name,
+            "full_name": info.get("full_name") or full_name,
             "html_url": info.get("html_url") or f"https://github.com/{full_name}",
             "description": info.get("description") or "",
             "stars": info.get("stargazers_count") or 0,
+            "latest_release": {
+                key: latest_release.get(key) or ""
+                for key in ("tag_name", "published_at", "html_url")
+            },
             "latest_hap_release": {
                 "tag_name": release.get("tag_name") or "",
                 "published_at": release.get("published_at") or "",
@@ -393,7 +398,7 @@ def build_table(projects):
     overrides = load_category_overrides()
     ordered = sorted(
         projects,
-        key=lambda p: (p.get("latest_hap_release") or {}).get("published_at") or "",
+        key=lambda p: (p.get("latest_release") or p.get("latest_hap_release") or {}).get("published_at") or "",
         reverse=True,
     )
     generated_at = now_iso()
@@ -414,7 +419,7 @@ def build_table(projects):
     # 今日更新是额外汇总，项目仍保留在原分类中，不计入分类总数。
     grouped["今日更新"] = [
         project for project in ordered
-        if ((project.get("latest_hap_release") or {}).get("published_at") or "")[:10] == today
+        if ((project.get("latest_release") or project.get("latest_hap_release") or {}).get("published_at") or "")[:10] == today
     ]
     rows.extend(['<a id="hap-menu" name="hap-menu"></a>', ""])
     sections = ("今日更新", *CATEGORIES)
@@ -460,7 +465,7 @@ def build_table(projects):
         if not desc:
             desc = "—"
         stars = format_stars(p.get("stars", 0))
-        rel = p.get("latest_hap_release") or {}
+        rel = p.get("latest_release") or p.get("latest_hap_release") or {}
         published = rel.get("published_at") or ""
         date = published[:10] or "—"  # YYYY-MM-DD
         # 最新版本：截断 30 字符 + 断行点，压缩列宽
@@ -525,6 +530,8 @@ def main():
 
     seeds = load_seeds()
     candidates = discover_candidates(state, seeds)
+    # 已收录项目可能不再出现在搜索结果或短暂的公共事件流中，仍需持续复查。
+    candidates.update(projects_map)
     seed_keys = {name.casefold() for name in seeds}
     print(f"[discover] {len(candidates)} unique candidates")
 
@@ -545,7 +552,9 @@ def main():
                 continue
         try:
             # 已确认有 hap 且 ETag 未变化 -> 跳过，节省配额
-            if cand.get("has_hap") and cand.get("etag"):
+            # 旧数据没有 latest_release 时须完整刷新一次，不能让 304 阻止字段升级。
+            if (cand.get("has_hap") and cand.get("etag")
+                    and (projects_map.get(name) or {}).get("latest_release")):
                 releases, etag, changed = api_get(
                     f"{API_BASE}/repos/{name}/releases",
                     params={"per_page": RELEASES_PER_PAGE},
@@ -565,15 +574,17 @@ def main():
                 cand["last_checked_at"] = now_iso()
 
             project, has_hap = inspect_releases(name, releases)
-            if name.casefold() in seed_keys:
+            if name.casefold() in seed_keys or name in projects_map:
                 page = 1
+                all_releases = list(releases)
                 while not has_hap and len(releases) == RELEASES_PER_PAGE:
                     page += 1
                     releases, _, _ = api_get(
                         f"{API_BASE}/repos/{name}/releases",
                         params={"per_page": RELEASES_PER_PAGE, "page": page},
                     )
-                    project, has_hap = inspect_releases(name, releases)
+                    all_releases.extend(releases)
+                    project, has_hap = inspect_releases(name, all_releases)
         except requests.exceptions.HTTPError as exc:
             # 搜索/种子中混入已删除或已改名的仓库，跳过而非中断
             status = exc.response.status_code if exc.response is not None else None
@@ -585,7 +596,13 @@ def main():
 
         cand["has_hap"] = bool(has_hap)  # 记录检查结论，供后续 ETag 跳过判断使用
         if has_hap and project:
-            found[name] = project
+            canonical_name = project["full_name"]
+            if canonical_name != name:
+                projects_map.pop(name, None)
+                found.pop(name, None)
+                state["candidates"].pop(name, None)
+                state["candidates"][canonical_name] = cand
+            found[canonical_name] = project
         else:
             no_hap.add(name)
         print(f"[check] {name}: has_hap={has_hap}")
@@ -596,7 +613,7 @@ def main():
     projects_map.update(found)
     final = sorted(
         projects_map.values(),
-        key=lambda p: (p.get("latest_hap_release") or {}).get("published_at") or "",
+        key=lambda p: (p.get("latest_release") or p.get("latest_hap_release") or {}).get("published_at") or "",
         reverse=True,
     )
 

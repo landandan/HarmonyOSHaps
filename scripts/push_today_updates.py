@@ -25,12 +25,12 @@ def build_message(readme, projects):
         raise ValueError("README 今日更新缺少统计日期")
     date = match.group(1)
     updates = sorted(
-        (p for p in projects if ((p.get("latest_hap_release") or {}).get("published_at") or "")[:10] == date),
-        key=lambda p: p["latest_hap_release"]["published_at"], reverse=True,
+        (p for p in projects if ((p.get("latest_release") or p.get("latest_hap_release") or {}).get("published_at") or "")[:10] == date),
+        key=lambda p: (p.get("latest_release") or p.get("latest_hap_release") or {}).get("published_at") or "", reverse=True,
     )
     lines = [f"统计日期：{date}（UTC）", f"共 {len(updates)} 个项目更新", ""]
     for project in updates:
-        release = project["latest_hap_release"]
+        release = project.get("latest_release") or project.get("latest_hap_release") or {}
         lines.extend([
             f"{project['full_name']} · {release.get('tag_name', '')}",
             project.get("description") or "",

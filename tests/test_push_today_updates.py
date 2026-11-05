@@ -5,6 +5,22 @@ from scripts import push_today_updates as push
 
 
 class PushTodayUpdatesTests(unittest.TestCase):
+    def test_latest_release_matches_readme_even_without_new_hap(self):
+        readme = '<summary><strong>今日更新</strong>（1 个项目）</summary>统计日期：2026-11-02（UTC）</details>'
+        project = {"full_name": "owner/app", "latest_release": {
+            "published_at": "2026-11-02T03:00:00Z", "tag_name": "v2",
+            "html_url": "https://example.com/v2",
+        }, "latest_hap_release": {
+            "published_at": "2026-08-23T00:00:00Z", "tag_name": "v1",
+        }}
+        _, message = push.build_message(readme, [project])
+        self.assertIn("共 1 个项目更新", message)
+        self.assertIn("owner/app · v2", message)
+        self.assertIn("https://example.com/v2", message)
+        # 当 HAP 日期命中而最新 Release 日期不命中时，也不得推送旧版本。
+        _, message = push.build_message(readme.replace("2026-11-02", "2026-08-23"), [project])
+        self.assertIn("共 0 个项目更新", message)
+
     def test_uses_readme_statistics_date(self):
         readme = '<summary><strong>今日更新</strong>（1 个项目）</summary>统计日期：2026-10-26（UTC）</details>'
         projects = [

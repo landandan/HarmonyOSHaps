@@ -3905,6 +3905,11 @@
           "size": 10436081
         }
       ]
+    },
+    "latest_release": {
+      "tag_name": "2.0.1",
+      "published_at": "2026-11-02T03:36:14Z",
+      "html_url": "https://github.com/xiaobaigroup/HMOSHapURL/releases/tag/2.0.1"
     }
   },
   {
@@ -6104,24 +6109,6 @@
           "name": "pura_x.FM.hap",
           "browser_download_url": "https://github.com/Edge-Music/Community/releases/download/v2.1.0/pura_x.FM.hap",
           "size": 8629443
-        }
-      ]
-    }
-  },
-  {
-    "full_name": "XHXYT/HMOSHapURL",
-    "html_url": "https://github.com/XHXYT/HMOSHapURL",
-    "description": "一个鸿蒙应用仓库收藏集，致力于收藏展示适配鸿蒙平台项目",
-    "stars": 78,
-    "latest_hap_release": {
-      "tag_name": "1.0.4",
-      "published_at": "2025-03-21T11:28:27Z",
-      "html_url": "https://github.com/XHXYT/HMOSHapURL/releases/tag/1.0.4",
-      "assets": [
-        {
-          "name": "GitStore-1.0.4-unsigned.hap",
-          "browser_download_url": "https://github.com/XHXYT/HMOSHapURL/releases/download/1.0.4/GitStore-1.0.4-unsigned.hap",
-          "size": 769621
         }
       ]
     }

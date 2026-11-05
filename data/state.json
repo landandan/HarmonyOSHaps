@@ -19795,11 +19795,6 @@
       "last_checked_at": "2026-08-31T22:32:54Z",
       "has_hap": false
     },
-    "XHXYT/HMOSHapURL": {
-      "etag": "W/\"c00a89f3446d6289439574de113d8f70a5d99e32cc170f4766d82f262c0cbaaa\"",
-      "last_checked_at": "2026-08-22T18:28:38Z",
-      "has_hap": true
-    },
     "XHXYT/Pixark": {
       "etag": "W/\"fd9940a1fafd625e4968c835b94acbf836373d4722153f016bb69bba7a98f764\"",
       "last_checked_at": "2026-11-05T01:17:15Z",
@@ -25491,7 +25486,6 @@
       "has_hap": false
     },
     "xiaobaigroup/HMOSHapURL": {
-      "etag": "W/\"ba2a5fa2685de38f735a3c47be29a200bc40d3ff0e7773642e9771a39861aca3\"",
       "last_checked_at": "2026-11-05T02:09:21Z",
       "has_hap": true
     },
