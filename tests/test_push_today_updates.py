@@ -1,4 +1,6 @@
+import io
 import unittest
+from contextlib import redirect_stderr, redirect_stdout
 from unittest.mock import Mock, patch
 
 from scripts import push_today_updates as push
@@ -48,6 +50,64 @@ class PushTodayUpdatesTests(unittest.TestCase):
         post.return_value.json.return_value = {"status": 429}
         with self.assertRaises(ValueError):
             push.send_message("https://example.com/", "标题", "内容")
+
+    @patch.object(push.requests, "post")
+    def test_safe_error_details(self, post):
+        secret = "https://example.com/private-nickname/"
+        response = Mock(status_code=503)
+        cases = [
+            (push.requests.Timeout(secret), "请求超时"),
+            (push.requests.ConnectionError(secret), "连接失败"),
+            (push.requests.HTTPError(secret, response=response), "HTTP 状态码 503"),
+            (push.requests.exceptions.InvalidURL(secret), "请求失败"),
+        ]
+        for error, expected in cases:
+            with self.subTest(error=type(error).__name__):
+                post.side_effect = error
+                with self.assertRaises(push.PushError) as caught:
+                    push.send_message(secret, "标题", "内容")
+                self.assertIn(expected, str(caught.exception))
+                self.assertNotIn(secret, str(caught.exception))
+
+    @patch.object(push.requests, "post")
+    def test_business_codes_and_malformed_responses(self, post):
+        response = post.return_value
+        for code, expected in [(400, "参数错误"), (403, "内容策略"),
+                               (404, "昵称未注册"), (429, "频率超限"),
+                               (500, "服务器错误"), (999, "未知业务错误")]:
+            with self.subTest(code=code):
+                response.json.return_value = {"status": code, "msg": "private-nickname"}
+                with self.assertRaises(push.PushError) as caught:
+                    push.send_message("https://example.com/", "标题", "内容")
+                self.assertIn(str(code), str(caught.exception))
+                self.assertIn(expected, str(caught.exception))
+                self.assertNotIn("private-nickname", str(caught.exception))
+        for result in [None, [], {}, {"status": "200"}, {"status": []}]:
+            with self.subTest(result=result):
+                response.json.return_value = result
+                with self.assertRaises(push.PushError):
+                    push.send_message("https://example.com/", "标题", "内容")
+        response.json.side_effect = ValueError("private response body")
+        with self.assertRaisesRegex(push.PushError, "非 JSON"):
+            push.send_message("https://example.com/", "标题", "内容")
+
+    @patch.object(push, "build_message", return_value=("标题", "内容"))
+    @patch.object(push, "send_message")
+    @patch("sys.argv", ["push_today_updates.py"])
+    def test_main_url_selection_and_failure_log(self, send, build):
+        for configured in ["", "   ", " https://example.com/custom/ "]:
+            with self.subTest(configured=configured), patch.dict(
+                push.os.environ, {"MEOW_PUSH_URL": configured}
+            ), redirect_stdout(io.StringIO()):
+                push.main()
+                send.assert_called_with(configured.strip() or push.DEFAULT_PUSH_URL, "标题", "内容")
+        send.side_effect = push.PushError("业务状态码 429：发送或 IP 频率超限")
+        stderr = io.StringIO()
+        with redirect_stderr(stderr), redirect_stdout(io.StringIO()):
+            with self.assertRaises(SystemExit) as caught:
+                push.main()
+        self.assertEqual(caught.exception.code, 1)
+        self.assertIn("429", stderr.getvalue())
 
 
 if __name__ == "__main__":
