@@ -1,23 +1,304 @@
 [
   {
+    "full_name": "honjow/Koma",
+    "html_url": "https://github.com/honjow/Koma",
+    "description": "HarmonyOS 多源漫画阅读器",
+    "stars": 24,
+    "latest_release": {
+      "tag_name": "v1.4.2",
+      "published_at": "2026-11-10T22:28:29Z",
+      "html_url": "https://github.com/honjow/Koma/releases/tag/v1.4.2"
+    },
+    "latest_hap_release": {
+      "tag_name": "v1.4.2",
+      "published_at": "2026-11-10T22:28:29Z",
+      "html_url": "https://github.com/honjow/Koma/releases/tag/v1.4.2",
+      "assets": [
+        {
+          "name": "Koma_1.4.2_ohos-release-unsigned.hap",
+          "browser_download_url": "https://github.com/honjow/Koma/releases/download/v1.4.2/Koma_1.4.2_ohos-release-unsigned.hap",
+          "size": 37636989
+        }
+      ]
+    }
+  },
+  {
+    "full_name": "JuckyLee668/v2rayH",
+    "html_url": "https://github.com/JuckyLee668/v2rayH",
+    "description": "此项目是基于鸿蒙平台开发的xray和sing-box双内核代理工具，适用于Harmony OS NEXT 6.1及以上。",
+    "stars": 25,
+    "latest_release": {
+      "tag_name": "v0.3.3",
+      "published_at": "2026-11-10T16:41:24Z",
+      "html_url": "https://github.com/JuckyLee668/v2rayH/releases/tag/v0.3.3"
+    },
+    "latest_hap_release": {
+      "tag_name": "v0.3.3",
+      "published_at": "2026-11-10T16:41:24Z",
+      "html_url": "https://github.com/JuckyLee668/v2rayH/releases/tag/v0.3.3",
+      "assets": [
+        {
+          "name": "v2rayH-0.3.3-unsigned.hap",
+          "browser_download_url": "https://github.com/JuckyLee668/v2rayH/releases/download/v0.3.3/v2rayH-0.3.3-unsigned.hap",
+          "size": 77442947
+        }
+      ]
+    }
+  },
+  {
+    "full_name": "zifeng-chen/istore-pilot",
+    "html_url": "https://github.com/zifeng-chen/istore-pilot",
+    "description": "iStoreOS 路由管理全家桶：路由器 Python Agent + Android / HarmonyOS / iOS 三端原生客户端 + 浏览器控制台",
+    "stars": 1,
+    "latest_release": {
+      "tag_name": "v0.3.0",
+      "published_at": "2026-11-10T16:17:13Z",
+      "html_url": "https://github.com/zifeng-chen/istore-pilot/releases/tag/v0.3.0"
+    },
+    "latest_hap_release": {
+      "tag_name": "v0.3.0",
+      "published_at": "2026-11-10T16:17:13Z",
+      "html_url": "https://github.com/zifeng-chen/istore-pilot/releases/tag/v0.3.0",
+      "assets": [
+        {
+          "name": "istoreos-0.3.0.hap",
+          "browser_download_url": "https://github.com/zifeng-chen/istore-pilot/releases/download/v0.3.0/istoreos-0.3.0.hap",
+          "size": 3091872
+        }
+      ]
+    }
+  },
+  {
+    "full_name": "metasequoiaime/msime",
+    "html_url": "https://github.com/metasequoiaime/msime",
+    "description": "下一代跨平台水杉输入法（MSIME）：面向 Android、iOS、macOS、Linux、Windows 与 HarmonyOS 的多平台中文输入法，使用共享输入引擎与各平台原生宿主。",
+    "stars": 1258,
+    "latest_release": {
+      "tag_name": "macos-v0.59.3",
+      "published_at": "2026-11-10T16:00:38Z",
+      "html_url": "https://github.com/metasequoiaime/msime/releases/tag/macos-v0.59.3"
+    },
+    "latest_hap_release": {
+      "tag_name": "harmony-v0.4.1",
+      "published_at": "2026-11-09T09:57:21Z",
+      "html_url": "https://github.com/metasequoiaime/msime/releases/tag/harmony-v0.4.1",
+      "assets": [
+        {
+          "name": "msime-harmony-0.4.1.hap",
+          "browser_download_url": "https://github.com/metasequoiaime/msime/releases/download/harmony-v0.4.1/msime-harmony-0.4.1.hap",
+          "size": 187609511
+        }
+      ]
+    }
+  },
+  {
+    "full_name": "GoodNima/Pokemon-SA-for-HarmonyOS",
+    "html_url": "https://github.com/GoodNima/Pokemon-SA-for-HarmonyOS",
+    "description": "鸿蒙原生移植版宝可梦SA，基于PC原版，本仓库仅发布hap安装包。",
+    "stars": 7,
+    "latest_release": {
+      "tag_name": "1.1.0.0",
+      "published_at": "2026-11-10T15:33:10Z",
+      "html_url": "https://github.com/GoodNima/Pokemon-SA-for-HarmonyOS/releases/tag/1.1.0.0"
+    },
+    "latest_hap_release": {
+      "tag_name": "1.1.0.0",
+      "published_at": "2026-11-10T15:33:10Z",
+      "html_url": "https://github.com/GoodNima/Pokemon-SA-for-HarmonyOS/releases/tag/1.1.0.0",
+      "assets": [
+        {
+          "name": "PokemonSA-1.1.0.0-debug-signed.hap",
+          "browser_download_url": "https://github.com/GoodNima/Pokemon-SA-for-HarmonyOS/releases/download/1.1.0.0/PokemonSA-1.1.0.0-debug-signed.hap",
+          "size": 2015254160
+        }
+      ]
+    }
+  },
+  {
+    "full_name": "WheretoSleepinNJU/njuschedule-hmos",
+    "html_url": "https://github.com/WheretoSleepinNJU/njuschedule-hmos",
+    "description": "呢喃课表（NJU Schedule NEXT）—— 南哪课表 App 的 HarmonyOS / ArkTS 原生重写版",
+    "stars": 0,
+    "latest_release": {
+      "tag_name": "v0.2.2",
+      "published_at": "2026-11-10T15:31:31Z",
+      "html_url": "https://github.com/WheretoSleepinNJU/njuschedule-hmos/releases/tag/v0.2.2"
+    },
+    "latest_hap_release": {
+      "tag_name": "v0.2.2",
+      "published_at": "2026-11-10T15:31:31Z",
+      "html_url": "https://github.com/WheretoSleepinNJU/njuschedule-hmos/releases/tag/v0.2.2",
+      "assets": [
+        {
+          "name": "njuschedule-hmos-0.2.2-unsigned.hap",
+          "browser_download_url": "https://github.com/WheretoSleepinNJU/njuschedule-hmos/releases/download/v0.2.2/njuschedule-hmos-0.2.2-unsigned.hap",
+          "size": 1169014
+        }
+      ]
+    }
+  },
+  {
+    "full_name": "springtwr/HandySend",
+    "html_url": "https://github.com/springtwr/HandySend",
+    "description": "鸿蒙跨设备文件传输应用，兼容 LocalSend 协议与互传联盟（MTA）",
+    "stars": 2,
+    "latest_release": {
+      "tag_name": "v2.5.0",
+      "published_at": "2026-11-10T14:40:35Z",
+      "html_url": "https://github.com/springtwr/HandySend/releases/tag/v2.5.0"
+    },
+    "latest_hap_release": {
+      "tag_name": "v2.5.0",
+      "published_at": "2026-11-10T14:40:35Z",
+      "html_url": "https://github.com/springtwr/HandySend/releases/tag/v2.5.0",
+      "assets": [
+        {
+          "name": "entry-default-unsigned.hap",
+          "browser_download_url": "https://github.com/springtwr/HandySend/releases/download/v2.5.0/entry-default-unsigned.hap",
+          "size": 14176769
+        }
+      ]
+    }
+  },
+  {
+    "full_name": "dgh1818/immich_ohos",
+    "html_url": "https://github.com/dgh1818/immich_ohos",
+    "description": "https://appgallery.huawei.com/apptest/6IZcBZYZcc2",
+    "stars": 92,
+    "latest_release": {
+      "tag_name": "v3.3.5-ohos-v0.0.3",
+      "published_at": "2026-11-10T14:36:28Z",
+      "html_url": "https://github.com/dgh1818/immich_ohos/releases/tag/v3.3.5-ohos-v0.0.3"
+    },
+    "latest_hap_release": {
+      "tag_name": "v3.3.5-ohos-v0.0.3",
+      "published_at": "2026-11-10T14:36:28Z",
+      "html_url": "https://github.com/dgh1818/immich_ohos/releases/tag/v3.3.5-ohos-v0.0.3",
+      "assets": [
+        {
+          "name": "entry-default-signed.hap",
+          "browser_download_url": "https://github.com/dgh1818/immich_ohos/releases/download/v3.3.5-ohos-v0.0.3/entry-default-signed.hap",
+          "size": 84407201
+        }
+      ]
+    }
+  },
+  {
+    "full_name": "haohaoai0/HarmonyX",
+    "html_url": "https://github.com/haohaoai0/HarmonyX",
+    "description": "A native, design-led X client for HarmonyOS — built with ArkTS and the Stage model.",
+    "stars": 318,
+    "latest_release": {
+      "tag_name": "v3.9.0",
+      "published_at": "2026-11-10T13:51:53Z",
+      "html_url": "https://github.com/haohaoai0/HarmonyX/releases/tag/v3.9.0"
+    },
+    "latest_hap_release": {
+      "tag_name": "v3.9.0",
+      "published_at": "2026-11-10T13:51:53Z",
+      "html_url": "https://github.com/haohaoai0/HarmonyX/releases/tag/v3.9.0",
+      "assets": [
+        {
+          "name": "entry-default-signed.hap",
+          "browser_download_url": "https://github.com/haohaoai0/HarmonyX/releases/download/v3.9.0/entry-default-signed.hap",
+          "size": 108408803
+        }
+      ]
+    }
+  },
+  {
+    "full_name": "xiaobailong/ClipboardMerger",
+    "html_url": "https://github.com/xiaobailong/ClipboardMerger",
+    "description": "ClipboardMerger (JianJi) is a free, non-commercial open-source clipboard merging tool for Android and HarmonyOS.",
+    "stars": 0,
+    "latest_release": {
+      "tag_name": "harmony-v1.101.0",
+      "published_at": "2026-11-10T13:20:16Z",
+      "html_url": "https://github.com/xiaobailong/ClipboardMerger/releases/tag/harmony-v1.101.0"
+    },
+    "latest_hap_release": {
+      "tag_name": "harmony-v1.101.0",
+      "published_at": "2026-11-10T13:20:16Z",
+      "html_url": "https://github.com/xiaobailong/ClipboardMerger/releases/tag/harmony-v1.101.0",
+      "assets": [
+        {
+          "name": "JianJi-HarmonyOS-v1.101.0-20100-release.hap",
+          "browser_download_url": "https://github.com/xiaobailong/ClipboardMerger/releases/download/harmony-v1.101.0/JianJi-HarmonyOS-v1.101.0-20100-release.hap",
+          "size": 246617
+        }
+      ]
+    }
+  },
+  {
+    "full_name": "miramira8295/Petrelgram",
+    "html_url": "https://github.com/miramira8295/Petrelgram",
+    "description": "",
+    "stars": 250,
+    "latest_release": {
+      "tag_name": "v1.5.9",
+      "published_at": "2026-11-10T07:29:58Z",
+      "html_url": "https://github.com/miramira8295/Petrelgram/releases/tag/v1.5.9"
+    },
+    "latest_hap_release": {
+      "tag_name": "v1.5.9",
+      "published_at": "2026-11-10T07:29:58Z",
+      "html_url": "https://github.com/miramira8295/Petrelgram/releases/tag/v1.5.9",
+      "assets": [
+        {
+          "name": "Petrelgram-1.5.9-unsigned.app.hap",
+          "browser_download_url": "https://github.com/miramira8295/Petrelgram/releases/download/v1.5.9/Petrelgram-1.5.9-unsigned.app.hap",
+          "size": 45947614
+        }
+      ]
+    }
+  },
+  {
     "full_name": "dogmicats/Amane-Harmony",
     "html_url": "https://github.com/dogmicats/Amane-Harmony",
     "description": "非官方 HarmonyOS 原生客户端，面向自建 JAV 媒体库（Amane）：番号检索、演员/共演组合筛选、分类浏览、收藏续播、mpv 硬解播放与外挂字幕；配套轻量 Python 旁挂服务，通过块缓存与并行预取优化网盘及冷区资源播放。Unofficial HarmonyOS (ArkUI + mpv) client for self-hosted Amane JAV media library.",
     "stars": 0,
     "latest_release": {
-      "tag_name": "v2.3.0",
-      "published_at": "2026-11-10T01:46:43Z",
-      "html_url": "https://github.com/dogmicats/Amane-Harmony/releases/tag/v2.3.0"
+      "tag_name": "v2.4.0",
+      "published_at": "2026-11-10T06:45:24Z",
+      "html_url": "https://github.com/dogmicats/Amane-Harmony/releases/tag/v2.4.0"
     },
     "latest_hap_release": {
-      "tag_name": "v2.3.0",
-      "published_at": "2026-11-10T01:46:43Z",
-      "html_url": "https://github.com/dogmicats/Amane-Harmony/releases/tag/v2.3.0",
+      "tag_name": "v2.4.0",
+      "published_at": "2026-11-10T06:45:24Z",
+      "html_url": "https://github.com/dogmicats/Amane-Harmony/releases/tag/v2.4.0",
       "assets": [
         {
-          "name": "Amane-2.3.0-unsigned.hap",
-          "browser_download_url": "https://github.com/dogmicats/Amane-Harmony/releases/download/v2.3.0/Amane-2.3.0-unsigned.hap",
-          "size": 39488441
+          "name": "Amane-2.4.0-unsigned.hap",
+          "browser_download_url": "https://github.com/dogmicats/Amane-Harmony/releases/download/v2.4.0/Amane-2.4.0-unsigned.hap",
+          "size": 39886600
+        }
+      ]
+    }
+  },
+  {
+    "full_name": "PCFXPCFX/OHSidian",
+    "html_url": "https://github.com/PCFXPCFX/OHSidian",
+    "description": "Using Obsidian on your HarmonyOS PC or tablet",
+    "stars": 2,
+    "latest_release": {
+      "tag_name": "v2.0.0",
+      "published_at": "2026-11-10T03:29:55Z",
+      "html_url": "https://github.com/PCFXPCFX/OHSidian/releases/tag/v2.0.0"
+    },
+    "latest_hap_release": {
+      "tag_name": "v2.0.0",
+      "published_at": "2026-11-10T03:29:55Z",
+      "html_url": "https://github.com/PCFXPCFX/OHSidian/releases/tag/v2.0.0",
+      "assets": [
+        {
+          "name": "OHSidian-v2.0.0-obsidian-icon-unsigned.hap",
+          "browser_download_url": "https://github.com/PCFXPCFX/OHSidian/releases/download/v2.0.0/OHSidian-v2.0.0-obsidian-icon-unsigned.hap",
+          "size": 117773941
+        },
+        {
+          "name": "OHSidian-v2.0.0-ohsidian-icon-unsigned.hap",
+          "browser_download_url": "https://github.com/PCFXPCFX/OHSidian/releases/download/v2.0.0/OHSidian-v2.0.0-ohsidian-icon-unsigned.hap",
+          "size": 119532932
         }
       ]
     }
@@ -49,7 +330,7 @@
     "full_name": "l9970509/AggPay",
     "html_url": "https://github.com/l9970509/AggPay",
     "description": "鸿蒙聚合支付 · 一键直达微信/支付宝付款码与扫码",
-    "stars": 0,
+    "stars": 1,
     "latest_release": {
       "tag_name": "v1.0.0",
       "published_at": "2026-11-09T14:10:02Z",
@@ -72,7 +353,7 @@
     "full_name": "servo/servo",
     "html_url": "https://github.com/servo/servo",
     "description": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
-    "stars": 38448,
+    "stars": 38458,
     "latest_release": {
       "tag_name": "v0.8.0",
       "published_at": "2026-11-09T12:29:13Z",
@@ -87,29 +368,6 @@
           "name": "servo-aarch64-linux-ohos.hap",
           "browser_download_url": "https://github.com/servo/servo/releases/download/v0.8.0/servo-aarch64-linux-ohos.hap",
           "size": 92962703
-        }
-      ]
-    }
-  },
-  {
-    "full_name": "simon2137/WGate",
-    "html_url": "https://github.com/simon2137/WGate",
-    "description": "WGate（维门）— 鸿蒙上的 WireGuard 客户端：从任何地方连回自己的家庭网络或服务器",
-    "stars": 3,
-    "latest_release": {
-      "tag_name": "v1.0.1",
-      "published_at": "2026-11-09T11:24:25Z",
-      "html_url": "https://github.com/simon2137/WGate/releases/tag/v1.0.1"
-    },
-    "latest_hap_release": {
-      "tag_name": "v1.0.1",
-      "published_at": "2026-11-09T11:24:25Z",
-      "html_url": "https://github.com/simon2137/WGate/releases/tag/v1.0.1",
-      "assets": [
-        {
-          "name": "entry-default-unsigned.hap",
-          "browser_download_url": "https://github.com/simon2137/WGate/releases/download/v1.0.1/entry-default-unsigned.hap",
-          "size": 4754206
         }
       ]
     }
@@ -138,56 +396,10 @@
     }
   },
   {
-    "full_name": "metasequoiaime/msime",
-    "html_url": "https://github.com/metasequoiaime/msime",
-    "description": "下一代跨平台水杉输入法（MSIME）：面向 Android、iOS、macOS、Linux、Windows 与 HarmonyOS 的多平台中文输入法，使用共享输入引擎与各平台原生宿主。",
-    "stars": 1233,
-    "latest_release": {
-      "tag_name": "harmony-v0.4.1",
-      "published_at": "2026-11-09T09:57:21Z",
-      "html_url": "https://github.com/metasequoiaime/msime/releases/tag/harmony-v0.4.1"
-    },
-    "latest_hap_release": {
-      "tag_name": "harmony-v0.4.1",
-      "published_at": "2026-11-09T09:57:21Z",
-      "html_url": "https://github.com/metasequoiaime/msime/releases/tag/harmony-v0.4.1",
-      "assets": [
-        {
-          "name": "msime-harmony-0.4.1.hap",
-          "browser_download_url": "https://github.com/metasequoiaime/msime/releases/download/harmony-v0.4.1/msime-harmony-0.4.1.hap",
-          "size": 187609511
-        }
-      ]
-    }
-  },
-  {
-    "full_name": "zifeng-chen/istore-pilot",
-    "html_url": "https://github.com/zifeng-chen/istore-pilot",
-    "description": "iStoreOS 路由管理全家桶：路由器 Python Agent + Android / HarmonyOS / iOS 三端原生客户端 + 浏览器控制台",
-    "stars": 1,
-    "latest_release": {
-      "tag_name": "v0.2.0",
-      "published_at": "2026-11-09T09:48:28Z",
-      "html_url": "https://github.com/zifeng-chen/istore-pilot/releases/tag/v0.2.0"
-    },
-    "latest_hap_release": {
-      "tag_name": "v0.1.7",
-      "published_at": "2026-11-06T10:27:50Z",
-      "html_url": "https://github.com/zifeng-chen/istore-pilot/releases/tag/v0.1.7",
-      "assets": [
-        {
-          "name": "istoreos-0.1.7.hap",
-          "browser_download_url": "https://github.com/zifeng-chen/istore-pilot/releases/download/v0.1.7/istoreos-0.1.7.hap",
-          "size": 2990168
-        }
-      ]
-    }
-  },
-  {
     "full_name": "HaJiMiManBoo111/harmonyos-usb-transfer",
     "html_url": "https://github.com/HaJiMiManBoo111/harmonyos-usb-transfer",
     "description": "Windows ↔ 鸿蒙电脑双向传文件，走 USB 数据线（hdc），不依赖局域网",
-    "stars": 1,
+    "stars": 2,
     "latest_release": {
       "tag_name": "flux-1.27.0",
       "published_at": "2026-11-09T08:00:47Z",
@@ -256,7 +468,7 @@
     "full_name": "Kyosee/VeneraX",
     "html_url": "https://github.com/Kyosee/VeneraX",
     "description": "基于 Venera 增强的跨平台漫画阅读器，支持 AI 翻译、鸿蒙系统及更多扩展功能。 | An enhanced, cross-platform comic reader based on Venera, featuring AI translation, HarmonyOS support, and more.",
-    "stars": 829,
+    "stars": 838,
     "latest_release": {
       "tag_name": "harmonyos-2.3.12-test.1",
       "published_at": "2026-11-09T04:56:31Z",
@@ -299,29 +511,6 @@
           "name": "EchoMusic_OHOS_1.3.0-unsigned.hap",
           "browser_download_url": "https://github.com/HU-WEITAO/EchoMusic_OHOS/releases/download/v1.3.0/EchoMusic_OHOS_1.3.0-unsigned.hap",
           "size": 232521422
-        }
-      ]
-    }
-  },
-  {
-    "full_name": "honjow/Koma",
-    "html_url": "https://github.com/honjow/Koma",
-    "description": "HarmonyOS 多源漫画阅读器",
-    "stars": 21,
-    "latest_release": {
-      "tag_name": "v1.4.1",
-      "published_at": "2026-11-09T00:11:28Z",
-      "html_url": "https://github.com/honjow/Koma/releases/tag/v1.4.1"
-    },
-    "latest_hap_release": {
-      "tag_name": "v1.4.1",
-      "published_at": "2026-11-09T00:11:28Z",
-      "html_url": "https://github.com/honjow/Koma/releases/tag/v1.4.1",
-      "assets": [
-        {
-          "name": "Koma_1.4.1_ohos-release-unsigned.hap",
-          "browser_download_url": "https://github.com/honjow/Koma/releases/download/v1.4.1/Koma_1.4.1_ohos-release-unsigned.hap",
-          "size": 37546773
         }
       ]
     }
@@ -455,7 +644,7 @@
     "full_name": "apap6628114/lnga_harmony",
     "html_url": "https://github.com/apap6628114/lnga_harmony",
     "description": "Harmony鸿蒙原生开源NGA",
-    "stars": 32,
+    "stars": 34,
     "latest_release": {
       "tag_name": "1.3.2",
       "published_at": "2026-11-08T13:11:53Z",
@@ -483,7 +672,7 @@
     "full_name": "Chevey339/kelivo",
     "html_url": "https://github.com/Chevey339/kelivo",
     "description": "A Flutter LLM Chat Client. Support Mobile & Desktop.",
-    "stars": 4472,
+    "stars": 4477,
     "latest_release": {
       "tag_name": "v1.3.5",
       "published_at": "2026-11-08T12:28:45Z",
@@ -506,7 +695,7 @@
     "full_name": "dev4harmony/PiliPlus",
     "html_url": "https://github.com/dev4harmony/PiliPlus",
     "description": "PiliPlus",
-    "stars": 400,
+    "stars": 404,
     "latest_release": {
       "tag_name": "2.1.6.2-ohos-3",
       "published_at": "2026-11-08T11:48:23Z",
@@ -575,7 +764,7 @@
     "full_name": "ansun1714/v2rayng-hos",
     "html_url": "https://github.com/ansun1714/v2rayng-hos",
     "description": "HarmonyOS 上的 v2rayNG 客户端：ArkTS UI + mihomo (Go) 内核 + NAPI 桥 + 系统 VPN 扩展。非官方项目，与 v2rayNG / mihomo 无隶属关系。",
-    "stars": 0,
+    "stars": 1,
     "latest_release": {
       "tag_name": "hap-latest",
       "published_at": "2026-11-08T09:45:53Z",
@@ -644,7 +833,7 @@
     "full_name": "wuweiyouzuoju/jidecards-anki-harmonyos",
     "html_url": "https://github.com/wuweiyouzuoju/jidecards-anki-harmonyos",
     "description": "基于 HarmonyOS 的 Anki 卡片学习客户端，复用 Anki Rust 后端",
-    "stars": 24,
+    "stars": 25,
     "latest_release": {
       "tag_name": "v26.11.09.9",
       "published_at": "2026-11-08T06:39:40Z",
@@ -690,7 +879,7 @@
     "full_name": "VOD-Studio/ArkClash",
     "html_url": "https://github.com/VOD-Studio/ArkClash",
     "description": "原生 HarmonyOS NEXT 代理客户端：mihomo 内核，ArkTS/ArkUI 界面，交互参考 FlClash",
-    "stars": 14,
+    "stars": 15,
     "latest_release": {
       "tag_name": "v0.4.0",
       "published_at": "2026-11-08T04:35:58Z",
@@ -784,6 +973,29 @@
     }
   },
   {
+    "full_name": "TZYLXS/yuedu-harmony",
+    "html_url": "https://github.com/TZYLXS/yuedu-harmony",
+    "description": "阅读（yuedu）HarmonyOS 客户端：接入 FnReader 的 /api/m/* 手机 API、Legado 书源桥与 WebDAV",
+    "stars": 1,
+    "latest_release": {
+      "tag_name": "v1.0.1",
+      "published_at": "2026-11-07T21:51:26Z",
+      "html_url": "https://github.com/TZYLXS/yuedu-harmony/releases/tag/v1.0.1"
+    },
+    "latest_hap_release": {
+      "tag_name": "v1.0.1",
+      "published_at": "2026-11-07T21:51:26Z",
+      "html_url": "https://github.com/TZYLXS/yuedu-harmony/releases/tag/v1.0.1",
+      "assets": [
+        {
+          "name": "yuedu-harmony-1.0.1-unsigned.hap",
+          "browser_download_url": "https://github.com/TZYLXS/yuedu-harmony/releases/download/v1.0.1/yuedu-harmony-1.0.1-unsigned.hap",
+          "size": 201215
+        }
+      ]
+    }
+  },
+  {
     "full_name": "AimesSoft/NipaPlay-Reload",
     "html_url": "https://github.com/AimesSoft/NipaPlay-Reload",
     "description": "NipaPlay-Reload 是一个现代化的跨平台本地视频播放器，支持 Windows、macOS、Linux、Android 和 iOS。集成了弹幕显示、多格式字幕支持、多音频轨道切换，新番查看等功能，支持挂载Emby/Jellyfin媒体库。采用 Flutter +rust开发，提供统一的用户体验。",
@@ -810,7 +1022,7 @@
     "full_name": "stlin256/DSH-Harmony",
     "html_url": "https://github.com/stlin256/DSH-Harmony",
     "description": "DeepSeek Harness 的 HarmonyOS 原生客户端（ArkUI/ArkTS）：会话、工具调用、审批、文件预览、Passkey、鸿蒙通知与桌面服务卡片。Native ArkUI client for DeepSeek Harness. 早期版本，需自建 DSH 服务。",
-    "stars": 10,
+    "stars": 11,
     "latest_release": {
       "tag_name": "v0.4.10",
       "published_at": "2026-11-07T16:56:33Z",
@@ -856,7 +1068,7 @@
     "full_name": "muleos/BYKEY-release",
     "html_url": "https://github.com/muleos/BYKEY-release",
     "description": "BY KEY｜鸿蒙手机端比亚迪蓝牙数字钥匙 App（沿用官方手表钥匙授权通道）。只发安装包，仅提供 HAP。",
-    "stars": 2,
+    "stars": 3,
     "latest_release": {
       "tag_name": "v1.6.14",
       "published_at": "2026-11-07T15:50:51Z",
@@ -981,7 +1193,7 @@
     "full_name": "sxyzc233/Phigros_HarmonyOS_adapter",
     "html_url": "https://github.com/sxyzc233/Phigros_HarmonyOS_adapter",
     "description": "",
-    "stars": 8,
+    "stars": 10,
     "latest_release": {
       "tag_name": "v1.0.6",
       "published_at": "2026-11-06T14:17:02Z",
@@ -1149,29 +1361,6 @@
     }
   },
   {
-    "full_name": "GoodNima/Pokemon-SA-for-HarmonyOS",
-    "html_url": "https://github.com/GoodNima/Pokemon-SA-for-HarmonyOS",
-    "description": "鸿蒙原生移植版宝可梦SA，基于PC原版，本仓库仅发布hap安装包。",
-    "stars": 7,
-    "latest_release": {
-      "tag_name": "1.0.0.0",
-      "published_at": "2026-11-05T16:23:25Z",
-      "html_url": "https://github.com/GoodNima/Pokemon-SA-for-HarmonyOS/releases/tag/1.0.0.0"
-    },
-    "latest_hap_release": {
-      "tag_name": "1.0.0.0",
-      "published_at": "2026-11-05T16:23:25Z",
-      "html_url": "https://github.com/GoodNima/Pokemon-SA-for-HarmonyOS/releases/tag/1.0.0.0",
-      "assets": [
-        {
-          "name": "PokemonSA-1.0.0.0-debug-signed.hap",
-          "browser_download_url": "https://github.com/GoodNima/Pokemon-SA-for-HarmonyOS/releases/download/1.0.0.0/PokemonSA-1.0.0.0-debug-signed.hap",
-          "size": 2025411497
-        }
-      ]
-    }
-  },
-  {
     "full_name": "xiaoli8571/TunBox",
     "html_url": "https://github.com/xiaoli8571/TunBox",
     "description": "TunBox 的 HarmonyOS NEXT 客户端：基于 mihomo 内核的原生代理工具，支持订阅、应用/网站分流、规则与节点测速。",
@@ -1313,7 +1502,7 @@
     "full_name": "erosTeam/NextN",
     "html_url": "https://github.com/erosTeam/NextN",
     "description": "原生 HarmonyOS NEXT 的 nhentai（NH）非官方客户端",
-    "stars": 24,
+    "stars": 25,
     "latest_release": {
       "tag_name": "v1.0.9",
       "published_at": "2026-11-04T20:20:23Z",
@@ -1356,29 +1545,6 @@
     }
   },
   {
-    "full_name": "springtwr/HandySend",
-    "html_url": "https://github.com/springtwr/HandySend",
-    "description": "鸿蒙跨设备文件传输应用，兼容 LocalSend 协议与互传联盟（MTA）",
-    "stars": 2,
-    "latest_release": {
-      "tag_name": "v2.3.0",
-      "published_at": "2026-11-04T12:32:49Z",
-      "html_url": "https://github.com/springtwr/HandySend/releases/tag/v2.3.0"
-    },
-    "latest_hap_release": {
-      "tag_name": "v2.3.0",
-      "published_at": "2026-11-04T12:32:49Z",
-      "html_url": "https://github.com/springtwr/HandySend/releases/tag/v2.3.0",
-      "assets": [
-        {
-          "name": "entry-default-unsigned.hap",
-          "browser_download_url": "https://github.com/springtwr/HandySend/releases/download/v2.3.0/entry-default-unsigned.hap",
-          "size": 13783004
-        }
-      ]
-    }
-  },
-  {
     "full_name": "nimmi114514/PicaComic_ohos",
     "html_url": "https://github.com/nimmi114514/PicaComic_ohos",
     "description": "鸿蒙next版PicaComic，适配HarmonyOS",
@@ -1405,7 +1571,7 @@
     "full_name": "jhaizhou-ops/d2r-mobile",
     "html_url": "https://github.com/jhaizhou-ops/d2r-mobile",
     "description": "Open-source compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad, Mac, Android and HarmonyOS — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS / 安卓 / 鸿蒙兼容层",
-    "stars": 5239,
+    "stars": 5253,
     "latest_release": {
       "tag_name": "v2.3.0",
       "published_at": "2026-11-04T10:39:03Z",
@@ -1471,33 +1637,10 @@
     }
   },
   {
-    "full_name": "JuckyLee668/v2rayH",
-    "html_url": "https://github.com/JuckyLee668/v2rayH",
-    "description": "此项目是基于鸿蒙平台开发的xray和sing-box双内核代理工具，适用于Harmony OS NEXT 6.1及以上。",
-    "stars": 18,
-    "latest_release": {
-      "tag_name": "v0.3.2",
-      "published_at": "2026-11-03T17:19:17Z",
-      "html_url": "https://github.com/JuckyLee668/v2rayH/releases/tag/v0.3.2"
-    },
-    "latest_hap_release": {
-      "tag_name": "v0.3.2",
-      "published_at": "2026-11-03T17:19:17Z",
-      "html_url": "https://github.com/JuckyLee668/v2rayH/releases/tag/v0.3.2",
-      "assets": [
-        {
-          "name": "v2rayH-0.3.2-unsigned.hap",
-          "browser_download_url": "https://github.com/JuckyLee668/v2rayH/releases/download/v0.3.2/v2rayH-0.3.2-unsigned.hap",
-          "size": 76877565
-        }
-      ]
-    }
-  },
-  {
     "full_name": "hbxs0571/legado-with-md3-harmonyos",
     "html_url": "https://github.com/hbxs0571/legado-with-md3-harmonyos",
     "description": "Legado with MD3 for HarmonyOS",
-    "stars": 3,
+    "stars": 4,
     "latest_release": {
       "tag_name": "v0.1.0",
       "published_at": "2026-11-03T15:01:51Z",
@@ -1571,7 +1714,7 @@
     "full_name": "NaivG/bilimusic",
     "html_url": "https://github.com/NaivG/bilimusic",
     "description": "基于 Dart / TypeScript / Vela JS 的哔哩哔哩音乐播放器",
-    "stars": 200,
+    "stars": 203,
     "latest_release": {
       "tag_name": "1.11.0+298",
       "published_at": "2026-11-02T11:49:19Z",
@@ -1594,7 +1737,7 @@
     "full_name": "tljk/FlClash-ohos",
     "html_url": "https://github.com/tljk/FlClash-ohos",
     "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
-    "stars": 336,
+    "stars": 339,
     "latest_release": {
       "tag_name": "v0.8.99+2026110201",
       "published_at": "2026-11-02T09:52:01Z",
@@ -1617,7 +1760,7 @@
     "full_name": "xiaobaigroup/HMOSHapURL",
     "html_url": "https://github.com/xiaobaigroup/HMOSHapURL",
     "description": "一个鸿蒙应用仓库收藏集，致力于收藏展示适配鸿蒙平台项目",
-    "stars": 99,
+    "stars": 100,
     "latest_release": {
       "tag_name": "2.0.1",
       "published_at": "2026-11-02T03:36:14Z",
@@ -1683,52 +1826,6 @@
           "name": "NekoBox4Harmony-2.7.0-unsigned.hap",
           "browser_download_url": "https://github.com/xiaoli8571/NekoBox4Harmony/releases/download/v2.7.0/NekoBox4Harmony-2.7.0-unsigned.hap",
           "size": 17394642
-        }
-      ]
-    }
-  },
-  {
-    "full_name": "WheretoSleepinNJU/njuschedule-hmos",
-    "html_url": "https://github.com/WheretoSleepinNJU/njuschedule-hmos",
-    "description": "呢喃课表（NJU Schedule NEXT）—— 南哪课表 App 的 HarmonyOS / ArkTS 原生重写版",
-    "stars": 0,
-    "latest_release": {
-      "tag_name": "v0.2.1",
-      "published_at": "2026-11-01T03:24:06Z",
-      "html_url": "https://github.com/WheretoSleepinNJU/njuschedule-hmos/releases/tag/v0.2.1"
-    },
-    "latest_hap_release": {
-      "tag_name": "v0.2.1",
-      "published_at": "2026-11-01T03:24:06Z",
-      "html_url": "https://github.com/WheretoSleepinNJU/njuschedule-hmos/releases/tag/v0.2.1",
-      "assets": [
-        {
-          "name": "njuschedule-hmos-0.2.1-unsigned.hap",
-          "browser_download_url": "https://github.com/WheretoSleepinNJU/njuschedule-hmos/releases/download/v0.2.1/njuschedule-hmos-0.2.1-unsigned.hap",
-          "size": 1160838
-        }
-      ]
-    }
-  },
-  {
-    "full_name": "haohaoai0/HarmonyX",
-    "html_url": "https://github.com/haohaoai0/HarmonyX",
-    "description": "A native, design-led X client for HarmonyOS — built with ArkTS and the Stage model.",
-    "stars": 317,
-    "latest_release": {
-      "tag_name": "v3.8.0",
-      "published_at": "2026-10-31T15:09:06Z",
-      "html_url": "https://github.com/haohaoai0/HarmonyX/releases/tag/v3.8.0"
-    },
-    "latest_hap_release": {
-      "tag_name": "v3.8.0",
-      "published_at": "2026-10-31T15:09:06Z",
-      "html_url": "https://github.com/haohaoai0/HarmonyX/releases/tag/v3.8.0",
-      "assets": [
-        {
-          "name": "HarmonyX-v3.8.0-unsigned.hap",
-          "browser_download_url": "https://github.com/haohaoai0/HarmonyX/releases/download/v3.8.0/HarmonyX-v3.8.0-unsigned.hap",
-          "size": 108058055
         }
       ]
     }
@@ -1885,7 +1982,7 @@
     "full_name": "nimmi114514/chromium-desktop-ohos",
     "html_url": "https://github.com/nimmi114514/chromium-desktop-ohos",
     "description": "鸿蒙系统桌面版本chromium移植产物",
-    "stars": 6,
+    "stars": 7,
     "latest_release": {
       "tag_name": "v1.0.1",
       "published_at": "2026-10-30T18:35:19Z",
@@ -1923,29 +2020,6 @@
           "name": "HarmoTail-v0.17.3.hap",
           "browser_download_url": "https://github.com/wuwu888/HarmoTail-Releases/releases/download/v0.17.3/HarmoTail-v0.17.3.hap",
           "size": 39034465
-        }
-      ]
-    }
-  },
-  {
-    "full_name": "miramira8295/Petrelgram",
-    "html_url": "https://github.com/miramira8295/Petrelgram",
-    "description": "",
-    "stars": 249,
-    "latest_release": {
-      "tag_name": "v1.5.6",
-      "published_at": "2026-10-30T09:55:52Z",
-      "html_url": "https://github.com/miramira8295/Petrelgram/releases/tag/v1.5.6"
-    },
-    "latest_hap_release": {
-      "tag_name": "v1.5.6",
-      "published_at": "2026-10-30T09:55:52Z",
-      "html_url": "https://github.com/miramira8295/Petrelgram/releases/tag/v1.5.6",
-      "assets": [
-        {
-          "name": "Petrelgram-1.5.6-unsigned.app.hap",
-          "browser_download_url": "https://github.com/miramira8295/Petrelgram/releases/download/v1.5.6/Petrelgram-1.5.6-unsigned.app.hap",
-          "size": 45591395
         }
       ]
     }
@@ -2051,7 +2125,7 @@
     "full_name": "zhailinlang/hapstore",
     "html_url": "https://github.com/zhailinlang/hapstore",
     "description": "",
-    "stars": 41,
+    "stars": 42,
     "latest_release": {
       "tag_name": "v1.0.2",
       "published_at": "2026-10-29T09:49:26Z",
@@ -2140,29 +2214,6 @@
           "name": "folia-mobile-0.6.18.hap",
           "browser_download_url": "https://github.com/zonglvye/folia-mobile/releases/download/v0.6.18/folia-mobile-0.6.18.hap",
           "size": 21175035
-        }
-      ]
-    }
-  },
-  {
-    "full_name": "dgh1818/immich_ohos",
-    "html_url": "https://github.com/dgh1818/immich_ohos",
-    "description": "https://appgallery.huawei.com/apptest/6IZcBZYZcc2",
-    "stars": 92,
-    "latest_release": {
-      "tag_name": "v3.3.5-ohos-v0.0.2",
-      "published_at": "2026-10-28T14:15:37Z",
-      "html_url": "https://github.com/dgh1818/immich_ohos/releases/tag/v3.3.5-ohos-v0.0.2"
-    },
-    "latest_hap_release": {
-      "tag_name": "v3.3.5-ohos-v0.0.2",
-      "published_at": "2026-10-28T14:15:37Z",
-      "html_url": "https://github.com/dgh1818/immich_ohos/releases/tag/v3.3.5-ohos-v0.0.2",
-      "assets": [
-        {
-          "name": "entry-default-signed.hap",
-          "browser_download_url": "https://github.com/dgh1818/immich_ohos/releases/download/v3.3.5-ohos-v0.0.2/entry-default-signed.hap",
-          "size": 84322837
         }
       ]
     }
@@ -2263,7 +2314,7 @@
     "full_name": "mason173/aira-browser",
     "html_url": "https://github.com/mason173/aira-browser",
     "description": "Aira Browser · 鸿蒙原生浏览器",
-    "stars": 269,
+    "stars": 270,
     "latest_release": {
       "tag_name": "v3.9.1",
       "published_at": "2026-10-27T09:26:23Z",
@@ -2309,7 +2360,7 @@
     "full_name": "MinamiJogen/HarmonyOS-GTA-V",
     "html_url": "https://github.com/MinamiJogen/HarmonyOS-GTA-V",
     "description": "鸿蒙原生运行的GTA V",
-    "stars": 7,
+    "stars": 8,
     "latest_release": {
       "tag_name": "v1.0.1",
       "published_at": "2026-10-27T08:56:48Z",
@@ -2401,7 +2452,7 @@
     "full_name": "mgz0227/legado-Harmony",
     "html_url": "https://github.com/mgz0227/legado-Harmony",
     "description": "开源阅读鸿蒙版仓库",
-    "stars": 2249,
+    "stars": 2252,
     "latest_release": {
       "tag_name": "V1.0.6.218",
       "published_at": "2026-10-26T09:57:48Z",
@@ -2416,34 +2467,6 @@
           "name": "Legado-1.0.6.218-26102521-unsigned.hap",
           "browser_download_url": "https://github.com/mgz0227/legado-Harmony/releases/download/V1.0.6.218/Legado-1.0.6.218-26102521-unsigned.hap",
           "size": 30273569
-        }
-      ]
-    }
-  },
-  {
-    "full_name": "PCFXPCFX/OHSidian",
-    "html_url": "https://github.com/PCFXPCFX/OHSidian",
-    "description": "Using Obsidian on your HarmonyOS PC or tablet",
-    "stars": 2,
-    "latest_release": {
-      "tag_name": "v1.4.2",
-      "published_at": "2026-10-25T16:05:32Z",
-      "html_url": "https://github.com/PCFXPCFX/OHSidian/releases/tag/v1.4.2"
-    },
-    "latest_hap_release": {
-      "tag_name": "v1.4.2",
-      "published_at": "2026-10-25T16:05:32Z",
-      "html_url": "https://github.com/PCFXPCFX/OHSidian/releases/tag/v1.4.2",
-      "assets": [
-        {
-          "name": "OHSidian-v1.4.2-obsidian-icon-unsigned.hap",
-          "browser_download_url": "https://github.com/PCFXPCFX/OHSidian/releases/download/v1.4.2/OHSidian-v1.4.2-obsidian-icon-unsigned.hap",
-          "size": 117350299
-        },
-        {
-          "name": "OHSidian-v1.4.2-ohsidian-icon-unsigned.hap",
-          "browser_download_url": "https://github.com/PCFXPCFX/OHSidian/releases/download/v1.4.2/OHSidian-v1.4.2-ohsidian-icon-unsigned.hap",
-          "size": 119109290
         }
       ]
     }
@@ -2513,29 +2536,6 @@
           "name": "qing-ce-guang-v1.2.1.hap",
           "browser_download_url": "https://github.com/ZsqNQ/dsh-meter/releases/download/v1.2.1/qing-ce-guang-v1.2.1.hap",
           "size": 673283
-        }
-      ]
-    }
-  },
-  {
-    "full_name": "xiaobailong/ClipboardMerger",
-    "html_url": "https://github.com/xiaobailong/ClipboardMerger",
-    "description": "ClipboardMerger (JianJi) is a free, non-commercial open-source clipboard merging tool for Android and HarmonyOS.",
-    "stars": 0,
-    "latest_release": {
-      "tag_name": "v1.94",
-      "published_at": "2026-10-24T06:46:07Z",
-      "html_url": "https://github.com/xiaobailong/ClipboardMerger/releases/tag/v1.94"
-    },
-    "latest_hap_release": {
-      "tag_name": "harmony-v1.99",
-      "published_at": "2026-10-07T11:28:26Z",
-      "html_url": "https://github.com/xiaobailong/ClipboardMerger/releases/tag/harmony-v1.99",
-      "assets": [
-        {
-          "name": "JianJi-HarmonyOS-v1.99-1000011.hap",
-          "browser_download_url": "https://github.com/xiaobailong/ClipboardMerger/releases/download/harmony-v1.99/JianJi-HarmonyOS-v1.99-1000011.hap",
-          "size": 432942
         }
       ]
     }
@@ -2746,7 +2746,7 @@
     "full_name": "ErBWs/Kazumi",
     "html_url": "https://github.com/ErBWs/Kazumi",
     "description": "该分支仓库目前用于发布 HarmonyOS NEXT 版本 hap 包",
-    "stars": 330,
+    "stars": 331,
     "latest_release": {
       "tag_name": "2.4.1",
       "published_at": "2026-10-23T05:21:33Z",
@@ -2838,7 +2838,7 @@
     "full_name": "Ember5843/YourPipe",
     "html_url": "https://github.com/Ember5843/YourPipe",
     "description": "一个基于New pipe extractor的鸿蒙youtube客户端实现",
-    "stars": 106,
+    "stars": 107,
     "latest_release": {
       "tag_name": "v0.7.0-1000032",
       "published_at": "2026-10-22T16:03:12Z",
@@ -3380,7 +3380,7 @@
     "full_name": "RockyMtnWolf/TunnelArk",
     "html_url": "https://github.com/RockyMtnWolf/TunnelArk",
     "description": "隧舟 TunnelArk: independent HarmonyOS Tailscale and FRP client with userspace coexistence",
-    "stars": 4,
+    "stars": 5,
     "latest_release": {
       "tag_name": "v1.1.3",
       "published_at": "2026-10-16T10:25:28Z",
@@ -3993,7 +3993,7 @@
     "full_name": "Sle2p/AniCh",
     "html_url": "https://github.com/Sle2p/AniCh",
     "description": "一个支持超分辨率的在线动漫弹幕APP。多平台，多番剧源，多弹幕，高清无广告。追番看番必备软件。",
-    "stars": 7852,
+    "stars": 7912,
     "latest_release": {
       "tag_name": "1.5.27",
       "published_at": "2026-10-05T03:15:29Z",
@@ -4389,7 +4389,7 @@
     "full_name": "DaLongZhuaZi/manxia",
     "html_url": "https://github.com/DaLongZhuaZi/manxia",
     "description": "漫匣是一款专为 HarmonyOS Next 平台开发的漫画阅读应用",
-    "stars": 63,
+    "stars": 64,
     "latest_release": {
       "tag_name": "latest",
       "published_at": "2026-09-28T15:54:47Z",
@@ -4956,7 +4956,7 @@
     "full_name": "winehua/WineHua",
     "html_url": "https://github.com/winehua/WineHua",
     "description": "Run Windows exe on HarmonyOS based on box64 and Wine",
-    "stars": 148,
+    "stars": 149,
     "latest_release": {
       "tag_name": "rc-1.0.31",
       "published_at": "2026-09-15T19:01:30Z",
@@ -5048,7 +5048,7 @@
     "full_name": "DandanLLab/mr",
     "html_url": "https://github.com/DandanLLab/mr",
     "description": "",
-    "stars": 111,
+    "stars": 112,
     "latest_release": {
       "tag_name": "v2609127-dev",
       "published_at": "2026-09-12T06:24:42Z",
@@ -5122,7 +5122,7 @@
     "full_name": "OpenBMB/MiniCPM-V-Apps",
     "html_url": "https://github.com/OpenBMB/MiniCPM-V-Apps",
     "description": "MiniCPM-V apps — fully offline multimodal chat on iOS / Android / HarmonyOS",
-    "stars": 518,
+    "stars": 519,
     "latest_release": {
       "tag_name": "v2.5",
       "published_at": "2026-09-08T14:32:44Z",
@@ -5500,7 +5500,7 @@
     "full_name": "forwardz666/Syncthing-for-HarmonyOS",
     "html_url": "https://github.com/forwardz666/Syncthing-for-HarmonyOS",
     "description": "A Syncthing client for HarmonyOS Next. Embeds the original Go Syncthing core: app-sandbox and Download/Documents public-directory sync, device/folder management, QR pairing, background keep-alive sync, real-time transfer.",
-    "stars": 15,
+    "stars": 16,
     "latest_release": {
       "tag_name": "v2.0.2",
       "published_at": "2026-08-22T08:07:12Z",
@@ -6090,7 +6090,7 @@
     "full_name": "flypigJ/Tailscale-OHOS",
     "html_url": "https://github.com/flypigJ/Tailscale-OHOS",
     "description": "MeshArc — Native Tailscale client for HarmonyOS NEXT. Connect devices, transfer files, and explore remote storage.",
-    "stars": 64,
+    "stars": 65,
     "latest_release": {
       "tag_name": "v0.3.19-release",
       "published_at": "2026-07-16T03:33:46Z",
@@ -6803,7 +6803,7 @@
     "full_name": "harmoninux/HiSH",
     "html_url": "https://github.com/harmoninux/HiSH",
     "description": "在鸿蒙上运行Linux Shell，支持手机、平板、2in1/PC",
-    "stars": 685,
+    "stars": 686,
     "latest_release": {
       "tag_name": "release-20260516",
       "published_at": "2026-05-16T15:22:53Z",
@@ -6849,7 +6849,7 @@
     "full_name": "autobcb/read",
     "html_url": "https://github.com/autobcb/read",
     "description": " 轻阅读一个全移动端可用的阅读应用，支持多端同步阅读进度，适配各种屏幕尺寸。 后端搭建视频教程：https://space.bilibili.com/517034064 ，麻烦一键三连下。",
-    "stars": 918,
+    "stars": 919,
     "latest_release": {
       "tag_name": "3.4.6b3",
       "published_at": "2026-05-14T15:54:03Z",
@@ -6992,7 +6992,7 @@
     "full_name": "xiaobaigroup/ClashBox",
     "html_url": "https://github.com/xiaobaigroup/ClashBox",
     "description": "HarmonyOS NEXT的代理软件",
-    "stars": 4780,
+    "stars": 4781,
     "latest_release": {
       "tag_name": "1.7.4",
       "published_at": "2026-04-02T14:50:20Z",
@@ -7038,7 +7038,7 @@
     "full_name": "likuai2010/auto-installer",
     "html_url": "https://github.com/likuai2010/auto-installer",
     "description": "HarmonyOS Next Hap installer",
-    "stars": 3148,
+    "stars": 3154,
     "latest_release": {
       "tag_name": "3.1.0",
       "published_at": "2026-03-25T01:22:17Z",
@@ -7490,7 +7490,7 @@
     "full_name": "mistrainn/harmonyTarget",
     "html_url": "https://github.com/mistrainn/harmonyTarget",
     "description": "鸿蒙客户端测试靶场",
-    "stars": 28,
+    "stars": 29,
     "latest_release": {
       "tag_name": "v1.1",
       "published_at": "2025-12-04T02:48:11Z",
