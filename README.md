@@ -6,8 +6,9 @@
 - 数据来源：GitHub Search API（harmonyos / openharmony / hap 关键词）+ 公共 Release 事件 + 手工种子仓库。
 - 原始数据：`data/projects.json`。
 - 版本展示：优先显示最新 Release；最近含 `.hap` 附件的 Release 及下载信息仍保留在原始数据中。
-- 消息推送：Actions 采集及提交成功后，通过 MeoW 推送本轮“今日更新”（项目、版本、简介及 Release 链接）；无更新时也发送通知。默认使用已配置的推送地址，可通过仓库 Secret `MEOW_PUSH_URL` 覆盖。推送失败会使工作流报错。
+- 消息推送：Actions 采集及提交成功后，通过 MeoW 推送本轮“今日更新”的日期及项目数量，点击通知打开本仓库的完整列表；无更新时也发送通知。通知正文不包含第三方项目简介及 Release 链接，以减少内容策略拒绝的可能。默认使用已配置的推送地址，可通过仓库 Secret `MEOW_PUSH_URL` 覆盖。推送失败会使工作流报错；若摘要仍返回业务状态码 403，需联系 MeoW 开发者核查策略。
 - 本地预览推送：`python scripts/push_today_updates.py --dry-run`（不发送消息）。
+- 本地预览完整列表：`python scripts/push_today_updates.py --dry-run --detailed`（仅预览，不用于发送）。
 
 安装工具推荐：
 [HoKit](https://github.com/yabi-zzh/HoKit)

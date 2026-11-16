@@ -15,12 +15,12 @@ class PushTodayUpdatesTests(unittest.TestCase):
         }, "latest_hap_release": {
             "published_at": "2026-08-23T00:00:00Z", "tag_name": "v1",
         }}
-        _, message = push.build_message(readme, [project])
+        _, message = push.build_message(readme, [project], detailed=True)
         self.assertIn("共 1 个项目更新", message)
         self.assertIn("owner/app · v2", message)
         self.assertIn("https://example.com/v2", message)
         # 当 HAP 日期命中而最新 Release 日期不命中时，也不得推送旧版本。
-        _, message = push.build_message(readme.replace("2026-11-02", "2026-08-23"), [project])
+        _, message = push.build_message(readme.replace("2026-11-02", "2026-08-23"), [project], detailed=True)
         self.assertIn("共 0 个项目更新", message)
 
     def test_uses_readme_statistics_date(self):
@@ -30,7 +30,7 @@ class PushTodayUpdatesTests(unittest.TestCase):
                 "published_at": "2026-10-26T12:00:00Z", "tag_name": "v1", "html_url": "https://example.com/release"}},
             {"full_name": "owner/other", "latest_hap_release": {"published_at": "2026-10-27T00:00:00Z"}},
         ]
-        title, message = push.build_message(readme, projects)
+        title, message = push.build_message(readme, projects, detailed=True)
         self.assertIn("2026-10-26", title)
         for value in ("owner/app", "v1", "应用简介", "https://example.com/release", "共 1 个项目更新"):
             self.assertIn(value, message)
@@ -39,6 +39,15 @@ class PushTodayUpdatesTests(unittest.TestCase):
     def test_no_updates(self):
         title, message = push.build_message('<summary><strong>今日更新</strong>（0 个项目）</summary>暂无更新。</details>', [])
         self.assertEqual(message, "今日暂无更新。")
+
+    def test_default_notification_only_contains_summary(self):
+        readme = '<summary><strong>今日更新</strong></summary>统计日期：2026-11-02（UTC）</details>'
+        project = {"full_name": "owner/app", "description": "第三方自由文本", "latest_release": {
+            "published_at": "2026-11-02T03:00:00Z", "html_url": "https://example.com/release"}}
+        _, message = push.build_message(readme, [project])
+        self.assertIn("共 1 个项目更新", message)
+        for value in ("owner/app", "第三方自由文本", "https://example.com/release"):
+            self.assertNotIn(value, message)
 
     @patch.object(push.requests, "post")
     def test_post_and_business_status(self, post):

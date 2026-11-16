@@ -25,7 +25,7 @@ class PushError(ValueError):
     """可以安全写入日志、不包含推送地址或响应原文的错误。"""
 
 
-def build_message(readme, projects):
+def build_message(readme, projects, *, detailed=False):
     # 使用已生成的统计日期，避免任务跨过日期边界后与 README 不一致。
     section = readme.split("<summary><strong>今日更新</strong>", 1)[1].split("</details>", 1)[0]
     match = re.search(r"统计日期：(\d{4}-\d{2}-\d{2})（UTC）", section)
@@ -39,6 +39,11 @@ def build_message(readme, projects):
         (p for p in projects if ((p.get("latest_release") or p.get("latest_hap_release") or {}).get("published_at") or "")[:10] == date),
         key=lambda p: (p.get("latest_release") or p.get("latest_hap_release") or {}).get("published_at") or "", reverse=True,
     )
+    if not detailed:
+        return (
+            f"HAP 今日更新 · {date}",
+            f"统计日期：{date}（UTC）\n共 {len(updates)} 个项目更新。\n请打开项目导航查看完整列表。",
+        )
     lines = [f"统计日期：{date}（UTC）", f"共 {len(updates)} 个项目更新", ""]
     for project in updates:
         release = project.get("latest_release") or project.get("latest_hap_release") or {}
@@ -86,10 +91,14 @@ def send_message(push_url, title, message):
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--dry-run", action="store_true", help="仅预览推送内容，不发送请求")
+    parser.add_argument("--detailed", action="store_true", help="配合 --dry-run 预览完整项目列表")
     args = parser.parse_args()
+    if args.detailed and not args.dry_run:
+        parser.error("--detailed 仅用于 --dry-run，实际通知只发送摘要")
     title, message = build_message(
         (ROOT / "README.md").read_text(encoding="utf-8"),
         json.loads((ROOT / "data/projects.json").read_text(encoding="utf-8")),
+        detailed=args.detailed,
     )
     if args.dry_run:
         print(f"{title}\n\n{message}")
@@ -101,6 +110,8 @@ def main():
         send_message(push_url or DEFAULT_PUSH_URL, title, message)
     except PushError as exc:
         print(f"MeoW 推送失败：{exc}。", file=sys.stderr)
+        if "业务状态码 403" in str(exc):
+            print("若摘要仍返回 403，请联系 MeoW 开发者核查内容策略；重复运行同一请求不能解决策略拒绝。", file=sys.stderr)
         raise SystemExit(1)
     print("今日更新推送成功。")
 
