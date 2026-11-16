@@ -108,7 +108,14 @@ class ClassificationTests(unittest.TestCase):
             "GoodNima/DanXi_HarmonyOS": "教育",
             "JNGKZbird/Arknights-Angelina-Pet-YuYuan-HarmonyOS-NEXT": "影音娱乐",
             "l9970509/AggPay": "工具与实用程序",
-            "VoidInHeart/DevControl_openHarmony": "其他",
+            "VoidInHeart/DevControl_openHarmony": "工具与实用程序",
+            "XiotenStellar67/StarPivot": "开发",
+            "chenchen-008/blender-harmonyos": "影音娱乐",
+            "Torotar/Pinmony": "社交网络",
+            "llnode/hmos-qwitter": "社交网络",
+            "duanyudan86/ha-companion-harmonyos": "工具与实用程序",
+            "CDUESTC-OpenAtom-Open-Source-Club/Campus-Safety-Connect": "办公",
+            "WistfulReverie/Openharmony": "其他",
         }
         for name, category in expected.items():
             with self.subTest(project=name):
