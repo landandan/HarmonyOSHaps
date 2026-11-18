@@ -38,22 +38,22 @@
 
 <!-- HAP_TABLE_START -->
 <!-- 自动生成，请勿手动编辑 -->
-**共收录 389 个项目** · 更新于 2026-11-18T02:44 (UTC)
+**共收录 389 个项目** · 更新于 2026-11-18T05:18 (UTC)
 
 <a id="hap-menu" name="hap-menu"></a>
 
 - [今日更新：18](#hap-today)
-- [工具与实用程序：95](#hap-utilities)
+- [工具与实用程序：97](#hap-utilities)
 - [办公：14](#hap-office)
 - [影音娱乐：73](#hap-media)
 - [阅读：41](#hap-reading)
 - [教育：14](#hap-education)
 - [代理工具：28](#hap-proxy)
 - [游戏：27](#hap-games)
-- [开发：52](#hap-development)
+- [开发：53](#hap-development)
 - [网络浏览器：10](#hap-browsers)
-- [社交网络：30](#hap-social)
-- [其他：5](#hap-other)
+- [社交网络：31](#hap-social)
+- [其他：1](#hap-other)
 
 <a id="hap-today" name="hap-today"></a>
 
@@ -90,13 +90,14 @@
 <a id="hap-utilities" name="hap-utilities"></a>
 
 <details open>
-<summary><strong>工具与实用程序</strong>（95 个项目）</summary>
+<summary><strong>工具与实用程序</strong>（97 个项目）</summary>
 
 | 项目 | 简介 | ⭐ Stars | 📅 更新日期 | 🏷️ 最新版本 |
 |:-----|:-----|:-------:|:-----------:|:------------|
 | [**WineHua**](https://github.com/winehua/WineHua)<br><sub>winehua</sub> | Run Windows exe on HarmonyOS based on box64 and Wine | 151 | 2026-11-18 | [rc-<wbr>1.<wbr>0.<wbr>32](https://github.com/winehua/WineHua/releases/tag/rc-1.0.32) |
 | [**BYKEY-release**](https://github.com/muleos/BYKEY-release)<br><sub>muleos</sub> | BY KEY｜鸿蒙手机端比亚迪蓝牙数字钥匙 App（沿用官方手表钥匙授权通道）。只发安装包，仅提供 HAP。 | 4 | 2026-11-17 | [v1.<wbr>7.<wbr>23](https://github.com/muleos/BYKEY-release/releases/tag/v1.7.23) |
 | [**HMOSHapURL**](https://github.com/xiaobaigroup/HMOSHapURL)<br><sub>xiaobaigroup</sub> | 一个鸿蒙应用仓库收藏集，致力于收藏展示适配鸿蒙平台项目 | 100 | 2026-11-17 | [2.<wbr>0.<wbr>2](https://github.com/xiaobaigroup/HMOSHapURL/releases/tag/2.0.2) |
+| [**Olex2-HarmonyPC**](https://github.com/huihui200739/Olex2-HarmonyPC)<br><sub>huihui200739</sub> | Olex2（晶体学软件）的 HarmonyOS PC 移植：上游 commit 固定 + 122 份补丁 + N-<wbr>… | 1 | 2026-11-17 | [0.<wbr>22.<wbr>62](https://github.com/huihui200739/Olex2-HarmonyPC/releases/tag/0.22.62) |
 | [**msime**](https://github.com/metasequoiaime/msime)<br><sub>metasequoiaime</sub> | 下一代跨平台水杉输入法（MSIME）：面向 Android、iOS、macOS、Linux、Windows 与 H… | 1,355 | 2026-11-17 | [windows-<wbr>v0.<wbr>5.<wbr>0](https://github.com/metasequoiaime/msime/releases/tag/windows-v0.5.0) |
 | [**quietstart-pro**](https://github.com/thx853068675-dev/quietstart-pro)<br><sub>thx853068675-dev</sub> | 轻启 Pro · HarmonyOS 自动化与网络工具预览版发布 | 8 | 2026-11-17 | [v1.<wbr>0.<wbr>1-<wbr>preview-<wbr>130125](https://github.com/thx853068675-dev/quietstart-pro/releases/tag/v1.0.1-preview-130125) |
 | [**Homowarden**](https://github.com/DreamistW/Homowarden)<br><sub>DreamistW</sub> | 跨平台开源密码管理应用 Bitwarden 的鸿蒙平台实现 | 37 | 2026-11-16 | [oh-<wbr>v2.<wbr>0.<wbr>4](https://github.com/DreamistW/Homowarden/releases/tag/oh-v2.0.4) |
@@ -113,6 +114,7 @@
 | [**AggPay**](https://github.com/l9970509/AggPay)<br><sub>l9970509</sub> | 鸿蒙聚合支付 · 一键直达微信/<wbr>支付宝付款码与扫码 | 1 | 2026-11-09 | [v1.<wbr>0.<wbr>0](https://github.com/l9970509/AggPay/releases/tag/v1.0.0) |
 | [**harmonyos-usb-transfer**](https://github.com/HaJiMiManBoo111/harmonyos-usb-transfer)<br><sub>HaJiMiManBoo111</sub> | Windows ↔ 鸿蒙电脑双向传文件，走 USB 数据线（hdc），不依赖局域网 | 2 | 2026-11-09 | [flux-<wbr>1.<wbr>27.<wbr>0](https://github.com/HaJiMiManBoo111/harmonyos-usb-transfer/releases/tag/flux-1.27.0) |
 | [**LanDrop**](https://github.com/wchhhhhhhhhhhhh/LanDrop)<br><sub>wchhhhhhhhhhhhh</sub> | 局域网文件互传 · macOS /<wbr> Windows /<wbr> Android /<wbr> HarmonyOS 四端原生客户端。U… | 1 | 2026-11-09 | [v2.<wbr>0.<wbr>0](https://github.com/wchhhhhhhhhhhhh/LanDrop/releases/tag/v2.0.0) |
+| [**HarmonySkip**](https://github.com/mengyixiao001-code/HarmonySkip)<br><sub>mengyixiao001-code</sub> | 轻跳：鸿蒙开屏广告跳过助手 | 2 | 2026-11-08 | [v0.<wbr>3.<wbr>9](https://github.com/mengyixiao001-code/HarmonySkip/releases/tag/v0.3.9) |
 | [**Deepin-HarmonyOS-Bridge**](https://github.com/THUDou/Deepin-HarmonyOS-Bridge)<br><sub>THUDou</sub> | DHB alpha source: C++ core + HarmonyOS HAP + docs.<wbr> Gate A… | 23 | 2026-11-07 | [v0.<wbr>1.<wbr>0-<wbr>alpha.<wbr>4](https://github.com/THUDou/Deepin-HarmonyOS-Bridge/releases/tag/v0.1.0-alpha.4) |
 | [**iStore**](https://github.com/HWYWL/iStore)<br><sub>HWYWL</sub> | 鸿蒙版本的OpenWRT管理APP，开发中。。。 | 12 | 2026-11-06 | [v3.<wbr>7.<wbr>0](https://github.com/HWYWL/iStore/releases/tag/v3.7.0) |
 | [**harmony-bridge**](https://github.com/chinachenkeke-source/harmony-bridge)<br><sub>chinachenkeke-source</sub> | HarmonyOS ↔ macOS 投屏、操作与文件互传｜USB /<wbr> Wi-<wbr>Fi | 1 | 2026-11-05 | [v1.<wbr>0.<wbr>0](https://github.com/chinachenkeke-source/harmony-bridge/releases/tag/v1.0.0) |
@@ -466,11 +468,12 @@
 <a id="hap-development" name="hap-development"></a>
 
 <details open>
-<summary><strong>开发</strong>（52 个项目）</summary>
+<summary><strong>开发</strong>（53 个项目）</summary>
 
 | 项目 | 简介 | ⭐ Stars | 📅 更新日期 | 🏷️ 最新版本 |
 |:-----|:-----|:-------:|:-----------:|:------------|
 | [**pocket-harness-ohos**](https://github.com/snoworwind/pocket-harness-ohos)<br><sub>snoworwind</sub> | DeepSeek Harness 的 HarmonyOS 原生版：官方 Web GUI + IEC 原生执行核 +… | 1 | 2026-11-17 | [v0.<wbr>1.<wbr>0.<wbr>4](https://github.com/snoworwind/pocket-harness-ohos/releases/tag/v0.1.0.4) |
+| [**Qodex**](https://github.com/llnode/Qodex)<br><sub>llnode</sub> | Native AI development workspace for HarmonyOS phones and … | 8 | 2026-11-17 | [v2.<wbr>0.<wbr>0](https://github.com/llnode/Qodex/releases/tag/v2.0.0) |
 | [**zcode-ohos**](https://github.com/yuanbaobaoo/zcode-ohos)<br><sub>yuanbaobaoo</sub> | ZCode Desktop 鸿蒙系统（HarmonyOS）适配版本 | 17 | 2026-11-16 | [v3.<wbr>18.<wbr>2-<wbr>ohos-<wbr>patch1](https://github.com/yuanbaobaoo/zcode-ohos/releases/tag/v3.18.2-ohos-patch1) |
 | [**Android-SSH-Codex**](https://github.com/wkj2333666/Android-SSH-Codex)<br><sub>wkj2333666</sub> | Codex Desktop-<wbr>style mobile UI that securely controls remo… | 4 | 2026-11-15 | [v0.<wbr>4.<wbr>49](https://github.com/wkj2333666/Android-SSH-Codex/releases/tag/v0.4.49) |
 | [**StarPivot**](https://github.com/XiotenStellar67/StarPivot)<br><sub>XiotenStellar67</sub> | 星枢 StarPivot —— 鸿蒙版Shizuku，把 HDC 的 shell 能力封装成本机 HTTP 接口 | 12 | 2026-11-15 | [1.<wbr>2.<wbr>0](https://github.com/XiotenStellar67/StarPivot/releases/tag/1.2.0) |
@@ -552,7 +555,7 @@
 <a id="hap-social" name="hap-social"></a>
 
 <details open>
-<summary><strong>社交网络</strong>（30 个项目）</summary>
+<summary><strong>社交网络</strong>（31 个项目）</summary>
 
 | 项目 | 简介 | ⭐ Stars | 📅 更新日期 | 🏷️ 最新版本 |
 |:-----|:-----|:-------:|:-----------:|:------------|
@@ -584,6 +587,7 @@
 | [**OHgram**](https://github.com/HanversionOvO/OHgram)<br><sub>HanversionOvO</sub> | telegram 3rd party client for HarmonyOS 2in1/<wbr>tablet devices | 39 | 2026-06-17 | [v1.<wbr>0.<wbr>0](https://github.com/HanversionOvO/OHgram/releases/tag/v1.0.0) |
 | [**HMTG**](https://github.com/YuanChu-Tec/HMTG)<br><sub>YuanChu-Tec</sub> | Telegram for HarmonyOS | 57 | 2026-05-25 | [HMTG1.<wbr>0.<wbr>4](https://github.com/YuanChu-Tec/HMTG/releases/tag/HMTG1.0.4) |
 | [**HMTG_Archive**](https://github.com/YuanChu-Tec/HMTG_Archive)<br><sub>YuanChu-Tec</sub> | Telegram for HarmonyOS | 50 | 2026-05-25 | [HMTG1.<wbr>0.<wbr>4](https://github.com/YuanChu-Tec/HMTG_Archive/releases/tag/HMTG1.0.4) |
+| [**SSEMarket-X**](https://github.com/SysuMirror/SSEMarket-X)<br><sub>SysuMirror</sub> | 基于 Flutter 构建的集市多端应用，支持 Android /<wbr> iOS /<wbr> HarmonyOS /<wbr> Windo… | 4 | 2026-02-09 | [v0.<wbr>6.<wbr>6-<wbr>beta](https://github.com/SysuMirror/SSEMarket-X/releases/tag/v0.6.6-beta) |
 | [**fishpi-harmony**](https://github.com/FishPiOffical/fishpi-harmony)<br><sub>FishPiOffical</sub> | 摸鱼派鸿蒙Next App(开发中) | 4 | 2025-10-10 | [pre-<wbr>V0.<wbr>0.<wbr>1](https://github.com/FishPiOffical/fishpi-harmony/releases/tag/pre-V0.0.1) |
 | [**Web-Telegram-for-OpenHarmony**](https://github.com/XHXYT/Web-Telegram-for-OpenHarmony)<br><sub>XHXYT</sub> | 一个使用网页版电报封装的OpenHarmony平台应用，支持文件的下载与上传等功能。 | 52 | 2024-10-28 | [1.<wbr>3.<wbr>5](https://github.com/XHXYT/Web-Telegram-for-OpenHarmony/releases/tag/1.3.5) |
 
@@ -594,14 +598,10 @@
 <a id="hap-other" name="hap-other"></a>
 
 <details open>
-<summary><strong>其他</strong>（5 个项目）</summary>
+<summary><strong>其他</strong>（1 个项目）</summary>
 
 | 项目 | 简介 | ⭐ Stars | 📅 更新日期 | 🏷️ 最新版本 |
 |:-----|:-----|:-------:|:-----------:|:------------|
-| [**Qodex**](https://github.com/llnode/Qodex)<br><sub>llnode</sub> | Native AI development workspace for HarmonyOS phones and … | 8 | 2026-11-17 | [v2.<wbr>0.<wbr>0](https://github.com/llnode/Qodex/releases/tag/v2.0.0) |
-| [**Olex2-HarmonyPC**](https://github.com/huihui200739/Olex2-HarmonyPC)<br><sub>huihui200739</sub> | Olex2（晶体学软件）的 HarmonyOS PC 移植：上游 commit 固定 + 122 份补丁 + N-<wbr>… | 1 | 2026-11-17 | [0.<wbr>22.<wbr>62](https://github.com/huihui200739/Olex2-HarmonyPC/releases/tag/0.22.62) |
-| [**HarmonySkip**](https://github.com/mengyixiao001-code/HarmonySkip)<br><sub>mengyixiao001-code</sub> | 轻跳：鸿蒙开屏广告跳过助手 | 2 | 2026-11-08 | [v0.<wbr>3.<wbr>9](https://github.com/mengyixiao001-code/HarmonySkip/releases/tag/v0.3.9) |
-| [**SSEMarket-X**](https://github.com/SysuMirror/SSEMarket-X)<br><sub>SysuMirror</sub> | 基于 Flutter 构建的集市多端应用，支持 Android /<wbr> iOS /<wbr> HarmonyOS /<wbr> Windo… | 4 | 2026-02-09 | [v0.<wbr>6.<wbr>6-<wbr>beta](https://github.com/SysuMirror/SSEMarket-X/releases/tag/v0.6.6-beta) |
 | [**Openharmony**](https://github.com/WistfulReverie/Openharmony)<br><sub>WistfulReverie</sub> | first harmony app | 0 | 2025-12-19 | [v1](https://github.com/WistfulReverie/Openharmony/releases/tag/v1) |
 
 [↑ 返回菜单](#hap-menu)
