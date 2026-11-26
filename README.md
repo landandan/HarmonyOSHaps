@@ -38,56 +38,53 @@
 
 <!-- HAP_TABLE_START -->
 <!-- 自动生成，请勿手动编辑 -->
-**共收录 421 个项目** · 更新于 2026-11-25T03:51 (UTC)
+**共收录 429 个项目** · 更新于 2026-11-26T04:10 (UTC)
 
 <a id="hap-menu" name="hap-menu"></a>
 
-- [今日更新：24](#hap-today)
+- [今日更新：21](#hap-today)
 - [工具与实用程序：103](#hap-utilities)
 - [办公：14](#hap-office)
-- [影音娱乐：79](#hap-media)
+- [影音娱乐：81](#hap-media)
 - [阅读：44](#hap-reading)
-- [教育：18](#hap-education)
+- [教育：19](#hap-education)
 - [代理工具：31](#hap-proxy)
 - [游戏：30](#hap-games)
-- [开发：57](#hap-development)
+- [开发：58](#hap-development)
 - [网络浏览器：11](#hap-browsers)
 - [社交网络：32](#hap-social)
-- [其他：2](#hap-other)
+- [其他：6](#hap-other)
 
 <a id="hap-today" name="hap-today"></a>
 
 <details open>
-<summary><strong>今日更新</strong>（24 个项目）</summary>
+<summary><strong>今日更新</strong>（21 个项目）</summary>
 
-统计日期：2026-11-24（UTC），项目同时保留在下方原分类中。
+统计日期：2026-11-25（UTC），项目同时保留在下方原分类中。
 
 | 项目 | 简介 | ⭐ Stars | 📅 更新日期 | 🏷️ 最新版本 |
 |:-----|:-----|:-------:|:-----------:|:------------|
-| [**DeepSeekGo-Harmony**](https://github.com/APXS114514/DeepSeekGo-Harmony)<br><sub>APXS114514</sub> | 基于 DeepSeek 官方 Chat Demo 开发的第三方 HarmonyOS 客户端，支持系统语音输入、图片… | 4 | 2026-11-24 | [v1.<wbr>7.<wbr>0](https://github.com/APXS114514/DeepSeekGo-Harmony/releases/tag/v1.7.0) |
-| [**Anomicon**](https://github.com/Suixin04/Anomicon)<br><sub>Suixin04</sub> | 面向 HarmonyOS 的非官方 SCP 中文阅读与探索应用，支持档案与故事浏览、本地收藏、阅读历史及交互式 3… | 2 | 2026-11-24 | [v1.<wbr>2.<wbr>10(1020010)](https://github.com/Suixin04/Anomicon/releases/tag/v1.2.10(1020010)) |
-| [**MuLi**](https://github.com/yqamm/MuLi)<br><sub>yqamm</sub> | 鸿蒙端bilibili移植 | 5 | 2026-11-24 | [V2.<wbr>1.<wbr>0](https://github.com/yqamm/MuLi/releases/tag/V2.1.0) |
-| [**Phigros_HarmonyOS_adapter**](https://github.com/sxyzc233/Phigros_HarmonyOS_adapter)<br><sub>sxyzc233</sub> | — | 19 | 2026-11-24 | [v4.<wbr>1.<wbr>0.<wbr>1](https://github.com/sxyzc233/Phigros_HarmonyOS_adapter/releases/tag/v4.1.0.1) |
-| [**V2ray_ohos**](https://github.com/ches2010/V2ray_ohos)<br><sub>ches2010</sub> | V2RayNG ported to HarmonyOS NEXT (ArkTS + ArkUI + NAPI, X… | 0 | 2026-11-24 | [v2.<wbr>0.<wbr>1](https://github.com/ches2010/V2ray_ohos/releases/tag/v2.0.1) |
-| [**tiktoh**](https://github.com/DUDUXXR2/tiktoh)<br><sub>DUDUXXR2</sub> | 鸿蒙短视频客户端 TikToh —— 仅分发安装包与更新日志，不含源码 | 97 | 2026-11-24 | [v0.<wbr>3.<wbr>2](https://github.com/DUDUXXR2/tiktoh/releases/tag/v0.3.2) |
-| [**las-recomp-ohos**](https://github.com/xiaoheng11111/las-recomp-ohos)<br><sub>xiaoheng11111</sub> | — | 0 | 2026-11-24 | [v17.<wbr>8](https://github.com/xiaoheng11111/las-recomp-ohos/releases/tag/v17.8) |
-| [**OHSidian**](https://github.com/PCFXPCFX/OHSidian)<br><sub>PCFXPCFX</sub> | Using Obsidian on your HarmonyOS PC or tablet | 5 | 2026-11-24 | [v2.<wbr>2.<wbr>1](https://github.com/PCFXPCFX/OHSidian/releases/tag/v2.2.1) |
-| [**Pvz-Gardendless-harmony**](https://github.com/WingedFin1251/Pvz-Gardendless-harmony)<br><sub>WingedFin1251</sub> | Pvz Gardendless的鸿蒙移植版 | 8 | 2026-11-24 | [v0.<wbr>16.<wbr>31](https://github.com/WingedFin1251/Pvz-Gardendless-harmony/releases/tag/v0.16.31) |
-| [**ShuYoHarmony**](https://github.com/rskzayton/ShuYoHarmony)<br><sub>rskzayton</sub> | SHU友 原生鸿蒙版 — 专为上海大学师生设计的校园一站式服务 HarmonyOS 应用 | 0 | 2026-11-24 | [v0.<wbr>6.<wbr>0.<wbr>2](https://github.com/rskzayton/ShuYoHarmony/releases/tag/v0.6.0.2) |
-| [**VeneraX**](https://github.com/Kyosee/VeneraX)<br><sub>Kyosee</sub> | 基于 Venera 增强的跨平台漫画阅读器，支持 AI 翻译、鸿蒙系统及更多功能。 \| An enhanced, … | 1,025 | 2026-11-24 | [v3.<wbr>0.<wbr>2](https://github.com/Kyosee/VeneraX/releases/tag/v3.0.2) |
-| [**BYKEY-release**](https://github.com/muleos/BYKEY-release)<br><sub>muleos</sub> | BY KEY｜鸿蒙手机端比亚迪蓝牙数字钥匙 App（沿用官方手表钥匙授权通道）。只发安装包，仅提供 HAP。 | 7 | 2026-11-24 | [v1.<wbr>8.<wbr>35](https://github.com/muleos/BYKEY-release/releases/tag/v1.8.35) |
-| [**MarcoMovie**](https://github.com/Pilipala9919/MarcoMovie)<br><sub>Pilipala9919</sub> | 由 Pilipala 开发的多端自适应播放器（支持 Android 电视/<wbr>手机/<wbr>平板、Apple TV、Harmo… | 1,138 | 2026-11-24 | [android-<wbr>mobile-<wbr>v0.<wbr>7.<wbr>0](https://github.com/Pilipala9919/MarcoMovie/releases/tag/android-mobile-v0.7.0) |
-| [**seal-office**](https://github.com/fangzhouxiaohai/seal-office)<br><sub>fangzhouxiaohai</sub> | 永久免费强大的AI办公软件，支持windows，macos，Android，IOS，鸿蒙平台，Web;已上架联想应… | 95 | 2026-11-24 | [v2.<wbr>7.<wbr>10](https://github.com/fangzhouxiaohai/seal-office/releases/tag/v2.7.10) |
-| [**ReadRss**](https://github.com/junytang/ReadRss)<br><sub>junytang</sub> | RSS reader for HarmonyOS | 0 | 2026-11-24 | [harmonyos-<wbr>v1.<wbr>2.<wbr>0](https://github.com/junytang/ReadRss/releases/tag/harmonyos-v1.2.0) |
-| [**LinMinHaoChat**](https://github.com/93857536-pixel/LinMinHaoChat)<br><sub>93857536-pixel</sub> | 端到端加密聊天(E2EE):免注册临时聊天 /<wbr> 邀请群聊(6位码门禁) /<wbr> 永久账号(已读回执·加密附件·在线状态… | 1 | 2026-11-24 | [v1.<wbr>0](https://github.com/93857536-pixel/LinMinHaoChat/releases/tag/v1.0) |
-| [**CoderStudio**](https://github.com/Snortom/CoderStudio)<br><sub>Snortom</sub> | Coder Studio官方发行仓库 | 1 | 2026-11-24 | [1.<wbr>3.<wbr>0](https://github.com/Snortom/CoderStudio/releases/tag/1.3.0) |
-| [**BiliMusic-Desktop**](https://github.com/licpp/BiliMusic-Desktop)<br><sub>licpp</sub> | B站音乐播放器，整理自己的音乐库。支持 macOS、Windows、Android、iOS 自签版、鸿蒙自签版，可… | 158 | 2026-11-24 | [v0.<wbr>4.<wbr>4](https://github.com/licpp/BiliMusic-Desktop/releases/tag/v0.4.4) |
-| [**ArkClash**](https://github.com/VOD-Studio/ArkClash)<br><sub>VOD-Studio</sub> | 原生 HarmonyOS NEXT 代理客户端：mihomo 内核，ArkTS/<wbr>ArkUI 界面，交互参考 FlC… | 37 | 2026-11-24 | [v0.<wbr>6.<wbr>1](https://github.com/VOD-Studio/ArkClash/releases/tag/v0.6.1) |
-| [**Petrelgram**](https://github.com/miramira8295/Petrelgram)<br><sub>miramira8295</sub> | — | 270 | 2026-11-24 | [v1.<wbr>6.<wbr>0](https://github.com/miramira8295/Petrelgram/releases/tag/v1.6.0) |
-| [**zcode-ohos**](https://github.com/yuanbaobaoo/zcode-ohos)<br><sub>yuanbaobaoo</sub> | ZCode Desktop 鸿蒙系统（HarmonyOS）适配版本 | 19 | 2026-11-24 | [v4.<wbr>0.<wbr>0-<wbr>ohos-<wbr>patch3](https://github.com/yuanbaobaoo/zcode-ohos/releases/tag/v4.0.0-ohos-patch3) |
-| [**LxMine**](https://github.com/YuriLin1028/LxMine)<br><sub>YuriLin1028</sub> | LxMine：融合 LX Music 音源与 Mineradio 沉浸视觉的跨端音乐播放器（Windows /<wbr> H… | 33 | 2026-11-24 | [v1.<wbr>3.<wbr>0](https://github.com/YuriLin1028/LxMine/releases/tag/v1.3.0) |
-| [**quietstart-pro**](https://github.com/thx853068675-dev/quietstart-pro)<br><sub>thx853068675-dev</sub> | 轻启 Pro · HarmonyOS 自动化与网络工具预览版发布 | 11 | 2026-11-24 | [v1.<wbr>0.<wbr>5-<wbr>preview-<wbr>130412](https://github.com/thx853068675-dev/quietstart-pro/releases/tag/v1.0.5-preview-130412) |
-| [**HandySend**](https://github.com/springtwr/HandySend)<br><sub>springtwr</sub> | 鸿蒙跨设备文件传输应用，兼容 LocalSend 协议与互传联盟（MTA） | 4 | 2026-11-24 | [v2.<wbr>7.<wbr>0](https://github.com/springtwr/HandySend/releases/tag/v2.7.0) |
+| [**MarcoMovie**](https://github.com/Pilipala9919/MarcoMovie)<br><sub>Pilipala9919</sub> | 由 Pilipala 开发的多端自适应播放器（支持 Android 电视/<wbr>手机/<wbr>平板、Apple TV、Harmo… | 1,179 | 2026-11-25 | [macos-<wbr>v0.<wbr>6.<wbr>1](https://github.com/Pilipala9919/MarcoMovie/releases/tag/macos-v0.6.1) |
+| [**MuLi**](https://github.com/yqamm/MuLi)<br><sub>yqamm</sub> | 鸿蒙端bilibili移植 | 5 | 2026-11-25 | [V2.<wbr>1.<wbr>1](https://github.com/yqamm/MuLi/releases/tag/V2.1.1) |
+| [**ArkClash**](https://github.com/VOD-Studio/ArkClash)<br><sub>VOD-Studio</sub> | 原生 HarmonyOS NEXT 代理客户端：mihomo 内核，ArkTS/<wbr>ArkUI 界面，交互参考 FlC… | 43 | 2026-11-25 | [v0.<wbr>6.<wbr>2](https://github.com/VOD-Studio/ArkClash/releases/tag/v0.6.2) |
+| [**manxia**](https://github.com/DaLongZhuaZi/manxia)<br><sub>DaLongZhuaZi</sub> | 漫匣是一款专为 HarmonyOS Next 平台开发的漫画阅读应用 | 62 | 2026-11-25 | [latest](https://github.com/DaLongZhuaZi/manxia/releases/tag/latest) |
+| [**BiliMusic-Desktop**](https://github.com/licpp/BiliMusic-Desktop)<br><sub>licpp</sub> | B站音乐播放器，整理自己的音乐库。支持 macOS、Windows、Android、iOS 自签版、鸿蒙自签版，可… | 166 | 2026-11-25 | [v0.<wbr>4.<wbr>5](https://github.com/licpp/BiliMusic-Desktop/releases/tag/v0.4.5) |
+| [**Qinghong**](https://github.com/XHXYT/Qinghong)<br><sub>XHXYT</sub> | 一款为 HarmonyOS 打造的轻快好用浏览器 | 6 | 2026-11-25 | [v1.<wbr>0.<wbr>2](https://github.com/XHXYT/Qinghong/releases/tag/v1.0.2) |
+| [**quietstart-pro**](https://github.com/thx853068675-dev/quietstart-pro)<br><sub>thx853068675-dev</sub> | 轻启 Pro · HarmonyOS 自动化与网络工具预览版发布 | 11 | 2026-11-25 | [v1.<wbr>0.<wbr>6-<wbr>preview-<wbr>130437](https://github.com/thx853068675-dev/quietstart-pro/releases/tag/v1.0.6-preview-130437) |
+| [**pilink**](https://github.com/chai2shi-spec/pilink)<br><sub>chai2shi-spec</sub> | 原生鸿蒙B站客户端，集成空降助手，手势操控，ai总结，云同步数据功能。流畅又丰富。 | 19 | 2026-11-25 | [v1.<wbr>1.<wbr>8](https://github.com/chai2shi-spec/pilink/releases/tag/v1.1.8) |
+| [**123Pan-Harmony**](https://github.com/weige146/123Pan-Harmony)<br><sub>weige146</sub> | 123 云盘第三方鸿蒙原生客户端，全AI开发，自用版本。 | 5 | 2026-11-25 | [v1.<wbr>1.<wbr>0](https://github.com/weige146/123Pan-Harmony/releases/tag/v1.1.0) |
+| [**ShuYoHarmony**](https://github.com/rskzayton/ShuYoHarmony)<br><sub>rskzayton</sub> | SHU友 原生鸿蒙版 — 专为上海大学师生设计的校园一站式服务 HarmonyOS 应用 | 0 | 2026-11-25 | [v0.<wbr>5.<wbr>4](https://github.com/rskzayton/ShuYoHarmony/releases/tag/v0.5.4) |
+| [**quietstart**](https://github.com/thx853068675-dev/quietstart)<br><sub>thx853068675-dev</sub> | HarmonyOS 原生页面控件识别辅助工具。按提示对页面识别与学习，自动生成规则。 | 315 | 2026-11-25 | [v1.<wbr>3.<wbr>2-<wbr>preview-<wbr>1320002](https://github.com/thx853068675-dev/quietstart/releases/tag/v1.3.2-preview-1320002) |
+| [**Anomicon**](https://github.com/Suixin04/Anomicon)<br><sub>Suixin04</sub> | 面向 HarmonyOS 的非官方 SCP 中文阅读与探索应用，支持档案与故事浏览、本地收藏、阅读历史及交互式 3… | 2 | 2026-11-25 | [v1.<wbr>2.<wbr>11(1020011)](https://github.com/Suixin04/Anomicon/releases/tag/v1.2.11(1020011)) |
+| [**Petrelgram**](https://github.com/miramira8295/Petrelgram)<br><sub>miramira8295</sub> | — | 273 | 2026-11-25 | [v1.<wbr>6.<wbr>2](https://github.com/miramira8295/Petrelgram/releases/tag/v1.6.2) |
+| [**Breeze-ohos**](https://github.com/tianmeng-xiu/Breeze-ohos)<br><sub>tianmeng-xiu</sub> | HarmonyOS /<wbr> OpenHarmony 原生漫画阅读器：ArkTS 应用 + Rust 编写的 Quick… | 1 | 2026-11-25 | [v1.<wbr>12.<wbr>0](https://github.com/tianmeng-xiu/Breeze-ohos/releases/tag/v1.12.0) |
+| [**UBAA-Ark**](https://github.com/li-peipeipeipei/UBAA-Ark)<br><sub>li-peipeipeipei</sub> | UBAA 的 HarmonyOS 原生特别版 · ArkTS /<wbr> ArkUI /<wbr> HDS · Make BUAA … | 1 | 2026-11-25 | [v0.<wbr>9.<wbr>0-<wbr>r2](https://github.com/li-peipeipeipei/UBAA-Ark/releases/tag/v0.9.0-r2) |
+| [**HarmonyOSMusicPlayer**](https://github.com/bilibiliales/HarmonyOSMusicPlayer)<br><sub>bilibiliales</sub> | 一款用 ArkTS 为 HarmonyOS NEXT 构建的在线音乐播放器。一款受网易云音乐平台启发的现代化鸿蒙轻… | 5 | 2026-11-25 | [v1.<wbr>0.<wbr>7](https://github.com/bilibiliales/HarmonyOSMusicPlayer/releases/tag/v1.0.7) |
+| [**zcode-ohos**](https://github.com/yuanbaobaoo/zcode-ohos)<br><sub>yuanbaobaoo</sub> | ZCode Desktop 鸿蒙系统（HarmonyOS）适配版本 | 19 | 2026-11-25 | [v4.<wbr>0.<wbr>0-<wbr>ohos-<wbr>patch4](https://github.com/yuanbaobaoo/zcode-ohos/releases/tag/v4.0.0-ohos-patch4) |
+| [**LxMine**](https://github.com/YuriLin1028/LxMine)<br><sub>YuriLin1028</sub> | LxMine：融合 LX Music 音源与 Mineradio 沉浸视觉的跨端音乐播放器（Windows /<wbr> H… | 36 | 2026-11-25 | [v1.<wbr>3.<wbr>1](https://github.com/YuriLin1028/LxMine/releases/tag/v1.3.1) |
+| [**Amane-Harmony**](https://github.com/dogmicats/Amane-Harmony)<br><sub>dogmicats</sub> | 自建 Amane 媒体库的非官方 HarmonyOS NEXT 客户端（ArkUI + mpv）与旁挂服务：共演甄… | 4 | 2026-11-25 | [v2.<wbr>9.<wbr>1](https://github.com/dogmicats/Amane-Harmony/releases/tag/v2.9.1) |
+| [**lvlian-view-hm**](https://github.com/fhf2022/lvlian-view-hm)<br><sub>fhf2022</sub> | 联文件｜基于 ArkTS /<wbr> ArkUI 的 HarmonyOS NEXT 第三方绿联 NAS 文件管理器，支持图… | 4 | 2026-11-25 | [v1.<wbr>0.<wbr>21](https://github.com/fhf2022/lvlian-view-hm/releases/tag/v1.0.21) |
+| [**Koma**](https://github.com/honjow/Koma)<br><sub>honjow</sub> | HarmonyOS 多源漫画阅读器 | 39 | 2026-11-25 | [v1.<wbr>6.<wbr>2](https://github.com/honjow/Koma/releases/tag/v1.6.2) |
 
 [↑ 返回菜单](#hap-menu)
 
@@ -100,20 +97,20 @@
 
 | 项目 | 简介 | ⭐ Stars | 📅 更新日期 | 🏷️ 最新版本 |
 |:-----|:-----|:-------:|:-----------:|:------------|
+| [**quietstart-pro**](https://github.com/thx853068675-dev/quietstart-pro)<br><sub>thx853068675-dev</sub> | 轻启 Pro · HarmonyOS 自动化与网络工具预览版发布 | 11 | 2026-11-25 | [v1.<wbr>0.<wbr>6-<wbr>preview-<wbr>130437](https://github.com/thx853068675-dev/quietstart-pro/releases/tag/v1.0.6-preview-130437) |
+| [**quietstart**](https://github.com/thx853068675-dev/quietstart)<br><sub>thx853068675-dev</sub> | HarmonyOS 原生页面控件识别辅助工具。按提示对页面识别与学习，自动生成规则。 | 315 | 2026-11-25 | [v1.<wbr>3.<wbr>2-<wbr>preview-<wbr>1320002](https://github.com/thx853068675-dev/quietstart/releases/tag/v1.3.2-preview-1320002) |
 | [**lvlian-view-hm**](https://github.com/fhf2022/lvlian-view-hm)<br><sub>fhf2022</sub> | 联文件｜基于 ArkTS /<wbr> ArkUI 的 HarmonyOS NEXT 第三方绿联 NAS 文件管理器，支持图… | 4 | 2026-11-25 | [v1.<wbr>0.<wbr>21](https://github.com/fhf2022/lvlian-view-hm/releases/tag/v1.0.21) |
-| [**quietstart**](https://github.com/thx853068675-dev/quietstart)<br><sub>thx853068675-dev</sub> | HarmonyOS 原生页面控件识别辅助工具。按提示对页面识别与学习，自动生成规则。 | 310 | 2026-11-25 | [v1.<wbr>3.<wbr>2-<wbr>preview-<wbr>1320000](https://github.com/thx853068675-dev/quietstart/releases/tag/v1.3.2-preview-1320000) |
 | [**DeepSeekGo-Harmony**](https://github.com/APXS114514/DeepSeekGo-Harmony)<br><sub>APXS114514</sub> | 基于 DeepSeek 官方 Chat Demo 开发的第三方 HarmonyOS 客户端，支持系统语音输入、图片… | 4 | 2026-11-24 | [v1.<wbr>7.<wbr>0](https://github.com/APXS114514/DeepSeekGo-Harmony/releases/tag/v1.7.0) |
 | [**BYKEY-release**](https://github.com/muleos/BYKEY-release)<br><sub>muleos</sub> | BY KEY｜鸿蒙手机端比亚迪蓝牙数字钥匙 App（沿用官方手表钥匙授权通道）。只发安装包，仅提供 HAP。 | 7 | 2026-11-24 | [v1.<wbr>8.<wbr>35](https://github.com/muleos/BYKEY-release/releases/tag/v1.8.35) |
 | [**LinMinHaoChat**](https://github.com/93857536-pixel/LinMinHaoChat)<br><sub>93857536-pixel</sub> | 端到端加密聊天(E2EE):免注册临时聊天 /<wbr> 邀请群聊(6位码门禁) /<wbr> 永久账号(已读回执·加密附件·在线状态… | 1 | 2026-11-24 | [v1.<wbr>0](https://github.com/93857536-pixel/LinMinHaoChat/releases/tag/v1.0) |
-| [**quietstart-pro**](https://github.com/thx853068675-dev/quietstart-pro)<br><sub>thx853068675-dev</sub> | 轻启 Pro · HarmonyOS 自动化与网络工具预览版发布 | 11 | 2026-11-24 | [v1.<wbr>0.<wbr>5-<wbr>preview-<wbr>130412](https://github.com/thx853068675-dev/quietstart-pro/releases/tag/v1.0.5-preview-130412) |
 | [**HandySend**](https://github.com/springtwr/HandySend)<br><sub>springtwr</sub> | 鸿蒙跨设备文件传输应用，兼容 LocalSend 协议与互传联盟（MTA） | 4 | 2026-11-24 | [v2.<wbr>7.<wbr>0](https://github.com/springtwr/HandySend/releases/tag/v2.7.0) |
-| [**kelivo**](https://github.com/Chevey339/kelivo)<br><sub>Chevey339</sub> | A Flutter LLM Chat Client.<wbr> Support Mobile & Desktop.<wbr> | 4,763 | 2026-11-22 | [v1.<wbr>3.<wbr>7](https://github.com/Chevey339/kelivo/releases/tag/v1.3.7) |
+| [**kelivo**](https://github.com/Chevey339/kelivo)<br><sub>Chevey339</sub> | A Flutter LLM Chat Client.<wbr> Support Mobile & Desktop.<wbr> | 4,783 | 2026-11-22 | [v1.<wbr>3.<wbr>7](https://github.com/Chevey339/kelivo/releases/tag/v1.3.7) |
 | [**ohos-archiver**](https://github.com/BytinIsDead/ohos-archiver)<br><sub>BytinIsDead</sub> | File browser and ZIP archive manager for HarmonyOS (ArkTS… | 0 | 2026-11-22 | [v1.<wbr>0.<wbr>0](https://github.com/BytinIsDead/ohos-archiver/releases/tag/v1.0.0) |
 | [**qts-nas-harmony**](https://github.com/Lukasmo2013/qts-nas-harmony)<br><sub>Lukasmo2013</sub> | QNAP NAS HarmonyOS native app -<wbr> file station, containers,… | 0 | 2026-11-22 | [v2.<wbr>1.<wbr>10](https://github.com/Lukasmo2013/qts-nas-harmony/releases/tag/v2.1.10) |
-| [**UUHarmony**](https://github.com/real-LEONEAST/UUHarmony)<br><sub>real-LEONEAST</sub> | 面向鸿蒙手机、平板和电脑的开源远程桌面与文件传输工具，兼容网易 UU 远程服务，支持鸿蒙电脑屏幕共享。 | 0 | 2026-11-22 | [v1.<wbr>1.<wbr>0](https://github.com/real-LEONEAST/UUHarmony/releases/tag/v1.1.0) |
+| [**UUHarmony**](https://github.com/real-LEONEAST/UUHarmony)<br><sub>real-LEONEAST</sub> | 面向鸿蒙手机、平板和电脑的开源远程桌面与文件传输工具，兼容网易 UU 远程服务，支持鸿蒙电脑屏幕共享。 | 2 | 2026-11-22 | [v1.<wbr>1.<wbr>0](https://github.com/real-LEONEAST/UUHarmony/releases/tag/v1.1.0) |
 | [**sony-headphones-harmony**](https://github.com/wadasudent/sony-headphones-harmony)<br><sub>wadasudent</sub> | Sony Headphones Assistant for HarmonyOS.<wbr> Manage battery, … | 0 | 2026-11-21 | [v0.<wbr>5.<wbr>0](https://github.com/wadasudent/sony-headphones-harmony/releases/tag/v0.5.0) |
 | [**istore-pilot**](https://github.com/zifeng-chen/istore-pilot)<br><sub>zifeng-chen</sub> | iStoreOS 路由管理全家桶：路由器 Python Agent + Android /<wbr> HarmonyOS /<wbr>… | 3 | 2026-11-21 | [v0.<wbr>4.<wbr>5](https://github.com/zifeng-chen/istore-pilot/releases/tag/v0.4.5) |
-| [**msime**](https://github.com/metasequoiaime/msime)<br><sub>metasequoiaime</sub> | 下一代跨平台水杉输入法（MSIME）：面向 Android、iOS、macOS、Linux、Windows 与 H… | 1,463 | 2026-11-19 | [windows-<wbr>v0.<wbr>6.<wbr>1](https://github.com/metasequoiaime/msime/releases/tag/windows-v0.6.1) |
+| [**msime**](https://github.com/metasequoiaime/msime)<br><sub>metasequoiaime</sub> | 下一代跨平台水杉输入法（MSIME）：面向 Android、iOS、macOS、Linux、Windows 与 H… | 1,476 | 2026-11-19 | [windows-<wbr>v0.<wbr>6.<wbr>1](https://github.com/metasequoiaime/msime/releases/tag/windows-v0.6.1) |
 | [**Wake-HarmonyOS**](https://github.com/azhuge233/Wake-HarmonyOS)<br><sub>azhuge233</sub> | Wake-<wbr>on-<wbr>LAN on HarmonyOS NEXT | 0 | 2026-11-18 | [2.<wbr>9.<wbr>0](https://github.com/azhuge233/Wake-HarmonyOS/releases/tag/2.9.0) |
 | [**turbo-ai-chat-harmonyos**](https://github.com/Torry2022/turbo-ai-chat-harmonyos)<br><sub>Torry2022</sub> | Multi-<wbr>model native LLM chat for HarmonyOS NEXT with MNN R… | 1 | 2026-11-18 | [v2.<wbr>1.<wbr>0](https://github.com/Torry2022/turbo-ai-chat-harmonyos/releases/tag/v2.1.0) |
 | [**WineHua**](https://github.com/winehua/WineHua)<br><sub>winehua</sub> | Run Windows exe on HarmonyOS based on box64 and Wine | 151 | 2026-11-18 | [rc-<wbr>1.<wbr>0.<wbr>32](https://github.com/winehua/WineHua/releases/tag/rc-1.0.32) |
@@ -123,7 +120,7 @@
 | [**CFLark-Harmony**](https://github.com/Bailin-Love/CFLark-Harmony)<br><sub>Bailin-Love</sub> | CFLark（CFLark-<wbr>Harmony）：鸿蒙 HarmonyOS NEXT 原生 Cloudflare 节点… | 33 | 2026-11-14 | [v1.<wbr>4.<wbr>5](https://github.com/Bailin-Love/CFLark-Harmony/releases/tag/v1.4.5) |
 | [**StarPilot**](https://github.com/wenyaoxuan/StarPilot)<br><sub>wenyaoxuan</sub> | Wearable astronomy and deep-<wbr>sky astrophotography assistan… | 1 | 2026-11-13 | [v0.<wbr>1.<wbr>1](https://github.com/wenyaoxuan/StarPilot/releases/tag/v0.1.1) |
 | [**ha-companion-harmonyos**](https://github.com/duanyudan86/ha-companion-harmonyos)<br><sub>duanyudan86</sub> | 面向 HarmonyOS NEXT 的 Home Assistant 原生伴侣应用。 | 3 | 2026-11-12 | [v1.<wbr>4.<wbr>6](https://github.com/duanyudan86/ha-companion-harmonyos/releases/tag/v1.4.6) |
-| [**MiniCPM-V-Apps**](https://github.com/OpenBMB/MiniCPM-V-Apps)<br><sub>OpenBMB</sub> | MiniCPM-<wbr>V apps — fully offline multimodal chat on iOS /<wbr> A… | 534 | 2026-11-12 | [v2.<wbr>6](https://github.com/OpenBMB/MiniCPM-V-Apps/releases/tag/v2.6) |
+| [**MiniCPM-V-Apps**](https://github.com/OpenBMB/MiniCPM-V-Apps)<br><sub>OpenBMB</sub> | MiniCPM-<wbr>V apps — fully offline multimodal chat on iOS /<wbr> A… | 536 | 2026-11-12 | [v2.<wbr>6](https://github.com/OpenBMB/MiniCPM-V-Apps/releases/tag/v2.6) |
 | [**AggPay**](https://github.com/l9970509/AggPay)<br><sub>l9970509</sub> | 鸿蒙聚合支付 · 一键直达微信/<wbr>支付宝付款码与扫码 | 1 | 2026-11-09 | [v1.<wbr>0.<wbr>0](https://github.com/l9970509/AggPay/releases/tag/v1.0.0) |
 | [**harmonyos-usb-transfer**](https://github.com/HaJiMiManBoo111/harmonyos-usb-transfer)<br><sub>HaJiMiManBoo111</sub> | Windows ↔ 鸿蒙电脑双向传文件，走 USB 数据线（hdc），不依赖局域网 | 2 | 2026-11-09 | [flux-<wbr>1.<wbr>27.<wbr>0](https://github.com/HaJiMiManBoo111/harmonyos-usb-transfer/releases/tag/flux-1.27.0) |
 | [**LanDrop**](https://github.com/wchhhhhhhhhhhhh/LanDrop)<br><sub>wchhhhhhhhhhhhh</sub> | 局域网文件互传 · macOS /<wbr> Windows /<wbr> Android /<wbr> HarmonyOS 四端原生客户端。U… | 1 | 2026-11-09 | [v2.<wbr>0.<wbr>0](https://github.com/wchhhhhhhhhhhhh/LanDrop/releases/tag/v2.0.0) |
@@ -133,7 +130,7 @@
 | [**harmony-bridge**](https://github.com/chinachenkeke-source/harmony-bridge)<br><sub>chinachenkeke-source</sub> | HarmonyOS ↔ macOS 投屏、操作与文件互传｜USB /<wbr> Wi-<wbr>Fi | 1 | 2026-11-05 | [v1.<wbr>0.<wbr>0](https://github.com/chinachenkeke-source/harmony-bridge/releases/tag/v1.0.0) |
 | [**ha-companion-harmonyos**](https://github.com/xiasi0/ha-companion-harmonyos)<br><sub>xiasi0</sub> | — | 52 | 2026-10-31 | [v1.<wbr>4.<wbr>4](https://github.com/xiasi0/ha-companion-harmonyos/releases/tag/v1.4.4) |
 | [**MiniPC**](https://github.com/Keanu2/MiniPC)<br><sub>Keanu2</sub> | HarmonyOS nearby chat: model phone and chat phone | 3 | 2026-10-31 | [pad-<wbr>2026.<wbr>10.<wbr>31](https://github.com/Keanu2/MiniPC/releases/tag/pad-2026.10.31) |
-| [**hapstore**](https://github.com/zhailinlang/hapstore)<br><sub>zhailinlang</sub> | — | 54 | 2026-10-29 | [v1.<wbr>0.<wbr>2](https://github.com/zhailinlang/hapstore/releases/tag/v1.0.2) |
+| [**hapstore**](https://github.com/zhailinlang/hapstore)<br><sub>zhailinlang</sub> | — | 57 | 2026-10-29 | [v1.<wbr>0.<wbr>2](https://github.com/zhailinlang/hapstore/releases/tag/v1.0.2) |
 | [**lanqi-aqua**](https://github.com/Alt-2-cyber/lanqi-aqua)<br><sub>Alt-2-cyber</sub> | 澜启渔新 · 智慧水产养殖 Web 管理端 + 原生鸿蒙 App + 共享设备 API，明确演示模式与真实网关边界。 | 0 | 2026-10-28 | [v1.<wbr>0.<wbr>0](https://github.com/Alt-2-cyber/lanqi-aqua/releases/tag/v1.0.0) |
 | [**uu-harmonyos-next**](https://github.com/FloatingdreamWEDK/uu-harmonyos-next)<br><sub>FloatingdreamWEDK</sub> | 将uu远程适配鸿蒙平板和手机 | 7 | 2026-10-27 | [uu](https://github.com/FloatingdreamWEDK/uu-harmonyos-next/releases/tag/uu) |
 | [**dsh-meter**](https://github.com/ZsqNQ/dsh-meter)<br><sub>ZsqNQ</sub> | 轻测光 · 鸿蒙原生测光表，给胶片摄影师用的 EV 反算 App（AGPL-<wbr>3.<wbr>0 开源） | 0 | 2026-10-24 | [v1.<wbr>2.<wbr>1](https://github.com/ZsqNQ/dsh-meter/releases/tag/v1.2.1) |
@@ -154,14 +151,14 @@
 | [**crush-bench**](https://github.com/yuyayolin/crush-bench)<br><sub>yuyayolin</sub> | HarmonyOS native benchmark app | 2 | 2026-10-06 | [Harmony](https://github.com/yuyayolin/crush-bench/releases/tag/Harmony) |
 | [**soutu_ohos**](https://github.com/muleos/soutu_ohos)<br><sub>muleos</sub> | 搜图神器 鸿蒙网页封装（soutushenqi.<wbr>com 网页端移植） | 1 | 2026-10-06 | [v1.<wbr>2.<wbr>10](https://github.com/muleos/soutu_ohos/releases/tag/v1.2.10) |
 | [**ohos-ipcam-streamer**](https://github.com/LinuxSuRen/ohos-ipcam-streamer)<br><sub>LinuxSuRen</sub> | HarmonyOS phone camera to IP camera gateway (RTSP + ONVIF… | 2 | 2026-10-05 | [v0.<wbr>1.<wbr>0](https://github.com/LinuxSuRen/ohos-ipcam-streamer/releases/tag/v0.1.0) |
-| [**collection_ohos**](https://github.com/muleos/collection_ohos)<br><sub>muleos</sub> | 小红书无压缩无水印原图下载器鸿蒙版 | 7 | 2026-10-04 | [v1.<wbr>29.<wbr>0](https://github.com/muleos/collection_ohos/releases/tag/v1.29.0) |
+| [**collection_ohos**](https://github.com/muleos/collection_ohos)<br><sub>muleos</sub> | 小红书无压缩无水印原图下载器鸿蒙版 | 8 | 2026-10-04 | [v1.<wbr>29.<wbr>0](https://github.com/muleos/collection_ohos/releases/tag/v1.29.0) |
 | [**vision-assist**](https://github.com/Junk-debug/vision-assist)<br><sub>Junk-debug</sub> | Vision Assist: find things by voice guidance for blind us… | 0 | 2026-10-04 | [v1.<wbr>0.<wbr>0](https://github.com/Junk-debug/vision-assist/releases/tag/v1.0.0) |
 | [**WRT**](https://github.com/abookkkk/WRT)<br><sub>abookkkk</sub> | 鸿蒙系统监控openwrt | 2 | 2026-10-04 | [v1.<wbr>0.<wbr>9](https://github.com/abookkkk/WRT/releases/tag/v1.0.9) |
 | [**citytour**](https://github.com/Svetoslav47/citytour)<br><sub>Svetoslav47</sub> | HackYeah 2026, Huawei challenge.<wbr> Walking tour guide for H… | 0 | 2026-10-04 | [v1.<wbr>0.<wbr>4-<wbr>hackyeah](https://github.com/Svetoslav47/citytour/releases/tag/v1.0.4-hackyeah) |
 | [**wisp-gym**](https://github.com/BOT-K4CP3R/wisp-gym)<br><sub>BOT-K4CP3R</sub> | Wisp Gym: a creature that grows from your real training.<wbr> … | 0 | 2026-10-04 | [v1.<wbr>3.<wbr>1](https://github.com/BOT-K4CP3R/wisp-gym/releases/tag/v1.3.1) |
 | [**michomo**](https://github.com/dakkidaze/michomo)<br><sub>dakkidaze</sub> | HarmonyOS NEXT client for the MicYou protocol — turns you… | 0 | 2026-10-01 | [v1.<wbr>0.<wbr>1](https://github.com/dakkidaze/michomo/releases/tag/v1.0.1) |
 | [**ente-auth-harmonyos**](https://github.com/october-pig/ente-auth-harmonyos)<br><sub>october-pig</sub> | Native ArkTS /<wbr> ArkUI port of Ente Auth for HarmonyOS — un… | 0 | 2026-09-29 | [v0.<wbr>1.<wbr>0-<wbr>alpha](https://github.com/october-pig/ente-auth-harmonyos/releases/tag/v0.1.0-alpha) |
-| [**hap-installer**](https://github.com/LMV475/hap-installer)<br><sub>LMV475</sub> | 在手机上为鸿蒙应用签名、安装与管理调试证书，无需 PC。 | 23 | 2026-09-28 | [v1.<wbr>0.<wbr>0](https://github.com/LMV475/hap-installer/releases/tag/v1.0.0) |
+| [**hap-installer**](https://github.com/LMV475/hap-installer)<br><sub>LMV475</sub> | 在手机上为鸿蒙应用签名、安装与管理调试证书，无需 PC。 | 25 | 2026-09-28 | [v1.<wbr>0.<wbr>0](https://github.com/LMV475/hap-installer/releases/tag/v1.0.0) |
 | [**beegent**](https://github.com/XiaoLuoLYG/beegent)<br><sub>XiaoLuoLYG</sub> | Your agents.<wbr> Within reach.<wbr> 🐝 Native Android & HarmonyOS c… | 1 | 2026-09-28 | [v0.<wbr>2.<wbr>0](https://github.com/XiaoLuoLYG/beegent/releases/tag/v0.2.0) |
 | [**CalculatorX**](https://github.com/StartYR/CalculatorX)<br><sub>StartYR</sub> | HarmonyOS端的专业科学符号计算器 | 20 | 2026-09-18 | [v1.<wbr>6.<wbr>5](https://github.com/StartYR/CalculatorX/releases/tag/v1.6.5) |
 | [**FluxDownCover-OHOS**](https://github.com/Pkeji/FluxDownCover-OHOS)<br><sub>Pkeji</sub> | — | 6 | 2026-09-17 | [v1.<wbr>2.<wbr>4.<wbr>205](https://github.com/Pkeji/FluxDownCover-OHOS/releases/tag/v1.2.4.205) |
@@ -187,7 +184,7 @@
 | [**OHtrix**](https://github.com/HanversionOvO/OHtrix)<br><sub>HanversionOvO</sub> | Aria2 downloader for HarmonyOS PC.<wbr> | 14 | 2026-06-01 | [v1.<wbr>0.<wbr>0](https://github.com/HanversionOvO/OHtrix/releases/tag/v1.0.0) |
 | [**Deepseek-Harmony**](https://github.com/SakuraNeko/Deepseek-Harmony)<br><sub>SakuraNeko</sub> | 基于 HarmonyOS WebView 封装的 DeepSeek AI 对话客户端，支持手机、平板和 2in1 设备。 | 12 | 2026-05-21 | [1.<wbr>1.<wbr>4](https://github.com/SakuraNeko/Deepseek-Harmony/releases/tag/1.1.4) |
 | [**sys_AItoolkit_ohos**](https://github.com/sys2008/sys_AItoolkit_ohos)<br><sub>sys2008</sub> | 宋阳烁开发的鸿蒙原生本地大模型工具箱，包括保留根号分数的科学计算器、解方程、llamacpp和mnn模型本地运行等功能 | 2 | 2026-04-19 | [v4.<wbr>1.<wbr>1](https://github.com/sys2008/sys_AItoolkit_ohos/releases/tag/v4.1.1) |
-| [**auto-installer**](https://github.com/likuai2010/auto-installer)<br><sub>likuai2010</sub> | HarmonyOS Next Hap installer | 3,198 | 2026-03-25 | [3.<wbr>1.<wbr>0](https://github.com/likuai2010/auto-installer/releases/tag/3.1.0) |
+| [**auto-installer**](https://github.com/likuai2010/auto-installer)<br><sub>likuai2010</sub> | HarmonyOS Next Hap installer | 3,201 | 2026-03-25 | [3.<wbr>1.<wbr>0](https://github.com/likuai2010/auto-installer/releases/tag/3.1.0) |
 | [**Spaceow**](https://github.com/awaLiny2333/Spaceow)<br><sub>awaLiny2333</sub> | A HarmonyOS application to scan and visualize disk space … | 7 | 2026-02-18 | [1.<wbr>0.<wbr>0](https://github.com/awaLiny2333/Spaceow/releases/tag/1.0.0) |
 | [**aria2-ohos**](https://github.com/SwimmingTiger/aria2-ohos)<br><sub>SwimmingTiger</sub> | aria2 command line for OpenHarmony and Harmony Next 5.<wbr>x | 25 | 2026-01-20 | [v1.<wbr>0.<wbr>1-<wbr>hnp](https://github.com/SwimmingTiger/aria2-ohos/releases/tag/v1.0.1-hnp) |
 | [**OpenHarmony_Calculator**](https://github.com/JiangYanjie12/OpenHarmony_Calculator)<br><sub>JiangYanjie12</sub> | — | 0 | 2025-12-17 | [OpenHarmony](https://github.com/JiangYanjie12/OpenHarmony_Calculator/releases/tag/OpenHarmony) |
@@ -195,12 +192,12 @@
 | [**NextAI**](https://github.com/Chen-ce/NextAI)<br><sub>Chen-ce</sub> | 基于鸿蒙 HarmonyOS NEXT 原生组件构建的本地 AI 助手，支持接入 OpenAI、DeepSeek、… | 2 | 2025-10-31 | [1.<wbr>0.<wbr>0](https://github.com/Chen-ce/NextAI/releases/tag/1.0.0) |
 | [**soc-search**](https://github.com/Amview/soc-search)<br><sub>Amview</sub> | soc性能排行 | 5 | 2025-09-23 | [1.<wbr>0.<wbr>25](https://github.com/Amview/soc-search/releases/tag/1.0.25) |
 | [**HMOS-AppBundleNameForShared**](https://github.com/SummerKaze/HMOS-AppBundleNameForShared)<br><sub>SummerKaze</sub> | — | 22 | 2025-09-14 | [V1.<wbr>2](https://github.com/SummerKaze/HMOS-AppBundleNameForShared/releases/tag/V1.2) |
-| [**kelivo-ohos**](https://github.com/Chevey339/kelivo-ohos)<br><sub>Chevey339</sub> | — | 50 | 2025-09-12 | [beta](https://github.com/Chevey339/kelivo-ohos/releases/tag/beta) |
+| [**kelivo-ohos**](https://github.com/Chevey339/kelivo-ohos)<br><sub>Chevey339</sub> | — | 51 | 2025-09-12 | [beta](https://github.com/Chevey339/kelivo-ohos/releases/tag/beta) |
 | [**Spaceow_NEXT**](https://github.com/awaLiny2333/Spaceow_NEXT)<br><sub>awaLiny2333</sub> | Space analysis tool on HarmonyOS /<wbr> OpenHarmony! | 20 | 2025-08-03 | [v0.<wbr>0.<wbr>2](https://github.com/awaLiny2333/Spaceow_NEXT/releases/tag/v0.0.2) |
 | [**OpenHarmony_HeartBeat_Monitor**](https://github.com/LaNasilDark/OpenHarmony_HeartBeat_Monitor)<br><sub>LaNasilDark</sub> | Heart Beat Monitor for OpenHarmony OS 5.<wbr>0.<wbr>0.<wbr>71 | 0 | 2025-07-15 | [OpenHarmony_<wbr>HeartBeat_<wbr>Monitor](https://github.com/LaNasilDark/OpenHarmony_HeartBeat_Monitor/releases/tag/OpenHarmony_HeartBeat_Monitor) |
 | [**neon-ohos**](https://github.com/shokakucarrier/neon-ohos)<br><sub>shokakucarrier</sub> | A framework for building convergent cross-<wbr>platform Nextcl… | 4 | 2025-07-01 | [neon-<wbr>ohos-<wbr>v1.<wbr>0.<wbr>0](https://github.com/shokakucarrier/neon-ohos/releases/tag/neon-ohos-v1.0.0) |
 | [**LocalSendLite_HarmonyOS_NEXT**](https://github.com/Gokr-ble/LocalSendLite_HarmonyOS_NEXT)<br><sub>Gokr-ble</sub> | A third party implementation of LocalSend  protocol for H… | 20 | 2025-05-31 | [1.<wbr>0.<wbr>0](https://github.com/Gokr-ble/LocalSendLite_HarmonyOS_NEXT/releases/tag/1.0.0) |
-| [**localsend-ohos**](https://github.com/Aloereed/localsend-ohos)<br><sub>Aloereed</sub> | An open-<wbr>source cross-<wbr>platform alternative to AirDrop for … | 155 | 2025-04-15 | [1.<wbr>17.<wbr>2+60](https://github.com/Aloereed/localsend-ohos/releases/tag/1.17.2%2B60) |
+| [**localsend-ohos**](https://github.com/Aloereed/localsend-ohos)<br><sub>Aloereed</sub> | An open-<wbr>source cross-<wbr>platform alternative to AirDrop for … | 156 | 2025-04-15 | [1.<wbr>17.<wbr>2+60](https://github.com/Aloereed/localsend-ohos/releases/tag/1.17.2%2B60) |
 | [**Aigis**](https://github.com/iamhyc/Aigis)<br><sub>iamhyc</sub> | yet another TOTP 2FA Authenticator for HarmonyOS NEXT.<wbr> | 54 | 2024-12-26 | [v1.<wbr>0.<wbr>0](https://github.com/iamhyc/Aigis/releases/tag/v1.0.0) |
 | [**tickauth**](https://github.com/conradsheeran/tickauth)<br><sub>conradsheeran</sub> | A HarmonyOS application developed using ArkTS to implemen… | 4 | 2024-12-09 | [v1.<wbr>6.<wbr>3](https://github.com/conradsheeran/tickauth/releases/tag/v1.6.3) |
 
@@ -237,30 +234,31 @@
 <a id="hap-media" name="hap-media"></a>
 
 <details open>
-<summary><strong>影音娱乐</strong>（79 个项目）</summary>
+<summary><strong>影音娱乐</strong>（81 个项目）</summary>
 
 | 项目 | 简介 | ⭐ Stars | 📅 更新日期 | 🏷️ 最新版本 |
 |:-----|:-----|:-------:|:-----------:|:------------|
-| [**Amane-Harmony**](https://github.com/dogmicats/Amane-Harmony)<br><sub>dogmicats</sub> | 非官方 HarmonyOS 原生客户端，面向自建 JAV 媒体库（Amane）：番号检索、演员/<wbr>共演组合筛选、分类… | 4 | 2026-11-25 | [v2.<wbr>9.<wbr>1](https://github.com/dogmicats/Amane-Harmony/releases/tag/v2.9.1) |
-| [**MuLi**](https://github.com/yqamm/MuLi)<br><sub>yqamm</sub> | 鸿蒙端bilibili移植 | 5 | 2026-11-24 | [V2.<wbr>1.<wbr>0](https://github.com/yqamm/MuLi/releases/tag/V2.1.0) |
-| [**tiktoh**](https://github.com/DUDUXXR2/tiktoh)<br><sub>DUDUXXR2</sub> | 鸿蒙短视频客户端 TikToh —— 仅分发安装包与更新日志，不含源码 | 97 | 2026-11-24 | [v0.<wbr>3.<wbr>2](https://github.com/DUDUXXR2/tiktoh/releases/tag/v0.3.2) |
-| [**MarcoMovie**](https://github.com/Pilipala9919/MarcoMovie)<br><sub>Pilipala9919</sub> | 由 Pilipala 开发的多端自适应播放器（支持 Android 电视/<wbr>手机/<wbr>平板、Apple TV、Harmo… | 1,138 | 2026-11-24 | [android-<wbr>mobile-<wbr>v0.<wbr>7.<wbr>0](https://github.com/Pilipala9919/MarcoMovie/releases/tag/android-mobile-v0.7.0) |
-| [**BiliMusic-Desktop**](https://github.com/licpp/BiliMusic-Desktop)<br><sub>licpp</sub> | B站音乐播放器，整理自己的音乐库。支持 macOS、Windows、Android、iOS 自签版、鸿蒙自签版，可… | 158 | 2026-11-24 | [v0.<wbr>4.<wbr>4](https://github.com/licpp/BiliMusic-Desktop/releases/tag/v0.4.4) |
-| [**LxMine**](https://github.com/YuriLin1028/LxMine)<br><sub>YuriLin1028</sub> | LxMine：融合 LX Music 音源与 Mineradio 沉浸视觉的跨端音乐播放器（Windows /<wbr> H… | 33 | 2026-11-24 | [v1.<wbr>3.<wbr>0](https://github.com/YuriLin1028/LxMine/releases/tag/v1.3.0) |
+| [**MarcoMovie**](https://github.com/Pilipala9919/MarcoMovie)<br><sub>Pilipala9919</sub> | 由 Pilipala 开发的多端自适应播放器（支持 Android 电视/<wbr>手机/<wbr>平板、Apple TV、Harmo… | 1,179 | 2026-11-25 | [macos-<wbr>v0.<wbr>6.<wbr>1](https://github.com/Pilipala9919/MarcoMovie/releases/tag/macos-v0.6.1) |
+| [**MuLi**](https://github.com/yqamm/MuLi)<br><sub>yqamm</sub> | 鸿蒙端bilibili移植 | 5 | 2026-11-25 | [V2.<wbr>1.<wbr>1](https://github.com/yqamm/MuLi/releases/tag/V2.1.1) |
+| [**BiliMusic-Desktop**](https://github.com/licpp/BiliMusic-Desktop)<br><sub>licpp</sub> | B站音乐播放器，整理自己的音乐库。支持 macOS、Windows、Android、iOS 自签版、鸿蒙自签版，可… | 166 | 2026-11-25 | [v0.<wbr>4.<wbr>5](https://github.com/licpp/BiliMusic-Desktop/releases/tag/v0.4.5) |
+| [**pilink**](https://github.com/chai2shi-spec/pilink)<br><sub>chai2shi-spec</sub> | 原生鸿蒙B站客户端，集成空降助手，手势操控，ai总结，云同步数据功能。流畅又丰富。 | 19 | 2026-11-25 | [v1.<wbr>1.<wbr>8](https://github.com/chai2shi-spec/pilink/releases/tag/v1.1.8) |
+| [**HarmonyOSMusicPlayer**](https://github.com/bilibiliales/HarmonyOSMusicPlayer)<br><sub>bilibiliales</sub> | 一款用 ArkTS 为 HarmonyOS NEXT 构建的在线音乐播放器。一款受网易云音乐平台启发的现代化鸿蒙轻… | 5 | 2026-11-25 | [v1.<wbr>0.<wbr>7](https://github.com/bilibiliales/HarmonyOSMusicPlayer/releases/tag/v1.0.7) |
+| [**LxMine**](https://github.com/YuriLin1028/LxMine)<br><sub>YuriLin1028</sub> | LxMine：融合 LX Music 音源与 Mineradio 沉浸视觉的跨端音乐播放器（Windows /<wbr> H… | 36 | 2026-11-25 | [v1.<wbr>3.<wbr>1](https://github.com/YuriLin1028/LxMine/releases/tag/v1.3.1) |
+| [**Amane-Harmony**](https://github.com/dogmicats/Amane-Harmony)<br><sub>dogmicats</sub> | 自建 Amane 媒体库的非官方 HarmonyOS NEXT 客户端（ArkUI + mpv）与旁挂服务：共演甄… | 4 | 2026-11-25 | [v2.<wbr>9.<wbr>1](https://github.com/dogmicats/Amane-Harmony/releases/tag/v2.9.1) |
+| [**tiktoh**](https://github.com/DUDUXXR2/tiktoh)<br><sub>DUDUXXR2</sub> | 鸿蒙短视频客户端 TikToh —— 仅分发安装包与更新日志，不含源码 | 98 | 2026-11-24 | [v0.<wbr>3.<wbr>2](https://github.com/DUDUXXR2/tiktoh/releases/tag/v0.3.2) |
 | [**app-vlc-ohos**](https://github.com/eclipse-oniro4openharmony/app-vlc-ohos)<br><sub>eclipse-oniro4openharmony</sub> | VLC for Oniro, OpenHarmony, HarmonyOS | 8 | 2026-11-23 | [v1.<wbr>0.<wbr>2](https://github.com/eclipse-oniro4openharmony/app-vlc-ohos/releases/tag/v1.0.2) |
 | [**PiliPro**](https://github.com/Oearawa/PiliPro)<br><sub>Oearawa</sub> | 基于 PiliPlus 适配的鸿蒙版（HarmonyOS NEXT）第三方客户端，内置多线程拉流加速，提升高码率视… | 3 | 2026-11-23 | [2.<wbr>2.<wbr>1-<wbr>ohos-<wbr>3](https://github.com/Oearawa/PiliPro/releases/tag/2.2.1-ohos-3) |
 | [**blueberry-theater**](https://github.com/docomola/blueberry-theater)<br><sub>docomola</sub> | 蓝莓剧场 · HarmonyOS NEXT 原生短剧聚合播放器（仅发布安装包，不含源代码） | 1 | 2026-11-23 | [v1.<wbr>0.<wbr>1](https://github.com/docomola/blueberry-theater/releases/tag/v1.0.1) |
-| [**immich_ohos**](https://github.com/dgh1818/immich_ohos)<br><sub>dgh1818</sub> | https:/<wbr>/<wbr>appgallery.<wbr>huawei.<wbr>com/<wbr>apptest/<wbr>6IZcBZYZcc2 | 92 | 2026-11-22 | [v3.<wbr>4.<wbr>2-<wbr>ohos-<wbr>v0.<wbr>0.<wbr>2](https://github.com/dgh1818/immich_ohos/releases/tag/v3.4.2-ohos-v0.0.2) |
+| [**immich_ohos**](https://github.com/dgh1818/immich_ohos)<br><sub>dgh1818</sub> | https:/<wbr>/<wbr>appgallery.<wbr>huawei.<wbr>com/<wbr>apptest/<wbr>6IZcBZYZcc2 | 93 | 2026-11-22 | [v3.<wbr>4.<wbr>2-<wbr>ohos-<wbr>v0.<wbr>0.<wbr>2](https://github.com/dgh1818/immich_ohos/releases/tag/v3.4.2-ohos-v0.0.2) |
 | [**Kazumi**](https://github.com/ErBWs/Kazumi)<br><sub>ErBWs</sub> | 该分支仓库目前用于发布 HarmonyOS NEXT 版本 hap 包 | 336 | 2026-11-22 | [2.<wbr>4.<wbr>6](https://github.com/ErBWs/Kazumi/releases/tag/2.4.6) |
 | [**soundcraft-hmos**](https://github.com/shaliuxin/soundcraft-hmos)<br><sub>shaliuxin</sub> | SoundCraft v0.<wbr>20.<wbr>1 DAW ported to HarmonyOS (OHOS) — ArkTS… | 0 | 2026-11-22 | [v0.<wbr>20.<wbr>1](https://github.com/shaliuxin/soundcraft-hmos/releases/tag/v0.20.1) |
 | [**PiliPlus**](https://github.com/dev4harmony/PiliPlus)<br><sub>dev4harmony</sub> | PiliPlus | 418 | 2026-11-22 | [2.<wbr>2.<wbr>1-<wbr>ohos-<wbr>3](https://github.com/dev4harmony/PiliPlus/releases/tag/2.2.1-ohos-3) |
-| [**PiliNara**](https://github.com/dev4harmony/PiliNara)<br><sub>dev4harmony</sub> | PiliNara ported to HarmonyOS (ohos-<wbr>Flutter).<wbr> PiliPlus-<wbr>bas… | 81 | 2026-11-22 | [2.<wbr>6.<wbr>2-<wbr>ohos-<wbr>2](https://github.com/dev4harmony/PiliNara/releases/tag/2.6.2-ohos-2) |
+| [**PiliNara**](https://github.com/dev4harmony/PiliNara)<br><sub>dev4harmony</sub> | PiliNara ported to HarmonyOS (ohos-<wbr>Flutter).<wbr> PiliPlus-<wbr>bas… | 84 | 2026-11-22 | [2.<wbr>6.<wbr>2-<wbr>ohos-<wbr>2](https://github.com/dev4harmony/PiliNara/releases/tag/2.6.2-ohos-2) |
 | [**ComfyPilot**](https://github.com/Fly-Noz/ComfyPilot)<br><sub>Fly-Noz</sub> | Android /<wbr> HarmonyOS ComfyUI client built with Kotlin Mult… | 9 | 2026-11-22 | [v0.<wbr>3.<wbr>8](https://github.com/Fly-Noz/ComfyPilot/releases/tag/v0.3.8) |
 | [**pure_live_ohos**](https://github.com/docomola/pure_live_ohos)<br><sub>docomola</sub> | 纯粹直播 Pure Live 的 HarmonyOS NEXT 鸿蒙原生移植版 (AGPL-<wbr>3.<wbr>0 fork of… | 6 | 2026-11-21 | [v1.<wbr>1.<wbr>0](https://github.com/docomola/pure_live_ohos/releases/tag/v1.1.0) |
 | [**QYFM-HM**](https://github.com/zzg341125/QYFM-HM)<br><sub>zzg341125</sub> | QYFM HarmonyOS native radio app | 2 | 2026-11-21 | [harmony-<wbr>v1.<wbr>0.<wbr>47](https://github.com/zzg341125/QYFM-HM/releases/tag/harmony-v1.0.47) |
-| [**bilimusic**](https://github.com/NaivG/bilimusic)<br><sub>NaivG</sub> | 基于 Dart /<wbr> TypeScript /<wbr> Vela JS 的哔哩哔哩音乐播放器 | 250 | 2026-11-20 | [1.<wbr>12.<wbr>0+356](https://github.com/NaivG/bilimusic/releases/tag/1.12.0%2B356) |
-| [**NipaPlay-Reload**](https://github.com/AimesSoft/NipaPlay-Reload)<br><sub>AimesSoft</sub> | NipaPlay-<wbr>Reload 是一个现代化的跨平台本地视频播放器，支持 Windows、macOS、Linux、… | 1,887 | 2026-11-20 | [v2.<wbr>0.<wbr>0-<wbr>alpha.<wbr>7](https://github.com/AimesSoft/NipaPlay-Reload/releases/tag/v2.0.0-alpha.7) |
-| [**HarmonyOSMusicPlayer**](https://github.com/bilibiliales/HarmonyOSMusicPlayer)<br><sub>bilibiliales</sub> | 一款用 ArkTS 为 HarmonyOS NEXT 构建的在线音乐播放器。一款受网易云音乐平台启发的现代化鸿蒙轻… | 5 | 2026-11-20 | [v1.<wbr>0.<wbr>5](https://github.com/bilibiliales/HarmonyOSMusicPlayer/releases/tag/v1.0.5) |
+| [**bilimusic**](https://github.com/NaivG/bilimusic)<br><sub>NaivG</sub> | 基于 Dart /<wbr> TypeScript /<wbr> Vela JS 的哔哩哔哩音乐播放器 | 254 | 2026-11-20 | [1.<wbr>12.<wbr>0+356](https://github.com/NaivG/bilimusic/releases/tag/1.12.0%2B356) |
+| [**NipaPlay-Reload**](https://github.com/AimesSoft/NipaPlay-Reload)<br><sub>AimesSoft</sub> | NipaPlay-<wbr>Reload 是一个现代化的跨平台本地视频播放器，支持 Windows、macOS、Linux、… | 1,888 | 2026-11-20 | [v2.<wbr>0.<wbr>0-<wbr>alpha.<wbr>7](https://github.com/AimesSoft/NipaPlay-Reload/releases/tag/v2.0.0-alpha.7) |
 | [**comfy-suishen**](https://github.com/ikeWangXL/comfy-suishen)<br><sub>ikeWangXL</sub> | — | 3 | 2026-11-19 | [v1.<wbr>0.<wbr>0-<wbr>preview](https://github.com/ikeWangXL/comfy-suishen/releases/tag/v1.0.0-preview) |
 | [**NeriPlayer-HarmonyOS**](https://github.com/suyunxing/NeriPlayer-HarmonyOS)<br><sub>suyunxing</sub> | NeriPlayer的HarmonyOS移植 | 27 | 2026-11-17 | [v1.<wbr>5.<wbr>0-<wbr>rc.<wbr>1](https://github.com/suyunxing/NeriPlayer-HarmonyOS/releases/tag/v1.5.0-rc.1) |
 | [**blender-harmonyos**](https://github.com/chenchen-008/blender-harmonyos)<br><sub>chenchen-008</sub> | Blender 4.<wbr>5.<wbr>16 LTS on HarmonyOS — HAP shell, DSHM plugin,… | 0 | 2026-11-14 | [v4.<wbr>5.<wbr>16-<wbr>ohos](https://github.com/chenchen-008/blender-harmonyos/releases/tag/v4.5.16-ohos) |
@@ -269,21 +267,22 @@
 | [**pixez-flutter-ohos**](https://github.com/bgli100/pixez-flutter-ohos)<br><sub>bgli100</sub> | 一个支持免代理直连及查看动图的OpenHarmony平台第三方Pixiv flutter客户端 | 143 | 2026-11-08 | [0.<wbr>9.<wbr>114](https://github.com/bgli100/pixez-flutter-ohos/releases/tag/0.9.114) |
 | [**PiliPlus-Harmony**](https://github.com/2751833085/PiliPlus-Harmony)<br><sub>2751833085</sub> | PiliPlus 鸿蒙版：针对运行HarmonyOS的手机、平板与折叠屏适配，可选鸿蒙风格、智感握姿、竖屏短视频与… | 10 | 2026-11-08 | [v1.<wbr>1.<wbr>0-<wbr>beta+6254](https://github.com/2751833085/PiliPlus-Harmony/releases/tag/v1.1.0-beta%2B6254) |
 | [**Pixark**](https://github.com/XHXYT/Pixark)<br><sub>XHXYT</sub> | 一个支持查看插画的第三方Pixiv鸿蒙客户端 | 46 | 2026-11-06 | [v1.<wbr>2.<wbr>1](https://github.com/XHXYT/Pixark/releases/tag/v1.2.1) |
-| [**HomenaPod**](https://github.com/TomoeMami/HomenaPod)<br><sub>TomoeMami</sub> | 开源播客应用 AntennaPod 的 HarmonyOS /<wbr> 鸿蒙 原生移植版 | 12 | 2026-10-28 | [v1.<wbr>0.<wbr>19](https://github.com/TomoeMami/HomenaPod/releases/tag/v1.0.19) |
+| [**HO-FMusic-Folia**](https://github.com/abc123-hubish/HO-FMusic-Folia)<br><sub>abc123-hubish</sub> | FMusic HarmonyOS 音乐播放器 · 完整源码、版本说明与 HAP 下载 | 6 | 2026-11-02 | [v2.<wbr>0.<wbr>3](https://github.com/abc123-hubish/HO-FMusic-Folia/releases/tag/v2.0.3) |
+| [**HomenaPod**](https://github.com/TomoeMami/HomenaPod)<br><sub>TomoeMami</sub> | 开源播客应用 AntennaPod 的 HarmonyOS /<wbr> 鸿蒙 原生移植版 | 13 | 2026-10-28 | [v1.<wbr>0.<wbr>19](https://github.com/TomoeMami/HomenaPod/releases/tag/v1.0.19) |
 | [**folia-mobile**](https://github.com/zonglvye/folia-mobile)<br><sub>zonglvye</sub> | Unofficial mobile port of Folia: the same bundled web bui… | 4 | 2026-10-28 | [v0.<wbr>6.<wbr>18](https://github.com/zonglvye/folia-mobile/releases/tag/v0.6.18) |
 | [**WristMusic**](https://github.com/Lyx721188/WristMusic)<br><sub>Lyx721188</sub> | 第三方鸿蒙手表网易云音乐客户端（HarmonyOS wearable · ArkTS/<wbr>ArkUI） | 0 | 2026-10-27 | [v1.<wbr>0.<wbr>0](https://github.com/Lyx721188/WristMusic/releases/tag/v1.0.0) |
-| [**LibreTV-for-HarmonyOS**](https://github.com/panhaichen-creator/LibreTV-for-HarmonyOS)<br><sub>panhaichen-creator</sub> | LibreTV的鸿蒙原生客户端 · ArkTS + ArkUI · HarmonyOS NEXT | 88 | 2026-10-27 | [2.<wbr>3.<wbr>6](https://github.com/panhaichen-creator/LibreTV-for-HarmonyOS/releases/tag/2.3.6) |
+| [**LibreTV-for-HarmonyOS**](https://github.com/panhaichen-creator/LibreTV-for-HarmonyOS)<br><sub>panhaichen-creator</sub> | LibreTV的鸿蒙原生客户端 · ArkTS + ArkUI · HarmonyOS NEXT | 91 | 2026-10-27 | [2.<wbr>3.<wbr>6](https://github.com/panhaichen-creator/LibreTV-for-HarmonyOS/releases/tag/2.3.6) |
 | [**kazuhomo**](https://github.com/point258/kazuhomo)<br><sub>point258</sub> | Kazumi 的鸿蒙原生客户端 · HarmonyOS native client for Kazumi (Ark… | 7 | 2026-10-27 | [v2.<wbr>4.<wbr>2.<wbr>4](https://github.com/point258/kazuhomo/releases/tag/v2.4.2.4) |
 | [**aegisub-ohos**](https://github.com/qiorz/aegisub-ohos)<br><sub>qiorz</sub> | Aegisub port to HarmonyOS (OHOS) arm64 | 0 | 2026-10-23 | [v0.<wbr>2.<wbr>23](https://github.com/qiorz/aegisub-ohos/releases/tag/v0.2.23) |
 | [**Arknights-Angelina-Pet-YuYuan-HarmonyOS-NEXT**](https://github.com/JNGKZbird/Arknights-Angelina-Pet-YuYuan-HarmonyOS-NEXT)<br><sub>JNGKZbird</sub> | 予愿安洁莉娜桌宠（正式名：酸橙味的信）· 鸿蒙版（HarmonyOS NEXT）：Arknights-<wbr>Angeli… | 1 | 2026-10-23 | [v3.<wbr>1](https://github.com/JNGKZbird/Arknights-Angelina-Pet-YuYuan-HarmonyOS-NEXT/releases/tag/v3.1) |
 | [**handbrake-ohos**](https://github.com/qiorz/handbrake-ohos)<br><sub>qiorz</sub> | HandBrake port to HarmonyOS (OHOS) arm64 | 2 | 2026-10-22 | [v3.<wbr>1.<wbr>0](https://github.com/qiorz/handbrake-ohos/releases/tag/v3.1.0) |
-| [**YourPipe**](https://github.com/Ember5843/YourPipe)<br><sub>Ember5843</sub> | 一个基于New pipe extractor的鸿蒙youtube客户端实现 | 112 | 2026-10-22 | [v0.<wbr>7.<wbr>0-<wbr>1000032](https://github.com/Ember5843/YourPipe/releases/tag/v0.7.0-1000032) |
+| [**YourPipe**](https://github.com/Ember5843/YourPipe)<br><sub>Ember5843</sub> | 一个基于New pipe extractor的鸿蒙youtube客户端实现 | 113 | 2026-10-22 | [v0.<wbr>7.<wbr>0-<wbr>1000032](https://github.com/Ember5843/YourPipe/releases/tag/v0.7.0-1000032) |
 | [**FMphoto**](https://github.com/jonas-pi/FMphoto)<br><sub>jonas-pi</sub> | 飞马相册-<wbr>第三方飞牛相册鸿蒙端实现 | 24 | 2026-10-22 | [v1.<wbr>4.<wbr>2.<wbr>12](https://github.com/jonas-pi/FMphoto/releases/tag/v1.4.2.12) |
 | [**EMDY**](https://github.com/zzh407/EMDY)<br><sub>zzh407</sub> | OpenHarmony Emby client like Douyin | 0 | 2026-10-17 | [v1.<wbr>4.<wbr>1](https://github.com/zzh407/EMDY/releases/tag/v1.4.1) |
 | [**MuWan**](https://github.com/qitinyu/MuWan)<br><sub>qitinyu</sub> | 基于Arkts/<wbr>OpenHarmony的鸿蒙原生音乐软件,回归音乐本质 | 9 | 2026-10-14 | [v3.<wbr>0.<wbr>1](https://github.com/qitinyu/MuWan/releases/tag/v3.0.1) |
-| [**lx-music-harmony**](https://github.com/k-brother/lx-music-harmony)<br><sub>k-brother</sub> | 落雪鸿蒙 | 13 | 2026-10-13 | [v1.<wbr>0.<wbr>0](https://github.com/k-brother/lx-music-harmony/releases/tag/v1.0.0) |
+| [**lx-music-harmony**](https://github.com/k-brother/lx-music-harmony)<br><sub>k-brother</sub> | 落雪鸿蒙 | 14 | 2026-10-13 | [v1.<wbr>0.<wbr>0](https://github.com/k-brother/lx-music-harmony/releases/tag/v1.0.0) |
 | [**lumen-harmony**](https://github.com/xxz-0308/lumen-harmony)<br><sub>xxz-0308</sub> | Lumen：虎牙 /<wbr> 斗鱼 /<wbr> B站的 HarmonyOS 原生直播客户端，ArkTS、ijkplayer、平板优先。 | 3 | 2026-10-12 | [v2.<wbr>0.<wbr>0](https://github.com/xxz-0308/lumen-harmony/releases/tag/v2.0.0) |
-| [**AniCh**](https://github.com/Sle2p/AniCh)<br><sub>Sle2p</sub> | 一个支持超分辨率的在线动漫弹幕APP。多平台，多番剧源，多弹幕，高清无广告。追番看番必备软件。 | 8,516 | 2026-10-05 | [1.<wbr>5.<wbr>27](https://github.com/Sle2p/AniCh/releases/tag/1.5.27) |
+| [**AniCh**](https://github.com/Sle2p/AniCh)<br><sub>Sle2p</sub> | 一个支持超分辨率的在线动漫弹幕APP。多平台，多番剧源，多弹幕，高清无广告。追番看番必备软件。 | 8,565 | 2026-10-05 | [1.<wbr>5.<wbr>27](https://github.com/Sle2p/AniCh/releases/tag/1.5.27) |
 | [**PixLume**](https://github.com/SYTKILLER/PixLume)<br><sub>SYTKILLER</sub> | 为 HarmonyOS 打造的原生轻量级 Pixiv 第三方客户端。 \| A native lightweight… | 12 | 2026-10-04 | [v1.<wbr>2.<wbr>0](https://github.com/SYTKILLER/PixLume/releases/tag/v1.2.0) |
 | [**PiliPlusX**](https://github.com/cnctem/PiliPlusX)<br><sub>cnctem</sub> | — | 255 | 2026-10-04 | [v1.<wbr>1.<wbr>6.<wbr>4](https://github.com/cnctem/PiliPlusX/releases/tag/v1.1.6.4) |
 | [**float-VisualPhone-for-harmony**](https://github.com/likee-Evernight/float-VisualPhone-for-harmony)<br><sub>likee-Evernight</sub> | float-<wbr>VisualPhone-<wbr>for-<wbr>harmony。为鸿蒙系统打包的float小手机 | 3 | 2026-09-30 | [v1.<wbr>0.<wbr>0](https://github.com/likee-Evernight/float-VisualPhone-for-harmony/releases/tag/v1.0.0) |
@@ -293,7 +292,7 @@
 | [**HM_pixiv**](https://github.com/sunny-luoyun/HM_pixiv)<br><sub>sunny-luoyun</sub> | Pixiv for HarmonyOS | 9 | 2026-08-29 | [2.<wbr>9.<wbr>0](https://github.com/sunny-luoyun/HM_pixiv/releases/tag/2.9.0) |
 | [**WitBili-OH**](https://github.com/LecAfyc/WitBili-OH)<br><sub>LecAfyc</sub> | A bilibili client for HarmonyOS Next watches.<wbr> | 14 | 2026-08-25 | [v1.<wbr>1.<wbr>6](https://github.com/LecAfyc/WitBili-OH/releases/tag/v1.1.6) |
 | [**ArkTavernSolo**](https://github.com/wangxulove-jpg/ArkTavernSolo)<br><sub>wangxulove-jpg</sub> | 原生 HarmonyOS NEXT /<wbr> ArkTS /<wbr> ArkUI AI 角色扮演聊天客户端(类 SillyTav… | 4 | 2026-08-24 | [v1.<wbr>0.<wbr>0](https://github.com/wangxulove-jpg/ArkTavernSolo/releases/tag/v1.0.0) |
-| [**livify-ohos**](https://github.com/yabi-zzh/livify-ohos)<br><sub>yabi-zzh</sub> | HarmonyOS NEXT 纯原生直播聚合（聚映）。mpv 内核，支持 HDR、硬件解码与系统投屏。推荐使用 H… | 35 | 2026-08-22 | [v1.<wbr>1.<wbr>0](https://github.com/yabi-zzh/livify-ohos/releases/tag/v1.1.0) |
+| [**livify-ohos**](https://github.com/yabi-zzh/livify-ohos)<br><sub>yabi-zzh</sub> | HarmonyOS NEXT 纯原生直播聚合（聚映）。mpv 内核，支持 HDR、硬件解码与系统投屏。推荐使用 H… | 36 | 2026-08-22 | [v1.<wbr>1.<wbr>0](https://github.com/yabi-zzh/livify-ohos/releases/tag/v1.1.0) |
 | [**FNMusic_H**](https://github.com/chashaochang/FNMusic_H)<br><sub>chashaochang</sub> | 飞牛音乐鸿蒙版 | 6 | 2026-08-18 | [1.<wbr>0.<wbr>3](https://github.com/chashaochang/FNMusic_H/releases/tag/1.0.3) |
 | [**vlc-qt6-ohos**](https://github.com/Aloereed/vlc-qt6-ohos)<br><sub>Aloereed</sub> | VLC Media Player with Qt6 and HarmonyOS | 7 | 2026-08-02 | [3.<wbr>0.<wbr>21](https://github.com/Aloereed/vlc-qt6-ohos/releases/tag/3.0.21) |
 | [**PiliPlusX_ohos**](https://github.com/Wodlie/PiliPlusX_ohos)<br><sub>Wodlie</sub> | — | 1 | 2026-07-29 | [v0.<wbr>0.<wbr>3](https://github.com/Wodlie/PiliPlusX_ohos/releases/tag/v0.0.3) |
@@ -332,9 +331,11 @@
 
 | 项目 | 简介 | ⭐ Stars | 📅 更新日期 | 🏷️ 最新版本 |
 |:-----|:-----|:-------:|:-----------:|:------------|
-| [**Koma**](https://github.com/honjow/Koma)<br><sub>honjow</sub> | HarmonyOS 多源漫画阅读器 | 40 | 2026-11-25 | [v1.<wbr>6.<wbr>2](https://github.com/honjow/Koma/releases/tag/v1.6.2) |
-| [**Anomicon**](https://github.com/Suixin04/Anomicon)<br><sub>Suixin04</sub> | 面向 HarmonyOS 的非官方 SCP 中文阅读与探索应用，支持档案与故事浏览、本地收藏、阅读历史及交互式 3… | 2 | 2026-11-24 | [v1.<wbr>2.<wbr>10(1020010)](https://github.com/Suixin04/Anomicon/releases/tag/v1.2.10(1020010)) |
-| [**VeneraX**](https://github.com/Kyosee/VeneraX)<br><sub>Kyosee</sub> | 基于 Venera 增强的跨平台漫画阅读器，支持 AI 翻译、鸿蒙系统及更多功能。 \| An enhanced, … | 1,025 | 2026-11-24 | [v3.<wbr>0.<wbr>2](https://github.com/Kyosee/VeneraX/releases/tag/v3.0.2) |
+| [**manxia**](https://github.com/DaLongZhuaZi/manxia)<br><sub>DaLongZhuaZi</sub> | 漫匣是一款专为 HarmonyOS Next 平台开发的漫画阅读应用 | 62 | 2026-11-25 | [latest](https://github.com/DaLongZhuaZi/manxia/releases/tag/latest) |
+| [**Anomicon**](https://github.com/Suixin04/Anomicon)<br><sub>Suixin04</sub> | 面向 HarmonyOS 的非官方 SCP 中文阅读与探索应用，支持档案与故事浏览、本地收藏、阅读历史及交互式 3… | 2 | 2026-11-25 | [v1.<wbr>2.<wbr>11(1020011)](https://github.com/Suixin04/Anomicon/releases/tag/v1.2.11(1020011)) |
+| [**Breeze-ohos**](https://github.com/tianmeng-xiu/Breeze-ohos)<br><sub>tianmeng-xiu</sub> | HarmonyOS /<wbr> OpenHarmony 原生漫画阅读器：ArkTS 应用 + Rust 编写的 Quick… | 1 | 2026-11-25 | [v1.<wbr>12.<wbr>0](https://github.com/tianmeng-xiu/Breeze-ohos/releases/tag/v1.12.0) |
+| [**Koma**](https://github.com/honjow/Koma)<br><sub>honjow</sub> | HarmonyOS 多源漫画阅读器 | 39 | 2026-11-25 | [v1.<wbr>6.<wbr>2](https://github.com/honjow/Koma/releases/tag/v1.6.2) |
+| [**VeneraX**](https://github.com/Kyosee/VeneraX)<br><sub>Kyosee</sub> | 基于 Venera 增强的跨平台漫画阅读器，支持 AI 翻译、鸿蒙系统及更多功能。 \| An enhanced, … | 1,044 | 2026-11-24 | [v3.<wbr>0.<wbr>2](https://github.com/Kyosee/VeneraX/releases/tag/v3.0.2) |
 | [**EhViewer-Harmony**](https://github.com/Timk-ztls/EhViewer-Harmony)<br><sub>Timk-ztls</sub> | EhViewer ported to HarmonyOS (ArkTS /<wbr> API 20) 为爱发电 | 3 | 2026-11-23 | [v2.<wbr>0.<wbr>2.<wbr>7.<wbr>4](https://github.com/Timk-ztls/EhViewer-Harmony/releases/tag/v2.0.2.7.4) |
 | [**JMComic-HarmonyOS**](https://github.com/YuanChu-Tec/JMComic-HarmonyOS)<br><sub>YuanChu-Tec</sub> | JMComic对HarmonyOS的适配版本 | 197 | 2026-11-23 | [JMComic1.<wbr>1.<wbr>0](https://github.com/YuanChu-Tec/JMComic-HarmonyOS/releases/tag/JMComic1.1.0) |
 | [**Bika-HarmonyOS**](https://github.com/LoMoCatAp/Bika-HarmonyOS)<br><sub>LoMoCatAp</sub> | 鸿蒙原生哔咔客户端 | 82 | 2026-11-23 | [v1.<wbr>5.<wbr>3](https://github.com/LoMoCatAp/Bika-HarmonyOS/releases/tag/v1.5.3) |
@@ -342,32 +343,30 @@
 | [**Ehviewer_ohos**](https://github.com/vaple/Ehviewer_ohos)<br><sub>vaple</sub> | E-<wbr>Hentai /<wbr> ExHentai 的 HarmonyOS NEXT 客户端 | 2 | 2026-11-22 | [v1.<wbr>3.<wbr>0](https://github.com/vaple/Ehviewer_ohos/releases/tag/v1.3.0) |
 | [**Sheaf-Reader**](https://github.com/simon2137/Sheaf-Reader)<br><sub>simon2137</sub> | 面向 HarmonyOS NEXT（平板 /<wbr> 2-<wbr>in-<wbr>1）的 RSS 阅读器，由 AI 移植自 Fluent R… | 1 | 2026-11-22 | [v1.<wbr>0.<wbr>8](https://github.com/simon2137/Sheaf-Reader/releases/tag/v1.0.8) |
 | [**NexHub**](https://github.com/nexhub-app/NexHub)<br><sub>nexhub-app</sub> | NexHub 是一个基于 Flutter 构建的跨平台媒体聚合客户端，把「动漫、漫画、小说、影视」四类内容统一到一… | 85 | 2026-11-22 | [v4.<wbr>0.<wbr>0-<wbr>beta.<wbr>2](https://github.com/nexhub-app/NexHub/releases/tag/v4.0.0-beta.2) |
-| [**Breeze-ohos**](https://github.com/tianmeng-xiu/Breeze-ohos)<br><sub>tianmeng-xiu</sub> | HarmonyOS /<wbr> OpenHarmony 原生漫画阅读器：ArkTS 应用 + Rust 编写的 Quick… | 1 | 2026-11-21 | [v1.<wbr>11.<wbr>0](https://github.com/tianmeng-xiu/Breeze-ohos/releases/tag/v1.11.0) |
-| [**PicaComic_ohos**](https://github.com/nimmi114514/PicaComic_ohos)<br><sub>nimmi114514</sub> | 鸿蒙next版PicaComic，适配HarmonyOS | 131 | 2026-11-18 | [v5.<wbr>1.<wbr>1](https://github.com/nimmi114514/PicaComic_ohos/releases/tag/v5.1.1) |
+| [**PicaComic_ohos**](https://github.com/nimmi114514/PicaComic_ohos)<br><sub>nimmi114514</sub> | 鸿蒙next版PicaComic，适配HarmonyOS | 132 | 2026-11-18 | [v5.<wbr>1.<wbr>1](https://github.com/nimmi114514/PicaComic_ohos/releases/tag/v5.1.1) |
 | [**NoyACG**](https://github.com/Oearawa/NoyACG)<br><sub>Oearawa</sub> | NoyACG 第三方鸿蒙（HarmonyOS）阅读客户端 | 5 | 2026-11-18 | [v1.<wbr>0.<wbr>1](https://github.com/Oearawa/NoyACG/releases/tag/v1.0.1) |
-| [**NextE**](https://github.com/erosTeam/NextE)<br><sub>erosTeam</sub> | 原生 HarmonyOS NEXT E-<wbr>Hentai /<wbr> ExHentai 客户端 | 75 | 2026-11-17 | [v1.<wbr>3.<wbr>9](https://github.com/erosTeam/NextE/releases/tag/v1.3.9) |
-| [**JMComic-HarmonyOS**](https://github.com/LovelyFlash/JMComic-HarmonyOS)<br><sub>LovelyFlash</sub> | 禁漫天堂（JMComic）鸿蒙原生漫画阅读器 \| HarmonyOS NEXT (API 26+) native … | 74 | 2026-11-17 | [v1.<wbr>1.<wbr>5](https://github.com/LovelyFlash/JMComic-HarmonyOS/releases/tag/v1.1.5) |
+| [**NextE**](https://github.com/erosTeam/NextE)<br><sub>erosTeam</sub> | 原生 HarmonyOS NEXT E-<wbr>Hentai /<wbr> ExHentai 客户端 | 76 | 2026-11-17 | [v1.<wbr>3.<wbr>9](https://github.com/erosTeam/NextE/releases/tag/v1.3.9) |
+| [**JMComic-HarmonyOS**](https://github.com/LovelyFlash/JMComic-HarmonyOS)<br><sub>LovelyFlash</sub> | 禁漫天堂（JMComic）鸿蒙原生漫画阅读器 \| HarmonyOS NEXT (API 26+) native … | 75 | 2026-11-17 | [v1.<wbr>1.<wbr>5](https://github.com/LovelyFlash/JMComic-HarmonyOS/releases/tag/v1.1.5) |
 | [**Ehviewer_OHOS**](https://github.com/suibianqwe/Ehviewer_OHOS)<br><sub>suibianqwe</sub> | Ehviewer on Harmony OS，原生构建，纵享丝滑。还原安卓版多数功能，同时添加了一些实用功能。现已… | 65 | 2026-11-15 | [v0.<wbr>7.<wbr>6](https://github.com/suibianqwe/Ehviewer_OHOS/releases/tag/v0.7.6) |
-| [**FreshRSS-Harmony**](https://github.com/wtronfi/FreshRSS-Harmony)<br><sub>wtronfi</sub> | 基于 HarmonyOS 的 FreshRSS 原生客户端，面向自托管用户打造的 RSS 阅读体验。 | 1 | 2026-11-15 | [2.<wbr>56](https://github.com/wtronfi/FreshRSS-Harmony/releases/tag/2.56) |
+| [**FreshRSS-Harmony**](https://github.com/wtronfi/FreshRSS-Harmony)<br><sub>wtronfi</sub> | 基于 HarmonyOS 的 FreshRSS 原生客户端，面向自托管用户打造的 RSS 阅读体验。 | 2 | 2026-11-15 | [2.<wbr>56](https://github.com/wtronfi/FreshRSS-Harmony/releases/tag/2.56) |
 | [**fanqie-oh**](https://github.com/fredqin2006-X/fanqie-oh)<br><sub>fredqin2006-X</sub> | 番茄OH -<wbr> HarmonyOS 6.<wbr>1+ 小说、漫画、短剧与听书客户端 | 7 | 2026-11-15 | [v1.<wbr>3.<wbr>2](https://github.com/fredqin2006-X/fanqie-oh/releases/tag/v1.3.2) |
 | [**yuedu-harmony**](https://github.com/TZYLXS/yuedu-harmony)<br><sub>TZYLXS</sub> | 阅读（yuedu）HarmonyOS 客户端：接入 FnReader 的 /<wbr>api/<wbr>m/<wbr>* 手机 API、Lega… | 1 | 2026-11-07 | [v1.<wbr>0.<wbr>1](https://github.com/TZYLXS/yuedu-harmony/releases/tag/v1.0.1) |
 | [**VenHM**](https://github.com/CangShui/VenHM)<br><sub>CangShui</sub> | 兼容Venera源的鸿蒙开源漫画阅读器 | 21 | 2026-11-07 | [v1.<wbr>0.<wbr>11](https://github.com/CangShui/VenHM/releases/tag/v1.0.11) |
 | [**NextN**](https://github.com/erosTeam/NextN)<br><sub>erosTeam</sub> | 原生 HarmonyOS NEXT 的 nhentai（NH）非官方客户端 | 30 | 2026-11-04 | [v1.<wbr>0.<wbr>9](https://github.com/erosTeam/NextN/releases/tag/v1.0.9) |
 | [**legado-with-md3-harmonyos**](https://github.com/hbxs0571/legado-with-md3-harmonyos)<br><sub>hbxs0571</sub> | Legado with MD3 for HarmonyOS | 5 | 2026-11-03 | [v0.<wbr>1.<wbr>0](https://github.com/hbxs0571/legado-with-md3-harmonyos/releases/tag/v0.1.0) |
-| [**legado-Harmony**](https://github.com/mgz0227/legado-Harmony)<br><sub>mgz0227</sub> | 开源阅读鸿蒙版仓库 | 2,257 | 2026-10-26 | [V1.<wbr>0.<wbr>6.<wbr>218](https://github.com/mgz0227/legado-Harmony/releases/tag/V1.0.6.218) |
+| [**legado-Harmony**](https://github.com/mgz0227/legado-Harmony)<br><sub>mgz0227</sub> | 开源阅读鸿蒙版仓库 | 2,259 | 2026-10-26 | [V1.<wbr>0.<wbr>6.<wbr>218](https://github.com/mgz0227/legado-Harmony/releases/tag/V1.0.6.218) |
 | [**qingman-reader**](https://github.com/DQ-Look/qingman-reader)<br><sub>DQ-Look</sub> | 基于 HarmonyOS (ArkTS) 的开源漫画 & 小说阅读器，支持自定义书源 \| Open-<wbr>source … | 3 | 2026-10-23 | [v1.<wbr>0.<wbr>0](https://github.com/DQ-Look/qingman-reader/releases/tag/v1.0.0) |
 | [**READ-BOOKS**](https://github.com/healing1/READ-BOOKS)<br><sub>healing1</sub> | HarmonyOS 原生阅读器 · Apple 设计语言 · TXT /<wbr> EPUB /<wbr> PDF | 1 | 2026-10-22 | [v0.<wbr>2.<wbr>1](https://github.com/healing1/READ-BOOKS/releases/tag/v0.2.1) |
 | [**copyhomo**](https://github.com/point258/copyhomo)<br><sub>point258</sub> | 一个原生的拷贝三方鸿蒙app | 23 | 2026-10-22 | [1.<wbr>3.<wbr>5](https://github.com/point258/copyhomo/releases/tag/1.3.5) |
 | [**Cimoc**](https://github.com/SYTKILLER/Cimoc)<br><sub>SYTKILLER</sub> | 原生鸿蒙（API 24）下的免费漫画阅读器软件。 | 5 | 2026-10-21 | [v1.<wbr>5.<wbr>0](https://github.com/SYTKILLER/Cimoc/releases/tag/v1.5.0) |
 | [**mangacopy-ohos**](https://github.com/dakkidaze/mangacopy-ohos)<br><sub>dakkidaze</sub> | 拷贝漫画（mangacopy.<wbr>com）的 HarmonyOS NEXT 第三方客户端（Flutter + ArkW… | 3 | 2026-10-13 | [v0.<wbr>5.<wbr>1](https://github.com/dakkidaze/mangacopy-ohos/releases/tag/v0.5.1) |
 | [**ChengJian-HarmonyOS**](https://github.com/FengHDSL/ChengJian-HarmonyOS)<br><sub>FengHDSL</sub> | 澄笺写作（ChéngJiān）是一款 HarmonyOS 原生的 Markdown 阅读器与写作工具：卡片化排版、… | 4 | 2026-10-12 | [v1.<wbr>1.<wbr>2](https://github.com/FengHDSL/ChengJian-HarmonyOS/releases/tag/v1.1.2) |
-| [**HarmonyOS-EhViewer**](https://github.com/MinamiJogen/HarmonyOS-EhViewer)<br><sub>MinamiJogen</sub> | 鸿蒙 EhViewer /<wbr> HarmonyOS 原生 EhViewer 客户端，ArkTS 开发，支持 Harmo… | 65 | 2026-10-08 | [v1.<wbr>1.<wbr>0](https://github.com/MinamiJogen/HarmonyOS-EhViewer/releases/tag/v1.1.0) |
+| [**HarmonyOS-EhViewer**](https://github.com/MinamiJogen/HarmonyOS-EhViewer)<br><sub>MinamiJogen</sub> | 鸿蒙 EhViewer /<wbr> HarmonyOS 原生 EhViewer 客户端，ArkTS 开发，支持 Harmo… | 66 | 2026-10-08 | [v1.<wbr>1.<wbr>0](https://github.com/MinamiJogen/HarmonyOS-EhViewer/releases/tag/v1.1.0) |
 | [**gt4-ebook-reader**](https://github.com/shuhuang-1/gt4-ebook-reader)<br><sub>shuhuang-1</sub> | 华为 WATCH GT4 手表本地电子书阅读器 | 1 | 2026-10-07 | [v0.<wbr>2](https://github.com/shuhuang-1/gt4-ebook-reader/releases/tag/v0.2) |
-| [**manxia**](https://github.com/DaLongZhuaZi/manxia)<br><sub>DaLongZhuaZi</sub> | 漫匣是一款专为 HarmonyOS Next 平台开发的漫画阅读应用 | 62 | 2026-09-28 | [latest](https://github.com/DaLongZhuaZi/manxia/releases/tag/latest) |
 | [**Rock-Reader**](https://github.com/Rocktier/Rock-Reader)<br><sub>Rocktier</sub> | 鸿蒙阅读应用 | 2 | 2026-09-20 | [v0.<wbr>1.<wbr>0-<wbr>alpha.<wbr>1](https://github.com/Rocktier/Rock-Reader/releases/tag/v0.1.0-alpha.1) |
 | [**mr**](https://github.com/DandanLLab/mr)<br><sub>DandanLLab</sub> | — | 113 | 2026-09-12 | [v2609127-<wbr>dev](https://github.com/DandanLLab/mr/releases/tag/v2609127-dev) |
 | [**jm**](https://github.com/Dou-art/jm)<br><sub>Dou-art</sub> | AI移植的鸿蒙禁漫 | 1 | 2026-06-27 | [v1.<wbr>0.<wbr>0](https://github.com/Dou-art/jm/releases/tag/v1.0.0) |
-| [**hlib**](https://github.com/LZZLHY/hlib)<br><sub>LZZLHY</sub> | 海阅 (HLib) -<wbr> HarmonyOS 第三方电子图书阅读客户端，基于 Z-<wbr>Library 公开镜像 API | 34 | 2026-06-27 | [v1.<wbr>0.<wbr>1](https://github.com/LZZLHY/hlib/releases/tag/v1.0.1) |
+| [**hlib**](https://github.com/LZZLHY/hlib)<br><sub>LZZLHY</sub> | 海阅 (HLib) -<wbr> HarmonyOS 第三方电子图书阅读客户端，基于 Z-<wbr>Library 公开镜像 API | 35 | 2026-06-27 | [v1.<wbr>0.<wbr>1](https://github.com/LZZLHY/hlib/releases/tag/v1.0.1) |
 | [**Harmshelf**](https://github.com/shanyan-wcx/Harmshelf)<br><sub>shanyan-wcx</sub> | Audiobookshelf的鸿蒙原生客户端 | 40 | 2026-06-16 | [v2.<wbr>3.<wbr>0](https://github.com/shanyan-wcx/Harmshelf/releases/tag/v2.3.0) |
 | [**litradar-harmonyos**](https://github.com/fastbiography-hue/litradar-harmonyos)<br><sub>fastbiography-hue</sub> | 📚 LitRadar — 生物医学文献追踪系统 \| 鸿蒙PC纯原生 \| PubMed + Europe PMC 直… | 0 | 2026-06-14 | [v2.<wbr>0.<wbr>0](https://github.com/fastbiography-hue/litradar-harmonyos/releases/tag/v2.0.0) |
 | [**Ohentai**](https://github.com/Ibukitofu/Ohentai)<br><sub>Ibukitofu</sub> | HarmonyOS版本的 E-<wbr>hentai 阅读工具 | 30 | 2026-06-13 | [0.<wbr>5.<wbr>4](https://github.com/Ibukitofu/Ohentai/releases/tag/0.5.4) |
@@ -384,11 +383,12 @@
 <a id="hap-education" name="hap-education"></a>
 
 <details open>
-<summary><strong>教育</strong>（18 个项目）</summary>
+<summary><strong>教育</strong>（19 个项目）</summary>
 
 | 项目 | 简介 | ⭐ Stars | 📅 更新日期 | 🏷️ 最新版本 |
 |:-----|:-----|:-------:|:-----------:|:------------|
-| [**ShuYoHarmony**](https://github.com/rskzayton/ShuYoHarmony)<br><sub>rskzayton</sub> | SHU友 原生鸿蒙版 — 专为上海大学师生设计的校园一站式服务 HarmonyOS 应用 | 0 | 2026-11-24 | [v0.<wbr>6.<wbr>0.<wbr>2](https://github.com/rskzayton/ShuYoHarmony/releases/tag/v0.6.0.2) |
+| [**ShuYoHarmony**](https://github.com/rskzayton/ShuYoHarmony)<br><sub>rskzayton</sub> | SHU友 原生鸿蒙版 — 专为上海大学师生设计的校园一站式服务 HarmonyOS 应用 | 0 | 2026-11-25 | [v0.<wbr>5.<wbr>4](https://github.com/rskzayton/ShuYoHarmony/releases/tag/v0.5.4) |
+| [**koma**](https://github.com/TNXG/koma)<br><sub>TNXG</sub> | 大学课表应用。支持教务直连自动同步、本地 OCR 验证码识别、AI 识图与 JSON 离线导入。 | 5 | 2026-11-24 | [v0.<wbr>0.<wbr>3](https://github.com/TNXG/koma/releases/tag/v0.0.3) |
 | [**njuschedule-hmos**](https://github.com/WheretoSleepinNJU/njuschedule-hmos)<br><sub>WheretoSleepinNJU</sub> | 呢喃课表（NJU Schedule NEXT）—— 南哪课表 App 的 HarmonyOS /<wbr> ArkTS 原生重写版 | 1 | 2026-11-23 | [v0.<wbr>3.<wbr>3](https://github.com/WheretoSleepinNJU/njuschedule-hmos/releases/tag/v0.3.3) |
 | [**zhifan**](https://github.com/Kicklice/zhifan)<br><sub>Kicklice</sub> | Zhifan -<wbr> AI exam mistake notebook (unsigned HAP release) | 2 | 2026-11-21 | [v1.<wbr>1.<wbr>0](https://github.com/Kicklice/zhifan/releases/tag/v1.1.0) |
 | [**class-tools-harmony**](https://github.com/Link0Kong/class-tools-harmony)<br><sub>Link0Kong</sub> | 班级工具站 · HarmonyOS 原生客户端：ArkTS + ArkUI（Stage 模型），零第三方运行依赖，… | 1 | 2026-11-21 | [v1.<wbr>0.<wbr>8](https://github.com/Link0Kong/class-tools-harmony/releases/tag/v1.0.8) |
@@ -397,7 +397,7 @@
 | [**Fuxiaowai**](https://github.com/kmmiku/Fuxiaowai)<br><sub>kmmiku</sub> | 福小外 · 福州外语外贸学院课表软件 ｜ HarmonyOS 鸿蒙版 0.<wbr>1.<wbr>1，Android 版预留 | 0 | 2026-11-15 | [android-<wbr>v0.<wbr>1.<wbr>1](https://github.com/kmmiku/Fuxiaowai/releases/tag/android-v0.1.1) |
 | [**jidecards-anki-harmonyos**](https://github.com/wuweiyouzuoju/jidecards-anki-harmonyos)<br><sub>wuweiyouzuoju</sub> | 基于 HarmonyOS 的 Anki 卡片学习客户端，复用 Anki Rust 后端 | 26 | 2026-11-14 | [v26.<wbr>11.<wbr>15.<wbr>15](https://github.com/wuweiyouzuoju/jidecards-anki-harmonyos/releases/tag/v26.11.15.15) |
 | [**DanXi_HarmonyOS**](https://github.com/GoodNima/DanXi_HarmonyOS)<br><sub>GoodNima</sub> | 旦挞（DanTa）· DanXi 原生鸿蒙移植版 · ArkTS /<wbr> ArkUI · HarmonyOS API … | 0 | 2026-10-30 | [v0.<wbr>1.<wbr>43.<wbr>6-<wbr>alpha](https://github.com/GoodNima/DanXi_HarmonyOS/releases/tag/v0.1.43.6-alpha) |
-| [**duolinguo-harmonyos**](https://github.com/zywbjj/duolinguo-harmonyos)<br><sub>zywbjj</sub> | — | 3 | 2026-10-29 | [v1.<wbr>0.<wbr>13](https://github.com/zywbjj/duolinguo-harmonyos/releases/tag/v1.0.13) |
+| [**duolinguo-harmonyos**](https://github.com/zywbjj/duolinguo-harmonyos)<br><sub>zywbjj</sub> | — | 4 | 2026-10-29 | [v1.<wbr>0.<wbr>13](https://github.com/zywbjj/duolinguo-harmonyos/releases/tag/v1.0.13) |
 | [**deepquest**](https://github.com/meowqwe/deepquest)<br><sub>meowqwe</sub> | 深问 DeepQuest · 期末刷题神器｜导入 PDF/<wbr>Word/<wbr>TXT 题库，离线刷题、错题本、SM-<wbr>2 自动复习。 | 3 | 2026-10-22 | [v0.<wbr>1.<wbr>11](https://github.com/meowqwe/deepquest/releases/tag/v0.1.11) |
 | [**DailyNic_HMOS**](https://github.com/Your-USTC/DailyNic_HMOS)<br><sub>Your-USTC</sub> | 为鸿蒙 NEXT 打造的中科大本科生生活类 App | 31 | 2026-10-01 | [2.<wbr>3.<wbr>0](https://github.com/Your-USTC/DailyNic_HMOS/releases/tag/2.3.0) |
 | [**word-assistant**](https://github.com/mmcc65/word-assistant)<br><sub>mmcc65</sub> | 本地优先、跨平台、可自定义连续播报的开源生词助手，支持 Windows、PWA、Android 与 HarmonyOS。 | 1 | 2026-09-27 | [v1.<wbr>1.<wbr>4](https://github.com/mmcc65/word-assistant/releases/tag/v1.1.4) |
@@ -418,27 +418,27 @@
 
 | 项目 | 简介 | ⭐ Stars | 📅 更新日期 | 🏷️ 最新版本 |
 |:-----|:-----|:-------:|:-----------:|:------------|
+| [**ArkClash**](https://github.com/VOD-Studio/ArkClash)<br><sub>VOD-Studio</sub> | 原生 HarmonyOS NEXT 代理客户端：mihomo 内核，ArkTS/<wbr>ArkUI 界面，交互参考 FlC… | 43 | 2026-11-25 | [v0.<wbr>6.<wbr>2](https://github.com/VOD-Studio/ArkClash/releases/tag/v0.6.2) |
 | [**V2ray_ohos**](https://github.com/ches2010/V2ray_ohos)<br><sub>ches2010</sub> | V2RayNG ported to HarmonyOS NEXT (ArkTS + ArkUI + NAPI, X… | 0 | 2026-11-24 | [v2.<wbr>0.<wbr>1](https://github.com/ches2010/V2ray_ohos/releases/tag/v2.0.1) |
-| [**ArkClash**](https://github.com/VOD-Studio/ArkClash)<br><sub>VOD-Studio</sub> | 原生 HarmonyOS NEXT 代理客户端：mihomo 内核，ArkTS/<wbr>ArkUI 界面，交互参考 FlC… | 37 | 2026-11-24 | [v0.<wbr>6.<wbr>1](https://github.com/VOD-Studio/ArkClash/releases/tag/v0.6.1) |
 | [**way-harmonyos**](https://github.com/being123321/way-harmonyos)<br><sub>being123321</sub> | 非官方鸿蒙移植的 xray 客户端（HarmonyOS /<wbr> ArkTS，内核 aimalygin/<wbr>xray-<wbr>rus… | 4 | 2026-11-23 | [v0.<wbr>10.<wbr>5](https://github.com/being123321/way-harmonyos/releases/tag/v0.10.5) |
 | [**sing-box-for-harmonyos**](https://github.com/being123321/sing-box-for-harmonyos)<br><sub>being123321</sub> | Unofficial HarmonyOS sing-<wbr>box client · ArkUI UI, VPN Exte… | 27 | 2026-11-22 | [fix-<wbr>groups-<wbr>bg-<wbr>beta-<wbr>r1](https://github.com/being123321/sing-box-for-harmonyos/releases/tag/fix-groups-bg-beta-r1) |
-| [**home-cloud-shield**](https://github.com/Tlntin/home-cloud-shield)<br><sub>Tlntin</sub> | — | 67 | 2026-11-21 | [v0.<wbr>1.<wbr>2](https://github.com/Tlntin/home-cloud-shield/releases/tag/v0.1.2) |
-| [**ReedBox**](https://github.com/RzdPai/ReedBox)<br><sub>RzdPai</sub> | HarmonyOS NEXT sing-<wbr>box client | 4 | 2026-11-21 | [v0.<wbr>5.<wbr>70](https://github.com/RzdPai/ReedBox/releases/tag/v0.5.70) |
+| [**home-cloud-shield**](https://github.com/Tlntin/home-cloud-shield)<br><sub>Tlntin</sub> | — | 68 | 2026-11-21 | [v0.<wbr>1.<wbr>2](https://github.com/Tlntin/home-cloud-shield/releases/tag/v0.1.2) |
+| [**ReedBox**](https://github.com/RzdPai/ReedBox)<br><sub>RzdPai</sub> | HarmonyOS NEXT sing-<wbr>box client | 5 | 2026-11-21 | [v0.<wbr>5.<wbr>70](https://github.com/RzdPai/ReedBox/releases/tag/v0.5.70) |
 | [**afrp-client**](https://github.com/afrpnet/afrp-client)<br><sub>afrpnet</sub> | AFRP OIDC Client  (Windows/<wbr>MacOS/<wbr>Linux/<wbr>Android/<wbr>HarmonyOS/<wbr>… | 3 | 2026-11-20 | [v1.<wbr>4.<wbr>8](https://github.com/afrpnet/afrp-client/releases/tag/v1.4.8) |
-| [**FlClash-ohos**](https://github.com/tljk/FlClash-ohos)<br><sub>tljk</sub> | A multi-<wbr>platform proxy client based on ClashMeta,simple a… | 379 | 2026-11-20 | [v0.<wbr>8.<wbr>99+202611200<wbr>1](https://github.com/tljk/FlClash-ohos/releases/tag/v0.8.99%2B2026112001) |
-| [**TunBox**](https://github.com/xiaoli8571/TunBox)<br><sub>xiaoli8571</sub> | TunBox 的 HarmonyOS NEXT 客户端：基于 mihomo 内核的原生代理工具，支持订阅、应用/<wbr>网… | 115 | 2026-11-20 | [v0.<wbr>9.<wbr>2](https://github.com/xiaoli8571/TunBox/releases/tag/v0.9.2) |
-| [**v2rayH**](https://github.com/JuckyLee668/v2rayH)<br><sub>JuckyLee668</sub> | 此项目是基于鸿蒙平台开发的xray和sing-<wbr>box双内核代理工具，适用于Harmony OS NEXT 6.<wbr>1及以上。 | 37 | 2026-11-14 | [v0.<wbr>3.<wbr>4](https://github.com/JuckyLee668/v2rayH/releases/tag/v0.3.4) |
-| [**Bettbox**](https://github.com/htoay/Bettbox)<br><sub>htoay</sub> | Another Better Mihomo Client on Harmonyos | 91 | 2026-11-14 | [ohos-<wbr>v1.<wbr>19.<wbr>8](https://github.com/htoay/Bettbox/releases/tag/ohos-v1.19.8) |
+| [**FlClash-ohos**](https://github.com/tljk/FlClash-ohos)<br><sub>tljk</sub> | A multi-<wbr>platform proxy client based on ClashMeta,simple a… | 383 | 2026-11-20 | [v0.<wbr>8.<wbr>99+202611200<wbr>1](https://github.com/tljk/FlClash-ohos/releases/tag/v0.8.99%2B2026112001) |
+| [**TunBox**](https://github.com/xiaoli8571/TunBox)<br><sub>xiaoli8571</sub> | TunBox 的 HarmonyOS NEXT 客户端：基于 mihomo 内核的原生代理工具，支持订阅、应用/<wbr>网… | 118 | 2026-11-20 | [v0.<wbr>9.<wbr>2](https://github.com/xiaoli8571/TunBox/releases/tag/v0.9.2) |
+| [**v2rayH**](https://github.com/JuckyLee668/v2rayH)<br><sub>JuckyLee668</sub> | 此项目是基于鸿蒙平台开发的xray和sing-<wbr>box双内核代理工具，适用于Harmony OS NEXT 6.<wbr>1及以上。 | 39 | 2026-11-14 | [v0.<wbr>3.<wbr>4](https://github.com/JuckyLee668/v2rayH/releases/tag/v0.3.4) |
+| [**Bettbox**](https://github.com/htoay/Bettbox)<br><sub>htoay</sub> | Another Better Mihomo Client on Harmonyos | 92 | 2026-11-14 | [ohos-<wbr>v1.<wbr>19.<wbr>8](https://github.com/htoay/Bettbox/releases/tag/ohos-v1.19.8) |
 | [**HarmoTail-Releases**](https://github.com/wuwu888/HarmoTail-Releases)<br><sub>wuwu888</sub> | HarmoTail -<wbr> Tailscale for HarmonyOS NEXT /<wbr> 鸿蒙 Tailscale /<wbr>… | 19 | 2026-11-11 | [v0.<wbr>17.<wbr>4](https://github.com/wuwu888/HarmoTail-Releases/releases/tag/v0.17.4) |
 | [**v2raym-hos**](https://github.com/ansun1714/v2raym-hos)<br><sub>ansun1714</sub> | HarmonyOS 上的 V2rayM 客户端：ArkTS UI + mihomo (Go) 内核 + NAPI … | 3 | 2026-11-08 | [hap-<wbr>latest](https://github.com/ansun1714/v2raym-hos/releases/tag/hap-latest) |
 | [**ClashOhos**](https://github.com/ls965526741/ClashOhos)<br><sub>ls965526741</sub> | HarmonyOS NEXT 非官方 Clash.<wbr>Meta 客户端：VPN 扩展加载 mihomo，UI 仅 RE… | 7 | 2026-11-01 | [v0.<wbr>1.<wbr>0](https://github.com/ls965526741/ClashOhos/releases/tag/v0.1.0) |
-| [**NekoBox4Harmony**](https://github.com/xiaoli8571/NekoBox4Harmony)<br><sub>xiaoli8571</sub> | NekoBox-<wbr>style VPN client for HarmonyOS NEXT; in-<wbr>process s… | 87 | 2026-11-01 | [v2.<wbr>7.<wbr>0](https://github.com/xiaoli8571/NekoBox4Harmony/releases/tag/v2.7.0) |
+| [**NekoBox4Harmony**](https://github.com/xiaoli8571/NekoBox4Harmony)<br><sub>xiaoli8571</sub> | NekoBox-<wbr>style VPN client for HarmonyOS NEXT; in-<wbr>process s… | 88 | 2026-11-01 | [v2.<wbr>7.<wbr>0](https://github.com/xiaoli8571/NekoBox4Harmony/releases/tag/v2.7.0) |
 | [**Cexing**](https://github.com/Starfie1d1272/Cexing)<br><sub>Starfie1d1272</sub> | 策星 · Cexing — HarmonyOS 原生代理客户端，集成 Mihomo Smart 与 Zashboard | 4 | 2026-10-29 | [v0.<wbr>1.<wbr>1](https://github.com/Starfie1d1272/Cexing/releases/tag/v0.1.1) |
 | [**Clash-Mate-for-HarmonyOS**](https://github.com/levinrinco/Clash-Mate-for-HarmonyOS)<br><sub>levinrinco</sub> | HarmonyOS 原生 Clash 客户端，基于 mihomo。IPv4/<wbr>IPv6 双栈，支持桌面卡片、长时任务… | 33 | 2026-10-23 | [v2.<wbr>11.<wbr>36.<wbr>1](https://github.com/levinrinco/Clash-Mate-for-HarmonyOS/releases/tag/v2.11.36.1) |
 | [**TunnelArk**](https://github.com/RockyMtnWolf/TunnelArk)<br><sub>RockyMtnWolf</sub> | 隧舟 TunnelArk: independent HarmonyOS Tailscale and FRP cli… | 8 | 2026-10-16 | [v1.<wbr>1.<wbr>3](https://github.com/RockyMtnWolf/TunnelArk/releases/tag/v1.1.3) |
 | [**Paws**](https://github.com/richerfu/Paws)<br><sub>richerfu</sub> | A Clash/<wbr>mihomo OpenHarmony client with a native ArkUI int… | 31 | 2026-10-16 | [v1.<wbr>2.<wbr>0](https://github.com/richerfu/Paws/releases/tag/v1.2.0) |
 | [**clash-dashboard-ho**](https://github.com/zhisibi/clash-dashboard-ho)<br><sub>zhisibi</sub> | 鸿蒙版clash面板。 | 0 | 2026-10-11 | [v1.<wbr>2.<wbr>10](https://github.com/zhisibi/clash-dashboard-ho/releases/tag/v1.2.10) |
-| [**harmony-kslmkf-karing-hap**](https://github.com/ks-lm-kf/harmony-kslmkf-karing-hap)<br><sub>ks-lm-kf</sub> | HarmonyOS HAP beta release for Karing/<wbr>sing-<wbr>box based build | 87 | 2026-09-29 | [v1.<wbr>11.<wbr>0](https://github.com/ks-lm-kf/harmony-kslmkf-karing-hap/releases/tag/v1.11.0) |
+| [**harmony-kslmkf-karing-hap**](https://github.com/ks-lm-kf/harmony-kslmkf-karing-hap)<br><sub>ks-lm-kf</sub> | HarmonyOS HAP beta release for Karing/<wbr>sing-<wbr>box based build | 88 | 2026-09-29 | [v1.<wbr>11.<wbr>0](https://github.com/ks-lm-kf/harmony-kslmkf-karing-hap/releases/tag/v1.11.0) |
 | [**SSRVPN_Harmony**](https://github.com/xiaoli8571/SSRVPN_Harmony)<br><sub>xiaoli8571</sub> | SSRVPN (Clash/<wbr>Mihomo) ported to HarmonyOS NEXT -<wbr> ArkTS UI… | 18 | 2026-09-24 | [v5.<wbr>7.<wbr>0-<wbr>smart](https://github.com/xiaoli8571/SSRVPN_Harmony/releases/tag/v5.7.0-smart) |
 | [**OhosXray**](https://github.com/Henry-Fox/OhosXray)<br><sub>Henry-Fox</sub> | HarmonyOS /<wbr> 鸿蒙系统级 VPN（VpnExtensionAbility + Xray-<wbr>core）示例；… | 2 | 2026-09-16 | [v1.<wbr>2.<wbr>3](https://github.com/Henry-Fox/OhosXray/releases/tag/v1.2.3) |
 | [**lumine-for-harmonyos**](https://github.com/SnishaperTeam/lumine-for-harmonyos)<br><sub>SnishaperTeam</sub> | lumine在HarmonyOS平台的clash风格实现 | 3 | 2026-09-12 | [v0.<wbr>1.<wbr>0](https://github.com/SnishaperTeam/lumine-for-harmonyos/releases/tag/v0.1.0) |
@@ -446,7 +446,7 @@
 | [**tailscale-hos**](https://github.com/adlsdztony/tailscale-hos)<br><sub>adlsdztony</sub> | Experimental native Tailscale client for HarmonyOS PC (AR… | 1 | 2026-08-16 | [v1.<wbr>0.<wbr>0-<wbr>beta.<wbr>2](https://github.com/adlsdztony/tailscale-hos/releases/tag/v1.0.0-beta.2) |
 | [**ClashHM**](https://github.com/maxin0324/ClashHM)<br><sub>maxin0324</sub> | clash for harmonyOS | 7 | 2026-07-17 | [v0.<wbr>1.<wbr>0](https://github.com/maxin0324/ClashHM/releases/tag/v0.1.0) |
 | [**Tailscale-OHOS**](https://github.com/flypigJ/Tailscale-OHOS)<br><sub>flypigJ</sub> | MeshArc — Native Tailscale client for HarmonyOS NEXT.<wbr> Con… | 69 | 2026-07-16 | [v0.<wbr>3.<wbr>19-<wbr>release](https://github.com/flypigJ/Tailscale-OHOS/releases/tag/v0.3.19-release) |
-| [**ClashBox**](https://github.com/xiaobaigroup/ClashBox)<br><sub>xiaobaigroup</sub> | HarmonyOS NEXT的代理软件 | 4,881 | 2026-04-02 | [1.<wbr>7.<wbr>4](https://github.com/xiaobaigroup/ClashBox/releases/tag/1.7.4) |
+| [**ClashBox**](https://github.com/xiaobaigroup/ClashBox)<br><sub>xiaobaigroup</sub> | HarmonyOS NEXT的代理软件 | 4,887 | 2026-04-02 | [1.<wbr>7.<wbr>4](https://github.com/xiaobaigroup/ClashBox/releases/tag/1.7.4) |
 | [**etohos**](https://github.com/collaborative-creation/etohos)<br><sub>collaborative-creation</sub> | EasyTier for 鸿蒙 | 31 | 2026-03-31 | [v1.<wbr>0.<wbr>9](https://github.com/collaborative-creation/etohos/releases/tag/v1.0.9) |
 | [**Clash-For-HarmonyOS**](https://github.com/2766859801/Clash-For-HarmonyOS)<br><sub>2766859801</sub> | — | 29 | 2024-11-18 | [v1.<wbr>0](https://github.com/2766859801/Clash-For-HarmonyOS/releases/tag/v1.0) |
 
@@ -464,10 +464,10 @@
 | [**Phigros_HarmonyOS_adapter**](https://github.com/sxyzc233/Phigros_HarmonyOS_adapter)<br><sub>sxyzc233</sub> | — | 19 | 2026-11-24 | [v4.<wbr>1.<wbr>0.<wbr>1](https://github.com/sxyzc233/Phigros_HarmonyOS_adapter/releases/tag/v4.1.0.1) |
 | [**las-recomp-ohos**](https://github.com/xiaoheng11111/las-recomp-ohos)<br><sub>xiaoheng11111</sub> | — | 0 | 2026-11-24 | [v17.<wbr>8](https://github.com/xiaoheng11111/las-recomp-ohos/releases/tag/v17.8) |
 | [**Pvz-Gardendless-harmony**](https://github.com/WingedFin1251/Pvz-Gardendless-harmony)<br><sub>WingedFin1251</sub> | Pvz Gardendless的鸿蒙移植版 | 8 | 2026-11-24 | [v0.<wbr>16.<wbr>31](https://github.com/WingedFin1251/Pvz-Gardendless-harmony/releases/tag/v0.16.31) |
-| [**d2r-mobile**](https://github.com/jhaizhou-ops/d2r-mobile)<br><sub>jhaizhou-ops</sub> | Open-<wbr>source compatibility layer for Diablo II: Resurrecte… | 5,377 | 2026-11-23 | [v2.<wbr>3.<wbr>5](https://github.com/jhaizhou-ops/d2r-mobile/releases/tag/v2.3.5) |
+| [**d2r-mobile**](https://github.com/jhaizhou-ops/d2r-mobile)<br><sub>jhaizhou-ops</sub> | Open-<wbr>source compatibility layer for Diablo II: Resurrecte… | 5,386 | 2026-11-23 | [v2.<wbr>3.<wbr>5](https://github.com/jhaizhou-ops/d2r-mobile/releases/tag/v2.3.5) |
 | [**MC4HOS**](https://github.com/BytinIsDead/MC4HOS)<br><sub>BytinIsDead</sub> | Minecraft For harmonyos/<wbr>openharmony | 1 | 2026-11-22 | [v1.<wbr>0.<wbr>1](https://github.com/BytinIsDead/MC4HOS/releases/tag/v1.0.1) |
 | [**saltline-harmonyos**](https://github.com/Faster-001/saltline-harmonyos)<br><sub>Faster-001</sub> | Saltline game for HarmonyOS | 3 | 2026-11-21 | [1.<wbr>0.<wbr>1](https://github.com/Faster-001/saltline-harmonyos/releases/tag/1.0.1) |
-| [**nxohos**](https://github.com/hashiqi12138/nxohos)<br><sub>hashiqi12138</sub> | Switch games natively on HarmonyOS NEXT: NSO AArch64 stat… | 5 | 2026-11-21 | [v0.<wbr>2.<wbr>0](https://github.com/hashiqi12138/nxohos/releases/tag/v0.2.0) |
+| [**nxohos**](https://github.com/hashiqi12138/nxohos)<br><sub>hashiqi12138</sub> | Switch games natively on HarmonyOS NEXT: NSO AArch64 stat… | 6 | 2026-11-21 | [v0.<wbr>2.<wbr>0](https://github.com/hashiqi12138/nxohos/releases/tag/v0.2.0) |
 | [**amcl**](https://github.com/LZZLHY/amcl)<br><sub>LZZLHY</sub> | AMCL — 首款鸿蒙版全量Java版我的世界启动器 | 128 | 2026-11-20 | [v1.<wbr>0.<wbr>8-<wbr>pre2](https://github.com/LZZLHY/amcl/releases/tag/v1.0.8-pre2) |
 | [**ASFShortcut-HN**](https://github.com/azhuge233/ASFShortcut-HN)<br><sub>azhuge233</sub> | ArchiSteamFarm client for HarmonyOS NEXT.<wbr> | 0 | 2026-11-16 | [1.<wbr>8.<wbr>0](https://github.com/azhuge233/ASFShortcut-HN/releases/tag/1.8.0) |
 | [**touchable-ohos**](https://github.com/F7s/touchable-ohos)<br><sub>F7s</sub> | Standalone Rhythm Heaven Groove (0100D9F01D474000) Harmon… | 3 | 2026-11-13 | [v1.<wbr>0.<wbr>0](https://github.com/F7s/touchable-ohos/releases/tag/v1.0.0) |
@@ -499,21 +499,23 @@
 <a id="hap-development" name="hap-development"></a>
 
 <details open>
-<summary><strong>开发</strong>（57 个项目）</summary>
+<summary><strong>开发</strong>（58 个项目）</summary>
 
 | 项目 | 简介 | ⭐ Stars | 📅 更新日期 | 🏷️ 最新版本 |
 |:-----|:-----|:-------:|:-----------:|:------------|
+| [**zcode-ohos**](https://github.com/yuanbaobaoo/zcode-ohos)<br><sub>yuanbaobaoo</sub> | ZCode Desktop 鸿蒙系统（HarmonyOS）适配版本 | 19 | 2026-11-25 | [v4.<wbr>0.<wbr>0-<wbr>ohos-<wbr>patch4](https://github.com/yuanbaobaoo/zcode-ohos/releases/tag/v4.0.0-ohos-patch4) |
+| [**dsh-hos**](https://github.com/Jerrylee2044/dsh-hos)<br><sub>Jerrylee2044</sub> | DSH HOS — 在 HarmonyOS 上运行完整 DeepSeek Harness 的自研原生运行时；Mat… | 1 | 2026-11-24 | [v0.<wbr>2.<wbr>3-<wbr>alpha.<wbr>2-<wbr>hos.<wbr>425](https://github.com/Jerrylee2044/dsh-hos/releases/tag/v0.2.3-alpha.2-hos.425) |
 | [**CoderStudio**](https://github.com/Snortom/CoderStudio)<br><sub>Snortom</sub> | Coder Studio官方发行仓库 | 1 | 2026-11-24 | [1.<wbr>3.<wbr>0](https://github.com/Snortom/CoderStudio/releases/tag/1.3.0) |
-| [**zcode-ohos**](https://github.com/yuanbaobaoo/zcode-ohos)<br><sub>yuanbaobaoo</sub> | ZCode Desktop 鸿蒙系统（HarmonyOS）适配版本 | 19 | 2026-11-24 | [v4.<wbr>0.<wbr>0-<wbr>ohos-<wbr>patch3](https://github.com/yuanbaobaoo/zcode-ohos/releases/tag/v4.0.0-ohos-patch3) |
+| [**dsh-mobile**](https://github.com/hyfdracula/dsh-mobile)<br><sub>hyfdracula</sub> | 用手机远程控制本机 DeepSeek Harness：鸿蒙客户端 + 配对网关插件 | 13 | 2026-11-24 | [v2.<wbr>0.<wbr>0](https://github.com/hyfdracula/dsh-mobile/releases/tag/v2.0.0) |
 | [**Qodex**](https://github.com/llnode/Qodex)<br><sub>llnode</sub> | Native AI development workspace for HarmonyOS phones and … | 11 | 2026-11-23 | [v2.<wbr>5.<wbr>2](https://github.com/llnode/Qodex/releases/tag/v2.5.2) |
 | [**cc-haha-mobile-for-harmony**](https://github.com/KOTMMMMM/cc-haha-mobile-for-harmony)<br><sub>KOTMMMMM</sub> | HarmonyOS NEXT client for Claude Code (cc-<wbr>haha): streamin… | 0 | 2026-11-22 | [v1.<wbr>1.<wbr>0](https://github.com/KOTMMMMM/cc-haha-mobile-for-harmony/releases/tag/v1.1.0) |
 | [**pocket-harness-ohos**](https://github.com/snoworwind/pocket-harness-ohos)<br><sub>snoworwind</sub> | DeepSeek Harness 的 HarmonyOS 原生版：官方 Web GUI + IEC 原生执行核 +… | 2 | 2026-11-22 | [v0.<wbr>1.<wbr>0.<wbr>7](https://github.com/snoworwind/pocket-harness-ohos/releases/tag/v0.1.0.7) |
 | [**ohos-terminal**](https://github.com/BytinIsDead/ohos-terminal)<br><sub>BytinIsDead</sub> | Terminal, SSH/<wbr>SFTP client and two-<wbr>pane file browser for H… | 0 | 2026-11-22 | [v1.<wbr>0.<wbr>0](https://github.com/BytinIsDead/ohos-terminal/releases/tag/v1.0.0) |
-| [**StarPivot**](https://github.com/XiotenStellar67/StarPivot)<br><sub>XiotenStellar67</sub> | 星枢 StarPivot —— 鸿蒙版Shizuku，把 HDC 的 shell 能力封装成本机 HTTP 接口 | 23 | 2026-11-22 | [v1.<wbr>2.<wbr>1](https://github.com/XiotenStellar67/StarPivot/releases/tag/v1.2.1) |
+| [**StarPivot**](https://github.com/XiotenStellar67/StarPivot)<br><sub>XiotenStellar67</sub> | 星枢 StarPivot —— 鸿蒙版Shizuku，把 HDC 的 shell 能力封装成本机 HTTP 接口 | 25 | 2026-11-22 | [v1.<wbr>2.<wbr>1](https://github.com/XiotenStellar67/StarPivot/releases/tag/v1.2.1) |
 | [**Android-SSH-Codex**](https://github.com/wkj2333666/Android-SSH-Codex)<br><sub>wkj2333666</sub> | Codex Desktop-<wbr>style mobile UI that securely controls remo… | 4 | 2026-11-22 | [v0.<wbr>4.<wbr>56](https://github.com/wkj2333666/Android-SSH-Codex/releases/tag/v0.4.56) |
 | [**XCube**](https://github.com/YANGZX22/XCube)<br><sub>YANGZX22</sub> | A native AI agent harness for HarmonyOS 7.<wbr> | 2 | 2026-11-20 | [v2.<wbr>1.<wbr>1](https://github.com/YANGZX22/XCube/releases/tag/v2.1.1) |
 | [**t3code-harmony**](https://github.com/EwhenJoo/t3code-harmony)<br><sub>EwhenJoo</sub> | Unofficial native HarmonyOS client for T3 Code (ArkTS /<wbr> A… | 0 | 2026-11-18 | [v0.<wbr>1.<wbr>0](https://github.com/EwhenJoo/t3code-harmony/releases/tag/v0.1.0) |
-| [**servo**](https://github.com/servo/servo)<br><sub>servo</sub> | Servo aims to empower developers with a lightweight, high… | 38,634 | 2026-11-09 | [v0.<wbr>8.<wbr>0](https://github.com/servo/servo/releases/tag/v0.8.0) |
+| [**servo**](https://github.com/servo/servo)<br><sub>servo</sub> | Servo aims to empower developers with a lightweight, high… | 38,650 | 2026-11-09 | [v0.<wbr>8.<wbr>0](https://github.com/servo/servo/releases/tag/v0.8.0) |
 | [**Guncat-Work-for-hmos**](https://github.com/zhubowen-bot/Guncat-Work-for-hmos)<br><sub>zhubowen-bot</sub> | 鸿蒙原生 AI 工作台｜不止电脑，鸿蒙手机也能用：鸿蒙原生 shell 容器（命令是 HarmonyOS .<wbr>so，… | 20 | 2026-11-08 | [v7.<wbr>3.<wbr>0](https://github.com/zhubowen-bot/Guncat-Work-for-hmos/releases/tag/v7.3.0) |
 | [**DSH-Harmony**](https://github.com/stlin256/DSH-Harmony)<br><sub>stlin256</sub> | DeepSeek Harness 的 HarmonyOS 原生客户端（ArkUI/<wbr>ArkTS）：会话、工具调用、审… | 23 | 2026-11-07 | [v0.<wbr>4.<wbr>10](https://github.com/stlin256/DSH-Harmony/releases/tag/v0.4.10) |
 | [**dsh-phone**](https://github.com/VB085/dsh-phone)<br><sub>VB085</sub> | 基于 DSHM 的 DeepSeek Harness 鸿蒙手机本地运行适配 · Phone preview | 0 | 2026-11-04 | [v0.<wbr>1.<wbr>0-<wbr>phone-<wbr>preview.<wbr>2](https://github.com/VB085/dsh-phone/releases/tag/v0.1.0-phone-preview.2) |
@@ -523,8 +525,7 @@
 | [**GoTally**](https://github.com/WingedFin1251/GoTally)<br><sub>WingedFin1251</sub> | 本地优先的 OpenCode Go 用量统计面板 — HarmonyOS 原生应用（ArkTS）：配额窗口、Tok… | 0 | 2026-10-10 | [v1.<wbr>7.<wbr>1](https://github.com/WingedFin1251/GoTally/releases/tag/v1.7.1) |
 | [**NGF**](https://github.com/DaLongZhuaZi/NGF)<br><sub>DaLongZhuaZi</sub> | 一款面向 HarmonyOS Next 的可复用软件开发框架 | 9 | 2026-10-07 | [nightly](https://github.com/DaLongZhuaZi/NGF/releases/tag/nightly) |
 | [**arkcat**](https://github.com/ZM-BAD/arkcat)<br><sub>ZM-BAD</sub> | ArkCat — Pure HarmonyOS GitHub client | 21 | 2026-10-05 | [v1.<wbr>0.<wbr>1](https://github.com/ZM-BAD/arkcat/releases/tag/v1.0.1) |
-| [**dshm**](https://github.com/sol5766/dshm)<br><sub>sol5766</sub> | deepseek harnes HarmonyOS PC client | 114 | 2026-10-05 | [v1.<wbr>1.<wbr>0](https://github.com/sol5766/dshm/releases/tag/v1.1.0) |
-| [**dsh-harmonyos-pc**](https://github.com/QinpanWan/dsh-harmonyos-pc)<br><sub>QinpanWan</sub> | 让 DeepSeek Harness(dsh) 在 HarmonyOS 完整跑起来：缓存优化对话预设 + 启动补丁… | 43 | 2026-09-25 | [v1.<wbr>0.<wbr>0-<wbr>pc](https://github.com/QinpanWan/dsh-harmonyos-pc/releases/tag/v1.0.0-pc) |
+| [**dsh-harmonyos-pc**](https://github.com/QinpanWan/dsh-harmonyos-pc)<br><sub>QinpanWan</sub> | 让 DeepSeek Harness(dsh) 在 HarmonyOS 完整跑起来：缓存优化对话预设 + 启动补丁… | 44 | 2026-09-25 | [v1.<wbr>0.<wbr>0-<wbr>pc](https://github.com/QinpanWan/dsh-harmonyos-pc/releases/tag/v1.0.0-pc) |
 | [**KuiklyNotification**](https://github.com/AriaLEntropy/KuiklyNotification)<br><sub>AriaLEntropy</sub> | 基于 Kuikly 的跨端本地通知组件（Android /<wbr> iOS /<wbr> 鸿蒙） | 0 | 2026-09-25 | [1.<wbr>0.<wbr>0](https://github.com/AriaLEntropy/KuiklyNotification/releases/tag/1.0.0) |
 | [**Ateng-Flutter**](https://github.com/atengk/Ateng-Flutter)<br><sub>atengk</sub> | 🚀 基于 Flutter & Dart 的跨平台演示工程，集成 GitHub Actions 全平台全架构自动化构… | 0 | 2026-09-23 | [v1.<wbr>0.<wbr>0](https://github.com/atengk/Ateng-Flutter/releases/tag/v1.0.0) |
 | [**dsh-harmony**](https://github.com/enoughpower/dsh-harmony)<br><sub>enoughpower</sub> | DSH Harmony 客户端 搭配 dsh-<wbr>pocket 使用 | 8 | 2026-09-20 | [v2.<wbr>0.<wbr>2](https://github.com/enoughpower/dsh-harmony/releases/tag/v2.0.2) |
@@ -542,7 +543,7 @@
 | [**ohos-bindtest-app**](https://github.com/AuroraMaster/ohos-bindtest-app)<br><sub>AuroraMaster</sub> | On-<wbr>device test harness for HarmonyOS/<wbr>OpenHarmony Rust NDK… | 0 | 2026-07-22 | [v0.<wbr>1.<wbr>0](https://github.com/AuroraMaster/ohos-bindtest-app/releases/tag/v0.1.0) |
 | [**OHcodex**](https://github.com/HanversionOvO/OHcodex)<br><sub>HanversionOvO</sub> | using codex-<wbr>cli on your harmonyos PC via HiShell | 19 | 2026-06-17 | [v1.<wbr>0.<wbr>0](https://github.com/HanversionOvO/OHcodex/releases/tag/v1.0.0) |
 | [**OHcode**](https://github.com/HanversionOvO/OHcode)<br><sub>HanversionOvO</sub> | Run vscode on your HarmonyOS PC | 144 | 2026-06-10 | [v1.<wbr>0.<wbr>0](https://github.com/HanversionOvO/OHcode/releases/tag/v1.0.0) |
-| [**HiSH**](https://github.com/harmoninux/HiSH)<br><sub>harmoninux</sub> | 在鸿蒙上运行Linux Shell，支持手机、平板、2in1/<wbr>PC | 702 | 2026-05-16 | [release-<wbr>20260516](https://github.com/harmoninux/HiSH/releases/tag/release-20260516) |
+| [**HiSH**](https://github.com/harmoninux/HiSH)<br><sub>harmoninux</sub> | 在鸿蒙上运行Linux Shell，支持手机、平板、2in1/<wbr>PC | 704 | 2026-05-16 | [release-<wbr>20260516](https://github.com/harmoninux/HiSH/releases/tag/release-20260516) |
 | [**turbo-ai-chat-harmonyos**](https://github.com/Turbo1123/turbo-ai-chat-harmonyos)<br><sub>Turbo1123</sub> | HarmonyOS NEXT native Gemma 4 MNN on-<wbr>device LLM chat demo | 5 | 2026-05-09 | [v0.<wbr>1.<wbr>0](https://github.com/Turbo1123/turbo-ai-chat-harmonyos/releases/tag/v0.1.0) |
 | [**tauri-ohos-test**](https://github.com/Islatri/tauri-ohos-test)<br><sub>Islatri</sub> | Tauri API test on HarmonyOS.<wbr> | 5 | 2026-04-15 | [v0.<wbr>1.<wbr>3](https://github.com/Islatri/tauri-ohos-test/releases/tag/v0.1.3) |
 | [**ServoDemo**](https://github.com/jschwe/ServoDemo)<br><sub>jschwe</sub> | Demo OpenHarmony browser application using servo to rende… | 18 | 2026-01-22 | [servo-<wbr>v0.<wbr>0.<wbr>4](https://github.com/jschwe/ServoDemo/releases/tag/servo-v0.0.4) |
@@ -572,8 +573,8 @@
 
 | 项目 | 简介 | ⭐ Stars | 📅 更新日期 | 🏷️ 最新版本 |
 |:-----|:-----|:-------:|:-----------:|:------------|
-| [**chromium-desktop-ohos**](https://github.com/nimmi114514/chromium-desktop-ohos)<br><sub>nimmi114514</sub> | 鸿蒙系统桌面版本chromium移植产物 | 29 | 2026-11-22 | [v1.<wbr>0.<wbr>6](https://github.com/nimmi114514/chromium-desktop-ohos/releases/tag/v1.0.6) |
-| [**Qinghong**](https://github.com/XHXYT/Qinghong)<br><sub>XHXYT</sub> | 一款为 HarmonyOS 打造的轻快好用浏览器 | 6 | 2026-11-18 | [v1.<wbr>0.<wbr>1](https://github.com/XHXYT/Qinghong/releases/tag/v1.0.1) |
+| [**Qinghong**](https://github.com/XHXYT/Qinghong)<br><sub>XHXYT</sub> | 一款为 HarmonyOS 打造的轻快好用浏览器 | 6 | 2026-11-25 | [v1.<wbr>0.<wbr>2](https://github.com/XHXYT/Qinghong/releases/tag/v1.0.2) |
+| [**chromium-desktop-ohos**](https://github.com/nimmi114514/chromium-desktop-ohos)<br><sub>nimmi114514</sub> | 鸿蒙系统桌面版本chromium移植产物 | 30 | 2026-11-22 | [v1.<wbr>0.<wbr>6](https://github.com/nimmi114514/chromium-desktop-ohos/releases/tag/v1.0.6) |
 | [**ZormeBrowser-OpenHarmony**](https://github.com/lmxdg/ZormeBrowser-OpenHarmony)<br><sub>lmxdg</sub> | OpenHarmony版本的ZormeBrowser浏览器 | 2 | 2026-11-18 | [v1.<wbr>1.<wbr>5](https://github.com/lmxdg/ZormeBrowser-OpenHarmony/releases/tag/v1.1.5) |
 | [**aira-browser**](https://github.com/mason173/aira-browser)<br><sub>mason173</sub> | Aira Browser · 鸿蒙原生浏览器 | 273 | 2026-11-11 | [v3.<wbr>9.<wbr>7](https://github.com/mason173/aira-browser/releases/tag/v3.9.7) |
 | [**servo-ohos-browser**](https://github.com/KevinLu-ohos/servo-ohos-browser)<br><sub>KevinLu-ohos</sub> | — | 1 | 2026-10-27 | [v0.<wbr>10.<wbr>72](https://github.com/KevinLu-ohos/servo-ohos-browser/releases/tag/v0.10.72) |
@@ -595,14 +596,14 @@
 
 | 项目 | 简介 | ⭐ Stars | 📅 更新日期 | 🏷️ 最新版本 |
 |:-----|:-----|:-------:|:-----------:|:------------|
-| [**Petrelgram**](https://github.com/miramira8295/Petrelgram)<br><sub>miramira8295</sub> | — | 270 | 2026-11-24 | [v1.<wbr>6.<wbr>0](https://github.com/miramira8295/Petrelgram/releases/tag/v1.6.0) |
+| [**Petrelgram**](https://github.com/miramira8295/Petrelgram)<br><sub>miramira8295</sub> | — | 273 | 2026-11-25 | [v1.<wbr>6.<wbr>2](https://github.com/miramira8295/Petrelgram/releases/tag/v1.6.2) |
 | [**TiebaArk**](https://github.com/Gmuyaa/TiebaArk)<br><sub>Gmuyaa</sub> | TiebaArk（贴吧Ark）— HarmonyOS 第三方贴吧客户端 | 11 | 2026-11-23 | [v1.<wbr>0.<wbr>273](https://github.com/Gmuyaa/TiebaArk/releases/tag/v1.0.273) |
-| [**zhihu-plus-plus-HMOS**](https://github.com/zhuoyi233/zhihu-plus-plus-HMOS)<br><sub>zhuoyi233</sub> | Zhihu++ For HarmonyOS \| 知乎++鸿蒙原生版 | 71 | 2026-11-23 | [HMOSv0.<wbr>6.<wbr>0](https://github.com/zhuoyi233/zhihu-plus-plus-HMOS/releases/tag/HMOSv0.6.0) |
+| [**zhihu-plus-plus-HMOS**](https://github.com/zhuoyi233/zhihu-plus-plus-HMOS)<br><sub>zhuoyi233</sub> | Zhihu++ For HarmonyOS \| 知乎++鸿蒙原生版 | 73 | 2026-11-23 | [HMOSv0.<wbr>6.<wbr>0](https://github.com/zhuoyi233/zhihu-plus-plus-HMOS/releases/tag/HMOSv0.6.0) |
 | [**Pinmony**](https://github.com/Torotar/Pinmony)<br><sub>Torotar</sub> | Pinmony -<wbr> HarmonyOS ArkTS inspiration app | 9 | 2026-11-22 | [v3.<wbr>1.<wbr>0](https://github.com/Torotar/Pinmony/releases/tag/v3.1.0) |
 | [**mute**](https://github.com/azhuge233/mute)<br><sub>azhuge233</sub> | HarmonyOS client for Weibo with keyword and author filtering | 1 | 2026-11-22 | [1.<wbr>1.<wbr>0](https://github.com/azhuge233/mute/releases/tag/1.1.0) |
 | [**hyoushe**](https://github.com/MrCashmere/hyoushe)<br><sub>MrCashmere</sub> | 米游社第三方HarmonyOS移植 | 11 | 2026-11-21 | [v2.<wbr>0.<wbr>2.<wbr>1](https://github.com/MrCashmere/hyoushe/releases/tag/v2.0.2.1) |
 | [**hmos-qwitter**](https://github.com/llnode/hmos-qwitter)<br><sub>llnode</sub> | Qwitter for HarmonyOS — HAP releases | 27 | 2026-11-20 | [v0.<wbr>4.<wbr>101](https://github.com/llnode/hmos-qwitter/releases/tag/v0.4.101) |
-| [**HarmonyX**](https://github.com/haohaoai0/HarmonyX)<br><sub>haohaoai0</sub> | Harmony X for HarmonyOS: app downloads, release notes, an… | 34 | 2026-11-19 | [v4.<wbr>2.<wbr>5](https://github.com/haohaoai0/HarmonyX/releases/tag/v4.2.5) |
+| [**HarmonyX**](https://github.com/haohaoai0/HarmonyX)<br><sub>haohaoai0</sub> | Harmony X for HarmonyOS: app downloads, release notes, an… | 36 | 2026-11-19 | [v4.<wbr>2.<wbr>5](https://github.com/haohaoai0/HarmonyX/releases/tag/v4.2.5) |
 | [**harmony-tdgram**](https://github.com/game-loader/harmony-tdgram)<br><sub>game-loader</sub> | Native HarmonyOS Telegram client: ArkTS/<wbr>ArkUI UI + TDLib … | 4 | 2026-11-10 | [v0.<wbr>2.<wbr>0](https://github.com/game-loader/harmony-tdgram/releases/tag/v0.2.0) |
 | [**lnga_harmony**](https://github.com/apap6628114/lnga_harmony)<br><sub>apap6628114</sub> | Harmony鸿蒙原生开源NGA | 35 | 2026-11-08 | [1.<wbr>3.<wbr>2](https://github.com/apap6628114/lnga_harmony/releases/tag/1.3.2) |
 | [**Instamony**](https://github.com/ShiYi070415/Instamony)<br><sub>ShiYi070415</sub> | 面向 HarmonyOS 的原生 ins 客户端 | 54 | 2026-11-05 | [v2.<wbr>0.<wbr>0](https://github.com/ShiYi070415/Instamony/releases/tag/v2.0.0) |
@@ -610,8 +611,8 @@
 | [**hipda-oh**](https://github.com/sis5595/hipda-oh)<br><sub>sis5595</sub> | HiPDA·OH：体验与 HiPDA·NG 对齐的原生鸿蒙 4D4Y 非官方客户端。 | 4 | 2026-11-02 | [v1.<wbr>0.<wbr>0-<wbr>beta.<wbr>6.<wbr>1](https://github.com/sis5595/hipda-oh/releases/tag/v1.0.0-beta.6.1) |
 | [**linuxdo-harmony**](https://github.com/xyuuii/linuxdo-harmony)<br><sub>xyuuii</sub> | HarmonyOS NEXT /<wbr> HarmonyOS 7 native LINUX DO client inspi… | 9 | 2026-10-30 | [v0.<wbr>4.<wbr>1](https://github.com/xyuuii/linuxdo-harmony/releases/tag/v0.4.1) |
 | [**S1-Orange**](https://github.com/wly5556/S1-Orange)<br><sub>wly5556</sub> | 开源Stage1st论坛客户端，适用鸿蒙平台 | 45 | 2026-10-29 | [v1.<wbr>5.<wbr>2](https://github.com/wly5556/S1-Orange/releases/tag/v1.5.2) |
-| [**tieba-lite-harmony**](https://github.com/137458/tieba-lite-harmony)<br><sub>137458</sub> | 贴吧lite · HarmonyOS NEXT 移植版 | 63 | 2026-10-22 | [v1.<wbr>4.<wbr>0](https://github.com/137458/tieba-lite-harmony/releases/tag/v1.4.0) |
-| [**TiebaPura**](https://github.com/a307608689-afk/TiebaPura)<br><sub>a307608689-afk</sub> | HarmonyOS 7 /<wbr> API 26 原生 ArkTS /<wbr> ArkUI 实现的第三方百度贴吧客户端原型（非官方… | 28 | 2026-10-19 | [v1.<wbr>0.<wbr>9](https://github.com/a307608689-afk/TiebaPura/releases/tag/v1.0.9) |
+| [**tieba-lite-harmony**](https://github.com/137458/tieba-lite-harmony)<br><sub>137458</sub> | 贴吧lite · HarmonyOS NEXT 移植版 | 65 | 2026-10-22 | [v1.<wbr>4.<wbr>0](https://github.com/137458/tieba-lite-harmony/releases/tag/v1.4.0) |
+| [**TiebaPura**](https://github.com/a307608689-afk/TiebaPura)<br><sub>a307608689-afk</sub> | HarmonyOS 7 /<wbr> API 26 原生 ArkTS /<wbr> ArkUI 实现的第三方百度贴吧客户端原型（非官方… | 29 | 2026-10-19 | [v1.<wbr>0.<wbr>9](https://github.com/a307608689-afk/TiebaPura/releases/tag/v1.0.9) |
 | [**X-HarmonyOS**](https://github.com/Starchaser-Cyber/X-HarmonyOS)<br><sub>Starchaser-Cyber</sub> | X (Twitter) client for HarmonyOS NEXT — ArkWeb wrapper wi… | 5 | 2026-10-17 | [v1.<wbr>1.<wbr>0](https://github.com/Starchaser-Cyber/X-HarmonyOS/releases/tag/v1.1.0) |
 | [**VHome-release**](https://github.com/muleos/VHome-release)<br><sub>muleos</sub> | VHome (com.<wbr>hmos.<wbr>VHome) 发布包仓库 — HarmonyOS .<wbr>hap releases | 1 | 2026-10-12 | [v2.<wbr>6.<wbr>14](https://github.com/muleos/VHome-release/releases/tag/v2.6.14) |
 | [**Hupu_Luna**](https://github.com/FluxMind-O/Hupu_Luna)<br><sub>FluxMind-O</sub> | 纯净轻快的 HarmonyOS  第三方虎扑客户端 | 9 | 2026-10-04 | [v0.<wbr>13.<wbr>1](https://github.com/FluxMind-O/Hupu_Luna/releases/tag/v0.13.1) |
@@ -620,7 +621,7 @@
 | [**OpenTwit-Web**](https://github.com/Abhi-Flex1/OpenTwit-Web)<br><sub>Abhi-Flex1</sub> | Twitter/<wbr>X Web adaptation for HarmonyOS | 7 | 2026-09-22 | [v1.<wbr>1.<wbr>0](https://github.com/Abhi-Flex1/OpenTwit-Web/releases/tag/v1.1.0) |
 | [**WeiboPura**](https://github.com/haohaoai0/WeiboPura)<br><sub>haohaoai0</sub> | HarmonyOS 7 /<wbr> API 26 原生 ArkTS /<wbr> ArkUI 实现的第三方百度贴吧客户端原型（非官方… | 45 | 2026-09-18 | [v1.<wbr>0.<wbr>0-<wbr>weibopura](https://github.com/haohaoai0/WeiboPura/releases/tag/v1.0.0-weibopura) |
 | [**v2ex-harmonyos**](https://github.com/qinlinglong/v2ex-harmonyos)<br><sub>qinlinglong</sub> | V2Halo 是 V2EX 的 HarmonyOS 原生客户端 | 3 | 2026-09-11 | [v1.<wbr>0.<wbr>1](https://github.com/qinlinglong/v2ex-harmonyos/releases/tag/v1.0.1) |
-| [**Wpixelgram-for-HarmonyOS**](https://github.com/1055235342/Wpixelgram-for-HarmonyOS)<br><sub>1055235342</sub> | — | 32 | 2026-07-03 | [v0.<wbr>1.<wbr>0](https://github.com/1055235342/Wpixelgram-for-HarmonyOS/releases/tag/v0.1.0) |
+| [**Wpixelgram-for-HarmonyOS**](https://github.com/1055235342/Wpixelgram-for-HarmonyOS)<br><sub>1055235342</sub> | — | 33 | 2026-07-03 | [v0.<wbr>1.<wbr>0](https://github.com/1055235342/Wpixelgram-for-HarmonyOS/releases/tag/v0.1.0) |
 | [**OHgram**](https://github.com/HanversionOvO/OHgram)<br><sub>HanversionOvO</sub> | telegram 3rd party client for HarmonyOS 2in1/<wbr>tablet devices | 41 | 2026-06-17 | [v1.<wbr>0.<wbr>0](https://github.com/HanversionOvO/OHgram/releases/tag/v1.0.0) |
 | [**HMTG**](https://github.com/YuanChu-Tec/HMTG)<br><sub>YuanChu-Tec</sub> | Telegram for HarmonyOS | 57 | 2026-05-25 | [HMTG1.<wbr>0.<wbr>4](https://github.com/YuanChu-Tec/HMTG/releases/tag/HMTG1.0.4) |
 | [**HMTG_Archive**](https://github.com/YuanChu-Tec/HMTG_Archive)<br><sub>YuanChu-Tec</sub> | Telegram for HarmonyOS | 50 | 2026-05-25 | [HMTG1.<wbr>0.<wbr>4](https://github.com/YuanChu-Tec/HMTG_Archive/releases/tag/HMTG1.0.4) |
@@ -635,11 +636,15 @@
 <a id="hap-other" name="hap-other"></a>
 
 <details open>
-<summary><strong>其他</strong>（2 个项目）</summary>
+<summary><strong>其他</strong>（6 个项目）</summary>
 
 | 项目 | 简介 | ⭐ Stars | 📅 更新日期 | 🏷️ 最新版本 |
 |:-----|:-----|:-------:|:-----------:|:------------|
-| [**ReadRss**](https://github.com/junytang/ReadRss)<br><sub>junytang</sub> | RSS reader for HarmonyOS | 0 | 2026-11-24 | [harmonyos-<wbr>v1.<wbr>2.<wbr>0](https://github.com/junytang/ReadRss/releases/tag/harmonyos-v1.2.0) |
+| [**ReadRss**](https://github.com/junytang/ReadRss)<br><sub>junytang</sub> | RSS reader for HarmonyOS | 0 | 2026-11-26 | [harmonyos-<wbr>v1.<wbr>3.<wbr>3](https://github.com/junytang/ReadRss/releases/tag/harmonyos-v1.3.3) |
+| [**123Pan-Harmony**](https://github.com/weige146/123Pan-Harmony)<br><sub>weige146</sub> | 123 云盘第三方鸿蒙原生客户端，全AI开发，自用版本。 | 5 | 2026-11-25 | [v1.<wbr>1.<wbr>0](https://github.com/weige146/123Pan-Harmony/releases/tag/v1.1.0) |
+| [**UBAA-Ark**](https://github.com/li-peipeipeipei/UBAA-Ark)<br><sub>li-peipeipeipei</sub> | UBAA 的 HarmonyOS 原生特别版 · ArkTS /<wbr> ArkUI /<wbr> HDS · Make BUAA … | 1 | 2026-11-25 | [v0.<wbr>9.<wbr>0-<wbr>r2](https://github.com/li-peipeipeipei/UBAA-Ark/releases/tag/v0.9.0-r2) |
+| [**THLRedGuo**](https://github.com/never88gone/THLRedGuo)<br><sub>never88gone</sub> | iOS,android,macos,windows,tvOS,鸿蒙,红果,短剧,全平台,没有服务器 | 216 | 2026-11-07 | [v1.<wbr>0.<wbr>0](https://github.com/never88gone/THLRedGuo/releases/tag/v1.0.0) |
+| [**ShinkiEMU**](https://github.com/Project-Shinkirou/ShinkiEMU)<br><sub>Project-Shinkirou</sub> | Cross-<wbr>platform visual novel library manager and native en… | 2 | 2026-11-03 | [manager-<wbr>v0.<wbr>1.<wbr>0-<wbr>beta.<wbr>8](https://github.com/Project-Shinkirou/ShinkiEMU/releases/tag/manager-v0.1.0-beta.8) |
 | [**Openharmony**](https://github.com/WistfulReverie/Openharmony)<br><sub>WistfulReverie</sub> | first harmony app | 0 | 2025-12-19 | [v1](https://github.com/WistfulReverie/Openharmony/releases/tag/v1) |
 
 [↑ 返回菜单](#hap-menu)
