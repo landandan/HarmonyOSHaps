@@ -32,6 +32,7 @@ SEEDS_FILE = DATA_DIR / "seeds.json"
 STATE_FILE = DATA_DIR / "state.json"
 PROJECTS_FILE = DATA_DIR / "projects.json"
 CATEGORIES_FILE = DATA_DIR / "categories.json"
+BLOCKLIST_FILE = DATA_DIR / "blocklist.json"
 README_FILE = ROOT / "README.md"
 
 SEARCH_QUERIES = [
@@ -230,6 +231,17 @@ def discover_release_events(state):
     return candidates
 
 
+def load_blocklist():
+    """读取按仓库全名匹配的黑名单，忽略大小写。"""
+    names = load_json(BLOCKLIST_FILE, [])
+    if not isinstance(names, list) or any(
+        not isinstance(name, str) or not re.fullmatch(r"[^/\s]+/[^/\s]+", name)
+        for name in names
+    ):
+        raise ValueError("data/blocklist.json 必须是仓库全名列表")
+    return {name.casefold() for name in names}
+
+
 def load_seeds():
     seeds = load_json(SEEDS_FILE, [])
     if not isinstance(seeds, list):
@@ -401,8 +413,9 @@ def build_table(projects):
       - 不含下载列：HAP 附件数据仍完整保存在 data/projects.json
     """
     overrides = load_category_overrides()
+    blocked = load_blocklist()
     ordered = sorted(
-        projects,
+        (p for p in projects if p.get("full_name", "").casefold() not in blocked),
         key=lambda p: (p.get("latest_release") or p.get("latest_hap_release") or {}).get("published_at") or "",
         reverse=True,
     )
@@ -510,6 +523,7 @@ def main():
     args = parser.parse_args()
     # 在采集前校验人工配置，避免配置错误导致耗时采集后才失败。
     load_category_overrides()
+    blocked = load_blocklist()
     if args.readme_only:
         projects = load_json(PROJECTS_FILE, [])
         if not isinstance(projects, list):
@@ -531,12 +545,18 @@ def main():
         projects = []
     projects_map = {
         p["full_name"]: p for p in projects if isinstance(p, dict) and p.get("full_name")
+        and p["full_name"].casefold() not in blocked
     }
 
     seeds = load_seeds()
     candidates = discover_candidates(state, seeds)
     # 已收录项目可能不再出现在搜索结果或短暂的公共事件流中，仍需持续复查。
     candidates.update(projects_map)
+    candidates = {name for name in candidates if name.casefold() not in blocked}
+    state["candidates"] = {
+        name: value for name, value in state["candidates"].items()
+        if name.casefold() not in blocked
+    }
     seed_keys = {name.casefold() for name in seeds}
     print(f"[discover] {len(candidates)} unique candidates")
 
@@ -602,6 +622,10 @@ def main():
         cand["has_hap"] = bool(has_hap)  # 记录检查结论，供后续 ETag 跳过判断使用
         if has_hap and project:
             canonical_name = project["full_name"]
+            if canonical_name.casefold() in blocked:
+                projects_map.pop(name, None)
+                state["candidates"].pop(name, None)
+                continue
             if canonical_name != name:
                 projects_map.pop(name, None)
                 found.pop(name, None)

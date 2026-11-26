@@ -8793,29 +8793,6 @@
     }
   },
   {
-    "full_name": "WistfulReverie/Openharmony",
-    "html_url": "https://github.com/WistfulReverie/Openharmony",
-    "description": "first harmony app",
-    "stars": 0,
-    "latest_release": {
-      "tag_name": "v1",
-      "published_at": "2025-12-19T11:35:29Z",
-      "html_url": "https://github.com/WistfulReverie/Openharmony/releases/tag/v1"
-    },
-    "latest_hap_release": {
-      "tag_name": "v1",
-      "published_at": "2025-12-19T11:35:29Z",
-      "html_url": "https://github.com/WistfulReverie/Openharmony/releases/tag/v1",
-      "assets": [
-        {
-          "name": "entry-default-signed.1.hap",
-          "browser_download_url": "https://github.com/WistfulReverie/Openharmony/releases/download/v1/entry-default-signed.1.hap",
-          "size": 232839
-        }
-      ]
-    }
-  },
-  {
     "full_name": "JiangYanjie12/OpenHarmony_Calculator",
     "html_url": "https://github.com/JiangYanjie12/OpenHarmony_Calculator",
     "description": "",
